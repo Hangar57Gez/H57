@@ -1,0 +1,184 @@
+
+
+
+
+
+
+<!DOCTYPE html>
+<html lang="en-US" prefix="og: http://ogp.me/ns# fb: http://ogp.me/ns/fb#">
+    <head >
+        <meta charset="UTF-8" />
+        <title>Hangar 57 - GEZ Weather Conditions</title>
+        <meta name="viewport" content="width=device-width, initial-scale=1" />
+
+        <meta name="description" content="Weather conditions for Hangar 57 - GEZ as observed by a personal weather station and the weewx weather software"/>
+        <meta name="robots" content="noodp"/>
+        <meta property="og:locale" content="en_US" />
+        <meta property="og:type" content="website" />
+        <meta property="og:title" content="Hangar 57 - GEZ Weather Conditions" />
+        <meta property="og:description" content="Weather conditions for Hangar 57 - GEZ as observed by a personal weather station and the weewx weather software" />
+        <meta property="og:site_name" content="Hangar 57 - GEZ Weather Conditions" />
+
+        <link rel='dns-prefetch' href='//code.highcharts.com' />
+        <link rel='dns-prefetch' href='//fonts.googleapis.com' />
+        <link rel='dns-prefetch' href='//stackpath.bootstrapcdn.com' />
+        <link rel='dns-prefetch' href='//cdnjs.cloudflare.com' />
+
+        <link rel='stylesheet' href='//fonts.googleapis.com/css?family=Roboto%3A300%2C400%2C700&#038;ver=1.0' type='text/css' media='all' />
+        <link rel='stylesheet' href='//stackpath.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css' type='text/css' media='all' />
+        <link rel='stylesheet' href='//cdnjs.cloudflare.com/ajax/libs/weather-icons/2.0.9/css/weather-icons.min.css?ver=4.7.4' type='text/css' media='all' />
+        <link rel='stylesheet' href='//stackpath.bootstrapcdn.com/bootstrap/3.4.1/css/bootstrap.min.css' type='text/css' media='all' />
+        <link rel='stylesheet' href='../style.css?ver=1737134141' type='text/css' media='all' id="belchertownStyle" />
+        <link rel='stylesheet' href='../belchertown-dark.min.css?ver=1737134141' type='text/css' media='all' id="belchertownStyle" />
+
+        <link rel="manifest" href="../manifest.json" crossorigin="use-credentials">
+        <link rel="apple-touch-icon" href="../images/station.png">
+        <link rel="apple-touch-icon" sizes="48x48" href="../images/station48.png">
+        <link rel="apple-touch-icon" sizes="72x72" href="../images/station72.png">
+        <link rel="apple-touch-icon" sizes="96x96" href="../images/station96.png">
+        <link rel="apple-touch-icon" sizes="144x144" href="../images/station144.png">
+        <link rel="apple-touch-icon" sizes="168x168" href="../images/station168.png">
+        <link rel="apple-touch-icon" sizes="192x192" href="../images/station192.png">
+        
+        <!--[if lt IE 9]>
+        <script type='text/javascript' src='//cdnjs.cloudflare.com/ajax/libs/html5shiv/3.7.3/html5shiv.js'></script>
+        <![endif]-->
+        <script type='text/javascript' src="//ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+        <script type='text/javascript' src="//cdnjs.cloudflare.com/ajax/libs/moment.js/2.24.0/moment-with-locales.min.js"></script>
+        <script type='text/javascript' src="https://cdnjs.cloudflare.com/ajax/libs/moment-timezone/0.5.33/moment-timezone-with-data.min.js"></script>
+        <script type='text/javascript' src='//code.highcharts.com/stock/10/highstock.js'></script>
+        <script type='text/javascript' src='//code.highcharts.com/10/highcharts-more.js'></script>
+        <script type='text/javascript' src='//code.highcharts.com/10/modules/exporting.js'></script>
+        <script type='text/javascript' src='//code.highcharts.com/10/modules/solid-gauge.js'></script>
+        <script type='text/javascript' src='//stackpath.bootstrapcdn.com/bootstrap/3.4.1/js/bootstrap.min.js'></script>
+        <script type='text/javascript' src='../js/belchertown.js?1737134141'></script>
+        <script>
+            // Set the session variables for the theme
+            if ( sessionStorage.getItem('theme') === null ) {
+                sessionStorage.setItem('theme', 'auto');
+            }
+            if ( sessionStorage.getItem('currentTheme') === null ) {
+                sessionStorage.setItem('currentTheme', 'light');
+            }
+        </script>
+        
+                
+        <link rel="icon" href="../favicon.ico" />
+        
+
+
+    </head>
+    
+    <body class="page-template-default page full-width-content light" itemscope itemtype="https://schema.org/WebPage">
+        <div class="site-container">
+            <header class="site-header">
+                <div class="wrap">
+                    <div class="title-area">
+                        <p class="site-title" itemprop="headline">
+                            <a href="../">
+                                <img src="https://www.eaaargentina.org/user/images/logo_home.png" id="logo_image" title="Hangar 57 - GEZ Weather Conditions" alt="Hangar 57 - GEZ Weather Conditions">
+                            </a>
+                        </p>
+                    </div>
+                    <div class="widget-area header-widget-area">
+                        <section id="nav_menu">
+                            <div class="widget-wrap">
+                                <nav class="nav-header" itemscope itemtype="https://schema.org/SiteNavigationElement">
+                                    <ul id="menu-menu" class="menu genesis-nav-menu">
+                                        <!-- class = current-menu-item -->
+                                        <li class="menu-item menu-item-home"><a href=".." itemprop="url"><span itemprop="name">Actual</span></a></li>
+                                        <li class="menu-item menu-item-1"><a href="../graphs/" itemprop="url"><span itemprop="name">Gr&#225;ficos</span></a></li>
+                                        <li class="menu-item menu-item-2"><a href="../records/" itemprop="url"><span itemprop="name">M&#237;n/M&#225;x</span></a></li>
+                                        <li class="menu-item menu-item-3"><a href="../reports/" itemprop="url"><span itemprop="name">Tablas clim&#225;ticas</span></a></li>
+                                        <li class="menu-item menu-item-4"><a href="../about/" itemprop="url"><span itemprop="name">Estaci&#243;n</span></a></li>
+                                        <label class="themeSwitchLabel">
+                                            <input type="checkbox" id="themeSwitch" >
+                                            <span class="slider round"></span>
+                                        </label>
+                                    </ul>
+                                </nav>
+                            </div>
+                        </section>
+                    </div>
+                </div>
+            </header>
+
+    <div class="site-inner">
+        <main class="content">	
+            <article class="weewx about" itemscope itemtype="https://schema.org/CreativeWork">
+                
+<div class="wx-stn-info-container">
+    <div class="row">
+        <div class="col-sm-1 wx-stn-info-current-obs">
+            <span class="obs-header-icon">
+                <img id="wxicon" src="../images/mostly-clear-day.png">
+            </span>
+            <span class="obs-header-outtemp">31.8 &#176;C</span>
+        </div>
+        <div class="col-sm-5">
+            <div class="wx-stn-name">
+                <h1>Acerca de esta estaci&#243;n meteorol&#243;gica</h1>
+            </div>
+        </div>
+        <div class="col-sm-5" style="float:right;">
+            <div class="wx-stn-info">
+                patrocinado por Hangar 57
+            </div>
+        </div>
+    </div>
+    <div class="clear"></div>
+</div>
+
+<div class="entry-content about-outer" itemprop="text">
+    <br>
+    <h2>Welcome to your new about page!</h2>
+    <p>Thank you for installing the <a href="https://github.com/poblabs/weewx-belchertown" target="_blank">Belchertown weewx skin</a>!</p>
+    <p>This is your default about page. To change this text:
+    <ul>
+        <li>Create a new file at <code>skins/Belchertown/about.inc</code>, or rename the <code>skins/Belchertown/about.inc.example</code> file to <code>about.inc</code></li>
+        <li>Use the example text within <code>skins/Belchertown/about.inc.example</code> to create your about page description!</li>
+        <li>Full HTML, and weewx variables are accepted.</li>
+    </ul>
+    </p>
+    <p>To show built in weewx variables (like station battery status (if supported), temperature, weewx version, etc.), just add them to this file. For example:</p>
+    <ul>
+        <li>Station hardware: weatherstation via interceptor</li>
+        <li>Server uptime: 6 D&#237;as, 22 Horas, 34 Minutos</li>
+        <li>WeeWX uptime: 6 D&#237;as, 22 Horas, 53 Minutos</li>
+        <li>WeeWX version: 5.0.2</li>
+        <li>Belchertown Skin Version: 1.3.1</li>
+    </ul>
+    <p>For an example of what this page could say, please see <a href="https://belchertownweather.com/about" target="_blank">https://belchertownweather.com/about</a>. If you need more help, refer to <a href="https://github.com/poblabs/weewx-belchertown#creating-about-page-and-records-page" target="_blank">this link.</a></p>
+    <p>Enjoy your new weewx skin!</p>
+</div>
+                
+            </article>
+        </main>
+    </div>
+
+
+		</div><!-- close div tag from header.html.tmpl -->
+
+		<footer class="site-footer">
+			<div class="wrap">
+                <div class="row">
+                    <div class="col-sm-4 footerLeft">
+                        Copyright &copy; 2025 Hangar 57
+                    </div>
+                    <div class="col-sm-5 footerCenter">
+                        <strong>Nunca tome decisiones en base a la informaci&#243;n de este sitio, los datos son meramente informativos.</strong>
+                    </div>
+                    <div class="col-sm-3 footerRight">
+                        weewx theme by <a href="https://github.com/poblabs/weewx-belchertown" target="_blank">Pat O'Brien</a>
+                    </div>
+                </div>
+			</div>
+		</footer>
+		
+		<script type='text/javascript' src='../js/responsive-menu.js'></script>
+		
+		<!-- Belchertown Skin Version: 1.3.1 -->
+        <!-- Page Generated: 01/17/2025 02:15:00 PM -->
+
+    </body>
+</html>
