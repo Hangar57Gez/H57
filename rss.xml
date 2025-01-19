@@ -10,21 +10,21 @@
     <link></link>
     <description>Current conditions, and daily, monthly, and yearly summaries</description>
     <language>"en"</language>
-    <pubDate>Sun, 19 Jan 2025 19:25:00 -03</pubDate>
+    <pubDate>Sun, 19 Jan 2025 19:35:00 -03</pubDate>
 
-    <lastBuildDate>Sun, 19 Jan 2025 19:25:00 -03</lastBuildDate>
+    <lastBuildDate>Sun, 19 Jan 2025 19:35:00 -03</lastBuildDate>
     <docs>http://blogs.law.harvard.edu/tech/rss</docs>
     <generator>weewx 5.0.2</generator>
     <ttl>5.0 minutes</ttl>
 
     <item>
-      <title>Weather Conditions at 01/19/2025 07:25:00 PM</title>
+      <title>Weather Conditions at 01/19/2025 07:35:00 PM</title>
       <link></link>
       <description>
         Outside Temperature: 19.8&#176;C;
-        Inside Temperature: 23.8&#176;C;
+        Inside Temperature: 23.7&#176;C;
         Barometer: 1012.6 mbar;
-        Wind: 4 knots from 164&#176;;
+        Wind: 6 knots from 176&#176;;
         Rain: 0.0 mm;
         Rain Rate: 0.0 mm/h;
         Wind Chill: 19.8&#176;C;
@@ -33,16 +33,16 @@
         Outside Humidity: 90%;
         Inside Humidity: 69%;
       </description>
-      <pubDate>Sun, 19 Jan 2025 19:25:00 -03</pubDate>
+      <pubDate>Sun, 19 Jan 2025 19:35:00 -03</pubDate>
       <geo:lat>-34.68247396567271</geo:lat>
       <geo:long>-59.033162742123125</geo:long>
       <content:encoded><![CDATA[
       <p>
-      Time: 01/19/2025 07:25:00 PM<br/>
+      Time: 01/19/2025 07:35:00 PM<br/>
         Outside Temperature: 19.8&#176;C<br/>
-        Inside Temperature: 23.8&#176;C<br/>
+        Inside Temperature: 23.7&#176;C<br/>
         Barometer: 1012.6 mbar<br/>
-        Wind: 4 knots from 164&#176;;
+        Wind: 6 knots from 176&#176;;
         Rain: 0.0 mm<br/>
         Rain Rate: 0.0 mm/h<br/>
         Wind Chill: 19.8&#176;C<br/>
@@ -55,12 +55,12 @@
     </item>
 
     <item>
-      <title>Daily summary as of 01/19/2025 07:25:00 PM</title>
+      <title>Daily summary as of 01/19/2025 07:35:00 PM</title>
       <link></link>
       <description>
         Min Outside Temperature: 19.1&#176;C at 05:46:50 AM;
         Max Outside Temperature: 27.8&#176;C at 12:02:27 PM;
-        Min Inside Temperature: 23.8&#176;C at 05:55:00 AM;
+        Min Inside Temperature: 23.7&#176;C at 07:26:31 PM;
         Max Inside Temperature: 27.7&#176;C at 12:05:55 PM;
         Min Barometer: 1011.8 mbar at 05:32:05 PM;
         Max Barometer: 1014.8 mbar at 12:29:30 AM;
@@ -78,7 +78,7 @@
         Min Inside Humidity: 60% at 12:18:48 PM;
         Max Inside Humidity: 69% at 03:58:47 PM;
       </description>
-      <pubDate>Sun, 19 Jan 2025 19:25:00 -03</pubDate>
+      <pubDate>Sun, 19 Jan 2025 19:35:00 -03</pubDate>
       <geo:lat>-34.68247396567271</geo:lat>
       <geo:long>-59.033162742123125</geo:long>
       <content:encoded><![CDATA[
@@ -86,7 +86,7 @@
       Daily summary as of 19 Jan 2025<br/>
         Min Outside Temperature: 19.1&#176;C at 05:46:50 AM<br/>
         Max Outside Temperature: 27.8&#176;C at 12:02:27 PM<br/>
-        Min Inside Temperature: 23.8&#176;C at 05:55:00 AM<br/>
+        Min Inside Temperature: 23.7&#176;C at 07:26:31 PM<br/>
         Max Inside Temperature: 27.7&#176;C at 12:05:55 PM<br/>
         Min Barometer: 1011.8 mbar at 05:32:05 PM<br/>
         Max Barometer: 1014.8 mbar at 12:29:30 AM<br/>
@@ -107,7 +107,7 @@
       ]]></content:encoded>
     </item>
     <item>
-      <title>Monthly summary as of 01/19/2025 07:25:00 PM</title>
+      <title>Monthly summary as of 01/19/2025 07:35:00 PM</title>
       <link></link>
       <description>
         Min Outside Temperature: 10.3&#176;C at 01/03/2025 05:13:53 AM;
@@ -130,7 +130,7 @@
         Min Inside Humidity: 25% at 01/07/2025 05:07:31 PM;
         Max Inside Humidity: 69% at 01/19/2025 03:58:47 PM;
       </description>
-      <pubDate>Sun, 19 Jan 2025 19:25:00 -03</pubDate>
+      <pubDate>Sun, 19 Jan 2025 19:35:00 -03</pubDate>
       <geo:lat>-34.68247396567271</geo:lat>
       <geo:long>-59.033162742123125</geo:long>
       <content:encoded><![CDATA[
@@ -159,7 +159,7 @@
       ]]></content:encoded>
     </item>
     <item>
-      <title>Yearly summary as of 01/19/2025 07:25:00 PM</title>
+      <title>Yearly summary as of 01/19/2025 07:35:00 PM</title>
       <link></link>
       <description>
         Min Outside Temperature: 10.3&#176;C at 01/03/2025 05:13:53 AM;
@@ -182,7 +182,7 @@
         Min Inside Humidity: 25% at 01/07/2025 05:07:31 PM;
         Max Inside Humidity: 69% at 01/19/2025 03:58:47 PM;
       </description>
-      <pubDate>Sun, 19 Jan 2025 19:25:00 -03</pubDate>
+      <pubDate>Sun, 19 Jan 2025 19:35:00 -03</pubDate>
       <geo:lat>-34.68247396567271</geo:lat>
       <geo:long>-59.033162742123125</geo:long>
       <content:encoded><![CDATA[
