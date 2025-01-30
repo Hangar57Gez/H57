@@ -10,96 +10,96 @@
     <link></link>
     <description>Current conditions, and daily, monthly, and yearly summaries</description>
     <language>"en"</language>
-    <pubDate>Thu, 30 Jan 2025 13:25:00 -03</pubDate>
+    <pubDate>Thu, 30 Jan 2025 13:35:00 -03</pubDate>
 
-    <lastBuildDate>Thu, 30 Jan 2025 13:25:00 -03</lastBuildDate>
+    <lastBuildDate>Thu, 30 Jan 2025 13:35:00 -03</lastBuildDate>
     <docs>http://blogs.law.harvard.edu/tech/rss</docs>
     <generator>weewx 5.0.2</generator>
     <ttl>5.0 minutes</ttl>
 
     <item>
-      <title>Weather Conditions at 01/30/2025 01:25:00 PM</title>
+      <title>Weather Conditions at 01/30/2025 01:35:00 PM</title>
       <link></link>
       <description>
-        Outside Temperature: 31.7&#176;C;
-        Inside Temperature: 31.9&#176;C;
-        Barometer: 1014.6 mbar;
-        Wind: 4 knots from 114&#176;;
+        Outside Temperature: 32.9&#176;C;
+        Inside Temperature: 32.2&#176;C;
+        Barometer: 1014.5 mbar;
+        Wind: 4 knots from 115&#176;;
         Rain: 0.0 mm;
         Rain Rate: 0.0 mm/h;
-        Wind Chill: 31.7&#176;C;
-        Heat Index: 33.0&#176;C;
-        Dew Point: 18.7&#176;C;
-        Outside Humidity: 46%;
-        Inside Humidity: 49%;
+        Wind Chill: 32.9&#176;C;
+        Heat Index: 34.9&#176;C;
+        Dew Point: 19.5&#176;C;
+        Outside Humidity: 45%;
+        Inside Humidity: 48%;
       </description>
-      <pubDate>Thu, 30 Jan 2025 13:25:00 -03</pubDate>
+      <pubDate>Thu, 30 Jan 2025 13:35:00 -03</pubDate>
       <geo:lat>-34.68247396567271</geo:lat>
       <geo:long>-59.033162742123125</geo:long>
       <content:encoded><![CDATA[
       <p>
-      Time: 01/30/2025 01:25:00 PM<br/>
-        Outside Temperature: 31.7&#176;C<br/>
-        Inside Temperature: 31.9&#176;C<br/>
-        Barometer: 1014.6 mbar<br/>
-        Wind: 4 knots from 114&#176;;
+      Time: 01/30/2025 01:35:00 PM<br/>
+        Outside Temperature: 32.9&#176;C<br/>
+        Inside Temperature: 32.2&#176;C<br/>
+        Barometer: 1014.5 mbar<br/>
+        Wind: 4 knots from 115&#176;;
         Rain: 0.0 mm<br/>
         Rain Rate: 0.0 mm/h<br/>
-        Wind Chill: 31.7&#176;C<br/>
-        Heat Index: 33.0&#176;C<br/>
-        Dew Point: 18.7&#176;C<br/>
-        Outside Humidity: 46%<br/>
-        Inside Humidity: 49%<br/>
+        Wind Chill: 32.9&#176;C<br/>
+        Heat Index: 34.9&#176;C<br/>
+        Dew Point: 19.5&#176;C<br/>
+        Outside Humidity: 45%<br/>
+        Inside Humidity: 48%<br/>
       </p>
       ]]></content:encoded>
     </item>
 
     <item>
-      <title>Daily summary as of 01/30/2025 01:25:00 PM</title>
+      <title>Daily summary as of 01/30/2025 01:35:00 PM</title>
       <link></link>
       <description>
         Min Outside Temperature: 19.0&#176;C at 06:34:49 AM;
-        Max Outside Temperature: 33.5&#176;C at 11:56:53 AM;
+        Max Outside Temperature: 34.0&#176;C at 01:27:16 PM;
         Min Inside Temperature: 23.5&#176;C at 06:45:00 AM;
-        Max Inside Temperature: 32.2&#176;C at 01:08:03 PM;
-        Min Barometer: 1014.5 mbar at 01:24:32 PM;
+        Max Inside Temperature: 32.3&#176;C at 01:29:45 PM;
+        Min Barometer: 1014.3 mbar at 01:30:33 PM;
         Max Barometer: 1016.8 mbar at 07:22:33 AM;
         Max Wind: 12 knots from 071&#176; at 11:41:20 AM;
         Rain: 0.0 mm;
         Max Rain Rate: 0.0 mm/h;
         Min Wind Chill: 19.0&#176;C at 06:34:49 AM;
-        Max Wind Chill: 33.5&#176;C at 11:56:53 AM;
+        Max Wind Chill: 34.0&#176;C at 01:27:16 PM;
         Min Heat Index: 19.4&#176;C at 06:34:49 AM;
         Max Heat Index: 36.4&#176;C at 11:57:56 AM;
         Min Dew Point: 17.9&#176;C at 01:20:53 PM;
         Max Dew Point: 20.6&#176;C at 11:57:56 AM;
-        Min Outside Humidity: 43% at 12:56:32 PM;
+        Min Outside Humidity: 42% at 01:26:28 PM;
         Max Outside Humidity: 95% at 06:14:13 AM;
         Min Inside Humidity: 48% at 01:15:37 PM;
         Max Inside Humidity: 69% at 07:14:49 AM;
       </description>
-      <pubDate>Thu, 30 Jan 2025 13:25:00 -03</pubDate>
+      <pubDate>Thu, 30 Jan 2025 13:35:00 -03</pubDate>
       <geo:lat>-34.68247396567271</geo:lat>
       <geo:long>-59.033162742123125</geo:long>
       <content:encoded><![CDATA[
       <p>
       Daily summary as of 30 Jan 2025<br/>
         Min Outside Temperature: 19.0&#176;C at 06:34:49 AM<br/>
-        Max Outside Temperature: 33.5&#176;C at 11:56:53 AM<br/>
+        Max Outside Temperature: 34.0&#176;C at 01:27:16 PM<br/>
         Min Inside Temperature: 23.5&#176;C at 06:45:00 AM<br/>
-        Max Inside Temperature: 32.2&#176;C at 01:08:03 PM<br/>
-        Min Barometer: 1014.5 mbar at 01:24:32 PM<br/>
+        Max Inside Temperature: 32.3&#176;C at 01:29:45 PM<br/>
+        Min Barometer: 1014.3 mbar at 01:30:33 PM<br/>
         Max Barometer: 1016.8 mbar at 07:22:33 AM<br/>
         Max Wind: 12 knots from 071&#176; at 11:41:20 AM<br/>
         Rain: 0.0 mm<br/>
         Max Rain Rate: 0.0 mm/h<br/>
         Min Wind Chill: 19.0&#176;C at 06:34:49 AM<br/>
-        Max Wind Chill: 33.5&#176;C at 11:56:53 AM<br/>
+        Max Wind Chill: 34.0&#176;C at 01:27:16 PM<br/>
         Min Heat Index: 19.4&#176;C at 06:34:49 AM<br/>
         Max Heat Index: 36.4&#176;C at 11:57:56 AM<br/>
         Min Dew Point: 17.9&#176;C at 01:20:53 PM<br/>
         Max Dew Point: 20.6&#176;C at 11:57:56 AM<br/>
-        Min Outside Humidity: 43% at 12:56:32 PM<br/>
+        Min Outside Humidity: 42% at 01:26:28 PM<br/>
         Max Outside Humidity: 95% at 06:14:13 AM<br/>
         Min Inside Humidity: 48% at 01:15:37 PM<br/>
         Max Inside Humidity: 69% at 07:14:49 AM<br/>
@@ -107,7 +107,7 @@
       ]]></content:encoded>
     </item>
     <item>
-      <title>Monthly summary as of 01/30/2025 01:25:00 PM</title>
+      <title>Monthly summary as of 01/30/2025 01:35:00 PM</title>
       <link></link>
       <description>
         Min Outside Temperature: 10.3&#176;C at 01/03/2025 05:13:53 AM;
@@ -130,7 +130,7 @@
         Min Inside Humidity: 25% at 01/07/2025 05:07:31 PM;
         Max Inside Humidity: 74% at 01/20/2025 12:44:32 AM;
       </description>
-      <pubDate>Thu, 30 Jan 2025 13:25:00 -03</pubDate>
+      <pubDate>Thu, 30 Jan 2025 13:35:00 -03</pubDate>
       <geo:lat>-34.68247396567271</geo:lat>
       <geo:long>-59.033162742123125</geo:long>
       <content:encoded><![CDATA[
@@ -159,7 +159,7 @@
       ]]></content:encoded>
     </item>
     <item>
-      <title>Yearly summary as of 01/30/2025 01:25:00 PM</title>
+      <title>Yearly summary as of 01/30/2025 01:35:00 PM</title>
       <link></link>
       <description>
         Min Outside Temperature: 10.3&#176;C at 01/03/2025 05:13:53 AM;
@@ -182,7 +182,7 @@
         Min Inside Humidity: 25% at 01/07/2025 05:07:31 PM;
         Max Inside Humidity: 74% at 01/20/2025 12:44:32 AM;
       </description>
-      <pubDate>Thu, 30 Jan 2025 13:25:00 -03</pubDate>
+      <pubDate>Thu, 30 Jan 2025 13:35:00 -03</pubDate>
       <geo:lat>-34.68247396567271</geo:lat>
       <geo:long>-59.033162742123125</geo:long>
       <content:encoded><![CDATA[
