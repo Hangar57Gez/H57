@@ -735,6 +735,722 @@ function moon_icon(moonphase){
     }
 }
 
+function ajaxforecast() {
+    forecast_data = {};
+    jQuery.when(
+        // Get the iconlist - original source is // https://www.aerisweather.com/support/docs/api/reference/icon-list/
+        jQuery.getJSON(get_relative_url() + '/images/aeris-icon-list.json', function(iconlist) {
+        icon_dict = iconlist;
+            }
+        ),
+        // Get the forecast
+        jQuery.getJSON(get_relative_url() + "/json/forecast.json", function(forecast) {
+        forecast_data = forecast;
+            }
+        )
+    ).then(function() {
+        //  update forecast once both promises are fulfilled
+        update_forecast_data(forecast_data);
+        }
+    );
+}
+
+function aeris_coded_weather(data, full_observation = false) {
+    // https://www.aerisweather.com/support/docs/api/reference/weather-codes/
+    var output = "";
+    var coverage_code = data.split(":")[0]
+    var intensity_code = data.split(":")[1]
+    var weather_code = data.split(":")[2]
+
+    var cloud_dict = {
+        "CL": "Despejado",
+        "FW": "Poco nublado",
+        "SC": "Nublado",
+        "BK": "Muy nublado",
+        "OV": "Cubierto"
+    }
+
+    var coverage_dict = {
+        "AR": "&#193;reas de",
+        "BR": "Breve",
+        "C": "Posibilidad de",
+        "D": "Definido",
+        "FQ": "frecuente",
+        "IN": "intermitente",
+        "IS": "aislado",
+        "L": "probable",
+        "NM": "numeroso",
+        "O": "ocasional",
+        "PA": "Parcial",
+        "PD": "Per&#237;odos de",
+        "S": "Peque&#241;a probabilidad de",
+        "SC": "Disperso",
+        "VC": "localizado",
+        "WD": "Extenso"
+    }
+
+    var intensity_dict = {
+        "VL": "ligero",
+        "L": "leve",
+        "H": "fuerte",
+        "VH": "muy fuerte"
+    }
+
+    var weather_dict = {
+        "A": "Granizo",
+        "BD": "Polvo en suspensi&#243;n",
+        "BN": "Arena en suspensi&#243;n",
+        "BR": "Neblina",
+        "BS": "Ventisca",
+        "BY": "Lluvia ligera",
+        "F": "Niebla",
+        "FR": "Escarcha",
+        "H": "Neblina",
+        "IC": "Cristales de hielo",
+        "IF": "Niebla helada",
+        "IP": "Aguanieve",
+        "K": "Humo",
+        "L": "Llovizna",
+        "R": "Lluvia",
+        "RW": "Chubascos",
+        "RS": "Aguanieve",
+        "SI": "Aguanieve",
+        "WM": "Mal tiempo invernal",
+        "S": "Nieve",
+        "SW": "Chubascos de nieve",
+        "T": "Tormenta",
+        "UP": "Precipitaci&#243;n desconocida",
+        "VA": "Ceniza volc&#225;nica",
+        "WP": "Lluvia ligera",
+        "ZF": "Niebla helada",
+        "ZL": "Llovizna helada",
+        "ZR": "Lluvia helada",
+        "ZY": "Lluvia ligera helada"
+    }
+
+    // Check if the weather_code is in the cloud_dict and use that if it's there. If not then it's a combined weather code.
+    if (cloud_dict.hasOwnProperty(weather_code)) {
+        return cloud_dict[weather_code];
+    } else {
+        // Add the coverage if it's present, and full observation forecast is requested
+        if ((coverage_code) && (full_observation)) {
+            output += coverage_dict[coverage_code] + " ";
+        }
+        // Add the intensity if it's present
+        if (intensity_code) {
+            output += intensity_dict[intensity_code] + " ";
+        }
+        // Weather output
+        output += weather_dict[weather_code];
+    }
+
+    return output;
+}
+
+function aeris_coded_alerts(data, full_observation = false) {
+    // https://www.aerisweather.com/support/docs/aeris-maps/reference/alert-types/
+
+    var alert_dict = {
+        "TOE": "911 Telephone Outage",
+        "ADR": "Administrative Message",
+        "AQA": "Air Quality Alert",
+        "AQ.S": "Air Quality Alert",
+        "AS.Y": "Air Stagnation Advisory",
+        "AR.W": "Arctic Outflow Warning",
+        "AF.Y": "Ashfall Advisory",
+        "MH.Y": "Ashfall Advisory",
+        "AF.W": "Ashfall Warning",
+        "AVW": "Avalanche Warning",
+        "AVA": "Avalanche Watch",
+        "BH.S": "Beach Hazard Statement",
+        "BZ.W": "Blizzard Warning",
+        "DU.Y": "Blowing Dust Advisory",
+        "BS.Y": "Blowing Snow Advisory",
+        "BW.Y": "Brisk Wind Advisory",
+        "CAE": "Child Abduction Emergency",
+        "CDW": "Civil Danger Warning",
+        "CEM": "Civil Emergency Message",
+        "CF.Y": "Coastal Flood Advisory",
+        "CF.S": "Coastal Flood Statement",
+        "CF.W": "Coastal Flood Warning",
+        "CF.A": "Coastal Flood Watch",
+        "FG.Y": "Dense Fog Advisory",
+        "MF.Y": "Dense Fog Advisory",
+        "FO.Y": "Fog Advisory",
+        "SM.Y": "Dense Smoke Advisory",
+        "MS.Y": "Dense Smoke Advisory",
+        "DS.W": "Dust Storm Warning",
+        "EQW": "Earthquake Warning",
+        "EVI": "Evacuation - Immediate",
+        "EH.W": "Excessive Heat Warning",
+        "EH.A": "Excessive Heat Watch",
+        "EC.W": "Extreme Cold Warning",
+        "EC.A": "Extreme Cold Watch",
+        "RFD": "Extreme Fire Danger",
+        "EW.W": "Extreme Wind Warning",
+        "FRW": "Fire Warning",
+        "FW.A": "Fire Weather Watch",
+        "FF.S": "Flash Flood Statement",
+        "FF.W": "Flash Flood Warning",
+        "FF.A": "Flash Flood Watch",
+        "FE.W": "Flash Freeze Warning",
+        "FL.Y": "Flood Advisory",
+        "FL.S": "Flood Statement",
+        "FL.W": "Flood Warning",
+        "FA.W": "Flood Warning",
+        "FL.A": "Flood Watch",
+        "FA.A": "Flood Watch",
+        "FZ.W": "Freeze Warning",
+        "FZ.A": "Freeze Watch",
+        "ZL.Y": "Freezing Drizzle Advisory",
+        "ZF.Y": "Freezing Fog Advisory",
+        "ZR.W": "Freezing Rain Warning",
+        "UP.Y": "Freezing Spray Advisory",
+        "FR.Y": "Frost Advisory",
+        "GL.W": "Gale Warning",
+        "GL.A": "Gale Watch",
+        "HZ.W": "Hard Freeze Warning",
+        "HZ.A": "Hard Freeze Watch",
+        "HMW": "Hazardous Materials Warning",
+        "SE.W": "Hazardous Seas Warning",
+        "SE.A": "Hazardous Seas Watch",
+        "HWO": "Hazardous Weather Outlook",
+        "HT.Y": "Heat Advisory",
+        "HT.W": "Heat Warning",
+        "UP.W": "Heavy Freezing Spray Warning",
+        "UP.A": "Heavy Freezing Spray Watch",
+        "SU.Y": "High Surf Advisory",
+        "SU.W": "High Surf Warning",
+        "HW.W": "High Wind Warning",
+        "HW.A": "High Wind Watch",
+        "HF.W": "Hurricane Force Wind Warning",
+        "HF.A": "Hurricane Force Wind Watch",
+        "HU.S": "Hurricane Local Statement",
+        "HU.W": "Hurricane Warning",
+        "HU.A": "Hurricane Watch",
+        "FA.Y": "Hydrologic Advisory",
+        "IS.W": "Ice Storm Warning",
+        "LE.W": "Lake Effect Snow Warning",
+        "LW.Y": "Lake Wind Advisory",
+        "LS.Y": "Lakeshore Flood Advisory",
+        "LS.S": "Lakeshore Flood Statement",
+        "LS.W": "Lakeshore Flood Warning",
+        "LS.A": "Lakeshore Flood Watch",
+        "LEW": "Law Enforcement Warning",
+        "LAE": "Local Area Emergency",
+        "LO.Y": "Low Water Advisory",
+        "MA.S": "Marine Weather Statement",
+        "NUW": "Nuclear Power Plant Warning",
+        "RHW": "Radiological Hazard Warning",
+        "RA.W": "Rainfall Warning",
+        "FW.W": "Red Flag Warning",
+        "RFW": "Red Flag Warning",
+        "RP.S": "Rip Current Statement",
+        "SV.W": "Severe Thunderstorm Warning",
+        "SV.A": "Severe Thunderstorm Watch",
+        "SV.S": "Severe Weather Statement",
+        "TO.S": "Severe Weather Statement",
+        "SPW": "Shelter In Place Warning",
+        "NOW": "Short Term Forecast",
+        "SC.Y": "Small Craft Advisory",
+        "SW.Y": "Small Craft Advisory For Hazadous Seas",
+        "RB.Y": "Small Craft Advisory for Rough Bar",
+        "SI.Y": "Small Craft Advisory for Winds",
+        "SO.W": "Smog Warning",
+        "SQ.W": "Snow Squall Warning",
+        "SQ.A": "Snow Squall Watch",
+        "SB.Y": "Snow and Blowing Snow Advisory",
+        "SN.W": "Snowfall Warning",
+        "MA.W": "Special Marine Warning",
+        "SP.S": "Special Weather Statement",
+        "SG.W": "Storm Surge Warning",
+        "SS.W": "Storm Surge Warning",
+        "SS.A": "Storm Surge Watch",
+        "SR.W": "Storm Warning",
+        "SR.A": "Storm Watch",
+        "TO.W": "Tornado Warning",
+        "TO.A": "Tornado Watch",
+        "TC.S": "Tropical Cyclone Statement",
+        "TR.S": "Tropical Storm Local Statement",
+        "TR.W": "Tropical Storm Warning",
+        "TR.A": "Tropical Storm Watch",
+        "TS.Y": "Tsunami Advisory",
+        "TS.W": "Tsunami Warning",
+        "TS.A": "Tsunami Watch",
+        "TY.S": "Typhoon Local Statement",
+        "TY.W": "Typhoon Warning",
+        "TY.A": "Typhoon Watch",
+        "VOW": "Volcano Warning",
+        "WX.Y": "Weather Advisory",
+        "WX.W": "Weather Warning",
+        "WI.Y": "Wind Advisory",
+        "WC.Y": "Wind Chill Advisory",
+        "WC.W": "Wind Chill Warning",
+        "WC.A": "Wind Chill Watch",
+        "WI.W": "Wind Warning",
+        "WS.W": "Winter Storm Warning",
+        "WS.A": "Winter Storm Watch",
+        "LE.A": "Winter Storm Watch",
+        "BZ.A": "Winter Storm Watch",
+        "WW.Y": "Winter Weather Advisory",
+        "LE.Y": "Winter Weather Advisory",
+        "ZR.Y": "Winter Weather Advisory",
+        "AW.WI.MN": "viento ligero",
+        "AW.WI.MD": "viento moderado",
+        "AW.WI.SV": "viento fuerte",
+        "AW.WI.EX": "tormenta",
+        "AW.SI.MN": "nieve/hielo ligero",
+        "AW.SI.MD": "nieve/hielo moderado",
+        "AW.SI.SV": "nieve/hielo fuerte",
+        "AW.SI.EX": "nieve/hielo extremo",
+        "AW.TS.MN": "tormentas ligeras",
+        "AW.TS.MD": "tormentas moderadas",
+        "AW.TS.SV": "tormentas fuertes",
+        "AW.TS.EX": "tormentas extremas",
+        "AW.LI.MN": "Rel&#225;mpagos menores",
+        "AW.LI.MD": "Rel&#225;mpagos moderados",
+        "AW.LI.SV": "Rel&#225;mpagos severos",
+        "AW.LI.EX": "Rel&#225;mpagos extremos",
+        "AW.FG.MN": "niebla ligera",
+        "AW.FG.MD": "niebla moderada",
+        "AW.FG.SV": "niebla densa",
+        "AW.FG.EX": "niebla extrema",
+        "AW.HT.MN": "temperatura alta menor",
+        "AW.HT.MD": "temperatura alta moderada",
+        "AW.HT.SV": "calor intenso",
+        "AW.HT.EX": "calor extremo",
+        "AW.LT.MN": "temperatura baja menor",
+        "AW.LT.MD": "temperatura baja moderada",
+        "AW.LT.SV": "temperatura baja severa",
+        "AW.LT.EX": "fr&#237;o extremo",
+        "AW.CE.MN": "evento costero menor",
+        "AW.CE.MD": "evento costero moderado",
+        "AW.CE.SV": "evento costero severo",
+        "AW.CE.EX": "evento costero extremo",
+        "AW.FR.MN": "incendio forestal menor",
+        "AW.FR.MD": "incendio forestal moderado",
+        "AW.FR.SV": "gran incendio forestal",
+        "AW.FR.EX": "incendio forestal extremo",
+        "AW.AV.MN": "avalancha menor",
+        "AW.AV.MD": "avalancha moderada",
+        "AW.AV.SV": "avalancha severa",
+        "AW.AV.EX": "avalancha extrema",
+        "AW.RA.MN": "lluvia ligera",
+        "AW.RA.MD": "lluvia moderada",
+        "AW.RA.SV": "lluvia intensa",
+        "AW.RA.EX": "lluvia extrema",
+        "AW.FL.MN": "inundaci&#243;n menor",
+        "AW.FL.MD": "inundaci&#243;n moderada",
+        "AW.FL.SV": "inundaci&#243;n severa",
+        "AW.FL.EX": "inundaci&#243;n extrema",
+        "AW.RF.MN": "inundaci&#243;n por lluvia menor",
+        "AW.RF.MD": "inundaci&#243;n por lluvia moderada",
+        "AW.RF.SV": "inundaci&#243;n por lluvia severa",
+        "AW.RF.EX": "inundaci&#243;n por lluvia extrema",
+        "AW.UK.MN": "leve condici&#243;n clim&#225;tica no especificada",
+        "AW.UK.MD": "moderada condici&#243;n clim&#225;tica no especificada",
+        "AW.UK.SV": "severa condici&#243;n clim&#225;tica no especificada",
+        "AW.UK.EX": "extrema condici&#243;n clim&#225;tica no especificada"
+    }
+
+    return alert_dict[data];
+}
+
+function aeris_icon(data) {
+    // https://www.aerisweather.com/support/docs/api/reference/icon-list/
+    var icon_name = data.split(".")[0]; // Remove .png
+        icon_out = icon_dict[icon_name];
+        if ( icon_out === undefined ) {
+            icon_out ='unknown' 
+            }
+        return icon_out;
+}
+
+function show_forcast_alert(data, forecast_provider) {
+    belchertown_debug("Forecast: Updating alert data for " + forecast_provider);
+    var i, forecast_alert_modal, forecast_alerts;
+    forecast_alert_modal = "";
+    forecast_alerts = [];
+
+    // Empty anything that's been appended to the modal from the previous run
+    jQuery(".wx-stn-alert-text").empty();
+
+    if (forecast_provider == "darksky") {
+        if (data['alerts']) {
+            for (i = 0; i < data['alerts'].length; i++) {
+                forecast_alert_title = data['alerts'][i]['title'];
+                forecast_alert_body = data['alerts'][i]['description'].replace(/\n/g, '<br>');
+                forecast_alert_link = data['alerts'][i]['title'];
+                forecast_alert_expires = tzAdjustedMoment(data['alerts'][i]['expires']).format('LLL');
+                forecast_alerts.push({"title": forecast_alert_title, "body": forecast_alert_body, "link": forecast_alert_link, "expires": forecast_alert_expires});
+            }
+        }
+    } else if (forecast_provider == "aeris") {
+        if (data['alerts'][0]['response'][0]) {
+            for (i = 0; i < data['alerts'][0]['response'].length; i++) {
+                //forecast_alert_title = data['alerts'][0]['response'][i]['details']['name'];
+                forecast_alert_title = aeris_coded_alerts(data['alerts'][0]['response'][i]['details']['type']);
+                if (typeof forecast_alert_title === "undefined") {
+                    // If the type can't be decoded then use the raw name in the alert. I have seen this for "Hurricane Local Statement" not matching a coded weather value
+                    forecast_alert_title = data['alerts'][0]['response'][i]['details']['name'];
+                }
+                forecast_alert_body = data['alerts'][0]['response'][i]['details']['body'].replace(/\n/g, '<br>');
+                //forecast_alert_link = data['alerts'][0]['response'][i]['details']['name'];
+                forecast_alert_link = data['alerts'][0]['response'][i]['details']['type'];
+                forecast_alert_expires = tzAdjustedMoment(data['alerts'][0]['response'][i]['timestamps']['expires']).format('LLL');
+                forecast_alerts.push({"title": forecast_alert_title, "body": forecast_alert_body, "link": forecast_alert_link, "expires": forecast_alert_expires});
+            }
+        }
+    }
+
+    if (forecast_alerts.length > 0) {
+        belchertown_debug("Forecast: There are " + forecast_alerts.length + " alert(s).");
+        for (i = 0; i < forecast_alerts.length; i++) {
+
+            alert_link = "<i class='fa fa-exclamation-triangle'></i> <a href='#forecast-alert-" + i + "' data-toggle='modal' data-target='#forecast-alert-" + i + "'>" + forecast_alerts[i]["title"] + " v&#225;lido hasta " + forecast_alerts[i]["expires"] + "</a><br>";
+            jQuery(".wx-stn-alert-text").append(alert_link);
+
+            forecast_alert_modal += "<!-- Forecast Alert Modal " + i + " -->";
+            forecast_alert_modal += "<div class='modal fade' id='forecast-alert-" + i + "' tabindex='-1' role='dialog' aria-labelledby='forecast-alert'>";
+            forecast_alert_modal += "<div class='modal-dialog' role='document'>";
+            forecast_alert_modal += "<div class='modal-content'>";
+            forecast_alert_modal += "<div class='modal-header'>";
+            forecast_alert_modal += "<button type='button' class='close' data-dismiss='modal' aria-label='Close'><span aria-hidden='true'>&times;</span></button>";
+            forecast_alert_modal += "<h4 class='modal-title' id='forecast-alert'>" + forecast_alerts[i]["title"] + "</h4>";
+            forecast_alert_modal += "</div>";
+            forecast_alert_modal += "<div class='modal-body'>";
+            forecast_alert_modal += forecast_alerts[i]["body"];
+            forecast_alert_modal += "</div>";
+            forecast_alert_modal += "<div class='modal-footer'>";
+            forecast_alert_modal += "<button type='button' class='btn btn-primary' data-dismiss='modal'>Cerrar</button>";
+            forecast_alert_modal += "</div>";
+            forecast_alert_modal += "</div>";
+            forecast_alert_modal += "</div>";
+            forecast_alert_modal += "</div>";
+
+            jQuery(".wx-stn-alert-text").append(forecast_alert_modal);
+        }
+        jQuery(".wx-stn-alert").show();
+    } else {
+        belchertown_debug("Forecast: There are no forecast alerts");
+        jQuery(".wx-stn-alert").hide();
+    }
+}
+
+function aeris_aqi_translate(data) {
+    if (data === "good") data = "bueno";
+    else if (data === "moderate") data = "moderado";
+    else if (data === "usg") data = "insalubre para sensibles";
+    else if (data === "unhealthy") data = "insalubre";
+    else if (data === "very unhealthy") data = "muy insalubre";
+    else if (data === "hazardous") data = "peligroso";
+    else data = "desconocido";
+
+    return data;
+}
+
+function update_forecast_data(data) {
+    forecast_provider = "aeris";
+    belchertown_debug("Forecast: Provider is " + forecast_provider);
+    belchertown_debug("Forecast: Updating data");
+    belchertown_debug(data);
+
+    if (forecast_provider == "N/A") {
+        jQuery(".forecastrow").hide();
+        belchertown_debug("Forecast: No provider, hiding forecastrow");
+        return;
+    } else if (forecast_provider == "aeris") {
+        var forecast_subtitle = tzAdjustedMoment(data["timestamp"]).format('LLL');
+
+        try {
+            var wxicon = get_relative_url() + "/images/" + aeris_icon(data["current"][0]["response"]["ob"]["icon"]) + ".png";
+        } catch (err) {
+            // Returned "current" data does not have this value
+        }
+        
+        // Current observation text
+        try {
+            jQuery(".current-obs-text").html(aeris_coded_weather(data["current"][0]["response"]["ob"]["weatherPrimaryCoded"], true));
+        } catch (err) {
+            // Returned "current" data does not have this value
+        }
+
+        
+        // AQI
+        if (data["aqi"][0]["success"] && !data["aqi"][0]["error"]) {
+            jQuery(".wx-aqi").html(data["aqi"][0]["response"][0]["periods"][0]["aqi"]);
+            jQuery(".wx-aqi-category").html(aeris_aqi_translate(data["aqi"][0]["response"][0]["periods"][0]["category"]));
+            if ("1" === "1") jQuery(".aqi_location_outer").html("<br>" + data["aqi"][0]["response"][0]["place"]["name"]).css('textTransform', 'capitalize');
+            get_aqi_color(data["aqi"][0]["response"][0]["periods"][0]["aqi"]);
+            try {
+                jQuery(".station-observations .aqi").html(data["aqi"][0]["response"][0]["periods"][0]["aqi"]);
+            } catch (err) {
+                // AQI not in the station observation table, so silently exit
+            }
+        } else if (data["aqi"][0]["success"] && data["aqi"][0]["error"]["code"] === "warn_no_data") {
+            jQuery(".wx-aqi").html("No Data");
+            jQuery(".wx-aqi-category").html(aeris_aqi_translate(""));
+            if ("1" === "1") jQuery(".aqi_location_outer").html("");
+            try {
+                jQuery(".station-observations .aqi").html("No Data");
+            } catch (err) {
+                // AQI not in the station observation table, so silently exit
+            }
+        }
+
+        // Visibility text in station observation table
+        try {
+            if (("ca" == "si") || ("ca" == "ca")) {
+                // si and ca = kilometer
+                visibility = data["current"][0]["response"]["ob"]["visibilityKM"];
+
+            } else {
+                // us and uk2 and default = miles
+                visibility = data["current"][0]["response"]["ob"]["visibilityMI"];
+            }
+        } catch (err) {
+            // Returned "current" data does not have this value
+        }
+
+        try {
+            visibility_output = parseFloat(parseFloat(visibility)).toLocaleString("en-US", {minimumFractionDigits: unit_rounding_array["visibility"], maximumFractionDigits: unit_rounding_array["visibility"]}) + " " + unit_label_array["visibility"];
+
+            jQuery(".station-observations .visibility").html(visibility_output);
+        } catch (err) {
+            // Visibility not in the station observation table or any of the unit arrays, so silently exit
+        }
+
+        //  start of new composite version of forecast code
+
+        var forecast_types = ["forecast_1hr", "forecast_3hr", "forecast_24hr"];
+        var forecast_interval
+        for (forecast_interval of forecast_types) {
+            var forecast_row = [];
+            var output_html = "";
+            for (i = 0; i < data[(forecast_interval)][0]["response"][0]["periods"].length; i++) {
+
+                //  for 24hr interval add 7200 (2 hours) to the epoch to get an hour well into the day to avoid any DST issues. This way it'll either be 1am or 2am. Without it, we get 12am or 11pm (the previous day).
+                if (forecast_interval == "forecast_24hr") {
+                    var image_url = get_relative_url() + "/images/" + aeris_icon(data[(forecast_interval)][0]["response"][0]["periods"][i]["icon"]) + ".png";
+                    var condition_text = aeris_coded_weather(data[(forecast_interval)][0]["response"][0]["periods"][i]["weatherPrimaryCoded"], false);
+                    var weekday = tzAdjustedMoment(data[(forecast_interval)][0]["response"][0]["periods"][i]["timestamp"] + 7200).format("ddd M/DD");
+                } else {
+                    var image_url = get_relative_url() + "/images/" + aeris_icon(data[(forecast_interval)][0]["response"][0]["periods"][i]["icon"]) + ".png";
+                    var condition_text = aeris_coded_weather(data[(forecast_interval)][0]["response"][0]["periods"][i]["weatherPrimaryCoded"], false);
+                    var weekday = tzAdjustedMoment(data[(forecast_interval)][0]["response"][0]["periods"][i]["timestamp"]).format("ddd LT");
+                }
+
+                // Determine temperature units
+                if (("ca" == "ca") || ("ca" == "uk2") || ("ca" == "si")) {
+                    avgTemp = data[(forecast_interval)][0]["response"][0]["periods"][i]["avgTempC"];
+                    minTemp = data[(forecast_interval)][0]["response"][0]["periods"][i]["minTempC"];
+                    maxTemp = data[(forecast_interval)][0]["response"][0]["periods"][i]["maxTempC"];
+                    var dewPoint = data[(forecast_interval)][0]["response"][0]["periods"][i]["dewpointC"];
+                } else {
+                    // Default
+                    avgTemp = data[(forecast_interval)][0]["response"][0]["periods"][i]["avgTempF"];
+                    minTemp = data[(forecast_interval)][0]["response"][0]["periods"][i]["minTempF"];
+                    maxTemp = data[(forecast_interval)][0]["response"][0]["periods"][i]["maxTempF"];
+                    var dewPoint = data[(forecast_interval)][0]["response"][0]["periods"][i]["dewpointF"];
+                }
+
+                //  for 1hr interval determine temperature range, set to a minimum value of 2; also avoids div by zero
+                if (forecast_interval == "forecast_1hr") {
+                    if (i == 0) {
+                        var lowTemp = avgTemp;
+                        var highTemp = avgTemp;
+                    } else {
+                        if (lowTemp > avgTemp) lowTemp = avgTemp;
+                        if (highTemp < avgTemp) highTemp = avgTemp;
+                    }
+                }
+
+                // Determine wind units
+                if ("knot" == "knot") {
+                    windSpeed = data[(forecast_interval)][0]["response"][0]["periods"][i]["windSpeedKTS"];
+                    windGust = data[(forecast_interval)][0]["response"][0]["periods"][i]["windGustKTS"];
+                } else if ("knot" == "beaufort") {
+                    windSpeed = kts_to_beaufort(data[(forecast_interval)][0]["response"][0]["periods"][i]["windSpeedKTS"]);
+                    windGust = kts_to_beaufort(data[(forecast_interval)][0]["response"][0]["periods"][i]["windGustKTS"]);
+                } else if ("ca" == "ca") {
+                    // ca = kph
+                    windSpeed = data[(forecast_interval)][0]["response"][0]["periods"][i]["windSpeedKPH"];
+                    windGust = data[(forecast_interval)][0]["response"][0]["periods"][i]["windGustKPH"];
+                } else if ("ca" == "si") {
+                    // si = meters per second. MPS is KPH / 3.6
+                    windSpeed = data[(forecast_interval)][0]["response"][0]["periods"][i]["windSpeedKPH"] / 3.6;
+                    windGust = data[(forecast_interval)][0]["response"][0]["periods"][i]["windGustKPH"] / 3.6;
+                } else {
+                    // us and uk2 and default = mph
+                    windSpeed = data[(forecast_interval)][0]["response"][0]["periods"][i]["windSpeedMPH"];
+                    windGust = data[(forecast_interval)][0]["response"][0]["periods"][i]["windGustMPH"];
+                }
+
+                /*
+                As per API specification, "pop" is either a number from 0 to
+                100 or null. We convert to 0 in the second case.
+                */
+                var precip = data[(forecast_interval)][0]["response"][0]["periods"][i]["pop"] || 0;
+
+                // Humidity
+                var humidity = data[(forecast_interval)][0]["response"][0]["periods"][i]["humidity"];
+
+                /*
+                Determine snow unit. "snowCM" and "snowIN" are specified
+                to always return a number. We still convert to 0 if we ever get
+                null.
+                */
+                if (("ca" == "si") || ("ca" == "ca") || ("ca" == "uk2")) {
+                    var snow_depth = data[(forecast_interval)][0]["response"][0]["periods"][i]["snowCM"] || 0;
+                    var snow_unit = "cm";
+                } else {
+                    var snow_depth = data[(forecast_interval)][0]["response"][0]["periods"][i]["snowIN"] || 0;
+                    var snow_unit = "in";
+                }
+
+                //  for 24hr interval add 7200 (2 hours) to the epoch to get an hour well into the day to avoid any DST issues. This way it'll either be 1am or 2am. Without it, we get 12am or 11pm (the previous day).
+                if (forecast_interval == "forecast_24hr") {
+                    var forecast_link_setup = "".replace("YYYY", tzAdjustedMoment(data[(forecast_interval)][0]["response"][0]["periods"][i]["timestamp"] + 7200).format("YYYY")).replace("MM", tzAdjustedMoment(data[(forecast_interval)][0]["response"][0]["periods"][i]["timestamp"] + 7200).format("MM")).replace("DD", tzAdjustedMoment(data[(forecast_interval)][0]["response"][0]["periods"][i]["timestamp"] + 7200).format("DD"));
+                } else {
+                    var forecast_link_setup = "".replace("YYYY", tzAdjustedMoment(data[(forecast_interval)][0]["response"][0]["periods"][i]["timestamp"]).format("YYYY")).replace("MM", tzAdjustedMoment(data[(forecast_interval)][0]["response"][0]["periods"][i]["timestamp"]).format("MM")).replace("DD", tzAdjustedMoment(data[(forecast_interval)][0]["response"][0]["periods"][i]["timestamp"]).format("DD"));
+
+                }
+
+                var forecast_link = '<a href="' + forecast_link_setup + '" target="_blank">Pron&#243;stico diario</a>';
+
+                forecast_row.push({
+                    "weekday": weekday,
+                    "image_url": image_url,
+                    "condition_text": condition_text,
+                    "avgTemp": avgTemp,
+                    "minTemp": minTemp,
+                    "maxTemp": maxTemp,
+                    "windSpeed": windSpeed,
+                    "windGust": windGust,
+                    "snow_depth": snow_depth,
+                    "snow_unit": snow_unit,
+                    "precip": precip,
+                    "humidity": humidity,
+                    "dewPoint": dewPoint,
+                    "forecast_link": forecast_link
+                });
+            }
+
+            //  Create individual forecast rows
+            if (forecast_interval == "forecast_1hr") {
+                //  set temperature range and offset to centralise output
+                var rangeTemp = highTemp - lowTemp;
+                var offset = 0;
+                if (highTemp - lowTemp < 2) {
+                    rangeTemp = 2;
+                    if (highTemp - lowTemp == 0) offset = 1; //sets the only value 1/2 way down
+                    else if (highTemp - lowTemp == 1) offset = 0.67;  //sets the top value 1/3 way down
+                }
+                // Build 1 hour forecast row
+                for (i = 0; i < forecast_row.length; i++) {
+                    if (i == 0) {
+                        output_html += '<div class="col-sm-1-5 forecast-day forecast-1hour forecast-today">';
+                    } else {
+                        output_html += '<div class="col-sm-1-5 forecast-day forecast-1hour border-left">';
+                    }
+                    output_html += '<span id="weekday">' + forecast_time(i, forecast_interval, forecast_row[i]["weekday"]) + '</span>';
+                    output_html += '<br>';
+                    output_html += '<div class="forecast-conditions"';
+                    output_html += '>'
+                    output_html += '<div class="forecast-temp-graph" style="padding-top:';
+                    //  padding = ( ( highTemp - forecast_row[i]["avgTemp"] = offset ) * 100 / ( rangeTemp) ) where 100 ~ max calculated space available for padding
+                    output_html += parseInt((highTemp - forecast_row[i]["avgTemp"] + offset) * 100 / (rangeTemp)) + 'px">';
+                    output_html += '<div class="forecast-image">';
+                    output_html += '<img id="icon" src="' + forecast_row[i]["image_url"] + '">';
+                    output_html += '</div>';
+                    output_html += parseFloat(forecast_row[i]["avgTemp"]).toFixed(0) + '&deg;</div>';
+                    output_html += '</div>';
+                    //  output_html += '<br>';
+                    output_html += '<div class="forecast-precip">';
+                    if (forecast_row[i]["snow_depth"] > 0) {
+                        output_html += '<div class="snow-precip">';
+                        // output_html += '<img src="'+get_relative_url()+'/images/snowflake-icon-15px.png"> <span>';
+                        output_html += '<img src="' + get_relative_url() + '/images/snowflake-icon-15px.png"> <span>' + parseFloat(forecast_row[i]["snow_depth"]).toFixed(0) + '<span> ' + forecast_row[i]["snow_unit"];
+                        output_html += '</div>';
+                    } else if (forecast_row[i]["precip"] > 0) {
+                        output_html += '<i class="wi wi-raindrop wi-rotate-45 rain-precip"></i> <span>' + parseFloat(forecast_row[i]["precip"]).toFixed(0) + '%</span>';
+                    } else {
+                        output_html += '<i class="wi wi-raindrop wi-rotate-45 rain-no-precip"></i> <span>0%</span>';
+                    }
+                    output_html += '</div>';
+                    output_html += '<div class="forecast-wind">';
+                    output_html += '<i class="wi wi-strong-wind"></i> <span>' + parseFloat(forecast_row[i]["windSpeed"]).toFixed(0) + '</span>';
+                    //  output_html += '<i class="wi wi-strong-wind"></i> <span>'+ parseFloat( forecast_row[i]["windSpeed"] ).toFixed(0) +'</span> | <span> '+ parseFloat( forecast_row[i]["windGust"] ).toFixed(0) +' knots';        
+                    output_html += '</div>';
+                    output_html += '</div>';
+                }
+            } else {
+
+                // Build 3 or 24 hour forecast rows
+                for (i = 0; i < forecast_row.length; i++) {
+                    if (forecast_interval == "forecast_3hr") {
+                        if (i == 0) {
+                            output_html += '<div class="col-sm-1-5 forecast-day forecast-3hour forecast-today">';
+                        } else {
+                            output_html += '<div class="col-sm-1-5 forecast-day forecast-3hour border-left">';
+                        }
+                    } else if (forecast_interval == "forecast_24hr") {
+                        if (i == 0) {
+                            output_html += '<div class="col-sm-1-5 forecast-day forecast-24hour forecast-today">';
+                        } else {
+                            output_html += '<div class="col-sm-1-5 forecast-day forecast-24hour border-left">';
+                        }
+                    }
+                    output_html += '<span id="weekday">' + forecast_time(i, forecast_interval, forecast_row[i]["weekday"]) + '</span>';
+                    output_html += '<br>';
+                    output_html += '<div class="forecast-conditions">';
+                    output_html += '<img id="icon" src="' + forecast_row[i]["image_url"] + '">';
+                    output_html += '<br>';
+                    output_html += '<span class="forecast-condition-text">' + forecast_row[i]["condition_text"] + '</span>';
+                    output_html += '</div>';
+                    output_html += '<span class="forecast-high">' + parseFloat(forecast_row[i]["maxTemp"]).toFixed(0) + '&deg;</span> | <span class="forecast-low">' + parseFloat(forecast_row[i]["minTemp"]).toFixed(0) + '&deg;</span>';
+                    output_html += '<br>';
+                    output_html += '<div class="forecast-precip">';
+                    if (forecast_row[i]["snow_depth"] > 0) {
+                        output_html += '<div class="snow-precip">';
+                        output_html += '<img src="' + get_relative_url() + '/images/snowflake-icon-15px.png"> <span>' + parseFloat(forecast_row[i]["snow_depth"]).toFixed(0) + '<span> ' + forecast_row[i]["snow_unit"];
+                        output_html += '</div>';
+                    } else if (forecast_row[i]["precip"] > 0) {
+                        output_html += '<i class="wi wi-raindrop wi-rotate-45 rain-precip"></i> <span>' + parseFloat(forecast_row[i]["precip"]).toFixed(0) + '%</span>';
+                    } else {
+                        output_html += '<i class="wi wi-raindrop wi-rotate-45 rain-no-precip"></i> <span>0%</span>';
+                    }
+                    output_html += '</div>';
+                    output_html += '<div class="forecast-wind">';
+                    output_html += '<i class="wi wi-strong-wind"></i> <span>' + parseFloat(forecast_row[i]["windSpeed"]).toFixed(0) + '</span> | <span> ' + parseFloat(forecast_row[i]["windGust"]).toFixed(0) + ' knots';
+                    output_html += '</div>';
+                    output_html += '</div>';
+                }
+            }
+
+            // Show the forecasts rows
+            if (forecast_interval == "forecast_1hr") {
+                jQuery(".1hr_forecasts").html(output_html);
+                belchertown_debug("html_1hr: " + output_html);
+            } else if (forecast_interval == "forecast_3hr") {
+                jQuery(".3hr_forecasts").html(output_html);
+                belchertown_debug("html_3hr: " + output_html);
+            } else if (forecast_interval == "forecast_24hr") {
+                jQuery(".24hr_forecasts").html(output_html);
+                belchertown_debug("html_24hr: " + output_html);
+            }
+            // Show the forecast_subtitle
+            jQuery(".forecast-subtitle").html("&#250;ltima actualizaci&#243;n el " + forecast_subtitle);
+        }
+
+//	End of new composite version of forecast code
+    
+
+    // WX icon in temperature box    
+    jQuery("#wxicon").attr("src", wxicon);
+    }
+}
+
 //  function to display selected forecast according to value of interval (1, 3 or 24); 0 hides all forecasts
 function forecast_select(interval) {
         if (interval == 0) {
