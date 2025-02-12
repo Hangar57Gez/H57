@@ -10,21 +10,21 @@
     <link></link>
     <description>Current conditions, and daily, monthly, and yearly summaries</description>
     <language>"en"</language>
-    <pubDate>Wed, 12 Feb 2025 05:45:00 -03</pubDate>
+    <pubDate>Wed, 12 Feb 2025 05:55:00 -03</pubDate>
 
-    <lastBuildDate>Wed, 12 Feb 2025 05:45:00 -03</lastBuildDate>
+    <lastBuildDate>Wed, 12 Feb 2025 05:55:00 -03</lastBuildDate>
     <docs>http://blogs.law.harvard.edu/tech/rss</docs>
     <generator>weewx 5.0.2</generator>
     <ttl>5.0 minutes</ttl>
 
     <item>
-      <title>Weather Conditions at 02/12/2025 05:45:00 AM</title>
+      <title>Weather Conditions at 02/12/2025 05:55:00 AM</title>
       <link></link>
       <description>
         Outside Temperature: 19.0&#176;C;
         Inside Temperature: 21.5&#176;C;
-        Barometer: 1011.9 mbar;
-        Wind: 2 knots from 148&#176;;
+        Barometer: 1012.1 mbar;
+        Wind: 2 knots from 146&#176;;
         Rain: 0.0 mm;
         Rain Rate: 0.0 mm/h;
         Wind Chill: 19.0&#176;C;
@@ -33,16 +33,16 @@
         Outside Humidity: 95%;
         Inside Humidity: 77%;
       </description>
-      <pubDate>Wed, 12 Feb 2025 05:45:00 -03</pubDate>
+      <pubDate>Wed, 12 Feb 2025 05:55:00 -03</pubDate>
       <geo:lat>-34.68247396567271</geo:lat>
       <geo:long>-59.033162742123125</geo:long>
       <content:encoded><![CDATA[
       <p>
-      Time: 02/12/2025 05:45:00 AM<br/>
+      Time: 02/12/2025 05:55:00 AM<br/>
         Outside Temperature: 19.0&#176;C<br/>
         Inside Temperature: 21.5&#176;C<br/>
-        Barometer: 1011.9 mbar<br/>
-        Wind: 2 knots from 148&#176;;
+        Barometer: 1012.1 mbar<br/>
+        Wind: 2 knots from 146&#176;;
         Rain: 0.0 mm<br/>
         Rain Rate: 0.0 mm/h<br/>
         Wind Chill: 19.0&#176;C<br/>
@@ -55,7 +55,7 @@
     </item>
 
     <item>
-      <title>Daily summary as of 02/12/2025 05:45:00 AM</title>
+      <title>Daily summary as of 02/12/2025 05:55:00 AM</title>
       <link></link>
       <description>
         Min Outside Temperature: 19.0&#176;C at 05:10:56 AM;
@@ -63,7 +63,7 @@
         Min Inside Temperature: 21.5&#176;C at 05:07:49 AM;
         Max Inside Temperature: 23.2&#176;C at 12:00:01 AM;
         Min Barometer: 1010.2 mbar at 03:17:31 AM;
-        Max Barometer: 1012.1 mbar at 05:43:33 AM;
+        Max Barometer: 1012.2 mbar at 05:52:32 AM;
         Max Wind: 6 knots from 135&#176; at 03:17:31 AM;
         Rain: 0.0 mm;
         Max Rain Rate: 0.0 mm/h;
@@ -78,7 +78,7 @@
         Min Inside Humidity: 77% at 12:00:01 AM;
         Max Inside Humidity: 77% at 12:00:01 AM;
       </description>
-      <pubDate>Wed, 12 Feb 2025 05:45:00 -03</pubDate>
+      <pubDate>Wed, 12 Feb 2025 05:55:00 -03</pubDate>
       <geo:lat>-34.68247396567271</geo:lat>
       <geo:long>-59.033162742123125</geo:long>
       <content:encoded><![CDATA[
@@ -89,7 +89,7 @@
         Min Inside Temperature: 21.5&#176;C at 05:07:49 AM<br/>
         Max Inside Temperature: 23.2&#176;C at 12:00:01 AM<br/>
         Min Barometer: 1010.2 mbar at 03:17:31 AM<br/>
-        Max Barometer: 1012.1 mbar at 05:43:33 AM<br/>
+        Max Barometer: 1012.2 mbar at 05:52:32 AM<br/>
         Max Wind: 6 knots from 135&#176; at 03:17:31 AM<br/>
         Rain: 0.0 mm<br/>
         Max Rain Rate: 0.0 mm/h<br/>
@@ -107,7 +107,7 @@
       ]]></content:encoded>
     </item>
     <item>
-      <title>Monthly summary as of 02/12/2025 05:45:00 AM</title>
+      <title>Monthly summary as of 02/12/2025 05:55:00 AM</title>
       <link></link>
       <description>
         Min Outside Temperature: 14.7&#176;C at 02/11/2025 05:42:26 AM;
@@ -130,7 +130,7 @@
         Min Inside Humidity: 31% at 02/02/2025 04:32:49 PM;
         Max Inside Humidity: 77% at 02/05/2025 02:21:55 PM;
       </description>
-      <pubDate>Wed, 12 Feb 2025 05:45:00 -03</pubDate>
+      <pubDate>Wed, 12 Feb 2025 05:55:00 -03</pubDate>
       <geo:lat>-34.68247396567271</geo:lat>
       <geo:long>-59.033162742123125</geo:long>
       <content:encoded><![CDATA[
@@ -159,7 +159,7 @@
       ]]></content:encoded>
     </item>
     <item>
-      <title>Yearly summary as of 02/12/2025 05:45:00 AM</title>
+      <title>Yearly summary as of 02/12/2025 05:55:00 AM</title>
       <link></link>
       <description>
         Min Outside Temperature: 10.3&#176;C at 01/03/2025 05:13:53 AM;
@@ -182,7 +182,7 @@
         Min Inside Humidity: 25% at 01/07/2025 05:07:31 PM;
         Max Inside Humidity: 77% at 02/05/2025 02:21:55 PM;
       </description>
-      <pubDate>Wed, 12 Feb 2025 05:45:00 -03</pubDate>
+      <pubDate>Wed, 12 Feb 2025 05:55:00 -03</pubDate>
       <geo:lat>-34.68247396567271</geo:lat>
       <geo:long>-59.033162742123125</geo:long>
       <content:encoded><![CDATA[
