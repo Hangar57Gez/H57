@@ -10,43 +10,43 @@
     <link></link>
     <description>Current conditions, and daily, monthly, and yearly summaries</description>
     <language>"en"</language>
-    <pubDate>Sat, 22 Feb 2025 11:15:00 -03</pubDate>
+    <pubDate>Sat, 22 Feb 2025 11:25:00 -03</pubDate>
 
-    <lastBuildDate>Sat, 22 Feb 2025 11:15:00 -03</lastBuildDate>
+    <lastBuildDate>Sat, 22 Feb 2025 11:25:00 -03</lastBuildDate>
     <docs>http://blogs.law.harvard.edu/tech/rss</docs>
     <generator>weewx 5.0.2</generator>
     <ttl>5.0 minutes</ttl>
 
     <item>
-      <title>Weather Conditions at 02/22/2025 11:15:00 AM</title>
+      <title>Weather Conditions at 02/22/2025 11:25:00 AM</title>
       <link></link>
       <description>
-        Outside Temperature: 23.8&#176;C;
+        Outside Temperature: 23.7&#176;C;
         Inside Temperature: 26.6&#176;C;
         Barometer: 1014.3 mbar;
-        Wind: 4 knots from 016&#176;;
+        Wind: 3 knots from 004&#176;;
         Rain: 0.0 mm;
         Rain Rate: 0.0 mm/h;
-        Wind Chill: 23.8&#176;C;
-        Heat Index: 24.5&#176;C;
+        Wind Chill: 23.7&#176;C;
+        Heat Index: 24.4&#176;C;
         Dew Point: 21.3&#176;C;
         Outside Humidity: 86%;
         Inside Humidity: 72%;
       </description>
-      <pubDate>Sat, 22 Feb 2025 11:15:00 -03</pubDate>
+      <pubDate>Sat, 22 Feb 2025 11:25:00 -03</pubDate>
       <geo:lat>-34.68247396567271</geo:lat>
       <geo:long>-59.033162742123125</geo:long>
       <content:encoded><![CDATA[
       <p>
-      Time: 02/22/2025 11:15:00 AM<br/>
-        Outside Temperature: 23.8&#176;C<br/>
+      Time: 02/22/2025 11:25:00 AM<br/>
+        Outside Temperature: 23.7&#176;C<br/>
         Inside Temperature: 26.6&#176;C<br/>
         Barometer: 1014.3 mbar<br/>
-        Wind: 4 knots from 016&#176;;
+        Wind: 3 knots from 004&#176;;
         Rain: 0.0 mm<br/>
         Rain Rate: 0.0 mm/h<br/>
-        Wind Chill: 23.8&#176;C<br/>
-        Heat Index: 24.5&#176;C<br/>
+        Wind Chill: 23.7&#176;C<br/>
+        Heat Index: 24.4&#176;C<br/>
         Dew Point: 21.3&#176;C<br/>
         Outside Humidity: 86%<br/>
         Inside Humidity: 72%<br/>
@@ -55,7 +55,7 @@
     </item>
 
     <item>
-      <title>Daily summary as of 02/22/2025 11:15:00 AM</title>
+      <title>Daily summary as of 02/22/2025 11:25:00 AM</title>
       <link></link>
       <description>
         Min Outside Temperature: 22.4&#176;C at 04:10:33 AM;
@@ -78,7 +78,7 @@
         Min Inside Humidity: 58% at 12:17:57 AM;
         Max Inside Humidity: 74% at 09:10:33 AM;
       </description>
-      <pubDate>Sat, 22 Feb 2025 11:15:00 -03</pubDate>
+      <pubDate>Sat, 22 Feb 2025 11:25:00 -03</pubDate>
       <geo:lat>-34.68247396567271</geo:lat>
       <geo:long>-59.033162742123125</geo:long>
       <content:encoded><![CDATA[
@@ -107,7 +107,7 @@
       ]]></content:encoded>
     </item>
     <item>
-      <title>Monthly summary as of 02/22/2025 11:15:00 AM</title>
+      <title>Monthly summary as of 02/22/2025 11:25:00 AM</title>
       <link></link>
       <description>
         Min Outside Temperature: 8.0&#176;C at 02/18/2025 06:38:55 AM;
@@ -130,7 +130,7 @@
         Min Inside Humidity: 31% at 02/02/2025 04:32:49 PM;
         Max Inside Humidity: 79% at 02/16/2025 07:16:32 AM;
       </description>
-      <pubDate>Sat, 22 Feb 2025 11:15:00 -03</pubDate>
+      <pubDate>Sat, 22 Feb 2025 11:25:00 -03</pubDate>
       <geo:lat>-34.68247396567271</geo:lat>
       <geo:long>-59.033162742123125</geo:long>
       <content:encoded><![CDATA[
@@ -159,7 +159,7 @@
       ]]></content:encoded>
     </item>
     <item>
-      <title>Yearly summary as of 02/22/2025 11:15:00 AM</title>
+      <title>Yearly summary as of 02/22/2025 11:25:00 AM</title>
       <link></link>
       <description>
         Min Outside Temperature: 8.0&#176;C at 02/18/2025 06:38:55 AM;
@@ -182,7 +182,7 @@
         Min Inside Humidity: 25% at 01/07/2025 05:07:31 PM;
         Max Inside Humidity: 79% at 02/16/2025 07:16:32 AM;
       </description>
-      <pubDate>Sat, 22 Feb 2025 11:15:00 -03</pubDate>
+      <pubDate>Sat, 22 Feb 2025 11:25:00 -03</pubDate>
       <geo:lat>-34.68247396567271</geo:lat>
       <geo:long>-59.033162742123125</geo:long>
       <content:encoded><![CDATA[
