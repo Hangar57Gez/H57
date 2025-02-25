@@ -10,42 +10,42 @@
     <link></link>
     <description>Current conditions, and daily, monthly, and yearly summaries</description>
     <language>"en"</language>
-    <pubDate>Mon, 24 Feb 2025 23:15:00 -03</pubDate>
+    <pubDate>Mon, 24 Feb 2025 23:25:00 -03</pubDate>
 
-    <lastBuildDate>Mon, 24 Feb 2025 23:15:00 -03</lastBuildDate>
+    <lastBuildDate>Mon, 24 Feb 2025 23:25:00 -03</lastBuildDate>
     <docs>http://blogs.law.harvard.edu/tech/rss</docs>
     <generator>weewx 5.0.2</generator>
     <ttl>5.0 minutes</ttl>
 
     <item>
-      <title>Weather Conditions at 02/24/2025 11:15:00 PM</title>
+      <title>Weather Conditions at 02/24/2025 11:25:00 PM</title>
       <link></link>
       <description>
-        Outside Temperature: 20.2&#176;C;
+        Outside Temperature: 20.1&#176;C;
         Inside Temperature: 22.4&#176;C;
         Barometer: 1011.5 mbar;
-        Wind: 1 knots from 096&#176;;
+        Wind: 0 knots from    N/A;
         Rain: 0.0 mm;
         Rain Rate: 0.0 mm/h;
-        Wind Chill: 20.2&#176;C;
+        Wind Chill: 20.1&#176;C;
         Heat Index: 20.7&#176;C;
         Dew Point: 19.3&#176;C;
         Outside Humidity: 95%;
         Inside Humidity: 77%;
       </description>
-      <pubDate>Mon, 24 Feb 2025 23:15:00 -03</pubDate>
+      <pubDate>Mon, 24 Feb 2025 23:25:00 -03</pubDate>
       <geo:lat>-34.68247396567271</geo:lat>
       <geo:long>-59.033162742123125</geo:long>
       <content:encoded><![CDATA[
       <p>
-      Time: 02/24/2025 11:15:00 PM<br/>
-        Outside Temperature: 20.2&#176;C<br/>
+      Time: 02/24/2025 11:25:00 PM<br/>
+        Outside Temperature: 20.1&#176;C<br/>
         Inside Temperature: 22.4&#176;C<br/>
         Barometer: 1011.5 mbar<br/>
-        Wind: 1 knots from 096&#176;;
+        Wind: 0 knots from    N/A;
         Rain: 0.0 mm<br/>
         Rain Rate: 0.0 mm/h<br/>
-        Wind Chill: 20.2&#176;C<br/>
+        Wind Chill: 20.1&#176;C<br/>
         Heat Index: 20.7&#176;C<br/>
         Dew Point: 19.3&#176;C<br/>
         Outside Humidity: 95%<br/>
@@ -55,7 +55,7 @@
     </item>
 
     <item>
-      <title>Daily summary as of 02/24/2025 11:15:00 PM</title>
+      <title>Daily summary as of 02/24/2025 11:25:00 PM</title>
       <link></link>
       <description>
         Min Outside Temperature: 19.7&#176;C at 09:25:35 AM;
@@ -78,7 +78,7 @@
         Min Inside Humidity: 70% at 04:31:47 AM;
         Max Inside Humidity: 77% at 08:49:32 PM;
       </description>
-      <pubDate>Mon, 24 Feb 2025 23:15:00 -03</pubDate>
+      <pubDate>Mon, 24 Feb 2025 23:25:00 -03</pubDate>
       <geo:lat>-34.68247396567271</geo:lat>
       <geo:long>-59.033162742123125</geo:long>
       <content:encoded><![CDATA[
@@ -107,7 +107,7 @@
       ]]></content:encoded>
     </item>
     <item>
-      <title>Monthly summary as of 02/24/2025 11:15:00 PM</title>
+      <title>Monthly summary as of 02/24/2025 11:25:00 PM</title>
       <link></link>
       <description>
         Min Outside Temperature: 8.0&#176;C at 02/18/2025 06:38:55 AM;
@@ -130,7 +130,7 @@
         Min Inside Humidity: 31% at 02/02/2025 04:32:49 PM;
         Max Inside Humidity: 79% at 02/16/2025 07:16:32 AM;
       </description>
-      <pubDate>Mon, 24 Feb 2025 23:15:00 -03</pubDate>
+      <pubDate>Mon, 24 Feb 2025 23:25:00 -03</pubDate>
       <geo:lat>-34.68247396567271</geo:lat>
       <geo:long>-59.033162742123125</geo:long>
       <content:encoded><![CDATA[
@@ -159,7 +159,7 @@
       ]]></content:encoded>
     </item>
     <item>
-      <title>Yearly summary as of 02/24/2025 11:15:00 PM</title>
+      <title>Yearly summary as of 02/24/2025 11:25:00 PM</title>
       <link></link>
       <description>
         Min Outside Temperature: 8.0&#176;C at 02/18/2025 06:38:55 AM;
@@ -182,7 +182,7 @@
         Min Inside Humidity: 25% at 01/07/2025 05:07:31 PM;
         Max Inside Humidity: 79% at 02/16/2025 07:16:32 AM;
       </description>
-      <pubDate>Mon, 24 Feb 2025 23:15:00 -03</pubDate>
+      <pubDate>Mon, 24 Feb 2025 23:25:00 -03</pubDate>
       <geo:lat>-34.68247396567271</geo:lat>
       <geo:long>-59.033162742123125</geo:long>
       <content:encoded><![CDATA[
