@@ -5,7 +5,7 @@ NAME: Hangar 57 - GEZ
 ELEV: 17 meters    LAT: 34-40.95 S    LONG: 059-01.99 W
 
 
-                                       TEMPERATURE (°C)
+                                       TEMPERATURE (C)
 
                               HEAT    COOL                              MAX    MAX    MIN    MIN
           MEAN   MEAN         DEG     DEG                                >=     <=     <=     <=
