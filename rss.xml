@@ -10,52 +10,52 @@
     <link></link>
     <description>Current conditions, and daily, monthly, and yearly summaries</description>
     <language>"en"</language>
-    <pubDate>Fri, 28 Feb 2025 17:15:00 -03</pubDate>
+    <pubDate>Fri, 28 Feb 2025 17:25:00 -03</pubDate>
 
-    <lastBuildDate>Fri, 28 Feb 2025 17:15:00 -03</lastBuildDate>
+    <lastBuildDate>Fri, 28 Feb 2025 17:25:00 -03</lastBuildDate>
     <docs>http://blogs.law.harvard.edu/tech/rss</docs>
     <generator>weewx 5.0.2</generator>
     <ttl>5.0 minutes</ttl>
 
     <item>
-      <title>Weather Conditions at 02/28/2025 05:15:00 PM</title>
+      <title>Weather Conditions at 02/28/2025 05:25:00 PM</title>
       <link></link>
       <description>
-        Outside Temperature: 28.5&#176;C;
-        Inside Temperature: 29.5&#176;C;
-        Barometer: 1005.2 mbar;
-        Wind: 6 knots from 109&#176;;
+        Outside Temperature: 28.6&#176;C;
+        Inside Temperature: 29.6&#176;C;
+        Barometer: 1005.1 mbar;
+        Wind: 6 knots from 094&#176;;
         Rain: 0.0 mm;
         Rain Rate: 0.0 mm/h;
-        Wind Chill: 28.5&#176;C;
-        Heat Index: 32.8&#176;C;
-        Dew Point: 23.9&#176;C;
-        Outside Humidity: 76%;
-        Inside Humidity: 75%;
+        Wind Chill: 28.6&#176;C;
+        Heat Index: 32.7&#176;C;
+        Dew Point: 23.7&#176;C;
+        Outside Humidity: 75%;
+        Inside Humidity: 74%;
       </description>
-      <pubDate>Fri, 28 Feb 2025 17:15:00 -03</pubDate>
+      <pubDate>Fri, 28 Feb 2025 17:25:00 -03</pubDate>
       <geo:lat>-34.68247396567271</geo:lat>
       <geo:long>-59.033162742123125</geo:long>
       <content:encoded><![CDATA[
       <p>
-      Time: 02/28/2025 05:15:00 PM<br/>
-        Outside Temperature: 28.5&#176;C<br/>
-        Inside Temperature: 29.5&#176;C<br/>
-        Barometer: 1005.2 mbar<br/>
-        Wind: 6 knots from 109&#176;;
+      Time: 02/28/2025 05:25:00 PM<br/>
+        Outside Temperature: 28.6&#176;C<br/>
+        Inside Temperature: 29.6&#176;C<br/>
+        Barometer: 1005.1 mbar<br/>
+        Wind: 6 knots from 094&#176;;
         Rain: 0.0 mm<br/>
         Rain Rate: 0.0 mm/h<br/>
-        Wind Chill: 28.5&#176;C<br/>
-        Heat Index: 32.8&#176;C<br/>
-        Dew Point: 23.9&#176;C<br/>
-        Outside Humidity: 76%<br/>
-        Inside Humidity: 75%<br/>
+        Wind Chill: 28.6&#176;C<br/>
+        Heat Index: 32.7&#176;C<br/>
+        Dew Point: 23.7&#176;C<br/>
+        Outside Humidity: 75%<br/>
+        Inside Humidity: 74%<br/>
       </p>
       ]]></content:encoded>
     </item>
 
     <item>
-      <title>Daily summary as of 02/28/2025 05:15:00 PM</title>
+      <title>Daily summary as of 02/28/2025 05:25:00 PM</title>
       <link></link>
       <description>
         Min Outside Temperature: 21.7&#176;C at 12:06:26 PM;
@@ -64,7 +64,7 @@
         Max Inside Temperature: 29.8&#176;C at 04:20:00 PM;
         Min Barometer: 1004.7 mbar at 04:45:43 PM;
         Max Barometer: 1011.5 mbar at 11:48:30 AM;
-        Max Wind: 11 knots from 339&#176; at 10:24:02 AM;
+        Max Wind: 12 knots from 070&#176; at 05:22:25 PM;
         Rain: 43.9 mm;
         Max Rain Rate: 78.0 mm/h;
         Min Wind Chill: 21.7&#176;C at 12:06:26 PM;
@@ -78,7 +78,7 @@
         Min Inside Humidity: 74% at 05:14:30 PM;
         Max Inside Humidity: 83% at 11:25:43 AM;
       </description>
-      <pubDate>Fri, 28 Feb 2025 17:15:00 -03</pubDate>
+      <pubDate>Fri, 28 Feb 2025 17:25:00 -03</pubDate>
       <geo:lat>-34.68247396567271</geo:lat>
       <geo:long>-59.033162742123125</geo:long>
       <content:encoded><![CDATA[
@@ -90,7 +90,7 @@
         Max Inside Temperature: 29.8&#176;C at 04:20:00 PM<br/>
         Min Barometer: 1004.7 mbar at 04:45:43 PM<br/>
         Max Barometer: 1011.5 mbar at 11:48:30 AM<br/>
-        Max Wind: 11 knots from 339&#176; at 10:24:02 AM<br/>
+        Max Wind: 12 knots from 070&#176; at 05:22:25 PM<br/>
         Rain: 43.9 mm<br/>
         Max Rain Rate: 78.0 mm/h<br/>
         Min Wind Chill: 21.7&#176;C at 12:06:26 PM<br/>
@@ -107,7 +107,7 @@
       ]]></content:encoded>
     </item>
     <item>
-      <title>Monthly summary as of 02/28/2025 05:15:00 PM</title>
+      <title>Monthly summary as of 02/28/2025 05:25:00 PM</title>
       <link></link>
       <description>
         Min Outside Temperature: 8.0&#176;C at 02/18/2025 06:38:55 AM;
@@ -130,7 +130,7 @@
         Min Inside Humidity: 31% at 02/02/2025 04:32:49 PM;
         Max Inside Humidity: 83% at 02/26/2025 09:54:00 AM;
       </description>
-      <pubDate>Fri, 28 Feb 2025 17:15:00 -03</pubDate>
+      <pubDate>Fri, 28 Feb 2025 17:25:00 -03</pubDate>
       <geo:lat>-34.68247396567271</geo:lat>
       <geo:long>-59.033162742123125</geo:long>
       <content:encoded><![CDATA[
@@ -159,7 +159,7 @@
       ]]></content:encoded>
     </item>
     <item>
-      <title>Yearly summary as of 02/28/2025 05:15:00 PM</title>
+      <title>Yearly summary as of 02/28/2025 05:25:00 PM</title>
       <link></link>
       <description>
         Min Outside Temperature: 8.0&#176;C at 02/18/2025 06:38:55 AM;
@@ -182,7 +182,7 @@
         Min Inside Humidity: 25% at 01/07/2025 05:07:31 PM;
         Max Inside Humidity: 83% at 02/26/2025 09:54:00 AM;
       </description>
-      <pubDate>Fri, 28 Feb 2025 17:15:00 -03</pubDate>
+      <pubDate>Fri, 28 Feb 2025 17:25:00 -03</pubDate>
       <geo:lat>-34.68247396567271</geo:lat>
       <geo:long>-59.033162742123125</geo:long>
       <content:encoded><![CDATA[
