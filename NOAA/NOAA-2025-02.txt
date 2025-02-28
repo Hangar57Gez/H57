@@ -5,7 +5,7 @@ NAME: Hangar 57 - GEZ
 ELEV: 17 meters    LAT: 34-40.95 S    LONG: 059-01.99 W
 
 
-                   TEMPERATURE (C), RAIN (mm), WIND SPEED (knots)
+                   TEMPERATURE (°C), RAIN (mm), WIND SPEED (knots)
 
                                          HEAT   COOL         AVG
       MEAN                               DEG    DEG          WIND                   DOM
@@ -41,3 +41,4 @@ DAY   TEMP   HIGH   TIME    LOW   TIME   DAYS   DAYS   RAIN  SPEED   HIGH   TIME
  28   23.5   24.3  00:05   22.4  06:05    0.0    5.2    0.0    0.3    2.9  00:48     80
 ---------------------------------------------------------------------------------------
       24.6   39.8     03    8.0     18    1.6  176.2  267.4    2.9   36.7     11     82
+    
