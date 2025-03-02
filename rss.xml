@@ -10,52 +10,52 @@
     <link></link>
     <description>Current conditions, and daily, monthly, and yearly summaries</description>
     <language>"en"</language>
-    <pubDate>Sun, 02 Mar 2025 07:55:00 -03</pubDate>
+    <pubDate>Sun, 02 Mar 2025 08:05:00 -03</pubDate>
 
-    <lastBuildDate>Sun, 02 Mar 2025 07:55:00 -03</lastBuildDate>
+    <lastBuildDate>Sun, 02 Mar 2025 08:05:00 -03</lastBuildDate>
     <docs>http://blogs.law.harvard.edu/tech/rss</docs>
     <generator>weewx 5.0.2</generator>
     <ttl>5.0 minutes</ttl>
 
     <item>
-      <title>Weather Conditions at 03/02/2025 07:55:00 AM</title>
+      <title>Weather Conditions at 03/02/2025 08:05:00 AM</title>
       <link></link>
       <description>
-        Outside Temperature: 21.5&#176;C;
-        Inside Temperature: 23.2&#176;C;
-        Barometer: 1016.0 mbar;
-        Wind: 1 knots from 082&#176;;
+        Outside Temperature: 21.7&#176;C;
+        Inside Temperature: 23.5&#176;C;
+        Barometer: 1016.3 mbar;
+        Wind: 1 knots from 073&#176;;
         Rain: 0.0 mm;
         Rain Rate: 0.0 mm/h;
-        Wind Chill: 21.5&#176;C;
-        Heat Index: 22.2&#176;C;
-        Dew Point: 21.0&#176;C;
-        Outside Humidity: 97%;
+        Wind Chill: 21.7&#176;C;
+        Heat Index: 22.5&#176;C;
+        Dew Point: 21.1&#176;C;
+        Outside Humidity: 96%;
         Inside Humidity: 78%;
       </description>
-      <pubDate>Sun, 02 Mar 2025 07:55:00 -03</pubDate>
+      <pubDate>Sun, 02 Mar 2025 08:05:00 -03</pubDate>
       <geo:lat>-34.68247396567271</geo:lat>
       <geo:long>-59.033162742123125</geo:long>
       <content:encoded><![CDATA[
       <p>
-      Time: 03/02/2025 07:55:00 AM<br/>
-        Outside Temperature: 21.5&#176;C<br/>
-        Inside Temperature: 23.2&#176;C<br/>
-        Barometer: 1016.0 mbar<br/>
-        Wind: 1 knots from 082&#176;;
+      Time: 03/02/2025 08:05:00 AM<br/>
+        Outside Temperature: 21.7&#176;C<br/>
+        Inside Temperature: 23.5&#176;C<br/>
+        Barometer: 1016.3 mbar<br/>
+        Wind: 1 knots from 073&#176;;
         Rain: 0.0 mm<br/>
         Rain Rate: 0.0 mm/h<br/>
-        Wind Chill: 21.5&#176;C<br/>
-        Heat Index: 22.2&#176;C<br/>
-        Dew Point: 21.0&#176;C<br/>
-        Outside Humidity: 97%<br/>
+        Wind Chill: 21.7&#176;C<br/>
+        Heat Index: 22.5&#176;C<br/>
+        Dew Point: 21.1&#176;C<br/>
+        Outside Humidity: 96%<br/>
         Inside Humidity: 78%<br/>
       </p>
       ]]></content:encoded>
     </item>
 
     <item>
-      <title>Daily summary as of 03/02/2025 07:55:00 AM</title>
+      <title>Daily summary as of 03/02/2025 08:05:00 AM</title>
       <link></link>
       <description>
         Min Outside Temperature: 20.3&#176;C at 03:43:25 AM;
@@ -63,7 +63,7 @@
         Min Inside Temperature: 23.0&#176;C at 07:03:46 AM;
         Max Inside Temperature: 25.9&#176;C at 12:00:29 AM;
         Min Barometer: 1013.5 mbar at 04:40:34 AM;
-        Max Barometer: 1016.1 mbar at 07:29:32 AM;
+        Max Barometer: 1016.4 mbar at 08:01:32 AM;
         Max Wind: 4 knots from 053&#176; at 12:48:30 AM;
         Rain: 0.0 mm;
         Max Rain Rate: 0.0 mm/h;
@@ -72,13 +72,13 @@
         Min Heat Index: 20.9&#176;C at 03:43:25 AM;
         Max Heat Index: 23.2&#176;C at 12:00:29 AM;
         Min Dew Point: 19.6&#176;C at 03:43:25 AM;
-        Max Dew Point: 21.1&#176;C at 07:54:32 AM;
+        Max Dew Point: 21.2&#176;C at 07:59:25 AM;
         Min Outside Humidity: 90% at 12:00:29 AM;
         Max Outside Humidity: 97% at 04:08:34 AM;
         Min Inside Humidity: 72% at 12:00:29 AM;
         Max Inside Humidity: 78% at 07:17:32 AM;
       </description>
-      <pubDate>Sun, 02 Mar 2025 07:55:00 -03</pubDate>
+      <pubDate>Sun, 02 Mar 2025 08:05:00 -03</pubDate>
       <geo:lat>-34.68247396567271</geo:lat>
       <geo:long>-59.033162742123125</geo:long>
       <content:encoded><![CDATA[
@@ -89,7 +89,7 @@
         Min Inside Temperature: 23.0&#176;C at 07:03:46 AM<br/>
         Max Inside Temperature: 25.9&#176;C at 12:00:29 AM<br/>
         Min Barometer: 1013.5 mbar at 04:40:34 AM<br/>
-        Max Barometer: 1016.1 mbar at 07:29:32 AM<br/>
+        Max Barometer: 1016.4 mbar at 08:01:32 AM<br/>
         Max Wind: 4 knots from 053&#176; at 12:48:30 AM<br/>
         Rain: 0.0 mm<br/>
         Max Rain Rate: 0.0 mm/h<br/>
@@ -98,7 +98,7 @@
         Min Heat Index: 20.9&#176;C at 03:43:25 AM<br/>
         Max Heat Index: 23.2&#176;C at 12:00:29 AM<br/>
         Min Dew Point: 19.6&#176;C at 03:43:25 AM<br/>
-        Max Dew Point: 21.1&#176;C at 07:54:32 AM<br/>
+        Max Dew Point: 21.2&#176;C at 07:59:25 AM<br/>
         Min Outside Humidity: 90% at 12:00:29 AM<br/>
         Max Outside Humidity: 97% at 04:08:34 AM<br/>
         Min Inside Humidity: 72% at 12:00:29 AM<br/>
@@ -107,7 +107,7 @@
       ]]></content:encoded>
     </item>
     <item>
-      <title>Monthly summary as of 03/02/2025 07:55:00 AM</title>
+      <title>Monthly summary as of 03/02/2025 08:05:00 AM</title>
       <link></link>
       <description>
         Min Outside Temperature: 20.3&#176;C at 03/02/2025 03:43:25 AM;
@@ -115,7 +115,7 @@
         Min Inside Temperature: 22.8&#176;C at 03/01/2025 07:26:31 AM;
         Max Inside Temperature: 32.1&#176;C at 03/01/2025 06:14:44 PM;
         Min Barometer: 1004.5 mbar at 03/01/2025 02:22:56 AM;
-        Max Barometer: 1016.1 mbar at 03/02/2025 07:29:32 AM;
+        Max Barometer: 1016.4 mbar at 03/02/2025 08:01:32 AM;
         Max Wind: 12 knots from 322&#176; at 03/01/2025 05:31:28 AM;
         Rain: 0.8 mm;
         Max Rain Rate: 3.0 mm/h;
@@ -130,7 +130,7 @@
         Min Inside Humidity: 58% at 03/01/2025 04:18:31 PM;
         Max Inside Humidity: 83% at 03/01/2025 06:09:32 AM;
       </description>
-      <pubDate>Sun, 02 Mar 2025 07:55:00 -03</pubDate>
+      <pubDate>Sun, 02 Mar 2025 08:05:00 -03</pubDate>
       <geo:lat>-34.68247396567271</geo:lat>
       <geo:long>-59.033162742123125</geo:long>
       <content:encoded><![CDATA[
@@ -141,7 +141,7 @@
         Min Inside Temperature: 22.8&#176;C at 03/01/2025 07:26:31 AM<br/>
         Max Inside Temperature: 32.1&#176;C at 03/01/2025 06:14:44 PM<br/>
         Min Barometer: 1004.5 mbar at 03/01/2025 02:22:56 AM<br/>
-        Max Barometer: 1016.1 mbar at 03/02/2025 07:29:32 AM<br/>
+        Max Barometer: 1016.4 mbar at 03/02/2025 08:01:32 AM<br/>
         Max Wind: 12 knots from 322&#176; at 03/01/2025 05:31:28 AM<br/>
         Rain: 0.8 mm<br/>
         Max Rain Rate: 3.0 mm/h<br/>
@@ -159,7 +159,7 @@
       ]]></content:encoded>
     </item>
     <item>
-      <title>Yearly summary as of 03/02/2025 07:55:00 AM</title>
+      <title>Yearly summary as of 03/02/2025 08:05:00 AM</title>
       <link></link>
       <description>
         Min Outside Temperature: 8.0&#176;C at 02/18/2025 06:38:55 AM;
@@ -182,7 +182,7 @@
         Min Inside Humidity: 25% at 01/07/2025 05:07:31 PM;
         Max Inside Humidity: 83% at 02/26/2025 09:54:00 AM;
       </description>
-      <pubDate>Sun, 02 Mar 2025 07:55:00 -03</pubDate>
+      <pubDate>Sun, 02 Mar 2025 08:05:00 -03</pubDate>
       <geo:lat>-34.68247396567271</geo:lat>
       <geo:long>-59.033162742123125</geo:long>
       <content:encoded><![CDATA[
