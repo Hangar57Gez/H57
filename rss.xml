@@ -10,52 +10,52 @@
     <link></link>
     <description>Current conditions, and daily, monthly, and yearly summaries</description>
     <language>"en"</language>
-    <pubDate>Wed, 12 Mar 2025 04:45:00 -03</pubDate>
+    <pubDate>Wed, 12 Mar 2025 04:55:00 -03</pubDate>
 
-    <lastBuildDate>Wed, 12 Mar 2025 04:45:00 -03</lastBuildDate>
+    <lastBuildDate>Wed, 12 Mar 2025 04:55:00 -03</lastBuildDate>
     <docs>http://blogs.law.harvard.edu/tech/rss</docs>
     <generator>weewx 5.0.2</generator>
     <ttl>5.0 minutes</ttl>
 
     <item>
-      <title>Weather Conditions at 03/12/2025 04:45:00 AM</title>
+      <title>Weather Conditions at 03/12/2025 04:55:00 AM</title>
       <link></link>
       <description>
-        Outside Temperature: 13.2&#176;C;
-        Inside Temperature: 16.8&#176;C;
+        Outside Temperature: 13.1&#176;C;
+        Inside Temperature: 16.7&#176;C;
         Barometer: 1025.7 mbar;
-        Wind: 5 knots from 171&#176;;
+        Wind: 4 knots from 153&#176;;
         Rain: 0.0 mm;
         Rain Rate: 0.0 mm/h;
-        Wind Chill: 13.2&#176;C;
-        Heat Index: 12.7&#176;C;
+        Wind Chill: 13.1&#176;C;
+        Heat Index: 12.5&#176;C;
         Dew Point: 9.9&#176;C;
-        Outside Humidity: 80%;
+        Outside Humidity: 81%;
         Inside Humidity: 65%;
       </description>
-      <pubDate>Wed, 12 Mar 2025 04:45:00 -03</pubDate>
+      <pubDate>Wed, 12 Mar 2025 04:55:00 -03</pubDate>
       <geo:lat>-34.68247396567271</geo:lat>
       <geo:long>-59.033162742123125</geo:long>
       <content:encoded><![CDATA[
       <p>
-      Time: 03/12/2025 04:45:00 AM<br/>
-        Outside Temperature: 13.2&#176;C<br/>
-        Inside Temperature: 16.8&#176;C<br/>
+      Time: 03/12/2025 04:55:00 AM<br/>
+        Outside Temperature: 13.1&#176;C<br/>
+        Inside Temperature: 16.7&#176;C<br/>
         Barometer: 1025.7 mbar<br/>
-        Wind: 5 knots from 171&#176;;
+        Wind: 4 knots from 153&#176;;
         Rain: 0.0 mm<br/>
         Rain Rate: 0.0 mm/h<br/>
-        Wind Chill: 13.2&#176;C<br/>
-        Heat Index: 12.7&#176;C<br/>
+        Wind Chill: 13.1&#176;C<br/>
+        Heat Index: 12.5&#176;C<br/>
         Dew Point: 9.9&#176;C<br/>
-        Outside Humidity: 80%<br/>
+        Outside Humidity: 81%<br/>
         Inside Humidity: 65%<br/>
       </p>
       ]]></content:encoded>
     </item>
 
     <item>
-      <title>Daily summary as of 03/12/2025 04:45:00 AM</title>
+      <title>Daily summary as of 03/12/2025 04:55:00 AM</title>
       <link></link>
       <description>
         Min Outside Temperature: 12.9&#176;C at 04:03:14 AM;
@@ -71,14 +71,14 @@
         Max Wind Chill: 15.2&#176;C at 12:20:02 AM;
         Min Heat Index: 12.4&#176;C at 04:03:14 AM;
         Max Heat Index: 14.8&#176;C at 12:21:06 AM;
-        Min Dew Point: 9.8&#176;C at 04:35:13 AM;
+        Min Dew Point: 9.7&#176;C at 04:48:31 AM;
         Max Dew Point: 11.5&#176;C at 01:19:14 AM;
         Min Outside Humidity: 73% at 12:17:06 AM;
         Max Outside Humidity: 84% at 04:02:46 AM;
         Min Inside Humidity: 62% at 12:00:02 AM;
         Max Inside Humidity: 65% at 03:03:34 AM;
       </description>
-      <pubDate>Wed, 12 Mar 2025 04:45:00 -03</pubDate>
+      <pubDate>Wed, 12 Mar 2025 04:55:00 -03</pubDate>
       <geo:lat>-34.68247396567271</geo:lat>
       <geo:long>-59.033162742123125</geo:long>
       <content:encoded><![CDATA[
@@ -97,7 +97,7 @@
         Max Wind Chill: 15.2&#176;C at 12:20:02 AM<br/>
         Min Heat Index: 12.4&#176;C at 04:03:14 AM<br/>
         Max Heat Index: 14.8&#176;C at 12:21:06 AM<br/>
-        Min Dew Point: 9.8&#176;C at 04:35:13 AM<br/>
+        Min Dew Point: 9.7&#176;C at 04:48:31 AM<br/>
         Max Dew Point: 11.5&#176;C at 01:19:14 AM<br/>
         Min Outside Humidity: 73% at 12:17:06 AM<br/>
         Max Outside Humidity: 84% at 04:02:46 AM<br/>
@@ -107,7 +107,7 @@
       ]]></content:encoded>
     </item>
     <item>
-      <title>Monthly summary as of 03/12/2025 04:45:00 AM</title>
+      <title>Monthly summary as of 03/12/2025 04:55:00 AM</title>
       <link></link>
       <description>
         Min Outside Temperature: 10.2&#176;C at 03/09/2025 07:02:30 AM;
@@ -130,7 +130,7 @@
         Min Inside Humidity: 40% at 03/09/2025 05:16:44 PM;
         Max Inside Humidity: 86% at 03/04/2025 12:33:31 PM;
       </description>
-      <pubDate>Wed, 12 Mar 2025 04:45:00 -03</pubDate>
+      <pubDate>Wed, 12 Mar 2025 04:55:00 -03</pubDate>
       <geo:lat>-34.68247396567271</geo:lat>
       <geo:long>-59.033162742123125</geo:long>
       <content:encoded><![CDATA[
@@ -159,7 +159,7 @@
       ]]></content:encoded>
     </item>
     <item>
-      <title>Yearly summary as of 03/12/2025 04:45:00 AM</title>
+      <title>Yearly summary as of 03/12/2025 04:55:00 AM</title>
       <link></link>
       <description>
         Min Outside Temperature: 8.0&#176;C at 02/18/2025 06:38:55 AM;
@@ -182,7 +182,7 @@
         Min Inside Humidity: 25% at 01/07/2025 05:07:31 PM;
         Max Inside Humidity: 86% at 03/04/2025 12:33:31 PM;
       </description>
-      <pubDate>Wed, 12 Mar 2025 04:45:00 -03</pubDate>
+      <pubDate>Wed, 12 Mar 2025 04:55:00 -03</pubDate>
       <geo:lat>-34.68247396567271</geo:lat>
       <geo:long>-59.033162742123125</geo:long>
       <content:encoded><![CDATA[
