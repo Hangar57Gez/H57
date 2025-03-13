@@ -10,58 +10,58 @@
     <link></link>
     <description>Current conditions, and daily, monthly, and yearly summaries</description>
     <language>"en"</language>
-    <pubDate>Thu, 13 Mar 2025 10:25:00 -03</pubDate>
+    <pubDate>Thu, 13 Mar 2025 10:35:00 -03</pubDate>
 
-    <lastBuildDate>Thu, 13 Mar 2025 10:25:00 -03</lastBuildDate>
+    <lastBuildDate>Thu, 13 Mar 2025 10:35:00 -03</lastBuildDate>
     <docs>http://blogs.law.harvard.edu/tech/rss</docs>
     <generator>weewx 5.0.2</generator>
     <ttl>5.0 minutes</ttl>
 
     <item>
-      <title>Weather Conditions at 03/13/2025 10:25:00 AM</title>
+      <title>Weather Conditions at 03/13/2025 10:35:00 AM</title>
       <link></link>
       <description>
-        Outside Temperature: 18.0&#176;C;
-        Inside Temperature: 17.9&#176;C;
+        Outside Temperature: 18.2&#176;C;
+        Inside Temperature: 18.2&#176;C;
         Barometer: 1026.4 mbar;
-        Wind: 4 knots from 153&#176;;
+        Wind: 5 knots from 142&#176;;
         Rain: 0.0 mm;
         Rain Rate: 0.0 mm/h;
-        Wind Chill: 18.0&#176;C;
-        Heat Index: 17.6&#176;C;
+        Wind Chill: 18.2&#176;C;
+        Heat Index: 17.7&#176;C;
         Dew Point: 11.5&#176;C;
-        Outside Humidity: 66%;
-        Inside Humidity: 64%;
+        Outside Humidity: 65%;
+        Inside Humidity: 63%;
       </description>
-      <pubDate>Thu, 13 Mar 2025 10:25:00 -03</pubDate>
+      <pubDate>Thu, 13 Mar 2025 10:35:00 -03</pubDate>
       <geo:lat>-34.68247396567271</geo:lat>
       <geo:long>-59.033162742123125</geo:long>
       <content:encoded><![CDATA[
       <p>
-      Time: 03/13/2025 10:25:00 AM<br/>
-        Outside Temperature: 18.0&#176;C<br/>
-        Inside Temperature: 17.9&#176;C<br/>
+      Time: 03/13/2025 10:35:00 AM<br/>
+        Outside Temperature: 18.2&#176;C<br/>
+        Inside Temperature: 18.2&#176;C<br/>
         Barometer: 1026.4 mbar<br/>
-        Wind: 4 knots from 153&#176;;
+        Wind: 5 knots from 142&#176;;
         Rain: 0.0 mm<br/>
         Rain Rate: 0.0 mm/h<br/>
-        Wind Chill: 18.0&#176;C<br/>
-        Heat Index: 17.6&#176;C<br/>
+        Wind Chill: 18.2&#176;C<br/>
+        Heat Index: 17.7&#176;C<br/>
         Dew Point: 11.5&#176;C<br/>
-        Outside Humidity: 66%<br/>
-        Inside Humidity: 64%<br/>
+        Outside Humidity: 65%<br/>
+        Inside Humidity: 63%<br/>
       </p>
       ]]></content:encoded>
     </item>
 
     <item>
-      <title>Daily summary as of 03/13/2025 10:25:00 AM</title>
+      <title>Daily summary as of 03/13/2025 10:35:00 AM</title>
       <link></link>
       <description>
         Min Outside Temperature: 8.9&#176;C at 07:10:07 AM;
         Max Outside Temperature: 18.5&#176;C at 10:24:14 AM;
         Min Inside Temperature: 13.4&#176;C at 07:47:58 AM;
-        Max Inside Temperature: 18.0&#176;C at 10:23:47 AM;
+        Max Inside Temperature: 18.3&#176;C at 10:33:32 AM;
         Min Barometer: 1025.6 mbar at 04:12:30 AM;
         Max Barometer: 1027.1 mbar at 08:04:35 AM;
         Max Wind: 10 knots from 141&#176; at 10:09:32 AM;
@@ -78,7 +78,7 @@
         Min Inside Humidity: 59% at 12:00:30 AM;
         Max Inside Humidity: 68% at 07:57:02 AM;
       </description>
-      <pubDate>Thu, 13 Mar 2025 10:25:00 -03</pubDate>
+      <pubDate>Thu, 13 Mar 2025 10:35:00 -03</pubDate>
       <geo:lat>-34.68247396567271</geo:lat>
       <geo:long>-59.033162742123125</geo:long>
       <content:encoded><![CDATA[
@@ -87,7 +87,7 @@
         Min Outside Temperature: 8.9&#176;C at 07:10:07 AM<br/>
         Max Outside Temperature: 18.5&#176;C at 10:24:14 AM<br/>
         Min Inside Temperature: 13.4&#176;C at 07:47:58 AM<br/>
-        Max Inside Temperature: 18.0&#176;C at 10:23:47 AM<br/>
+        Max Inside Temperature: 18.3&#176;C at 10:33:32 AM<br/>
         Min Barometer: 1025.6 mbar at 04:12:30 AM<br/>
         Max Barometer: 1027.1 mbar at 08:04:35 AM<br/>
         Max Wind: 10 knots from 141&#176; at 10:09:32 AM<br/>
@@ -107,7 +107,7 @@
       ]]></content:encoded>
     </item>
     <item>
-      <title>Monthly summary as of 03/13/2025 10:25:00 AM</title>
+      <title>Monthly summary as of 03/13/2025 10:35:00 AM</title>
       <link></link>
       <description>
         Min Outside Temperature: 8.9&#176;C at 03/13/2025 07:10:07 AM;
@@ -130,7 +130,7 @@
         Min Inside Humidity: 40% at 03/09/2025 05:16:44 PM;
         Max Inside Humidity: 86% at 03/04/2025 12:33:31 PM;
       </description>
-      <pubDate>Thu, 13 Mar 2025 10:25:00 -03</pubDate>
+      <pubDate>Thu, 13 Mar 2025 10:35:00 -03</pubDate>
       <geo:lat>-34.68247396567271</geo:lat>
       <geo:long>-59.033162742123125</geo:long>
       <content:encoded><![CDATA[
@@ -159,7 +159,7 @@
       ]]></content:encoded>
     </item>
     <item>
-      <title>Yearly summary as of 03/13/2025 10:25:00 AM</title>
+      <title>Yearly summary as of 03/13/2025 10:35:00 AM</title>
       <link></link>
       <description>
         Min Outside Temperature: 8.0&#176;C at 02/18/2025 06:38:55 AM;
@@ -182,7 +182,7 @@
         Min Inside Humidity: 25% at 01/07/2025 05:07:31 PM;
         Max Inside Humidity: 86% at 03/04/2025 12:33:31 PM;
       </description>
-      <pubDate>Thu, 13 Mar 2025 10:25:00 -03</pubDate>
+      <pubDate>Thu, 13 Mar 2025 10:35:00 -03</pubDate>
       <geo:lat>-34.68247396567271</geo:lat>
       <geo:long>-59.033162742123125</geo:long>
       <content:encoded><![CDATA[
