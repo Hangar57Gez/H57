@@ -10,61 +10,61 @@
     <link></link>
     <description>Current conditions, and daily, monthly, and yearly summaries</description>
     <language>"en"</language>
-    <pubDate>Sat, 15 Mar 2025 11:45:00 -03</pubDate>
+    <pubDate>Sat, 15 Mar 2025 11:55:00 -03</pubDate>
 
-    <lastBuildDate>Sat, 15 Mar 2025 11:45:00 -03</lastBuildDate>
+    <lastBuildDate>Sat, 15 Mar 2025 11:55:00 -03</lastBuildDate>
     <docs>http://blogs.law.harvard.edu/tech/rss</docs>
     <generator>weewx 5.0.2</generator>
     <ttl>5.0 minutes</ttl>
 
     <item>
-      <title>Weather Conditions at 03/15/2025 11:45:00 AM</title>
+      <title>Weather Conditions at 03/15/2025 11:55:00 AM</title>
       <link></link>
       <description>
         Outside Temperature: 25.2&#176;C;
-        Inside Temperature: 23.2&#176;C;
+        Inside Temperature: 23.4&#176;C;
         Barometer: 1020.2 mbar;
-        Wind: 5 knots from 097&#176;;
+        Wind: 4 knots from 087&#176;;
         Rain: 0.0 mm;
         Rain Rate: 0.0 mm/h;
         Wind Chill: 25.2&#176;C;
         Heat Index: 25.3&#176;C;
-        Dew Point: 16.7&#176;C;
-        Outside Humidity: 59%;
-        Inside Humidity: 65%;
+        Dew Point: 16.5&#176;C;
+        Outside Humidity: 58%;
+        Inside Humidity: 64%;
       </description>
-      <pubDate>Sat, 15 Mar 2025 11:45:00 -03</pubDate>
+      <pubDate>Sat, 15 Mar 2025 11:55:00 -03</pubDate>
       <geo:lat>-34.68247396567271</geo:lat>
       <geo:long>-59.033162742123125</geo:long>
       <content:encoded><![CDATA[
       <p>
-      Time: 03/15/2025 11:45:00 AM<br/>
+      Time: 03/15/2025 11:55:00 AM<br/>
         Outside Temperature: 25.2&#176;C<br/>
-        Inside Temperature: 23.2&#176;C<br/>
+        Inside Temperature: 23.4&#176;C<br/>
         Barometer: 1020.2 mbar<br/>
-        Wind: 5 knots from 097&#176;;
+        Wind: 4 knots from 087&#176;;
         Rain: 0.0 mm<br/>
         Rain Rate: 0.0 mm/h<br/>
         Wind Chill: 25.2&#176;C<br/>
         Heat Index: 25.3&#176;C<br/>
-        Dew Point: 16.7&#176;C<br/>
-        Outside Humidity: 59%<br/>
-        Inside Humidity: 65%<br/>
+        Dew Point: 16.5&#176;C<br/>
+        Outside Humidity: 58%<br/>
+        Inside Humidity: 64%<br/>
       </p>
       ]]></content:encoded>
     </item>
 
     <item>
-      <title>Daily summary as of 03/15/2025 11:45:00 AM</title>
+      <title>Daily summary as of 03/15/2025 11:55:00 AM</title>
       <link></link>
       <description>
         Min Outside Temperature: 10.1&#176;C at 06:28:57 AM;
         Max Outside Temperature: 25.5&#176;C at 11:10:01 AM;
         Min Inside Temperature: 14.2&#176;C at 06:42:01 AM;
         Max Inside Temperature: 23.4&#176;C at 11:43:31 AM;
-        Min Barometer: 1020.1 mbar at 11:42:31 AM;
+        Min Barometer: 1020.0 mbar at 11:46:32 AM;
         Max Barometer: 1021.7 mbar at 07:47:31 AM;
-        Max Wind: 8 knots from 081&#176; at 11:03:54 AM;
+        Max Wind: 10 knots from 093&#176; at 11:52:25 AM;
         Rain: 0.0 mm;
         Max Rain Rate: 0.0 mm/h;
         Min Wind Chill: 10.1&#176;C at 06:28:57 AM;
@@ -73,12 +73,12 @@
         Max Heat Index: 25.7&#176;C at 11:11:05 AM;
         Min Dew Point: 9.8&#176;C at 06:28:57 AM;
         Max Dew Point: 17.7&#176;C at 11:15:05 AM;
-        Min Outside Humidity: 58% at 11:38:31 AM;
+        Min Outside Humidity: 57% at 11:51:53 AM;
         Max Outside Humidity: 98% at 03:46:01 AM;
         Min Inside Humidity: 64% at 11:43:31 AM;
         Max Inside Humidity: 75% at 09:12:46 AM;
       </description>
-      <pubDate>Sat, 15 Mar 2025 11:45:00 -03</pubDate>
+      <pubDate>Sat, 15 Mar 2025 11:55:00 -03</pubDate>
       <geo:lat>-34.68247396567271</geo:lat>
       <geo:long>-59.033162742123125</geo:long>
       <content:encoded><![CDATA[
@@ -88,9 +88,9 @@
         Max Outside Temperature: 25.5&#176;C at 11:10:01 AM<br/>
         Min Inside Temperature: 14.2&#176;C at 06:42:01 AM<br/>
         Max Inside Temperature: 23.4&#176;C at 11:43:31 AM<br/>
-        Min Barometer: 1020.1 mbar at 11:42:31 AM<br/>
+        Min Barometer: 1020.0 mbar at 11:46:32 AM<br/>
         Max Barometer: 1021.7 mbar at 07:47:31 AM<br/>
-        Max Wind: 8 knots from 081&#176; at 11:03:54 AM<br/>
+        Max Wind: 10 knots from 093&#176; at 11:52:25 AM<br/>
         Rain: 0.0 mm<br/>
         Max Rain Rate: 0.0 mm/h<br/>
         Min Wind Chill: 10.1&#176;C at 06:28:57 AM<br/>
@@ -99,7 +99,7 @@
         Max Heat Index: 25.7&#176;C at 11:11:05 AM<br/>
         Min Dew Point: 9.8&#176;C at 06:28:57 AM<br/>
         Max Dew Point: 17.7&#176;C at 11:15:05 AM<br/>
-        Min Outside Humidity: 58% at 11:38:31 AM<br/>
+        Min Outside Humidity: 57% at 11:51:53 AM<br/>
         Max Outside Humidity: 98% at 03:46:01 AM<br/>
         Min Inside Humidity: 64% at 11:43:31 AM<br/>
         Max Inside Humidity: 75% at 09:12:46 AM<br/>
@@ -107,7 +107,7 @@
       ]]></content:encoded>
     </item>
     <item>
-      <title>Monthly summary as of 03/15/2025 11:45:00 AM</title>
+      <title>Monthly summary as of 03/15/2025 11:55:00 AM</title>
       <link></link>
       <description>
         Min Outside Temperature: 7.6&#176;C at 03/14/2025 06:22:04 AM;
@@ -130,7 +130,7 @@
         Min Inside Humidity: 40% at 03/09/2025 05:16:44 PM;
         Max Inside Humidity: 86% at 03/04/2025 12:33:31 PM;
       </description>
-      <pubDate>Sat, 15 Mar 2025 11:45:00 -03</pubDate>
+      <pubDate>Sat, 15 Mar 2025 11:55:00 -03</pubDate>
       <geo:lat>-34.68247396567271</geo:lat>
       <geo:long>-59.033162742123125</geo:long>
       <content:encoded><![CDATA[
@@ -159,7 +159,7 @@
       ]]></content:encoded>
     </item>
     <item>
-      <title>Yearly summary as of 03/15/2025 11:45:00 AM</title>
+      <title>Yearly summary as of 03/15/2025 11:55:00 AM</title>
       <link></link>
       <description>
         Min Outside Temperature: 7.6&#176;C at 03/14/2025 06:22:04 AM;
@@ -182,7 +182,7 @@
         Min Inside Humidity: 25% at 01/07/2025 05:07:31 PM;
         Max Inside Humidity: 86% at 03/04/2025 12:33:31 PM;
       </description>
-      <pubDate>Sat, 15 Mar 2025 11:45:00 -03</pubDate>
+      <pubDate>Sat, 15 Mar 2025 11:55:00 -03</pubDate>
       <geo:lat>-34.68247396567271</geo:lat>
       <geo:long>-59.033162742123125</geo:long>
       <content:encoded><![CDATA[
