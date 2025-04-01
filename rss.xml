@@ -10,44 +10,44 @@
     <link></link>
     <description>Current conditions, and daily, monthly, and yearly summaries</description>
     <language>"en"</language>
-    <pubDate>Tue, 01 Apr 2025 07:05:00 -03</pubDate>
+    <pubDate>Tue, 01 Apr 2025 07:15:00 -03</pubDate>
 
-    <lastBuildDate>Tue, 01 Apr 2025 07:05:00 -03</lastBuildDate>
+    <lastBuildDate>Tue, 01 Apr 2025 07:15:00 -03</lastBuildDate>
     <docs>http://blogs.law.harvard.edu/tech/rss</docs>
     <generator>weewx 5.0.2</generator>
     <ttl>5.0 minutes</ttl>
 
     <item>
-      <title>Weather Conditions at 04/01/2025 07:05:00 AM</title>
+      <title>Weather Conditions at 04/01/2025 07:15:00 AM</title>
       <link></link>
       <description>
-        Outside Temperature: 6.7&#176;C;
-        Inside Temperature: 11.6&#176;C;
+        Outside Temperature: 6.5&#176;C;
+        Inside Temperature: 11.5&#176;C;
         Barometer: 1026.5 mbar;
-        Wind: 0 knots from 115&#176;;
+        Wind: 0 knots from    N/A;
         Rain: 0.0 mm;
         Rain Rate: 0.0 mm/h;
-        Wind Chill: 6.7&#176;C;
-        Heat Index: 5.9&#176;C;
-        Dew Point: 6.1&#176;C;
+        Wind Chill: 6.5&#176;C;
+        Heat Index: 5.8&#176;C;
+        Dew Point: 6.0&#176;C;
         Outside Humidity: 96%;
         Inside Humidity: 65%;
       </description>
-      <pubDate>Tue, 01 Apr 2025 07:05:00 -03</pubDate>
+      <pubDate>Tue, 01 Apr 2025 07:15:00 -03</pubDate>
       <geo:lat>-34.68247396567271</geo:lat>
       <geo:long>-59.033162742123125</geo:long>
       <content:encoded><![CDATA[
       <p>
-      Time: 04/01/2025 07:05:00 AM<br/>
-        Outside Temperature: 6.7&#176;C<br/>
-        Inside Temperature: 11.6&#176;C<br/>
+      Time: 04/01/2025 07:15:00 AM<br/>
+        Outside Temperature: 6.5&#176;C<br/>
+        Inside Temperature: 11.5&#176;C<br/>
         Barometer: 1026.5 mbar<br/>
-        Wind: 0 knots from 115&#176;;
+        Wind: 0 knots from    N/A;
         Rain: 0.0 mm<br/>
         Rain Rate: 0.0 mm/h<br/>
-        Wind Chill: 6.7&#176;C<br/>
-        Heat Index: 5.9&#176;C<br/>
-        Dew Point: 6.1&#176;C<br/>
+        Wind Chill: 6.5&#176;C<br/>
+        Heat Index: 5.8&#176;C<br/>
+        Dew Point: 6.0&#176;C<br/>
         Outside Humidity: 96%<br/>
         Inside Humidity: 65%<br/>
       </p>
@@ -55,49 +55,49 @@
     </item>
 
     <item>
-      <title>Daily summary as of 04/01/2025 07:05:00 AM</title>
+      <title>Daily summary as of 04/01/2025 07:15:00 AM</title>
       <link></link>
       <description>
-        Min Outside Temperature: 6.6&#176;C at 07:02:02 AM;
+        Min Outside Temperature: 6.4&#176;C at 07:14:02 AM;
         Max Outside Temperature: 11.7&#176;C at 01:33:30 AM;
-        Min Inside Temperature: 11.6&#176;C at 07:00:00 AM;
+        Min Inside Temperature: 11.5&#176;C at 07:06:02 AM;
         Max Inside Temperature: 16.0&#176;C at 12:00:26 AM;
         Min Barometer: 1024.8 mbar at 12:02:31 AM;
-        Max Barometer: 1026.6 mbar at 06:44:31 AM;
+        Max Barometer: 1026.6 mbar at 07:14:02 AM;
         Max Wind: 5 knots from 161&#176; at 01:21:14 AM;
         Rain: 0.0 mm;
         Max Rain Rate: 0.0 mm/h;
-        Min Wind Chill: 6.6&#176;C at 07:02:02 AM;
+        Min Wind Chill: 6.4&#176;C at 07:14:02 AM;
         Max Wind Chill: 11.7&#176;C at 01:33:30 AM;
-        Min Heat Index: 5.8&#176;C at 07:02:02 AM;
+        Min Heat Index: 5.6&#176;C at 07:14:02 AM;
         Max Heat Index: 11.3&#176;C at 01:33:30 AM;
-        Min Dew Point: 6.0&#176;C at 07:00:58 AM;
+        Min Dew Point: 5.8&#176;C at 07:14:02 AM;
         Max Dew Point: 10.3&#176;C at 12:01:35 AM;
         Min Outside Humidity: 85% at 02:23:55 AM;
         Max Outside Humidity: 96% at 04:59:22 AM;
         Min Inside Humidity: 64% at 07:03:31 AM;
         Max Inside Humidity: 66% at 01:12:31 AM;
       </description>
-      <pubDate>Tue, 01 Apr 2025 07:05:00 -03</pubDate>
+      <pubDate>Tue, 01 Apr 2025 07:15:00 -03</pubDate>
       <geo:lat>-34.68247396567271</geo:lat>
       <geo:long>-59.033162742123125</geo:long>
       <content:encoded><![CDATA[
       <p>
       Daily summary as of 01 Apr 2025<br/>
-        Min Outside Temperature: 6.6&#176;C at 07:02:02 AM<br/>
+        Min Outside Temperature: 6.4&#176;C at 07:14:02 AM<br/>
         Max Outside Temperature: 11.7&#176;C at 01:33:30 AM<br/>
-        Min Inside Temperature: 11.6&#176;C at 07:00:00 AM<br/>
+        Min Inside Temperature: 11.5&#176;C at 07:06:02 AM<br/>
         Max Inside Temperature: 16.0&#176;C at 12:00:26 AM<br/>
         Min Barometer: 1024.8 mbar at 12:02:31 AM<br/>
-        Max Barometer: 1026.6 mbar at 06:44:31 AM<br/>
+        Max Barometer: 1026.6 mbar at 07:14:02 AM<br/>
         Max Wind: 5 knots from 161&#176; at 01:21:14 AM<br/>
         Rain: 0.0 mm<br/>
         Max Rain Rate: 0.0 mm/h<br/>
-        Min Wind Chill: 6.6&#176;C at 07:02:02 AM<br/>
+        Min Wind Chill: 6.4&#176;C at 07:14:02 AM<br/>
         Max Wind Chill: 11.7&#176;C at 01:33:30 AM<br/>
-        Min Heat Index: 5.8&#176;C at 07:02:02 AM<br/>
+        Min Heat Index: 5.6&#176;C at 07:14:02 AM<br/>
         Max Heat Index: 11.3&#176;C at 01:33:30 AM<br/>
-        Min Dew Point: 6.0&#176;C at 07:00:58 AM<br/>
+        Min Dew Point: 5.8&#176;C at 07:14:02 AM<br/>
         Max Dew Point: 10.3&#176;C at 12:01:35 AM<br/>
         Min Outside Humidity: 85% at 02:23:55 AM<br/>
         Max Outside Humidity: 96% at 04:59:22 AM<br/>
@@ -107,49 +107,49 @@
       ]]></content:encoded>
     </item>
     <item>
-      <title>Monthly summary as of 04/01/2025 07:05:00 AM</title>
+      <title>Monthly summary as of 04/01/2025 07:15:00 AM</title>
       <link></link>
       <description>
-        Min Outside Temperature: 6.6&#176;C at 04/01/2025 07:02:02 AM;
+        Min Outside Temperature: 6.4&#176;C at 04/01/2025 07:14:02 AM;
         Max Outside Temperature: 11.7&#176;C at 04/01/2025 01:33:30 AM;
-        Min Inside Temperature: 11.6&#176;C at 04/01/2025 07:00:00 AM;
+        Min Inside Temperature: 11.5&#176;C at 04/01/2025 07:06:02 AM;
         Max Inside Temperature: 16.0&#176;C at 04/01/2025 12:00:26 AM;
         Min Barometer: 1024.8 mbar at 04/01/2025 12:02:31 AM;
-        Max Barometer: 1026.6 mbar at 04/01/2025 06:44:31 AM;
+        Max Barometer: 1026.6 mbar at 04/01/2025 07:14:02 AM;
         Max Wind: 5 knots from 161&#176; at 04/01/2025 01:21:14 AM;
         Rain: 0.0 mm;
         Max Rain Rate: 0.0 mm/h;
-        Min Wind Chill: 6.6&#176;C at 04/01/2025 07:02:02 AM;
+        Min Wind Chill: 6.4&#176;C at 04/01/2025 07:14:02 AM;
         Max Wind Chill: 11.7&#176;C at 04/01/2025 01:33:30 AM;
-        Min Heat Index: 5.8&#176;C at 04/01/2025 07:02:02 AM;
+        Min Heat Index: 5.6&#176;C at 04/01/2025 07:14:02 AM;
         Max Heat Index: 11.3&#176;C at 04/01/2025 01:33:30 AM;
-        Min Dew Point: 6.0&#176;C at 04/01/2025 07:00:58 AM;
+        Min Dew Point: 5.8&#176;C at 04/01/2025 07:14:02 AM;
         Max Dew Point: 10.3&#176;C at 04/01/2025 12:01:35 AM;
         Min Outside Humidity: 85% at 04/01/2025 02:23:55 AM;
         Max Outside Humidity: 96% at 04/01/2025 04:59:22 AM;
         Min Inside Humidity: 64% at 04/01/2025 07:03:31 AM;
         Max Inside Humidity: 66% at 04/01/2025 01:12:31 AM;
       </description>
-      <pubDate>Tue, 01 Apr 2025 07:05:00 -03</pubDate>
+      <pubDate>Tue, 01 Apr 2025 07:15:00 -03</pubDate>
       <geo:lat>-34.68247396567271</geo:lat>
       <geo:long>-59.033162742123125</geo:long>
       <content:encoded><![CDATA[
       <p>
       Monthly summary as of 01 Apr 2025<br/>
-        Min Outside Temperature: 6.6&#176;C at 04/01/2025 07:02:02 AM<br/>
+        Min Outside Temperature: 6.4&#176;C at 04/01/2025 07:14:02 AM<br/>
         Max Outside Temperature: 11.7&#176;C at 04/01/2025 01:33:30 AM<br/>
-        Min Inside Temperature: 11.6&#176;C at 04/01/2025 07:00:00 AM<br/>
+        Min Inside Temperature: 11.5&#176;C at 04/01/2025 07:06:02 AM<br/>
         Max Inside Temperature: 16.0&#176;C at 04/01/2025 12:00:26 AM<br/>
         Min Barometer: 1024.8 mbar at 04/01/2025 12:02:31 AM<br/>
-        Max Barometer: 1026.6 mbar at 04/01/2025 06:44:31 AM<br/>
+        Max Barometer: 1026.6 mbar at 04/01/2025 07:14:02 AM<br/>
         Max Wind: 5 knots from 161&#176; at 04/01/2025 01:21:14 AM<br/>
         Rain: 0.0 mm<br/>
         Max Rain Rate: 0.0 mm/h<br/>
-        Min Wind Chill: 6.6&#176;C at 04/01/2025 07:02:02 AM<br/>
+        Min Wind Chill: 6.4&#176;C at 04/01/2025 07:14:02 AM<br/>
         Max Wind Chill: 11.7&#176;C at 04/01/2025 01:33:30 AM<br/>
-        Min Heat Index: 5.8&#176;C at 04/01/2025 07:02:02 AM<br/>
+        Min Heat Index: 5.6&#176;C at 04/01/2025 07:14:02 AM<br/>
         Max Heat Index: 11.3&#176;C at 04/01/2025 01:33:30 AM<br/>
-        Min Dew Point: 6.0&#176;C at 04/01/2025 07:00:58 AM<br/>
+        Min Dew Point: 5.8&#176;C at 04/01/2025 07:14:02 AM<br/>
         Max Dew Point: 10.3&#176;C at 04/01/2025 12:01:35 AM<br/>
         Min Outside Humidity: 85% at 04/01/2025 02:23:55 AM<br/>
         Max Outside Humidity: 96% at 04/01/2025 04:59:22 AM<br/>
@@ -159,21 +159,21 @@
       ]]></content:encoded>
     </item>
     <item>
-      <title>Yearly summary as of 04/01/2025 07:05:00 AM</title>
+      <title>Yearly summary as of 04/01/2025 07:15:00 AM</title>
       <link></link>
       <description>
-        Min Outside Temperature: 6.6&#176;C at 04/01/2025 07:02:02 AM;
+        Min Outside Temperature: 6.4&#176;C at 04/01/2025 07:14:02 AM;
         Max Outside Temperature: 41.5&#176;C at 01/16/2025 04:28:32 PM;
-        Min Inside Temperature: 11.6&#176;C at 04/01/2025 07:00:00 AM;
+        Min Inside Temperature: 11.5&#176;C at 04/01/2025 07:06:02 AM;
         Max Inside Temperature: 39.4&#176;C at 01/16/2025 04:36:48 PM;
         Min Barometer: 1000.9 mbar at 02/10/2025 07:10:33 PM;
         Max Barometer: 1028.3 mbar at 03/12/2025 08:44:00 AM;
         Max Wind: 39 knots from 327&#176; at 01/24/2025 04:51:03 AM;
         Rain: 433.4 mm;
         Max Rain Rate: 87.0 mm/h;
-        Min Wind Chill: 6.6&#176;C at 04/01/2025 07:02:02 AM;
+        Min Wind Chill: 6.4&#176;C at 04/01/2025 07:14:02 AM;
         Max Wind Chill: 41.5&#176;C at 01/16/2025 04:28:32 PM;
-        Min Heat Index: 5.8&#176;C at 04/01/2025 07:02:02 AM;
+        Min Heat Index: 5.6&#176;C at 04/01/2025 07:14:02 AM;
         Max Heat Index: 53.3&#176;C at 03/05/2025 02:49:32 PM;
         Min Dew Point: 3.6&#176;C at 01/06/2025 08:37:26 PM;
         Max Dew Point: 27.8&#176;C at 03/05/2025 02:49:32 PM;
@@ -182,24 +182,24 @@
         Min Inside Humidity: 25% at 01/07/2025 05:07:31 PM;
         Max Inside Humidity: 86% at 03/04/2025 12:33:31 PM;
       </description>
-      <pubDate>Tue, 01 Apr 2025 07:05:00 -03</pubDate>
+      <pubDate>Tue, 01 Apr 2025 07:15:00 -03</pubDate>
       <geo:lat>-34.68247396567271</geo:lat>
       <geo:long>-59.033162742123125</geo:long>
       <content:encoded><![CDATA[
       <p>
       Yearly summary as of 01 Jan 2025<br/>
-        Min Outside Temperature: 6.6&#176;C at 04/01/2025 07:02:02 AM<br/>
+        Min Outside Temperature: 6.4&#176;C at 04/01/2025 07:14:02 AM<br/>
         Max Outside Temperature: 41.5&#176;C at 01/16/2025 04:28:32 PM<br/>
-        Min Inside Temperature: 11.6&#176;C at 04/01/2025 07:00:00 AM<br/>
+        Min Inside Temperature: 11.5&#176;C at 04/01/2025 07:06:02 AM<br/>
         Max Inside Temperature: 39.4&#176;C at 01/16/2025 04:36:48 PM<br/>
         Min Barometer: 1000.9 mbar at 02/10/2025 07:10:33 PM<br/>
         Max Barometer: 1028.3 mbar at 03/12/2025 08:44:00 AM<br/>
         Max Wind: 39 knots from 327&#176; at 01/24/2025 04:51:03 AM<br/>
         Rain: 433.4 mm<br/>
         Max Rain Rate: 87.0 mm/h<br/>
-        Min Wind Chill: 6.6&#176;C at 04/01/2025 07:02:02 AM<br/>
+        Min Wind Chill: 6.4&#176;C at 04/01/2025 07:14:02 AM<br/>
         Max Wind Chill: 41.5&#176;C at 01/16/2025 04:28:32 PM<br/>
-        Min Heat Index: 5.8&#176;C at 04/01/2025 07:02:02 AM<br/>
+        Min Heat Index: 5.6&#176;C at 04/01/2025 07:14:02 AM<br/>
         Max Heat Index: 53.3&#176;C at 03/05/2025 02:49:32 PM<br/>
         Min Dew Point: 3.6&#176;C at 01/06/2025 08:37:26 PM<br/>
         Max Dew Point: 27.8&#176;C at 03/05/2025 02:49:32 PM<br/>
