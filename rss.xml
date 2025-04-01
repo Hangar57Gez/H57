@@ -10,52 +10,52 @@
     <link></link>
     <description>Current conditions, and daily, monthly, and yearly summaries</description>
     <language>"en"</language>
-    <pubDate>Tue, 01 Apr 2025 07:45:00 -03</pubDate>
+    <pubDate>Tue, 01 Apr 2025 07:55:00 -03</pubDate>
 
-    <lastBuildDate>Tue, 01 Apr 2025 07:45:00 -03</lastBuildDate>
+    <lastBuildDate>Tue, 01 Apr 2025 07:55:00 -03</lastBuildDate>
     <docs>http://blogs.law.harvard.edu/tech/rss</docs>
     <generator>weewx 5.0.2</generator>
     <ttl>5.0 minutes</ttl>
 
     <item>
-      <title>Weather Conditions at 04/01/2025 07:45:00 AM</title>
+      <title>Weather Conditions at 04/01/2025 07:55:00 AM</title>
       <link></link>
       <description>
-        Outside Temperature: 7.3&#176;C;
-        Inside Temperature: 11.6&#176;C;
-        Barometer: 1026.6 mbar;
+        Outside Temperature: 7.9&#176;C;
+        Inside Temperature: 11.8&#176;C;
+        Barometer: 1026.8 mbar;
         Wind: 0 knots from    N/A;
         Rain: 0.0 mm;
         Rain Rate: 0.0 mm/h;
-        Wind Chill: 7.3&#176;C;
-        Heat Index: 6.6&#176;C;
-        Dew Point: 6.8&#176;C;
-        Outside Humidity: 97%;
-        Inside Humidity: 65%;
+        Wind Chill: 7.9&#176;C;
+        Heat Index: 7.3&#176;C;
+        Dew Point: 7.4&#176;C;
+        Outside Humidity: 96%;
+        Inside Humidity: 66%;
       </description>
-      <pubDate>Tue, 01 Apr 2025 07:45:00 -03</pubDate>
+      <pubDate>Tue, 01 Apr 2025 07:55:00 -03</pubDate>
       <geo:lat>-34.68247396567271</geo:lat>
       <geo:long>-59.033162742123125</geo:long>
       <content:encoded><![CDATA[
       <p>
-      Time: 04/01/2025 07:45:00 AM<br/>
-        Outside Temperature: 7.3&#176;C<br/>
-        Inside Temperature: 11.6&#176;C<br/>
-        Barometer: 1026.6 mbar<br/>
+      Time: 04/01/2025 07:55:00 AM<br/>
+        Outside Temperature: 7.9&#176;C<br/>
+        Inside Temperature: 11.8&#176;C<br/>
+        Barometer: 1026.8 mbar<br/>
         Wind: 0 knots from    N/A;
         Rain: 0.0 mm<br/>
         Rain Rate: 0.0 mm/h<br/>
-        Wind Chill: 7.3&#176;C<br/>
-        Heat Index: 6.6&#176;C<br/>
-        Dew Point: 6.8&#176;C<br/>
-        Outside Humidity: 97%<br/>
-        Inside Humidity: 65%<br/>
+        Wind Chill: 7.9&#176;C<br/>
+        Heat Index: 7.3&#176;C<br/>
+        Dew Point: 7.4&#176;C<br/>
+        Outside Humidity: 96%<br/>
+        Inside Humidity: 66%<br/>
       </p>
       ]]></content:encoded>
     </item>
 
     <item>
-      <title>Daily summary as of 04/01/2025 07:45:00 AM</title>
+      <title>Daily summary as of 04/01/2025 07:55:00 AM</title>
       <link></link>
       <description>
         Min Outside Temperature: 6.4&#176;C at 07:14:02 AM;
@@ -63,7 +63,7 @@
         Min Inside Temperature: 11.4&#176;C at 07:27:31 AM;
         Max Inside Temperature: 16.0&#176;C at 12:00:26 AM;
         Min Barometer: 1024.8 mbar at 12:02:31 AM;
-        Max Barometer: 1026.7 mbar at 07:27:53 AM;
+        Max Barometer: 1026.8 mbar at 07:50:32 AM;
         Max Wind: 5 knots from 161&#176; at 01:21:14 AM;
         Rain: 0.0 mm;
         Max Rain Rate: 0.0 mm/h;
@@ -78,7 +78,7 @@
         Min Inside Humidity: 64% at 07:03:31 AM;
         Max Inside Humidity: 66% at 01:12:31 AM;
       </description>
-      <pubDate>Tue, 01 Apr 2025 07:45:00 -03</pubDate>
+      <pubDate>Tue, 01 Apr 2025 07:55:00 -03</pubDate>
       <geo:lat>-34.68247396567271</geo:lat>
       <geo:long>-59.033162742123125</geo:long>
       <content:encoded><![CDATA[
@@ -89,7 +89,7 @@
         Min Inside Temperature: 11.4&#176;C at 07:27:31 AM<br/>
         Max Inside Temperature: 16.0&#176;C at 12:00:26 AM<br/>
         Min Barometer: 1024.8 mbar at 12:02:31 AM<br/>
-        Max Barometer: 1026.7 mbar at 07:27:53 AM<br/>
+        Max Barometer: 1026.8 mbar at 07:50:32 AM<br/>
         Max Wind: 5 knots from 161&#176; at 01:21:14 AM<br/>
         Rain: 0.0 mm<br/>
         Max Rain Rate: 0.0 mm/h<br/>
@@ -107,7 +107,7 @@
       ]]></content:encoded>
     </item>
     <item>
-      <title>Monthly summary as of 04/01/2025 07:45:00 AM</title>
+      <title>Monthly summary as of 04/01/2025 07:55:00 AM</title>
       <link></link>
       <description>
         Min Outside Temperature: 6.4&#176;C at 04/01/2025 07:14:02 AM;
@@ -115,7 +115,7 @@
         Min Inside Temperature: 11.4&#176;C at 04/01/2025 07:27:31 AM;
         Max Inside Temperature: 16.0&#176;C at 04/01/2025 12:00:26 AM;
         Min Barometer: 1024.8 mbar at 04/01/2025 12:02:31 AM;
-        Max Barometer: 1026.7 mbar at 04/01/2025 07:27:53 AM;
+        Max Barometer: 1026.8 mbar at 04/01/2025 07:50:32 AM;
         Max Wind: 5 knots from 161&#176; at 04/01/2025 01:21:14 AM;
         Rain: 0.0 mm;
         Max Rain Rate: 0.0 mm/h;
@@ -130,7 +130,7 @@
         Min Inside Humidity: 64% at 04/01/2025 07:03:31 AM;
         Max Inside Humidity: 66% at 04/01/2025 01:12:31 AM;
       </description>
-      <pubDate>Tue, 01 Apr 2025 07:45:00 -03</pubDate>
+      <pubDate>Tue, 01 Apr 2025 07:55:00 -03</pubDate>
       <geo:lat>-34.68247396567271</geo:lat>
       <geo:long>-59.033162742123125</geo:long>
       <content:encoded><![CDATA[
@@ -141,7 +141,7 @@
         Min Inside Temperature: 11.4&#176;C at 04/01/2025 07:27:31 AM<br/>
         Max Inside Temperature: 16.0&#176;C at 04/01/2025 12:00:26 AM<br/>
         Min Barometer: 1024.8 mbar at 04/01/2025 12:02:31 AM<br/>
-        Max Barometer: 1026.7 mbar at 04/01/2025 07:27:53 AM<br/>
+        Max Barometer: 1026.8 mbar at 04/01/2025 07:50:32 AM<br/>
         Max Wind: 5 knots from 161&#176; at 04/01/2025 01:21:14 AM<br/>
         Rain: 0.0 mm<br/>
         Max Rain Rate: 0.0 mm/h<br/>
@@ -159,7 +159,7 @@
       ]]></content:encoded>
     </item>
     <item>
-      <title>Yearly summary as of 04/01/2025 07:45:00 AM</title>
+      <title>Yearly summary as of 04/01/2025 07:55:00 AM</title>
       <link></link>
       <description>
         Min Outside Temperature: 6.4&#176;C at 04/01/2025 07:14:02 AM;
@@ -182,7 +182,7 @@
         Min Inside Humidity: 25% at 01/07/2025 05:07:31 PM;
         Max Inside Humidity: 86% at 03/04/2025 12:33:31 PM;
       </description>
-      <pubDate>Tue, 01 Apr 2025 07:45:00 -03</pubDate>
+      <pubDate>Tue, 01 Apr 2025 07:55:00 -03</pubDate>
       <geo:lat>-34.68247396567271</geo:lat>
       <geo:long>-59.033162742123125</geo:long>
       <content:encoded><![CDATA[
