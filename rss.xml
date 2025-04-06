@@ -10,44 +10,44 @@
     <link></link>
     <description>Current conditions, and daily, monthly, and yearly summaries</description>
     <language>"en"</language>
-    <pubDate>Sun, 06 Apr 2025 00:45:00 -03</pubDate>
+    <pubDate>Sun, 06 Apr 2025 00:55:00 -03</pubDate>
 
-    <lastBuildDate>Sun, 06 Apr 2025 00:45:00 -03</lastBuildDate>
+    <lastBuildDate>Sun, 06 Apr 2025 00:55:00 -03</lastBuildDate>
     <docs>http://blogs.law.harvard.edu/tech/rss</docs>
     <generator>weewx 5.0.2</generator>
     <ttl>5.0 minutes</ttl>
 
     <item>
-      <title>Weather Conditions at 04/06/2025 12:45:00 AM</title>
+      <title>Weather Conditions at 04/06/2025 12:55:00 AM</title>
       <link></link>
       <description>
-        Outside Temperature: 7.4&#176;C;
-        Inside Temperature: 13.5&#176;C;
+        Outside Temperature: 8.2&#176;C;
+        Inside Temperature: 13.3&#176;C;
         Barometer: 1029.9 mbar;
-        Wind: 1 knots from 346&#176;;
+        Wind: 1 knots from 135&#176;;
         Rain: 0.0 mm;
         Rain Rate: 0.0 mm/h;
-        Wind Chill: 7.4&#176;C;
-        Heat Index: 6.6&#176;C;
-        Dew Point: 6.4&#176;C;
+        Wind Chill: 8.2&#176;C;
+        Heat Index: 7.5&#176;C;
+        Dew Point: 7.2&#176;C;
         Outside Humidity: 93%;
         Inside Humidity: 60%;
       </description>
-      <pubDate>Sun, 06 Apr 2025 00:45:00 -03</pubDate>
+      <pubDate>Sun, 06 Apr 2025 00:55:00 -03</pubDate>
       <geo:lat>-34.68247396567271</geo:lat>
       <geo:long>-59.033162742123125</geo:long>
       <content:encoded><![CDATA[
       <p>
-      Time: 04/06/2025 12:45:00 AM<br/>
-        Outside Temperature: 7.4&#176;C<br/>
-        Inside Temperature: 13.5&#176;C<br/>
+      Time: 04/06/2025 12:55:00 AM<br/>
+        Outside Temperature: 8.2&#176;C<br/>
+        Inside Temperature: 13.3&#176;C<br/>
         Barometer: 1029.9 mbar<br/>
-        Wind: 1 knots from 346&#176;;
+        Wind: 1 knots from 135&#176;;
         Rain: 0.0 mm<br/>
         Rain Rate: 0.0 mm/h<br/>
-        Wind Chill: 7.4&#176;C<br/>
-        Heat Index: 6.6&#176;C<br/>
-        Dew Point: 6.4&#176;C<br/>
+        Wind Chill: 8.2&#176;C<br/>
+        Heat Index: 7.5&#176;C<br/>
+        Dew Point: 7.2&#176;C<br/>
         Outside Humidity: 93%<br/>
         Inside Humidity: 60%<br/>
       </p>
@@ -55,15 +55,15 @@
     </item>
 
     <item>
-      <title>Daily summary as of 04/06/2025 12:45:00 AM</title>
+      <title>Daily summary as of 04/06/2025 12:55:00 AM</title>
       <link></link>
       <description>
         Min Outside Temperature: 7.3&#176;C at 12:38:56 AM;
         Max Outside Temperature: 8.7&#176;C at 12:17:03 AM;
-        Min Inside Temperature: 13.5&#176;C at 12:37:31 AM;
+        Min Inside Temperature: 13.3&#176;C at 12:53:31 AM;
         Max Inside Temperature: 13.9&#176;C at 12:00:31 AM;
         Min Barometer: 1029.3 mbar at 12:05:02 AM;
-        Max Barometer: 1029.9 mbar at 12:38:56 AM;
+        Max Barometer: 1030.0 mbar at 12:53:31 AM;
         Max Wind: 3 knots from 350&#176; at 12:37:31 AM;
         Rain: 0.0 mm;
         Max Rain Rate: 0.0 mm/h;
@@ -74,11 +74,11 @@
         Min Dew Point: 6.2&#176;C at 12:37:02 AM;
         Max Dew Point: 7.5&#176;C at 12:17:03 AM;
         Min Outside Humidity: 91% at 12:19:58 AM;
-        Max Outside Humidity: 93% at 12:01:30 AM;
+        Max Outside Humidity: 94% at 12:46:23 AM;
         Min Inside Humidity: 59% at 12:00:31 AM;
         Max Inside Humidity: 60% at 12:39:47 AM;
       </description>
-      <pubDate>Sun, 06 Apr 2025 00:45:00 -03</pubDate>
+      <pubDate>Sun, 06 Apr 2025 00:55:00 -03</pubDate>
       <geo:lat>-34.68247396567271</geo:lat>
       <geo:long>-59.033162742123125</geo:long>
       <content:encoded><![CDATA[
@@ -86,10 +86,10 @@
       Daily summary as of 06 Apr 2025<br/>
         Min Outside Temperature: 7.3&#176;C at 12:38:56 AM<br/>
         Max Outside Temperature: 8.7&#176;C at 12:17:03 AM<br/>
-        Min Inside Temperature: 13.5&#176;C at 12:37:31 AM<br/>
+        Min Inside Temperature: 13.3&#176;C at 12:53:31 AM<br/>
         Max Inside Temperature: 13.9&#176;C at 12:00:31 AM<br/>
         Min Barometer: 1029.3 mbar at 12:05:02 AM<br/>
-        Max Barometer: 1029.9 mbar at 12:38:56 AM<br/>
+        Max Barometer: 1030.0 mbar at 12:53:31 AM<br/>
         Max Wind: 3 knots from 350&#176; at 12:37:31 AM<br/>
         Rain: 0.0 mm<br/>
         Max Rain Rate: 0.0 mm/h<br/>
@@ -100,14 +100,14 @@
         Min Dew Point: 6.2&#176;C at 12:37:02 AM<br/>
         Max Dew Point: 7.5&#176;C at 12:17:03 AM<br/>
         Min Outside Humidity: 91% at 12:19:58 AM<br/>
-        Max Outside Humidity: 93% at 12:01:30 AM<br/>
+        Max Outside Humidity: 94% at 12:46:23 AM<br/>
         Min Inside Humidity: 59% at 12:00:31 AM<br/>
         Max Inside Humidity: 60% at 12:39:47 AM<br/>
       </p>
       ]]></content:encoded>
     </item>
     <item>
-      <title>Monthly summary as of 04/06/2025 12:45:00 AM</title>
+      <title>Monthly summary as of 04/06/2025 12:55:00 AM</title>
       <link></link>
       <description>
         Min Outside Temperature: 3.4&#176;C at 04/04/2025 05:22:26 AM;
@@ -130,7 +130,7 @@
         Min Inside Humidity: 35% at 04/03/2025 03:58:59 PM;
         Max Inside Humidity: 72% at 04/02/2025 10:23:32 AM;
       </description>
-      <pubDate>Sun, 06 Apr 2025 00:45:00 -03</pubDate>
+      <pubDate>Sun, 06 Apr 2025 00:55:00 -03</pubDate>
       <geo:lat>-34.68247396567271</geo:lat>
       <geo:long>-59.033162742123125</geo:long>
       <content:encoded><![CDATA[
@@ -159,7 +159,7 @@
       ]]></content:encoded>
     </item>
     <item>
-      <title>Yearly summary as of 04/06/2025 12:45:00 AM</title>
+      <title>Yearly summary as of 04/06/2025 12:55:00 AM</title>
       <link></link>
       <description>
         Min Outside Temperature: 3.4&#176;C at 04/04/2025 05:22:26 AM;
@@ -182,7 +182,7 @@
         Min Inside Humidity: 25% at 01/07/2025 05:07:31 PM;
         Max Inside Humidity: 86% at 03/04/2025 12:33:31 PM;
       </description>
-      <pubDate>Sun, 06 Apr 2025 00:45:00 -03</pubDate>
+      <pubDate>Sun, 06 Apr 2025 00:55:00 -03</pubDate>
       <geo:lat>-34.68247396567271</geo:lat>
       <geo:long>-59.033162742123125</geo:long>
       <content:encoded><![CDATA[
