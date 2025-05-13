@@ -61,8 +61,8 @@
         Min Outside Temperature: 9.5&#176;C at 12:00:29 AM;
         Max Outside Temperature: 22.4&#176;C at 01:18:56 PM;
         Min Inside Temperature: 12.0&#176;C at 07:11:46 AM;
-        Max Inside Temperature: 20.0&#176;C at 01:30:31 PM;
-        Min Barometer: 1016.7 mbar at 01:27:45 PM;
+        Max Inside Temperature: 20.2&#176;C at 01:21:37 PM;
+        Min Barometer: 1016.5 mbar at 01:24:45 PM;
         Max Barometer: 1021.8 mbar at 12:00:29 AM;
         Max Wind: 12 knots from 054&#176; at 10:15:25 AM;
         Rain: 0.3 mm;
@@ -73,7 +73,7 @@
         Max Heat Index: 22.4&#176;C at 01:18:56 PM;
         Min Dew Point: 8.7&#176;C at 12:00:29 AM;
         Max Dew Point: 15.3&#176;C at 12:36:33 PM;
-        Min Outside Humidity: 62% at 01:15:24 PM;
+        Min Outside Humidity: 60% at 01:21:37 PM;
         Max Outside Humidity: 97% at 02:57:32 AM;
         Min Inside Humidity: 64% at 12:00:29 AM;
         Max Inside Humidity: 78% at 09:57:01 AM;
@@ -87,8 +87,8 @@
         Min Outside Temperature: 9.5&#176;C at 12:00:29 AM<br/>
         Max Outside Temperature: 22.4&#176;C at 01:18:56 PM<br/>
         Min Inside Temperature: 12.0&#176;C at 07:11:46 AM<br/>
-        Max Inside Temperature: 20.0&#176;C at 01:30:31 PM<br/>
-        Min Barometer: 1016.7 mbar at 01:27:45 PM<br/>
+        Max Inside Temperature: 20.2&#176;C at 01:21:37 PM<br/>
+        Min Barometer: 1016.5 mbar at 01:24:45 PM<br/>
         Max Barometer: 1021.8 mbar at 12:00:29 AM<br/>
         Max Wind: 12 knots from 054&#176; at 10:15:25 AM<br/>
         Rain: 0.3 mm<br/>
@@ -99,7 +99,7 @@
         Max Heat Index: 22.4&#176;C at 01:18:56 PM<br/>
         Min Dew Point: 8.7&#176;C at 12:00:29 AM<br/>
         Max Dew Point: 15.3&#176;C at 12:36:33 PM<br/>
-        Min Outside Humidity: 62% at 01:15:24 PM<br/>
+        Min Outside Humidity: 60% at 01:21:37 PM<br/>
         Max Outside Humidity: 97% at 02:57:32 AM<br/>
         Min Inside Humidity: 64% at 12:00:29 AM<br/>
         Max Inside Humidity: 78% at 09:57:01 AM<br/>
