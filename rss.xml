@@ -21,17 +21,17 @@
       <title>Weather Conditions at 05/13/2025 01:35:00 PM</title>
       <link></link>
       <description>
-        Outside Temperature: 22.2&#176;C;
-        Inside Temperature: 20.0&#176;C;
-        Barometer: 1016.8 mbar;
-        Wind: 5 knots from 025&#176;;
+        Outside Temperature: 22.0&#176;C;
+        Inside Temperature: 20.2&#176;C;
+        Barometer: 1016.6 mbar;
+        Wind: 4 knots from 026&#176;;
         Rain: 0.0 mm;
         Rain Rate: 0.0 mm/h;
-        Wind Chill: 22.2&#176;C;
-        Heat Index: 22.1&#176;C;
-        Dew Point: 14.8&#176;C;
-        Outside Humidity: 63%;
-        Inside Humidity: 71%;
+        Wind Chill: 22.0&#176;C;
+        Heat Index: 21.8&#176;C;
+        Dew Point: 14.0&#176;C;
+        Outside Humidity: 61%;
+        Inside Humidity: 68%;
       </description>
       <pubDate>Tue, 13 May 2025 13:35:00 -03</pubDate>
       <geo:lat>-34.68247396567271</geo:lat>
@@ -39,17 +39,17 @@
       <content:encoded><![CDATA[
       <p>
       Time: 05/13/2025 01:35:00 PM<br/>
-        Outside Temperature: 22.2&#176;C<br/>
-        Inside Temperature: 20.0&#176;C<br/>
-        Barometer: 1016.8 mbar<br/>
-        Wind: 5 knots from 025&#176;;
+        Outside Temperature: 22.0&#176;C<br/>
+        Inside Temperature: 20.2&#176;C<br/>
+        Barometer: 1016.6 mbar<br/>
+        Wind: 4 knots from 026&#176;;
         Rain: 0.0 mm<br/>
         Rain Rate: 0.0 mm/h<br/>
-        Wind Chill: 22.2&#176;C<br/>
-        Heat Index: 22.1&#176;C<br/>
-        Dew Point: 14.8&#176;C<br/>
-        Outside Humidity: 63%<br/>
-        Inside Humidity: 71%<br/>
+        Wind Chill: 22.0&#176;C<br/>
+        Heat Index: 21.8&#176;C<br/>
+        Dew Point: 14.0&#176;C<br/>
+        Outside Humidity: 61%<br/>
+        Inside Humidity: 68%<br/>
       </p>
       ]]></content:encoded>
     </item>
@@ -61,8 +61,8 @@
         Min Outside Temperature: 9.5&#176;C at 12:00:29 AM;
         Max Outside Temperature: 22.4&#176;C at 01:18:56 PM;
         Min Inside Temperature: 12.0&#176;C at 07:11:46 AM;
-        Max Inside Temperature: 20.2&#176;C at 01:21:37 PM;
-        Min Barometer: 1016.5 mbar at 01:24:45 PM;
+        Max Inside Temperature: 20.3&#176;C at 01:33:28 PM;
+        Min Barometer: 1016.5 mbar at 01:34:39 PM;
         Max Barometer: 1021.8 mbar at 12:00:29 AM;
         Max Wind: 12 knots from 054&#176; at 10:15:25 AM;
         Rain: 0.3 mm;
@@ -87,8 +87,8 @@
         Min Outside Temperature: 9.5&#176;C at 12:00:29 AM<br/>
         Max Outside Temperature: 22.4&#176;C at 01:18:56 PM<br/>
         Min Inside Temperature: 12.0&#176;C at 07:11:46 AM<br/>
-        Max Inside Temperature: 20.2&#176;C at 01:21:37 PM<br/>
-        Min Barometer: 1016.5 mbar at 01:24:45 PM<br/>
+        Max Inside Temperature: 20.3&#176;C at 01:33:28 PM<br/>
+        Min Barometer: 1016.5 mbar at 01:34:39 PM<br/>
         Max Barometer: 1021.8 mbar at 12:00:29 AM<br/>
         Max Wind: 12 knots from 054&#176; at 10:15:25 AM<br/>
         Rain: 0.3 mm<br/>
