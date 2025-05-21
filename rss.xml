@@ -21,16 +21,16 @@
       <title>Weather Conditions at 05/21/2025 03:05:00 PM</title>
       <link></link>
       <description>
-        Outside Temperature: 15.4&#176;C;
-        Inside Temperature: 16.1&#176;C;
+        Outside Temperature: 14.4&#176;C;
+        Inside Temperature: 16.0&#176;C;
         Barometer: 1023.7 mbar;
-        Wind: 1 knots from 131&#176;;
+        Wind: 2 knots from 131&#176;;
         Rain: 0.0 mm;
         Rain Rate: 0.0 mm/h;
-        Wind Chill: 15.4&#176;C;
-        Heat Index: 14.4&#176;C;
-        Dew Point: 6.0&#176;C;
-        Outside Humidity: 54%;
+        Wind Chill: 14.4&#176;C;
+        Heat Index: 13.5&#176;C;
+        Dew Point: 6.6&#176;C;
+        Outside Humidity: 59%;
         Inside Humidity: 57%;
       </description>
       <pubDate>Wed, 21 May 2025 15:05:00 -03</pubDate>
@@ -39,16 +39,16 @@
       <content:encoded><![CDATA[
       <p>
       Time: 05/21/2025 03:05:00 PM<br/>
-        Outside Temperature: 15.4&#176;C<br/>
-        Inside Temperature: 16.1&#176;C<br/>
+        Outside Temperature: 14.4&#176;C<br/>
+        Inside Temperature: 16.0&#176;C<br/>
         Barometer: 1023.7 mbar<br/>
-        Wind: 1 knots from 131&#176;;
+        Wind: 2 knots from 131&#176;;
         Rain: 0.0 mm<br/>
         Rain Rate: 0.0 mm/h<br/>
-        Wind Chill: 15.4&#176;C<br/>
-        Heat Index: 14.4&#176;C<br/>
-        Dew Point: 6.0&#176;C<br/>
-        Outside Humidity: 54%<br/>
+        Wind Chill: 14.4&#176;C<br/>
+        Heat Index: 13.5&#176;C<br/>
+        Dew Point: 6.6&#176;C<br/>
+        Outside Humidity: 59%<br/>
         Inside Humidity: 57%<br/>
       </p>
       ]]></content:encoded>
