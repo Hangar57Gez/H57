@@ -21,15 +21,15 @@
       <title>Weather Conditions at 05/22/2025 12:05:00 AM</title>
       <link></link>
       <description>
-        Outside Temperature: 5.9&#176;C;
-        Inside Temperature: 9.4&#176;C;
-        Barometer: 1025.9 mbar;
-        Wind: 0 knots from 084&#176;;
+        Outside Temperature: 5.6&#176;C;
+        Inside Temperature: 8.9&#176;C;
+        Barometer: 1026.4 mbar;
+        Wind: 2 knots from 184&#176;;
         Rain: 0.0 mm;
         Rain Rate: 0.0 mm/h;
-        Wind Chill: 5.9&#176;C;
-        Heat Index: 4.8&#176;C;
-        Dew Point: 4.0&#176;C;
+        Wind Chill: 5.5&#176;C;
+        Heat Index: 4.5&#176;C;
+        Dew Point: 3.8&#176;C;
         Outside Humidity: 88%;
         Inside Humidity: 66%;
       </description>
@@ -39,15 +39,15 @@
       <content:encoded><![CDATA[
       <p>
       Time: 05/22/2025 12:05:00 AM<br/>
-        Outside Temperature: 5.9&#176;C<br/>
-        Inside Temperature: 9.4&#176;C<br/>
-        Barometer: 1025.9 mbar<br/>
-        Wind: 0 knots from 084&#176;;
+        Outside Temperature: 5.6&#176;C<br/>
+        Inside Temperature: 8.9&#176;C<br/>
+        Barometer: 1026.4 mbar<br/>
+        Wind: 2 knots from 184&#176;;
         Rain: 0.0 mm<br/>
         Rain Rate: 0.0 mm/h<br/>
-        Wind Chill: 5.9&#176;C<br/>
-        Heat Index: 4.8&#176;C<br/>
-        Dew Point: 4.0&#176;C<br/>
+        Wind Chill: 5.5&#176;C<br/>
+        Heat Index: 4.5&#176;C<br/>
+        Dew Point: 3.8&#176;C<br/>
         Outside Humidity: 88%<br/>
         Inside Humidity: 66%<br/>
       </p>
@@ -58,25 +58,25 @@
       <title>Daily summary as of 05/22/2025 12:05:00 AM</title>
       <link></link>
       <description>
-        Min Outside Temperature: 5.8&#176;C at 12:00:11 AM;
+        Min Outside Temperature: 5.6&#176;C at 12:00:04 AM;
         Max Outside Temperature: 6.0&#176;C at 12:03:47 AM;
-        Min Inside Temperature: 9.4&#176;C at 12:05:00 AM;
+        Min Inside Temperature: 8.9&#176;C at 12:00:04 AM;
         Max Inside Temperature: 9.4&#176;C at 12:00:11 AM;
         Min Barometer: 1025.7 mbar at 12:00:11 AM;
-        Max Barometer: 1025.9 mbar at 12:00:56 AM;
-        Max Wind: 1 knots from 088&#176; at 12:00:56 AM;
+        Max Barometer: 1026.6 mbar at 12:03:59 AM;
+        Max Wind: 3 knots from 213&#176; at 12:00:04 AM;
         Rain: 0.0 mm;
         Max Rain Rate: 0.0 mm/h;
-        Min Wind Chill: 5.8&#176;C at 12:00:11 AM;
+        Min Wind Chill: 4.6&#176;C at 12:00:04 AM;
         Max Wind Chill: 6.0&#176;C at 12:03:47 AM;
-        Min Heat Index: 4.7&#176;C at 12:00:11 AM;
+        Min Heat Index: 4.5&#176;C at 12:00:04 AM;
         Max Heat Index: 5.0&#176;C at 12:03:47 AM;
-        Min Dew Point: 3.9&#176;C at 12:00:11 AM;
+        Min Dew Point: 3.8&#176;C at 12:00:04 AM;
         Max Dew Point: 4.2&#176;C at 12:03:47 AM;
         Min Outside Humidity: 87% at 12:04:46 AM;
         Max Outside Humidity: 88% at 12:00:11 AM;
         Min Inside Humidity: 66% at 12:00:11 AM;
-        Max Inside Humidity: 66% at 12:00:11 AM;
+        Max Inside Humidity: 67% at 12:00:04 AM;
       </description>
       <pubDate>Thu, 22 May 2025 00:05:00 -03</pubDate>
       <geo:lat>-34.68247396567271</geo:lat>
@@ -84,25 +84,25 @@
       <content:encoded><![CDATA[
       <p>
       Daily summary as of 22 May 2025<br/>
-        Min Outside Temperature: 5.8&#176;C at 12:00:11 AM<br/>
+        Min Outside Temperature: 5.6&#176;C at 12:00:04 AM<br/>
         Max Outside Temperature: 6.0&#176;C at 12:03:47 AM<br/>
-        Min Inside Temperature: 9.4&#176;C at 12:05:00 AM<br/>
+        Min Inside Temperature: 8.9&#176;C at 12:00:04 AM<br/>
         Max Inside Temperature: 9.4&#176;C at 12:00:11 AM<br/>
         Min Barometer: 1025.7 mbar at 12:00:11 AM<br/>
-        Max Barometer: 1025.9 mbar at 12:00:56 AM<br/>
-        Max Wind: 1 knots from 088&#176; at 12:00:56 AM<br/>
+        Max Barometer: 1026.6 mbar at 12:03:59 AM<br/>
+        Max Wind: 3 knots from 213&#176; at 12:00:04 AM<br/>
         Rain: 0.0 mm<br/>
         Max Rain Rate: 0.0 mm/h<br/>
-        Min Wind Chill: 5.8&#176;C at 12:00:11 AM<br/>
+        Min Wind Chill: 4.6&#176;C at 12:00:04 AM<br/>
         Max Wind Chill: 6.0&#176;C at 12:03:47 AM<br/>
-        Min Heat Index: 4.7&#176;C at 12:00:11 AM<br/>
+        Min Heat Index: 4.5&#176;C at 12:00:04 AM<br/>
         Max Heat Index: 5.0&#176;C at 12:03:47 AM<br/>
-        Min Dew Point: 3.9&#176;C at 12:00:11 AM<br/>
+        Min Dew Point: 3.8&#176;C at 12:00:04 AM<br/>
         Max Dew Point: 4.2&#176;C at 12:03:47 AM<br/>
         Min Outside Humidity: 87% at 12:04:46 AM<br/>
         Max Outside Humidity: 88% at 12:00:11 AM<br/>
         Min Inside Humidity: 66% at 12:00:11 AM<br/>
-        Max Inside Humidity: 66% at 12:00:11 AM<br/>
+        Max Inside Humidity: 67% at 12:00:04 AM<br/>
       </p>
       ]]></content:encoded>
     </item>
