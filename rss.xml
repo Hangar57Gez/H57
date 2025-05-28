@@ -10,75 +10,75 @@
     <link></link>
     <description>Current conditions, and daily, monthly, and yearly summaries</description>
     <language>"en"</language>
-    <pubDate>Wed, 28 May 2025 08:05:00 -03</pubDate>
+    <pubDate>Wed, 28 May 2025 08:15:00 -03</pubDate>
 
-    <lastBuildDate>Wed, 28 May 2025 08:05:00 -03</lastBuildDate>
+    <lastBuildDate>Wed, 28 May 2025 08:15:00 -03</lastBuildDate>
     <docs>http://blogs.law.harvard.edu/tech/rss</docs>
     <generator>weewx 5.0.2</generator>
     <ttl>5.0 minutes</ttl>
 
     <item>
-      <title>Weather Conditions at 05/28/2025 08:05:00 AM</title>
+      <title>Weather Conditions at 05/28/2025 08:15:00 AM</title>
       <link></link>
       <description>
         Outside Temperature: 5.5&#176;C;
-        Inside Temperature: 7.9&#176;C;
-        Barometer: 1025.4 mbar;
-        Wind: 8 knots from 253&#176;;
+        Inside Temperature: 7.8&#176;C;
+        Barometer: 1025.5 mbar;
+        Wind: 10 knots from 244&#176;;
         Rain: 0.0 mm;
         Rain Rate: 0.0 mm/h;
-        Wind Chill: 2.5&#176;C;
-        Heat Index: 4.4&#176;C;
-        Dew Point: 4.0&#176;C;
-        Outside Humidity: 90%;
+        Wind Chill: 1.8&#176;C;
+        Heat Index: 4.5&#176;C;
+        Dew Point: 3.9&#176;C;
+        Outside Humidity: 89%;
         Inside Humidity: 76%;
       </description>
-      <pubDate>Wed, 28 May 2025 08:05:00 -03</pubDate>
+      <pubDate>Wed, 28 May 2025 08:15:00 -03</pubDate>
       <geo:lat>-34.68247396567271</geo:lat>
       <geo:long>-59.033162742123125</geo:long>
       <content:encoded><![CDATA[
       <p>
-      Time: 05/28/2025 08:05:00 AM<br/>
+      Time: 05/28/2025 08:15:00 AM<br/>
         Outside Temperature: 5.5&#176;C<br/>
-        Inside Temperature: 7.9&#176;C<br/>
-        Barometer: 1025.4 mbar<br/>
-        Wind: 8 knots from 253&#176;;
+        Inside Temperature: 7.8&#176;C<br/>
+        Barometer: 1025.5 mbar<br/>
+        Wind: 10 knots from 244&#176;;
         Rain: 0.0 mm<br/>
         Rain Rate: 0.0 mm/h<br/>
-        Wind Chill: 2.5&#176;C<br/>
-        Heat Index: 4.4&#176;C<br/>
-        Dew Point: 4.0&#176;C<br/>
-        Outside Humidity: 90%<br/>
+        Wind Chill: 1.8&#176;C<br/>
+        Heat Index: 4.5&#176;C<br/>
+        Dew Point: 3.9&#176;C<br/>
+        Outside Humidity: 89%<br/>
         Inside Humidity: 76%<br/>
       </p>
       ]]></content:encoded>
     </item>
 
     <item>
-      <title>Daily summary as of 05/28/2025 08:05:00 AM</title>
+      <title>Daily summary as of 05/28/2025 08:15:00 AM</title>
       <link></link>
       <description>
         Min Outside Temperature: 5.4&#176;C at 08:02:00 AM;
         Max Outside Temperature: 8.8&#176;C at 12:00:25 AM;
-        Min Inside Temperature: 7.9&#176;C at 08:00:00 AM;
+        Min Inside Temperature: 7.8&#176;C at 08:08:56 AM;
         Max Inside Temperature: 11.0&#176;C at 12:00:25 AM;
         Min Barometer: 1021.2 mbar at 12:07:53 AM;
-        Max Barometer: 1025.5 mbar at 08:02:31 AM;
+        Max Barometer: 1025.6 mbar at 08:14:31 AM;
         Max Wind: 17 knots from 247&#176; at 03:55:05 AM;
         Rain: 0.0 mm;
         Max Rain Rate: 0.0 mm/h;
-        Min Wind Chill: 1.7&#176;C at 07:47:32 AM;
+        Min Wind Chill: 0.9&#176;C at 08:11:04 AM;
         Max Wind Chill: 6.7&#176;C at 12:08:57 AM;
-        Min Heat Index: 4.3&#176;C at 08:02:00 AM;
+        Min Heat Index: 4.3&#176;C at 08:11:31 AM;
         Max Heat Index: 8.0&#176;C at 12:00:25 AM;
-        Min Dew Point: 3.9&#176;C at 08:02:00 AM;
+        Min Dew Point: 3.7&#176;C at 08:11:31 AM;
         Max Dew Point: 6.9&#176;C at 12:00:25 AM;
         Min Outside Humidity: 87% at 12:03:53 AM;
         Max Outside Humidity: 94% at 06:08:32 AM;
         Min Inside Humidity: 75% at 12:00:25 AM;
         Max Inside Humidity: 77% at 03:12:46 AM;
       </description>
-      <pubDate>Wed, 28 May 2025 08:05:00 -03</pubDate>
+      <pubDate>Wed, 28 May 2025 08:15:00 -03</pubDate>
       <geo:lat>-34.68247396567271</geo:lat>
       <geo:long>-59.033162742123125</geo:long>
       <content:encoded><![CDATA[
@@ -86,18 +86,18 @@
       Daily summary as of 28 May 2025<br/>
         Min Outside Temperature: 5.4&#176;C at 08:02:00 AM<br/>
         Max Outside Temperature: 8.8&#176;C at 12:00:25 AM<br/>
-        Min Inside Temperature: 7.9&#176;C at 08:00:00 AM<br/>
+        Min Inside Temperature: 7.8&#176;C at 08:08:56 AM<br/>
         Max Inside Temperature: 11.0&#176;C at 12:00:25 AM<br/>
         Min Barometer: 1021.2 mbar at 12:07:53 AM<br/>
-        Max Barometer: 1025.5 mbar at 08:02:31 AM<br/>
+        Max Barometer: 1025.6 mbar at 08:14:31 AM<br/>
         Max Wind: 17 knots from 247&#176; at 03:55:05 AM<br/>
         Rain: 0.0 mm<br/>
         Max Rain Rate: 0.0 mm/h<br/>
-        Min Wind Chill: 1.7&#176;C at 07:47:32 AM<br/>
+        Min Wind Chill: 0.9&#176;C at 08:11:04 AM<br/>
         Max Wind Chill: 6.7&#176;C at 12:08:57 AM<br/>
-        Min Heat Index: 4.3&#176;C at 08:02:00 AM<br/>
+        Min Heat Index: 4.3&#176;C at 08:11:31 AM<br/>
         Max Heat Index: 8.0&#176;C at 12:00:25 AM<br/>
-        Min Dew Point: 3.9&#176;C at 08:02:00 AM<br/>
+        Min Dew Point: 3.7&#176;C at 08:11:31 AM<br/>
         Max Dew Point: 6.9&#176;C at 12:00:25 AM<br/>
         Min Outside Humidity: 87% at 12:03:53 AM<br/>
         Max Outside Humidity: 94% at 06:08:32 AM<br/>
@@ -107,7 +107,7 @@
       ]]></content:encoded>
     </item>
     <item>
-      <title>Monthly summary as of 05/28/2025 08:05:00 AM</title>
+      <title>Monthly summary as of 05/28/2025 08:15:00 AM</title>
       <link></link>
       <description>
         Min Outside Temperature: 1.0&#176;C at 05/20/2025 05:45:22 AM;
@@ -119,7 +119,7 @@
         Max Wind: 42 knots from 310&#176; at 05/15/2025 11:36:53 PM;
         Rain: 314.9 mm;
         Max Rain Rate: 73.2 mm/h;
-        Min Wind Chill: 1.0&#176;C at 05/20/2025 05:45:22 AM;
+        Min Wind Chill: 0.9&#176;C at 05/28/2025 08:11:04 AM;
         Max Wind Chill: 29.0&#176;C at 05/14/2025 02:08:58 PM;
         Min Heat Index: 1.0&#176;C at 05/20/2025 05:45:22 AM;
         Max Heat Index: 30.4&#176;C at 05/14/2025 02:10:02 PM;
@@ -130,7 +130,7 @@
         Min Inside Humidity: 46% at 05/18/2025 03:44:45 PM;
         Max Inside Humidity: 90% at 05/16/2025 04:33:46 AM;
       </description>
-      <pubDate>Wed, 28 May 2025 08:05:00 -03</pubDate>
+      <pubDate>Wed, 28 May 2025 08:15:00 -03</pubDate>
       <geo:lat>-34.68247396567271</geo:lat>
       <geo:long>-59.033162742123125</geo:long>
       <content:encoded><![CDATA[
@@ -145,7 +145,7 @@
         Max Wind: 42 knots from 310&#176; at 05/15/2025 11:36:53 PM<br/>
         Rain: 314.9 mm<br/>
         Max Rain Rate: 73.2 mm/h<br/>
-        Min Wind Chill: 1.0&#176;C at 05/20/2025 05:45:22 AM<br/>
+        Min Wind Chill: 0.9&#176;C at 05/28/2025 08:11:04 AM<br/>
         Max Wind Chill: 29.0&#176;C at 05/14/2025 02:08:58 PM<br/>
         Min Heat Index: 1.0&#176;C at 05/20/2025 05:45:22 AM<br/>
         Max Heat Index: 30.4&#176;C at 05/14/2025 02:10:02 PM<br/>
@@ -159,7 +159,7 @@
       ]]></content:encoded>
     </item>
     <item>
-      <title>Yearly summary as of 05/28/2025 08:05:00 AM</title>
+      <title>Yearly summary as of 05/28/2025 08:15:00 AM</title>
       <link></link>
       <description>
         Min Outside Temperature: 1.0&#176;C at 05/20/2025 05:45:22 AM;
@@ -171,7 +171,7 @@
         Max Wind: 42 knots from 310&#176; at 05/15/2025 11:36:53 PM;
         Rain: 856.2 mm;
         Max Rain Rate: 87.0 mm/h;
-        Min Wind Chill: 1.0&#176;C at 05/20/2025 05:45:22 AM;
+        Min Wind Chill: 0.9&#176;C at 05/28/2025 08:11:04 AM;
         Max Wind Chill: 41.5&#176;C at 01/16/2025 04:28:32 PM;
         Min Heat Index: 1.0&#176;C at 05/20/2025 05:45:22 AM;
         Max Heat Index: 53.3&#176;C at 03/05/2025 02:49:32 PM;
@@ -182,7 +182,7 @@
         Min Inside Humidity: 25% at 01/07/2025 05:07:31 PM;
         Max Inside Humidity: 90% at 05/16/2025 04:33:46 AM;
       </description>
-      <pubDate>Wed, 28 May 2025 08:05:00 -03</pubDate>
+      <pubDate>Wed, 28 May 2025 08:15:00 -03</pubDate>
       <geo:lat>-34.68247396567271</geo:lat>
       <geo:long>-59.033162742123125</geo:long>
       <content:encoded><![CDATA[
@@ -197,7 +197,7 @@
         Max Wind: 42 knots from 310&#176; at 05/15/2025 11:36:53 PM<br/>
         Rain: 856.2 mm<br/>
         Max Rain Rate: 87.0 mm/h<br/>
-        Min Wind Chill: 1.0&#176;C at 05/20/2025 05:45:22 AM<br/>
+        Min Wind Chill: 0.9&#176;C at 05/28/2025 08:11:04 AM<br/>
         Max Wind Chill: 41.5&#176;C at 01/16/2025 04:28:32 PM<br/>
         Min Heat Index: 1.0&#176;C at 05/20/2025 05:45:22 AM<br/>
         Max Heat Index: 53.3&#176;C at 03/05/2025 02:49:32 PM<br/>
