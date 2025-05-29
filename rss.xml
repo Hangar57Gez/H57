@@ -10,52 +10,52 @@
     <link></link>
     <description>Current conditions, and daily, monthly, and yearly summaries</description>
     <language>"en"</language>
-    <pubDate>Thu, 29 May 2025 08:45:00 -03</pubDate>
+    <pubDate>Thu, 29 May 2025 08:55:00 -03</pubDate>
 
-    <lastBuildDate>Thu, 29 May 2025 08:45:00 -03</lastBuildDate>
+    <lastBuildDate>Thu, 29 May 2025 08:55:00 -03</lastBuildDate>
     <docs>http://blogs.law.harvard.edu/tech/rss</docs>
     <generator>weewx 5.0.2</generator>
     <ttl>5.0 minutes</ttl>
 
     <item>
-      <title>Weather Conditions at 05/29/2025 08:45:00 AM</title>
+      <title>Weather Conditions at 05/29/2025 08:55:00 AM</title>
       <link></link>
       <description>
-        Outside Temperature: 2.6&#176;C;
-        Inside Temperature: 5.0&#176;C;
-        Barometer: 1028.8 mbar;
-        Wind: 0 knots from    N/A;
+        Outside Temperature: 2.8&#176;C;
+        Inside Temperature: 5.5&#176;C;
+        Barometer: 1028.9 mbar;
+        Wind: 0 knots from 068&#176;;
         Rain: 0.0 mm;
         Rain Rate: 0.0 mm/h;
-        Wind Chill: 2.6&#176;C;
-        Heat Index: 2.6&#176;C;
-        Dew Point: 1.4&#176;C;
-        Outside Humidity: 92%;
+        Wind Chill: 2.8&#176;C;
+        Heat Index: 2.8&#176;C;
+        Dew Point: 1.2&#176;C;
+        Outside Humidity: 89%;
         Inside Humidity: 68%;
       </description>
-      <pubDate>Thu, 29 May 2025 08:45:00 -03</pubDate>
+      <pubDate>Thu, 29 May 2025 08:55:00 -03</pubDate>
       <geo:lat>-34.68247396567271</geo:lat>
       <geo:long>-59.033162742123125</geo:long>
       <content:encoded><![CDATA[
       <p>
-      Time: 05/29/2025 08:45:00 AM<br/>
-        Outside Temperature: 2.6&#176;C<br/>
-        Inside Temperature: 5.0&#176;C<br/>
-        Barometer: 1028.8 mbar<br/>
-        Wind: 0 knots from    N/A;
+      Time: 05/29/2025 08:55:00 AM<br/>
+        Outside Temperature: 2.8&#176;C<br/>
+        Inside Temperature: 5.5&#176;C<br/>
+        Barometer: 1028.9 mbar<br/>
+        Wind: 0 knots from 068&#176;;
         Rain: 0.0 mm<br/>
         Rain Rate: 0.0 mm/h<br/>
-        Wind Chill: 2.6&#176;C<br/>
-        Heat Index: 2.6&#176;C<br/>
-        Dew Point: 1.4&#176;C<br/>
-        Outside Humidity: 92%<br/>
+        Wind Chill: 2.8&#176;C<br/>
+        Heat Index: 2.8&#176;C<br/>
+        Dew Point: 1.2&#176;C<br/>
+        Outside Humidity: 89%<br/>
         Inside Humidity: 68%<br/>
       </p>
       ]]></content:encoded>
     </item>
 
     <item>
-      <title>Daily summary as of 05/29/2025 08:45:00 AM</title>
+      <title>Daily summary as of 05/29/2025 08:55:00 AM</title>
       <link></link>
       <description>
         Min Outside Temperature: 0.1&#176;C at 07:57:48 AM;
@@ -63,7 +63,7 @@
         Min Inside Temperature: 4.4&#176;C at 08:00:44 AM;
         Max Inside Temperature: 8.6&#176;C at 12:00:23 AM;
         Min Barometer: 1026.9 mbar at 05:41:59 AM;
-        Max Barometer: 1028.9 mbar at 08:40:32 AM;
+        Max Barometer: 1029.0 mbar at 08:51:53 AM;
         Max Wind: 3 knots from 263&#176; at 12:17:59 AM;
         Rain: 0.0 mm;
         Max Rain Rate: 0.0 mm/h;
@@ -78,7 +78,7 @@
         Min Inside Humidity: 66% at 12:00:23 AM;
         Max Inside Humidity: 68% at 07:13:32 AM;
       </description>
-      <pubDate>Thu, 29 May 2025 08:45:00 -03</pubDate>
+      <pubDate>Thu, 29 May 2025 08:55:00 -03</pubDate>
       <geo:lat>-34.68247396567271</geo:lat>
       <geo:long>-59.033162742123125</geo:long>
       <content:encoded><![CDATA[
@@ -89,7 +89,7 @@
         Min Inside Temperature: 4.4&#176;C at 08:00:44 AM<br/>
         Max Inside Temperature: 8.6&#176;C at 12:00:23 AM<br/>
         Min Barometer: 1026.9 mbar at 05:41:59 AM<br/>
-        Max Barometer: 1028.9 mbar at 08:40:32 AM<br/>
+        Max Barometer: 1029.0 mbar at 08:51:53 AM<br/>
         Max Wind: 3 knots from 263&#176; at 12:17:59 AM<br/>
         Rain: 0.0 mm<br/>
         Max Rain Rate: 0.0 mm/h<br/>
@@ -107,7 +107,7 @@
       ]]></content:encoded>
     </item>
     <item>
-      <title>Monthly summary as of 05/29/2025 08:45:00 AM</title>
+      <title>Monthly summary as of 05/29/2025 08:55:00 AM</title>
       <link></link>
       <description>
         Min Outside Temperature: 0.1&#176;C at 05/29/2025 07:57:48 AM;
@@ -115,7 +115,7 @@
         Min Inside Temperature: 4.4&#176;C at 05/29/2025 08:00:44 AM;
         Max Inside Temperature: 25.3&#176;C at 05/06/2025 03:59:31 PM;
         Min Barometer: 1002.3 mbar at 05/17/2025 08:17:57 PM;
-        Max Barometer: 1028.9 mbar at 05/11/2025 11:35:34 AM;
+        Max Barometer: 1029.0 mbar at 05/29/2025 08:51:53 AM;
         Max Wind: 42 knots from 310&#176; at 05/15/2025 11:36:53 PM;
         Rain: 314.9 mm;
         Max Rain Rate: 73.2 mm/h;
@@ -130,7 +130,7 @@
         Min Inside Humidity: 46% at 05/18/2025 03:44:45 PM;
         Max Inside Humidity: 90% at 05/16/2025 04:33:46 AM;
       </description>
-      <pubDate>Thu, 29 May 2025 08:45:00 -03</pubDate>
+      <pubDate>Thu, 29 May 2025 08:55:00 -03</pubDate>
       <geo:lat>-34.68247396567271</geo:lat>
       <geo:long>-59.033162742123125</geo:long>
       <content:encoded><![CDATA[
@@ -141,7 +141,7 @@
         Min Inside Temperature: 4.4&#176;C at 05/29/2025 08:00:44 AM<br/>
         Max Inside Temperature: 25.3&#176;C at 05/06/2025 03:59:31 PM<br/>
         Min Barometer: 1002.3 mbar at 05/17/2025 08:17:57 PM<br/>
-        Max Barometer: 1028.9 mbar at 05/11/2025 11:35:34 AM<br/>
+        Max Barometer: 1029.0 mbar at 05/29/2025 08:51:53 AM<br/>
         Max Wind: 42 knots from 310&#176; at 05/15/2025 11:36:53 PM<br/>
         Rain: 314.9 mm<br/>
         Max Rain Rate: 73.2 mm/h<br/>
@@ -159,7 +159,7 @@
       ]]></content:encoded>
     </item>
     <item>
-      <title>Yearly summary as of 05/29/2025 08:45:00 AM</title>
+      <title>Yearly summary as of 05/29/2025 08:55:00 AM</title>
       <link></link>
       <description>
         Min Outside Temperature: 0.1&#176;C at 05/29/2025 07:57:48 AM;
@@ -182,7 +182,7 @@
         Min Inside Humidity: 25% at 01/07/2025 05:07:31 PM;
         Max Inside Humidity: 90% at 05/16/2025 04:33:46 AM;
       </description>
-      <pubDate>Thu, 29 May 2025 08:45:00 -03</pubDate>
+      <pubDate>Thu, 29 May 2025 08:55:00 -03</pubDate>
       <geo:lat>-34.68247396567271</geo:lat>
       <geo:long>-59.033162742123125</geo:long>
       <content:encoded><![CDATA[
