@@ -10,59 +10,59 @@
     <link></link>
     <description>Current conditions, and daily, monthly, and yearly summaries</description>
     <language>"en"</language>
-    <pubDate>Sun, 01 Jun 2025 13:05:00 -03</pubDate>
+    <pubDate>Sun, 01 Jun 2025 13:15:00 -03</pubDate>
 
-    <lastBuildDate>Sun, 01 Jun 2025 13:05:00 -03</lastBuildDate>
+    <lastBuildDate>Sun, 01 Jun 2025 13:15:00 -03</lastBuildDate>
     <docs>http://blogs.law.harvard.edu/tech/rss</docs>
     <generator>weewx 5.0.2</generator>
     <ttl>5.0 minutes</ttl>
 
     <item>
-      <title>Weather Conditions at 06/01/2025 01:05:00 PM</title>
+      <title>Weather Conditions at 06/01/2025 01:15:00 PM</title>
       <link></link>
       <description>
-        Outside Temperature: 15.6&#176;C;
-        Inside Temperature: 11.9&#176;C;
-        Barometer: 1025.2 mbar;
-        Wind: 6 knots from 338&#176;;
+        Outside Temperature: 15.3&#176;C;
+        Inside Temperature: 12.1&#176;C;
+        Barometer: 1025.0 mbar;
+        Wind: 4 knots from 339&#176;;
         Rain: 0.0 mm;
         Rain Rate: 0.0 mm/h;
-        Wind Chill: 15.6&#176;C;
-        Heat Index: 14.4&#176;C;
-        Dew Point: 4.2&#176;C;
-        Outside Humidity: 47%;
-        Inside Humidity: 60%;
+        Wind Chill: 15.3&#176;C;
+        Heat Index: 14.1&#176;C;
+        Dew Point: 4.3&#176;C;
+        Outside Humidity: 48%;
+        Inside Humidity: 59%;
       </description>
-      <pubDate>Sun, 01 Jun 2025 13:05:00 -03</pubDate>
+      <pubDate>Sun, 01 Jun 2025 13:15:00 -03</pubDate>
       <geo:lat>-34.68247396567271</geo:lat>
       <geo:long>-59.033162742123125</geo:long>
       <content:encoded><![CDATA[
       <p>
-      Time: 06/01/2025 01:05:00 PM<br/>
-        Outside Temperature: 15.6&#176;C<br/>
-        Inside Temperature: 11.9&#176;C<br/>
-        Barometer: 1025.2 mbar<br/>
-        Wind: 6 knots from 338&#176;;
+      Time: 06/01/2025 01:15:00 PM<br/>
+        Outside Temperature: 15.3&#176;C<br/>
+        Inside Temperature: 12.1&#176;C<br/>
+        Barometer: 1025.0 mbar<br/>
+        Wind: 4 knots from 339&#176;;
         Rain: 0.0 mm<br/>
         Rain Rate: 0.0 mm/h<br/>
-        Wind Chill: 15.6&#176;C<br/>
-        Heat Index: 14.4&#176;C<br/>
-        Dew Point: 4.2&#176;C<br/>
-        Outside Humidity: 47%<br/>
-        Inside Humidity: 60%<br/>
+        Wind Chill: 15.3&#176;C<br/>
+        Heat Index: 14.1&#176;C<br/>
+        Dew Point: 4.3&#176;C<br/>
+        Outside Humidity: 48%<br/>
+        Inside Humidity: 59%<br/>
       </p>
       ]]></content:encoded>
     </item>
 
     <item>
-      <title>Daily summary as of 06/01/2025 01:05:00 PM</title>
+      <title>Daily summary as of 06/01/2025 01:15:00 PM</title>
       <link></link>
       <description>
         Min Outside Temperature: -0.8&#176;C at 07:34:25 AM;
         Max Outside Temperature: 15.8&#176;C at 01:01:53 PM;
         Min Inside Temperature: 3.4&#176;C at 07:36:31 AM;
-        Max Inside Temperature: 11.9&#176;C at 01:01:32 PM;
-        Min Barometer: 1025.1 mbar at 12:58:32 PM;
+        Max Inside Temperature: 12.1&#176;C at 01:12:32 PM;
+        Min Barometer: 1024.9 mbar at 01:09:32 PM;
         Max Barometer: 1027.5 mbar at 08:43:45 AM;
         Max Wind: 11 knots from 316&#176; at 12:27:33 PM;
         Rain: 0.0 mm;
@@ -75,10 +75,10 @@
         Max Dew Point: 5.9&#176;C at 12:01:32 PM;
         Min Outside Humidity: 43% at 12:47:30 PM;
         Max Outside Humidity: 98% at 05:08:32 AM;
-        Min Inside Humidity: 60% at 12:56:32 PM;
+        Min Inside Humidity: 59% at 01:06:57 PM;
         Max Inside Humidity: 70% at 09:48:39 AM;
       </description>
-      <pubDate>Sun, 01 Jun 2025 13:05:00 -03</pubDate>
+      <pubDate>Sun, 01 Jun 2025 13:15:00 -03</pubDate>
       <geo:lat>-34.68247396567271</geo:lat>
       <geo:long>-59.033162742123125</geo:long>
       <content:encoded><![CDATA[
@@ -87,8 +87,8 @@
         Min Outside Temperature: -0.8&#176;C at 07:34:25 AM<br/>
         Max Outside Temperature: 15.8&#176;C at 01:01:53 PM<br/>
         Min Inside Temperature: 3.4&#176;C at 07:36:31 AM<br/>
-        Max Inside Temperature: 11.9&#176;C at 01:01:32 PM<br/>
-        Min Barometer: 1025.1 mbar at 12:58:32 PM<br/>
+        Max Inside Temperature: 12.1&#176;C at 01:12:32 PM<br/>
+        Min Barometer: 1024.9 mbar at 01:09:32 PM<br/>
         Max Barometer: 1027.5 mbar at 08:43:45 AM<br/>
         Max Wind: 11 knots from 316&#176; at 12:27:33 PM<br/>
         Rain: 0.0 mm<br/>
@@ -101,20 +101,20 @@
         Max Dew Point: 5.9&#176;C at 12:01:32 PM<br/>
         Min Outside Humidity: 43% at 12:47:30 PM<br/>
         Max Outside Humidity: 98% at 05:08:32 AM<br/>
-        Min Inside Humidity: 60% at 12:56:32 PM<br/>
+        Min Inside Humidity: 59% at 01:06:57 PM<br/>
         Max Inside Humidity: 70% at 09:48:39 AM<br/>
       </p>
       ]]></content:encoded>
     </item>
     <item>
-      <title>Monthly summary as of 06/01/2025 01:05:00 PM</title>
+      <title>Monthly summary as of 06/01/2025 01:15:00 PM</title>
       <link></link>
       <description>
         Min Outside Temperature: -0.8&#176;C at 06/01/2025 07:34:25 AM;
         Max Outside Temperature: 15.8&#176;C at 06/01/2025 01:01:53 PM;
         Min Inside Temperature: 3.4&#176;C at 06/01/2025 07:36:31 AM;
-        Max Inside Temperature: 11.9&#176;C at 06/01/2025 01:01:32 PM;
-        Min Barometer: 1025.1 mbar at 06/01/2025 12:58:32 PM;
+        Max Inside Temperature: 12.1&#176;C at 06/01/2025 01:12:32 PM;
+        Min Barometer: 1024.9 mbar at 06/01/2025 01:09:32 PM;
         Max Barometer: 1027.5 mbar at 06/01/2025 08:43:45 AM;
         Max Wind: 11 knots from 316&#176; at 06/01/2025 12:27:33 PM;
         Rain: 0.0 mm;
@@ -127,10 +127,10 @@
         Max Dew Point: 5.9&#176;C at 06/01/2025 12:01:32 PM;
         Min Outside Humidity: 43% at 06/01/2025 12:47:30 PM;
         Max Outside Humidity: 98% at 06/01/2025 05:08:32 AM;
-        Min Inside Humidity: 60% at 06/01/2025 12:56:32 PM;
+        Min Inside Humidity: 59% at 06/01/2025 01:06:57 PM;
         Max Inside Humidity: 70% at 06/01/2025 09:48:39 AM;
       </description>
-      <pubDate>Sun, 01 Jun 2025 13:05:00 -03</pubDate>
+      <pubDate>Sun, 01 Jun 2025 13:15:00 -03</pubDate>
       <geo:lat>-34.68247396567271</geo:lat>
       <geo:long>-59.033162742123125</geo:long>
       <content:encoded><![CDATA[
@@ -139,8 +139,8 @@
         Min Outside Temperature: -0.8&#176;C at 06/01/2025 07:34:25 AM<br/>
         Max Outside Temperature: 15.8&#176;C at 06/01/2025 01:01:53 PM<br/>
         Min Inside Temperature: 3.4&#176;C at 06/01/2025 07:36:31 AM<br/>
-        Max Inside Temperature: 11.9&#176;C at 06/01/2025 01:01:32 PM<br/>
-        Min Barometer: 1025.1 mbar at 06/01/2025 12:58:32 PM<br/>
+        Max Inside Temperature: 12.1&#176;C at 06/01/2025 01:12:32 PM<br/>
+        Min Barometer: 1024.9 mbar at 06/01/2025 01:09:32 PM<br/>
         Max Barometer: 1027.5 mbar at 06/01/2025 08:43:45 AM<br/>
         Max Wind: 11 knots from 316&#176; at 06/01/2025 12:27:33 PM<br/>
         Rain: 0.0 mm<br/>
@@ -153,13 +153,13 @@
         Max Dew Point: 5.9&#176;C at 06/01/2025 12:01:32 PM<br/>
         Min Outside Humidity: 43% at 06/01/2025 12:47:30 PM<br/>
         Max Outside Humidity: 98% at 06/01/2025 05:08:32 AM<br/>
-        Min Inside Humidity: 60% at 06/01/2025 12:56:32 PM<br/>
+        Min Inside Humidity: 59% at 06/01/2025 01:06:57 PM<br/>
         Max Inside Humidity: 70% at 06/01/2025 09:48:39 AM<br/>
       </p>
       ]]></content:encoded>
     </item>
     <item>
-      <title>Yearly summary as of 06/01/2025 01:05:00 PM</title>
+      <title>Yearly summary as of 06/01/2025 01:15:00 PM</title>
       <link></link>
       <description>
         Min Outside Temperature: -0.8&#176;C at 06/01/2025 07:34:25 AM;
@@ -182,7 +182,7 @@
         Min Inside Humidity: 25% at 01/07/2025 05:07:31 PM;
         Max Inside Humidity: 90% at 05/16/2025 04:33:46 AM;
       </description>
-      <pubDate>Sun, 01 Jun 2025 13:05:00 -03</pubDate>
+      <pubDate>Sun, 01 Jun 2025 13:15:00 -03</pubDate>
       <geo:lat>-34.68247396567271</geo:lat>
       <geo:long>-59.033162742123125</geo:long>
       <content:encoded><![CDATA[
