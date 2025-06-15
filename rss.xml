@@ -10,44 +10,44 @@
     <link></link>
     <description>Current conditions, and daily, monthly, and yearly summaries</description>
     <language>"en"</language>
-    <pubDate>Sun, 15 Jun 2025 06:45:00 -03</pubDate>
+    <pubDate>Sun, 15 Jun 2025 06:55:00 -03</pubDate>
 
-    <lastBuildDate>Sun, 15 Jun 2025 06:45:00 -03</lastBuildDate>
+    <lastBuildDate>Sun, 15 Jun 2025 06:55:00 -03</lastBuildDate>
     <docs>http://blogs.law.harvard.edu/tech/rss</docs>
     <generator>weewx 5.0.2</generator>
     <ttl>5.0 minutes</ttl>
 
     <item>
-      <title>Weather Conditions at 06/15/2025 06:45:00 AM</title>
+      <title>Weather Conditions at 06/15/2025 06:55:00 AM</title>
       <link></link>
       <description>
-        Outside Temperature: -0.3&#176;C;
-        Inside Temperature: 3.7&#176;C;
-        Barometer: 1018.0 mbar;
+        Outside Temperature: -0.1&#176;C;
+        Inside Temperature: 3.6&#176;C;
+        Barometer: 1018.2 mbar;
         Wind: 0 knots from    N/A;
         Rain: 0.0 mm;
         Rain Rate: 0.0 mm/h;
-        Wind Chill: -0.3&#176;C;
-        Heat Index: -0.3&#176;C;
-        Dew Point: -0.8&#176;C;
+        Wind Chill: -0.1&#176;C;
+        Heat Index: -0.1&#176;C;
+        Dew Point: -0.7&#176;C;
         Outside Humidity: 96%;
         Inside Humidity: 70%;
       </description>
-      <pubDate>Sun, 15 Jun 2025 06:45:00 -03</pubDate>
+      <pubDate>Sun, 15 Jun 2025 06:55:00 -03</pubDate>
       <geo:lat>-34.68247396567271</geo:lat>
       <geo:long>-59.033162742123125</geo:long>
       <content:encoded><![CDATA[
       <p>
-      Time: 06/15/2025 06:45:00 AM<br/>
-        Outside Temperature: -0.3&#176;C<br/>
-        Inside Temperature: 3.7&#176;C<br/>
-        Barometer: 1018.0 mbar<br/>
+      Time: 06/15/2025 06:55:00 AM<br/>
+        Outside Temperature: -0.1&#176;C<br/>
+        Inside Temperature: 3.6&#176;C<br/>
+        Barometer: 1018.2 mbar<br/>
         Wind: 0 knots from    N/A;
         Rain: 0.0 mm<br/>
         Rain Rate: 0.0 mm/h<br/>
-        Wind Chill: -0.3&#176;C<br/>
-        Heat Index: -0.3&#176;C<br/>
-        Dew Point: -0.8&#176;C<br/>
+        Wind Chill: -0.1&#176;C<br/>
+        Heat Index: -0.1&#176;C<br/>
+        Dew Point: -0.7&#176;C<br/>
         Outside Humidity: 96%<br/>
         Inside Humidity: 70%<br/>
       </p>
@@ -55,7 +55,7 @@
     </item>
 
     <item>
-      <title>Daily summary as of 06/15/2025 06:45:00 AM</title>
+      <title>Daily summary as of 06/15/2025 06:55:00 AM</title>
       <link></link>
       <description>
         Min Outside Temperature: -0.4&#176;C at 06:32:31 AM;
@@ -63,7 +63,7 @@
         Min Inside Temperature: 3.6&#176;C at 06:36:31 AM;
         Max Inside Temperature: 7.5&#176;C at 12:00:05 AM;
         Min Barometer: 1016.8 mbar at 12:00:05 AM;
-        Max Barometer: 1018.3 mbar at 06:33:45 AM;
+        Max Barometer: 1018.4 mbar at 06:51:31 AM;
         Max Wind: 4 knots from 273&#176; at 12:44:31 AM;
         Rain: 0.0 mm;
         Max Rain Rate: 0.0 mm/h;
@@ -74,11 +74,11 @@
         Min Dew Point: -0.9&#176;C at 06:32:31 AM;
         Max Dew Point: 3.1&#176;C at 12:01:25 AM;
         Min Outside Humidity: 89% at 12:00:05 AM;
-        Max Outside Humidity: 96% at 06:19:00 AM;
+        Max Outside Humidity: 97% at 06:47:00 AM;
         Min Inside Humidity: 70% at 06:11:31 AM;
         Max Inside Humidity: 75% at 12:00:05 AM;
       </description>
-      <pubDate>Sun, 15 Jun 2025 06:45:00 -03</pubDate>
+      <pubDate>Sun, 15 Jun 2025 06:55:00 -03</pubDate>
       <geo:lat>-34.68247396567271</geo:lat>
       <geo:long>-59.033162742123125</geo:long>
       <content:encoded><![CDATA[
@@ -89,7 +89,7 @@
         Min Inside Temperature: 3.6&#176;C at 06:36:31 AM<br/>
         Max Inside Temperature: 7.5&#176;C at 12:00:05 AM<br/>
         Min Barometer: 1016.8 mbar at 12:00:05 AM<br/>
-        Max Barometer: 1018.3 mbar at 06:33:45 AM<br/>
+        Max Barometer: 1018.4 mbar at 06:51:31 AM<br/>
         Max Wind: 4 knots from 273&#176; at 12:44:31 AM<br/>
         Rain: 0.0 mm<br/>
         Max Rain Rate: 0.0 mm/h<br/>
@@ -100,14 +100,14 @@
         Min Dew Point: -0.9&#176;C at 06:32:31 AM<br/>
         Max Dew Point: 3.1&#176;C at 12:01:25 AM<br/>
         Min Outside Humidity: 89% at 12:00:05 AM<br/>
-        Max Outside Humidity: 96% at 06:19:00 AM<br/>
+        Max Outside Humidity: 97% at 06:47:00 AM<br/>
         Min Inside Humidity: 70% at 06:11:31 AM<br/>
         Max Inside Humidity: 75% at 12:00:05 AM<br/>
       </p>
       ]]></content:encoded>
     </item>
     <item>
-      <title>Monthly summary as of 06/15/2025 06:45:00 AM</title>
+      <title>Monthly summary as of 06/15/2025 06:55:00 AM</title>
       <link></link>
       <description>
         Min Outside Temperature: -0.8&#176;C at 06/01/2025 07:34:25 AM;
@@ -130,7 +130,7 @@
         Min Inside Humidity: 45% at 06/05/2025 04:16:45 PM;
         Max Inside Humidity: 84% at 06/14/2025 07:05:57 AM;
       </description>
-      <pubDate>Sun, 15 Jun 2025 06:45:00 -03</pubDate>
+      <pubDate>Sun, 15 Jun 2025 06:55:00 -03</pubDate>
       <geo:lat>-34.68247396567271</geo:lat>
       <geo:long>-59.033162742123125</geo:long>
       <content:encoded><![CDATA[
@@ -159,7 +159,7 @@
       ]]></content:encoded>
     </item>
     <item>
-      <title>Yearly summary as of 06/15/2025 06:45:00 AM</title>
+      <title>Yearly summary as of 06/15/2025 06:55:00 AM</title>
       <link></link>
       <description>
         Min Outside Temperature: -0.8&#176;C at 06/01/2025 07:34:25 AM;
@@ -182,7 +182,7 @@
         Min Inside Humidity: 25% at 01/07/2025 05:07:31 PM;
         Max Inside Humidity: 90% at 05/16/2025 04:33:46 AM;
       </description>
-      <pubDate>Sun, 15 Jun 2025 06:45:00 -03</pubDate>
+      <pubDate>Sun, 15 Jun 2025 06:55:00 -03</pubDate>
       <geo:lat>-34.68247396567271</geo:lat>
       <geo:long>-59.033162742123125</geo:long>
       <content:encoded><![CDATA[
