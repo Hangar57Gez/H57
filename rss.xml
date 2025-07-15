@@ -10,55 +10,55 @@
     <link></link>
     <description>Current conditions, and daily, monthly, and yearly summaries</description>
     <language>"en"</language>
-    <pubDate>Tue, 15 Jul 2025 04:45:00 -03</pubDate>
+    <pubDate>Tue, 15 Jul 2025 04:55:00 -03</pubDate>
 
-    <lastBuildDate>Tue, 15 Jul 2025 04:45:00 -03</lastBuildDate>
+    <lastBuildDate>Tue, 15 Jul 2025 04:55:00 -03</lastBuildDate>
     <docs>http://blogs.law.harvard.edu/tech/rss</docs>
     <generator>weewx 5.0.2</generator>
     <ttl>5.0 minutes</ttl>
 
     <item>
-      <title>Weather Conditions at 07/15/2025 04:45:00 AM</title>
+      <title>Weather Conditions at 07/15/2025 04:55:00 AM</title>
       <link></link>
       <description>
         Outside Temperature: 12.7&#176;C;
         Inside Temperature: 13.1&#176;C;
-        Barometer: 1018.5 mbar;
-        Wind: 2 knots from 098&#176;;
+        Barometer: 1018.4 mbar;
+        Wind: 2 knots from 085&#176;;
         Rain: 0.0 mm;
         Rain Rate: 0.0 mm/h;
         Wind Chill: 12.7&#176;C;
         Heat Index: 12.5&#176;C;
         Dew Point: 11.5&#176;C;
         Outside Humidity: 92%;
-        Inside Humidity: 79%;
+        Inside Humidity: 80%;
       </description>
-      <pubDate>Tue, 15 Jul 2025 04:45:00 -03</pubDate>
+      <pubDate>Tue, 15 Jul 2025 04:55:00 -03</pubDate>
       <geo:lat>-34.68247396567271</geo:lat>
       <geo:long>-59.033162742123125</geo:long>
       <content:encoded><![CDATA[
       <p>
-      Time: 07/15/2025 04:45:00 AM<br/>
+      Time: 07/15/2025 04:55:00 AM<br/>
         Outside Temperature: 12.7&#176;C<br/>
         Inside Temperature: 13.1&#176;C<br/>
-        Barometer: 1018.5 mbar<br/>
-        Wind: 2 knots from 098&#176;;
+        Barometer: 1018.4 mbar<br/>
+        Wind: 2 knots from 085&#176;;
         Rain: 0.0 mm<br/>
         Rain Rate: 0.0 mm/h<br/>
         Wind Chill: 12.7&#176;C<br/>
         Heat Index: 12.5&#176;C<br/>
         Dew Point: 11.5&#176;C<br/>
         Outside Humidity: 92%<br/>
-        Inside Humidity: 79%<br/>
+        Inside Humidity: 80%<br/>
       </p>
       ]]></content:encoded>
     </item>
 
     <item>
-      <title>Daily summary as of 07/15/2025 04:45:00 AM</title>
+      <title>Daily summary as of 07/15/2025 04:55:00 AM</title>
       <link></link>
       <description>
-        Min Outside Temperature: 12.7&#176;C at 04:37:15 AM;
+        Min Outside Temperature: 12.7&#176;C at 04:50:00 AM;
         Max Outside Temperature: 13.2&#176;C at 12:00:12 AM;
         Min Inside Temperature: 13.1&#176;C at 04:35:32 AM;
         Max Inside Temperature: 13.7&#176;C at 12:05:00 AM;
@@ -67,7 +67,7 @@
         Max Wind: 9 knots from 052&#176; at 04:03:31 AM;
         Rain: 0.0 mm;
         Max Rain Rate: 0.0 mm/h;
-        Min Wind Chill: 12.7&#176;C at 04:37:15 AM;
+        Min Wind Chill: 12.7&#176;C at 04:50:00 AM;
         Max Wind Chill: 13.2&#176;C at 12:00:12 AM;
         Min Heat Index: 12.4&#176;C at 04:37:36 AM;
         Max Heat Index: 12.9&#176;C at 12:00:12 AM;
@@ -78,13 +78,13 @@
         Min Inside Humidity: 77% at 12:00:12 AM;
         Max Inside Humidity: 80% at 04:43:44 AM;
       </description>
-      <pubDate>Tue, 15 Jul 2025 04:45:00 -03</pubDate>
+      <pubDate>Tue, 15 Jul 2025 04:55:00 -03</pubDate>
       <geo:lat>-34.68247396567271</geo:lat>
       <geo:long>-59.033162742123125</geo:long>
       <content:encoded><![CDATA[
       <p>
       Daily summary as of 15 Jul 2025<br/>
-        Min Outside Temperature: 12.7&#176;C at 04:37:15 AM<br/>
+        Min Outside Temperature: 12.7&#176;C at 04:50:00 AM<br/>
         Max Outside Temperature: 13.2&#176;C at 12:00:12 AM<br/>
         Min Inside Temperature: 13.1&#176;C at 04:35:32 AM<br/>
         Max Inside Temperature: 13.7&#176;C at 12:05:00 AM<br/>
@@ -93,7 +93,7 @@
         Max Wind: 9 knots from 052&#176; at 04:03:31 AM<br/>
         Rain: 0.0 mm<br/>
         Max Rain Rate: 0.0 mm/h<br/>
-        Min Wind Chill: 12.7&#176;C at 04:37:15 AM<br/>
+        Min Wind Chill: 12.7&#176;C at 04:50:00 AM<br/>
         Max Wind Chill: 13.2&#176;C at 12:00:12 AM<br/>
         Min Heat Index: 12.4&#176;C at 04:37:36 AM<br/>
         Max Heat Index: 12.9&#176;C at 12:00:12 AM<br/>
@@ -107,7 +107,7 @@
       ]]></content:encoded>
     </item>
     <item>
-      <title>Monthly summary as of 07/15/2025 04:45:00 AM</title>
+      <title>Monthly summary as of 07/15/2025 04:55:00 AM</title>
       <link></link>
       <description>
         Min Outside Temperature: -5.7&#176;C at 07/02/2025 07:35:19 AM;
@@ -130,7 +130,7 @@
         Min Inside Humidity: 44% at 07/01/2025 04:16:32 PM;
         Max Inside Humidity: 82% at 07/09/2025 10:24:45 AM;
       </description>
-      <pubDate>Tue, 15 Jul 2025 04:45:00 -03</pubDate>
+      <pubDate>Tue, 15 Jul 2025 04:55:00 -03</pubDate>
       <geo:lat>-34.68247396567271</geo:lat>
       <geo:long>-59.033162742123125</geo:long>
       <content:encoded><![CDATA[
@@ -159,7 +159,7 @@
       ]]></content:encoded>
     </item>
     <item>
-      <title>Yearly summary as of 07/15/2025 04:45:00 AM</title>
+      <title>Yearly summary as of 07/15/2025 04:55:00 AM</title>
       <link></link>
       <description>
         Min Outside Temperature: -5.7&#176;C at 07/02/2025 07:35:19 AM;
@@ -182,7 +182,7 @@
         Min Inside Humidity: 25% at 01/07/2025 05:07:31 PM;
         Max Inside Humidity: 90% at 05/16/2025 04:33:46 AM;
       </description>
-      <pubDate>Tue, 15 Jul 2025 04:45:00 -03</pubDate>
+      <pubDate>Tue, 15 Jul 2025 04:55:00 -03</pubDate>
       <geo:lat>-34.68247396567271</geo:lat>
       <geo:long>-59.033162742123125</geo:long>
       <content:encoded><![CDATA[
