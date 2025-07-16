@@ -10,52 +10,52 @@
     <link></link>
     <description>Current conditions, and daily, monthly, and yearly summaries</description>
     <language>"en"</language>
-    <pubDate>Wed, 16 Jul 2025 15:25:00 -03</pubDate>
+    <pubDate>Wed, 16 Jul 2025 15:35:00 -03</pubDate>
 
-    <lastBuildDate>Wed, 16 Jul 2025 15:25:00 -03</lastBuildDate>
+    <lastBuildDate>Wed, 16 Jul 2025 15:35:00 -03</lastBuildDate>
     <docs>http://blogs.law.harvard.edu/tech/rss</docs>
     <generator>weewx 5.0.2</generator>
     <ttl>5.0 minutes</ttl>
 
     <item>
-      <title>Weather Conditions at 07/16/2025 03:25:00 PM</title>
+      <title>Weather Conditions at 07/16/2025 03:35:00 PM</title>
       <link></link>
       <description>
-        Outside Temperature: 10.5&#176;C;
-        Inside Temperature: 12.8&#176;C;
+        Outside Temperature: 10.4&#176;C;
+        Inside Temperature: 12.7&#176;C;
         Barometer: 1018.6 mbar;
-        Wind: 9 knots from 226&#176;;
+        Wind: 6 knots from 208&#176;;
         Rain: 0.0 mm;
         Rain Rate: 0.0 mm/h;
-        Wind Chill: 10.5&#176;C;
+        Wind Chill: 10.4&#176;C;
         Heat Index: 10.0&#176;C;
         Dew Point: 9.3&#176;C;
-        Outside Humidity: 92%;
+        Outside Humidity: 93%;
         Inside Humidity: 78%;
       </description>
-      <pubDate>Wed, 16 Jul 2025 15:25:00 -03</pubDate>
+      <pubDate>Wed, 16 Jul 2025 15:35:00 -03</pubDate>
       <geo:lat>-34.68247396567271</geo:lat>
       <geo:long>-59.033162742123125</geo:long>
       <content:encoded><![CDATA[
       <p>
-      Time: 07/16/2025 03:25:00 PM<br/>
-        Outside Temperature: 10.5&#176;C<br/>
-        Inside Temperature: 12.8&#176;C<br/>
+      Time: 07/16/2025 03:35:00 PM<br/>
+        Outside Temperature: 10.4&#176;C<br/>
+        Inside Temperature: 12.7&#176;C<br/>
         Barometer: 1018.6 mbar<br/>
-        Wind: 9 knots from 226&#176;;
+        Wind: 6 knots from 208&#176;;
         Rain: 0.0 mm<br/>
         Rain Rate: 0.0 mm/h<br/>
-        Wind Chill: 10.5&#176;C<br/>
+        Wind Chill: 10.4&#176;C<br/>
         Heat Index: 10.0&#176;C<br/>
         Dew Point: 9.3&#176;C<br/>
-        Outside Humidity: 92%<br/>
+        Outside Humidity: 93%<br/>
         Inside Humidity: 78%<br/>
       </p>
       ]]></content:encoded>
     </item>
 
     <item>
-      <title>Daily summary as of 07/16/2025 03:25:00 PM</title>
+      <title>Daily summary as of 07/16/2025 03:35:00 PM</title>
       <link></link>
       <description>
         Min Outside Temperature: 10.1&#176;C at 10:45:00 AM;
@@ -78,7 +78,7 @@
         Min Inside Humidity: 78% at 12:00:25 AM;
         Max Inside Humidity: 85% at 05:02:31 AM;
       </description>
-      <pubDate>Wed, 16 Jul 2025 15:25:00 -03</pubDate>
+      <pubDate>Wed, 16 Jul 2025 15:35:00 -03</pubDate>
       <geo:lat>-34.68247396567271</geo:lat>
       <geo:long>-59.033162742123125</geo:long>
       <content:encoded><![CDATA[
@@ -107,7 +107,7 @@
       ]]></content:encoded>
     </item>
     <item>
-      <title>Monthly summary as of 07/16/2025 03:25:00 PM</title>
+      <title>Monthly summary as of 07/16/2025 03:35:00 PM</title>
       <link></link>
       <description>
         Min Outside Temperature: -5.7&#176;C at 07/02/2025 07:35:19 AM;
@@ -130,7 +130,7 @@
         Min Inside Humidity: 44% at 07/01/2025 04:16:32 PM;
         Max Inside Humidity: 85% at 07/16/2025 05:02:31 AM;
       </description>
-      <pubDate>Wed, 16 Jul 2025 15:25:00 -03</pubDate>
+      <pubDate>Wed, 16 Jul 2025 15:35:00 -03</pubDate>
       <geo:lat>-34.68247396567271</geo:lat>
       <geo:long>-59.033162742123125</geo:long>
       <content:encoded><![CDATA[
@@ -159,7 +159,7 @@
       ]]></content:encoded>
     </item>
     <item>
-      <title>Yearly summary as of 07/16/2025 03:25:00 PM</title>
+      <title>Yearly summary as of 07/16/2025 03:35:00 PM</title>
       <link></link>
       <description>
         Min Outside Temperature: -5.7&#176;C at 07/02/2025 07:35:19 AM;
@@ -182,7 +182,7 @@
         Min Inside Humidity: 25% at 01/07/2025 05:07:31 PM;
         Max Inside Humidity: 90% at 05/16/2025 04:33:46 AM;
       </description>
-      <pubDate>Wed, 16 Jul 2025 15:25:00 -03</pubDate>
+      <pubDate>Wed, 16 Jul 2025 15:35:00 -03</pubDate>
       <geo:lat>-34.68247396567271</geo:lat>
       <geo:long>-59.033162742123125</geo:long>
       <content:encoded><![CDATA[
