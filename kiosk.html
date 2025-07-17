@@ -27,9 +27,9 @@
         <link rel='stylesheet' href='//stackpath.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css' type='text/css' media='all' />
         <link rel='stylesheet' href='//cdnjs.cloudflare.com/ajax/libs/weather-icons/2.0.9/css/weather-icons.min.css?ver=4.7.4' type='text/css' media='all' />
         <link rel='stylesheet' href='//stackpath.bootstrapcdn.com/bootstrap/3.4.1/css/bootstrap.min.css' type='text/css' media='all' />
-        <link rel='stylesheet' href='./style.css?ver=1752746143' type='text/css' media='all' id="belchertownStyle" />
-        <link rel='stylesheet' href='./belchertown-dark.min.css?ver=1752746143' type='text/css' media='all' id="belchertownStyle" />
-        <link rel='stylesheet' href='./kiosk.css?ver=1752746143' type='text/css' media='all' id="belchertownCustomStyle" />
+        <link rel='stylesheet' href='./style.css?ver=1752746736' type='text/css' media='all' id="belchertownStyle" />
+        <link rel='stylesheet' href='./belchertown-dark.min.css?ver=1752746736' type='text/css' media='all' id="belchertownStyle" />
+        <link rel='stylesheet' href='./kiosk.css?ver=1752746736' type='text/css' media='all' id="belchertownCustomStyle" />
 
         <link rel="manifest" href="./manifest.json" crossorigin="use-credentials">
         <link rel="apple-touch-icon" href="./images/station.png">
@@ -47,14 +47,14 @@
         <script type='text/javascript' src="//cdnjs.cloudflare.com/ajax/libs/moment.js/2.24.0/moment-with-locales.min.js"></script>
         <script type='text/javascript' src="https://cdnjs.cloudflare.com/ajax/libs/moment-timezone/0.5.33/moment-timezone-with-data.min.js"></script>
         <script type='text/javascript' src='//stackpath.bootstrapcdn.com/bootstrap/3.4.1/js/bootstrap.min.js'></script>
-        <script type='text/javascript' src='./js/belchertown.js?1752746143'></script>
+        <script type='text/javascript' src='./js/belchertown.js?1752746736'></script>
         <script>
             // Set the session variables for the theme
             if ( sessionStorage.getItem('theme') === null ) {
                 sessionStorage.setItem('theme', 'auto');
             }
             if ( sessionStorage.getItem('currentTheme') === null ) {
-                sessionStorage.setItem('currentTheme', 'dark');
+                sessionStorage.setItem('currentTheme', 'light');
             }
         </script>
         
@@ -65,7 +65,7 @@
 
     </head>
     
-    <body class="page-template-default page full-width-content dark" itemscope itemtype="https://schema.org/WebPage">
+    <body class="page-template-default page full-width-content light" itemscope itemtype="https://schema.org/WebPage">
         <div class="site-container">
     <!-- end of header -->
 
@@ -88,12 +88,12 @@
             jQuery(document).ready(function() {
 
 
-                get_outTemp_color( "degree_C", "6.9" );
+                get_outTemp_color( "degree_C", "6.8" );
 
-                rotateThis( "202" );
+                rotateThis( "224" );
 
                 // Update the Last Updated timestamp with moment.js,
-                updated = tzAdjustedMoment( 1752746100 ).format("LL, LTS");
+                updated = tzAdjustedMoment( 1752746700 ).format("LL, LTS");
                 updated_text = "Ultima actualizaci&#243;n " + updated;
                 jQuery(".updated").html( updated_text );
 
@@ -103,7 +103,7 @@
 
 
                 // Update the Last Updated timestamp with moment.js,
-                updated = tzAdjustedMoment( 1752746100 ).format("LL, LTS");
+                updated = tzAdjustedMoment( 1752746700 ).format("LL, LTS");
                 updated_text = "Ultima actualizaci&#243;n " + updated;
                 jQuery(".updated").html( updated_text );
 
@@ -157,7 +157,7 @@
                                         <img id="wxicon" src="./images/cloudy.png">
                                     </div>
                                     <div class="col-sm-6 current_temp">
-                                        <div class="outtemp_outer"><span class="outtemp">6.9</span><sup class="outtempunitlabelsuper"> &#176;C</sup></div><!-- AJAX -->
+                                        <div class="outtemp_outer"><span class="outtemp">6.8</span><sup class="outtempunitlabelsuper"> &#176;C</sup></div><!-- AJAX -->
                                     </div>
                                 </div>
                                 <div class="row">
@@ -173,7 +173,7 @@
                                                         <td class="stn-high-low-table-title border-left">Humedad interior</td>
                                                     </tr>
                                                     <tr>
-                                                        <td><span class="inTemp">9.6 &#176;C</span></td>
+                                                        <td><span class="inTemp">9.5 &#176;C</span></td>
                                                         <td class="border-left"><span class="inHumidity">75%</span></td>
                                                     </tr>
                                                 </tbody>
@@ -181,7 +181,7 @@
                                         </div>
                                     </div>
                                     <div class="col-sm-6">
-                                        <div class="feelslike">Sens. term.: 4.0 &#176;C</div><!-- AJAX -->
+                                        <div class="feelslike">Sens. term.: 3.5 &#176;C</div><!-- AJAX -->
                                         <div class="stn-high-low">
                                             <table class="stn-high-low-table">
                                                 <tbody>
@@ -210,10 +210,10 @@
                                     <div class="compass">
                                         <div class="direction">
                                             <span class="curwinddir">
-                                            SSW
+                                            SW
                                             </span>
                                             <span class="curwinddeg">
-                                            202&#176;
+                                            224&#176;
                                             </span>
                                         </div>
                                         <div class="arrow"></div>
@@ -229,7 +229,7 @@
                                             <tr>
                                                 <td>
                                                     <span class="curwindspeed">
-                                                        5
+                                                        6
                                                     </span>
                                                 </td>
                                                 <td class="border-left gust">&nbsp;
@@ -242,7 +242,7 @@
                                                 <td class="mph" colspan="3"> knots</td>
                                             </tr>
                                             <tr>
-                                                <td style="padding-top:5px">Wind Run</td><td class="dailywindrun" style="padding-top:5px">112.14 km</td>
+                                                <td style="padding-top:5px">Wind Run</td><td class="dailywindrun" style="padding-top:5px">113.98 km</td>
                                             </tr>
                                         </tbody>
                                     </table>
@@ -385,7 +385,7 @@
 		<script type='text/javascript' src='./js/responsive-menu.js'></script>
 		
 		<!-- Belchertown Skin Version: 1.3.1 -->
-        <!-- Page Generated: 07/17/2025 06:55:00 AM -->
+        <!-- Page Generated: 07/17/2025 07:05:00 AM -->
 
     </body>
 </html>
