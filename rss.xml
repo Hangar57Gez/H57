@@ -10,43 +10,43 @@
     <link></link>
     <description>Current conditions, and daily, monthly, and yearly summaries</description>
     <language>"en"</language>
-    <pubDate>Sat, 26 Jul 2025 14:15:00 -03</pubDate>
+    <pubDate>Sat, 26 Jul 2025 14:25:00 -03</pubDate>
 
-    <lastBuildDate>Sat, 26 Jul 2025 14:15:00 -03</lastBuildDate>
+    <lastBuildDate>Sat, 26 Jul 2025 14:25:00 -03</lastBuildDate>
     <docs>http://blogs.law.harvard.edu/tech/rss</docs>
     <generator>weewx 5.0.2</generator>
     <ttl>5.0 minutes</ttl>
 
     <item>
-      <title>Weather Conditions at 07/26/2025 02:15:00 PM</title>
+      <title>Weather Conditions at 07/26/2025 02:25:00 PM</title>
       <link></link>
       <description>
         Outside Temperature: 11.1&#176;C;
-        Inside Temperature: 12.3&#176;C;
-        Barometer: 1022.9 mbar;
-        Wind: 8 knots from 155&#176;;
+        Inside Temperature: 12.4&#176;C;
+        Barometer: 1023.0 mbar;
+        Wind: 6 knots from 149&#176;;
         Rain: 0.0 mm;
         Rain Rate: 0.0 mm/h;
         Wind Chill: 11.1&#176;C;
-        Heat Index: 10.0&#176;C;
+        Heat Index: 10.1&#176;C;
         Dew Point: 5.6&#176;C;
         Outside Humidity: 69%;
         Inside Humidity: 64%;
       </description>
-      <pubDate>Sat, 26 Jul 2025 14:15:00 -03</pubDate>
+      <pubDate>Sat, 26 Jul 2025 14:25:00 -03</pubDate>
       <geo:lat>-34.68247396567271</geo:lat>
       <geo:long>-59.033162742123125</geo:long>
       <content:encoded><![CDATA[
       <p>
-      Time: 07/26/2025 02:15:00 PM<br/>
+      Time: 07/26/2025 02:25:00 PM<br/>
         Outside Temperature: 11.1&#176;C<br/>
-        Inside Temperature: 12.3&#176;C<br/>
-        Barometer: 1022.9 mbar<br/>
-        Wind: 8 knots from 155&#176;;
+        Inside Temperature: 12.4&#176;C<br/>
+        Barometer: 1023.0 mbar<br/>
+        Wind: 6 knots from 149&#176;;
         Rain: 0.0 mm<br/>
         Rain Rate: 0.0 mm/h<br/>
         Wind Chill: 11.1&#176;C<br/>
-        Heat Index: 10.0&#176;C<br/>
+        Heat Index: 10.1&#176;C<br/>
         Dew Point: 5.6&#176;C<br/>
         Outside Humidity: 69%<br/>
         Inside Humidity: 64%<br/>
@@ -55,13 +55,13 @@
     </item>
 
     <item>
-      <title>Daily summary as of 07/26/2025 02:15:00 PM</title>
+      <title>Daily summary as of 07/26/2025 02:25:00 PM</title>
       <link></link>
       <description>
         Min Outside Temperature: 6.3&#176;C at 05:52:32 AM;
         Max Outside Temperature: 11.6&#176;C at 12:00:06 AM;
         Min Inside Temperature: 8.5&#176;C at 07:14:47 AM;
-        Max Inside Temperature: 12.3&#176;C at 12:05:00 AM;
+        Max Inside Temperature: 12.4&#176;C at 02:18:33 PM;
         Min Barometer: 1020.1 mbar at 12:01:44 AM;
         Max Barometer: 1025.4 mbar at 10:46:32 AM;
         Max Wind: 24 knots from 157&#176; at 01:38:47 PM;
@@ -73,12 +73,12 @@
         Max Heat Index: 11.2&#176;C at 12:38:59 AM;
         Min Dew Point: 4.3&#176;C at 09:16:02 AM;
         Max Dew Point: 10.2&#176;C at 12:38:59 AM;
-        Min Outside Humidity: 68% at 01:51:35 PM;
+        Min Outside Humidity: 67% at 02:17:06 PM;
         Max Outside Humidity: 91% at 12:01:23 AM;
         Min Inside Humidity: 64% at 01:36:03 PM;
         Max Inside Humidity: 82% at 12:00:06 AM;
       </description>
-      <pubDate>Sat, 26 Jul 2025 14:15:00 -03</pubDate>
+      <pubDate>Sat, 26 Jul 2025 14:25:00 -03</pubDate>
       <geo:lat>-34.68247396567271</geo:lat>
       <geo:long>-59.033162742123125</geo:long>
       <content:encoded><![CDATA[
@@ -87,7 +87,7 @@
         Min Outside Temperature: 6.3&#176;C at 05:52:32 AM<br/>
         Max Outside Temperature: 11.6&#176;C at 12:00:06 AM<br/>
         Min Inside Temperature: 8.5&#176;C at 07:14:47 AM<br/>
-        Max Inside Temperature: 12.3&#176;C at 12:05:00 AM<br/>
+        Max Inside Temperature: 12.4&#176;C at 02:18:33 PM<br/>
         Min Barometer: 1020.1 mbar at 12:01:44 AM<br/>
         Max Barometer: 1025.4 mbar at 10:46:32 AM<br/>
         Max Wind: 24 knots from 157&#176; at 01:38:47 PM<br/>
@@ -99,7 +99,7 @@
         Max Heat Index: 11.2&#176;C at 12:38:59 AM<br/>
         Min Dew Point: 4.3&#176;C at 09:16:02 AM<br/>
         Max Dew Point: 10.2&#176;C at 12:38:59 AM<br/>
-        Min Outside Humidity: 68% at 01:51:35 PM<br/>
+        Min Outside Humidity: 67% at 02:17:06 PM<br/>
         Max Outside Humidity: 91% at 12:01:23 AM<br/>
         Min Inside Humidity: 64% at 01:36:03 PM<br/>
         Max Inside Humidity: 82% at 12:00:06 AM<br/>
@@ -107,7 +107,7 @@
       ]]></content:encoded>
     </item>
     <item>
-      <title>Monthly summary as of 07/26/2025 02:15:00 PM</title>
+      <title>Monthly summary as of 07/26/2025 02:25:00 PM</title>
       <link></link>
       <description>
         Min Outside Temperature: -5.7&#176;C at 07/02/2025 07:35:19 AM;
@@ -130,7 +130,7 @@
         Min Inside Humidity: 44% at 07/01/2025 04:16:32 PM;
         Max Inside Humidity: 85% at 07/16/2025 05:02:31 AM;
       </description>
-      <pubDate>Sat, 26 Jul 2025 14:15:00 -03</pubDate>
+      <pubDate>Sat, 26 Jul 2025 14:25:00 -03</pubDate>
       <geo:lat>-34.68247396567271</geo:lat>
       <geo:long>-59.033162742123125</geo:long>
       <content:encoded><![CDATA[
@@ -159,7 +159,7 @@
       ]]></content:encoded>
     </item>
     <item>
-      <title>Yearly summary as of 07/26/2025 02:15:00 PM</title>
+      <title>Yearly summary as of 07/26/2025 02:25:00 PM</title>
       <link></link>
       <description>
         Min Outside Temperature: -5.7&#176;C at 07/02/2025 07:35:19 AM;
@@ -182,7 +182,7 @@
         Min Inside Humidity: 25% at 01/07/2025 05:07:31 PM;
         Max Inside Humidity: 90% at 05/16/2025 04:33:46 AM;
       </description>
-      <pubDate>Sat, 26 Jul 2025 14:15:00 -03</pubDate>
+      <pubDate>Sat, 26 Jul 2025 14:25:00 -03</pubDate>
       <geo:lat>-34.68247396567271</geo:lat>
       <geo:long>-59.033162742123125</geo:long>
       <content:encoded><![CDATA[
