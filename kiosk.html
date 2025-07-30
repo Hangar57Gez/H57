@@ -27,9 +27,9 @@
         <link rel='stylesheet' href='//stackpath.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css' type='text/css' media='all' />
         <link rel='stylesheet' href='//cdnjs.cloudflare.com/ajax/libs/weather-icons/2.0.9/css/weather-icons.min.css?ver=4.7.4' type='text/css' media='all' />
         <link rel='stylesheet' href='//stackpath.bootstrapcdn.com/bootstrap/3.4.1/css/bootstrap.min.css' type='text/css' media='all' />
-        <link rel='stylesheet' href='./style.css?ver=1753879546' type='text/css' media='all' id="belchertownStyle" />
-        <link rel='stylesheet' href='./belchertown-dark.min.css?ver=1753879546' type='text/css' media='all' id="belchertownStyle" />
-        <link rel='stylesheet' href='./kiosk.css?ver=1753879546' type='text/css' media='all' id="belchertownCustomStyle" />
+        <link rel='stylesheet' href='./style.css?ver=1753880142' type='text/css' media='all' id="belchertownStyle" />
+        <link rel='stylesheet' href='./belchertown-dark.min.css?ver=1753880142' type='text/css' media='all' id="belchertownStyle" />
+        <link rel='stylesheet' href='./kiosk.css?ver=1753880142' type='text/css' media='all' id="belchertownCustomStyle" />
 
         <link rel="manifest" href="./manifest.json" crossorigin="use-credentials">
         <link rel="apple-touch-icon" href="./images/station.png">
@@ -47,7 +47,7 @@
         <script type='text/javascript' src="//cdnjs.cloudflare.com/ajax/libs/moment.js/2.24.0/moment-with-locales.min.js"></script>
         <script type='text/javascript' src="https://cdnjs.cloudflare.com/ajax/libs/moment-timezone/0.5.33/moment-timezone-with-data.min.js"></script>
         <script type='text/javascript' src='//stackpath.bootstrapcdn.com/bootstrap/3.4.1/js/bootstrap.min.js'></script>
-        <script type='text/javascript' src='./js/belchertown.js?1753879546'></script>
+        <script type='text/javascript' src='./js/belchertown.js?1753880142'></script>
         <script>
             // Set the session variables for the theme
             if ( sessionStorage.getItem('theme') === null ) {
@@ -88,12 +88,12 @@
             jQuery(document).ready(function() {
 
 
-                get_outTemp_color( "degree_C", "10.9" );
+                get_outTemp_color( "degree_C", "11.3" );
 
-                rotateThis( "57" );
+                rotateThis( "53" );
 
                 // Update the Last Updated timestamp with moment.js,
-                updated = tzAdjustedMoment( 1753879500 ).format("LL, LTS");
+                updated = tzAdjustedMoment( 1753880100 ).format("LL, LTS");
                 updated_text = "Ultima actualizaci&#243;n " + updated;
                 jQuery(".updated").html( updated_text );
 
@@ -103,7 +103,7 @@
 
 
                 // Update the Last Updated timestamp with moment.js,
-                updated = tzAdjustedMoment( 1753879500 ).format("LL, LTS");
+                updated = tzAdjustedMoment( 1753880100 ).format("LL, LTS");
                 updated_text = "Ultima actualizaci&#243;n " + updated;
                 jQuery(".updated").html( updated_text );
 
@@ -157,7 +157,7 @@
                                         <img id="wxicon" src="./images/mostly-clear-day.png">
                                     </div>
                                     <div class="col-sm-6 current_temp">
-                                        <div class="outtemp_outer"><span class="outtemp">10.9</span><sup class="outtempunitlabelsuper"> &#176;C</sup></div><!-- AJAX -->
+                                        <div class="outtemp_outer"><span class="outtemp">11.3</span><sup class="outtempunitlabelsuper"> &#176;C</sup></div><!-- AJAX -->
                                     </div>
                                 </div>
                                 <div class="row">
@@ -173,7 +173,7 @@
                                                         <td class="stn-high-low-table-title border-left">Humedad interior</td>
                                                     </tr>
                                                     <tr>
-                                                        <td><span class="inTemp">9.7 &#176;C</span></td>
+                                                        <td><span class="inTemp">9.9 &#176;C</span></td>
                                                         <td class="border-left"><span class="inHumidity">78%</span></td>
                                                     </tr>
                                                 </tbody>
@@ -181,7 +181,7 @@
                                         </div>
                                     </div>
                                     <div class="col-sm-6">
-                                        <div class="feelslike">Sens. term.: 8.2 &#176;C</div><!-- AJAX -->
+                                        <div class="feelslike">Sens. term.: 8.8 &#176;C</div><!-- AJAX -->
                                         <div class="stn-high-low">
                                             <table class="stn-high-low-table">
                                                 <tbody>
@@ -190,7 +190,7 @@
                                                         <td class="stn-high-low-table-title border-left">m&#237;n</td>
                                                     </tr>
                                                     <tr>
-                                                        <td class="high">10.9 &#176;C</td>
+                                                        <td class="high">11.4 &#176;C</td>
                                                         <td class="border-left low">7.5 &#176;C</td>
                                                     </tr>
                                                 </tbody>
@@ -210,10 +210,10 @@
                                     <div class="compass">
                                         <div class="direction">
                                             <span class="curwinddir">
-                                            ENE
+                                            NE
                                             </span>
                                             <span class="curwinddeg">
-                                            57&#176;
+                                            53&#176;
                                             </span>
                                         </div>
                                         <div class="arrow"></div>
@@ -229,7 +229,7 @@
                                             <tr>
                                                 <td>
                                                     <span class="curwindspeed">
-                                                        6
+                                                        5
                                                     </span>
                                                 </td>
                                                 <td class="border-left gust">&nbsp;
@@ -242,7 +242,7 @@
                                                 <td class="mph" colspan="3"> knots</td>
                                             </tr>
                                             <tr>
-                                                <td style="padding-top:5px">Wind Run</td><td class="dailywindrun" style="padding-top:5px">44.47 km</td>
+                                                <td style="padding-top:5px">Wind Run</td><td class="dailywindrun" style="padding-top:5px">46.01 km</td>
                                             </tr>
                                         </tbody>
                                     </table>
@@ -257,7 +257,7 @@
                         <div class="station-observations weather-obs-top">
                             <table cellpadding="0" cellspacing="0">
                                 <tbody>
-                                    <tr><td class='station-observations-label'>Bar&#243;metro</td><td><span class=barometer>1021.3 mbar</span><!-- AJAX --> <span class="pressure-trend"><i class="fa fa-arrow-down barometer-down"></i></span></td></tr><tr><td class='station-observations-label'>Punto de roc&#237;o</td><td><span class=dewpoint>7.2 &#176;C</span><!-- AJAX --></td></tr><tr><td class='station-observations-label'>Humedad exterior</td><td><span class=outHumidity>78%</span><!-- AJAX --></td></tr><tr><td class='station-observations-label'>Lluvia</td><td><span class='dayRain'>0.0 mm</span><!-- AJAX -->&nbsp;<span class='border-left'>&nbsp;</span><span class='rainRate'>0.0 mm/hr</span><!-- AJAX --></td></tr>
+                                    <tr><td class='station-observations-label'>Bar&#243;metro</td><td><span class=barometer>1021.3 mbar</span><!-- AJAX --> <span class="pressure-trend"><i class="fa fa-arrow-down barometer-down"></i></span></td></tr><tr><td class='station-observations-label'>Punto de roc&#237;o</td><td><span class=dewpoint>7.3 &#176;C</span><!-- AJAX --></td></tr><tr><td class='station-observations-label'>Humedad exterior</td><td><span class=outHumidity>77%</span><!-- AJAX --></td></tr><tr><td class='station-observations-label'>Lluvia</td><td><span class='dayRain'>0.0 mm</span><!-- AJAX -->&nbsp;<span class='border-left'>&nbsp;</span><span class='rainRate'>0.0 mm/hr</span><!-- AJAX --></td></tr>
                                 </tbody>
                             </table>
                         </div>                        
@@ -385,7 +385,7 @@
 		<script type='text/javascript' src='./js/responsive-menu.js'></script>
 		
 		<!-- Belchertown Skin Version: 1.3.1 -->
-        <!-- Page Generated: 07/30/2025 09:45:00 AM -->
+        <!-- Page Generated: 07/30/2025 09:55:00 AM -->
 
     </body>
 </html>
