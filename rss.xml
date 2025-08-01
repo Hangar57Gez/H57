@@ -10,42 +10,42 @@
     <link></link>
     <description>Current conditions, and daily, monthly, and yearly summaries</description>
     <language>"en"</language>
-    <pubDate>Fri, 01 Aug 2025 09:05:00 -03</pubDate>
+    <pubDate>Fri, 01 Aug 2025 09:15:00 -03</pubDate>
 
-    <lastBuildDate>Fri, 01 Aug 2025 09:05:00 -03</lastBuildDate>
+    <lastBuildDate>Fri, 01 Aug 2025 09:15:00 -03</lastBuildDate>
     <docs>http://blogs.law.harvard.edu/tech/rss</docs>
     <generator>weewx 5.0.2</generator>
     <ttl>5.0 minutes</ttl>
 
     <item>
-      <title>Weather Conditions at 08/01/2025 09:05:00 AM</title>
+      <title>Weather Conditions at 08/01/2025 09:15:00 AM</title>
       <link></link>
       <description>
-        Outside Temperature: 17.3&#176;C;
+        Outside Temperature: 17.4&#176;C;
         Inside Temperature: 15.6&#176;C;
-        Barometer: 1007.7 mbar;
-        Wind: 5 knots from 078&#176;;
+        Barometer: 1007.5 mbar;
+        Wind: 5 knots from 089&#176;;
         Rain: 0.0 mm;
         Rain Rate: 0.0 mm/h;
-        Wind Chill: 17.3&#176;C;
+        Wind Chill: 17.4&#176;C;
         Heat Index: 17.1&#176;C;
         Dew Point: 12.7&#176;C;
         Outside Humidity: 74%;
         Inside Humidity: 73%;
       </description>
-      <pubDate>Fri, 01 Aug 2025 09:05:00 -03</pubDate>
+      <pubDate>Fri, 01 Aug 2025 09:15:00 -03</pubDate>
       <geo:lat>-34.68247396567271</geo:lat>
       <geo:long>-59.033162742123125</geo:long>
       <content:encoded><![CDATA[
       <p>
-      Time: 08/01/2025 09:05:00 AM<br/>
-        Outside Temperature: 17.3&#176;C<br/>
+      Time: 08/01/2025 09:15:00 AM<br/>
+        Outside Temperature: 17.4&#176;C<br/>
         Inside Temperature: 15.6&#176;C<br/>
-        Barometer: 1007.7 mbar<br/>
-        Wind: 5 knots from 078&#176;;
+        Barometer: 1007.5 mbar<br/>
+        Wind: 5 knots from 089&#176;;
         Rain: 0.0 mm<br/>
         Rain Rate: 0.0 mm/h<br/>
-        Wind Chill: 17.3&#176;C<br/>
+        Wind Chill: 17.4&#176;C<br/>
         Heat Index: 17.1&#176;C<br/>
         Dew Point: 12.7&#176;C<br/>
         Outside Humidity: 74%<br/>
@@ -55,7 +55,7 @@
     </item>
 
     <item>
-      <title>Daily summary as of 08/01/2025 09:05:00 AM</title>
+      <title>Daily summary as of 08/01/2025 09:15:00 AM</title>
       <link></link>
       <description>
         Min Outside Temperature: 16.7&#176;C at 07:44:05 AM;
@@ -78,7 +78,7 @@
         Min Inside Humidity: 69% at 01:00:43 AM;
         Max Inside Humidity: 73% at 08:52:32 AM;
       </description>
-      <pubDate>Fri, 01 Aug 2025 09:05:00 -03</pubDate>
+      <pubDate>Fri, 01 Aug 2025 09:15:00 -03</pubDate>
       <geo:lat>-34.68247396567271</geo:lat>
       <geo:long>-59.033162742123125</geo:long>
       <content:encoded><![CDATA[
@@ -107,7 +107,7 @@
       ]]></content:encoded>
     </item>
     <item>
-      <title>Monthly summary as of 08/01/2025 09:05:00 AM</title>
+      <title>Monthly summary as of 08/01/2025 09:15:00 AM</title>
       <link></link>
       <description>
         Min Outside Temperature: 16.7&#176;C at 08/01/2025 07:44:05 AM;
@@ -130,7 +130,7 @@
         Min Inside Humidity: 69% at 08/01/2025 01:00:43 AM;
         Max Inside Humidity: 73% at 08/01/2025 08:52:32 AM;
       </description>
-      <pubDate>Fri, 01 Aug 2025 09:05:00 -03</pubDate>
+      <pubDate>Fri, 01 Aug 2025 09:15:00 -03</pubDate>
       <geo:lat>-34.68247396567271</geo:lat>
       <geo:long>-59.033162742123125</geo:long>
       <content:encoded><![CDATA[
@@ -159,7 +159,7 @@
       ]]></content:encoded>
     </item>
     <item>
-      <title>Yearly summary as of 08/01/2025 09:05:00 AM</title>
+      <title>Yearly summary as of 08/01/2025 09:15:00 AM</title>
       <link></link>
       <description>
         Min Outside Temperature: -5.7&#176;C at 07/02/2025 07:35:19 AM;
@@ -182,7 +182,7 @@
         Min Inside Humidity: 25% at 01/07/2025 05:07:31 PM;
         Max Inside Humidity: 90% at 05/16/2025 04:33:46 AM;
       </description>
-      <pubDate>Fri, 01 Aug 2025 09:05:00 -03</pubDate>
+      <pubDate>Fri, 01 Aug 2025 09:15:00 -03</pubDate>
       <geo:lat>-34.68247396567271</geo:lat>
       <geo:long>-59.033162742123125</geo:long>
       <content:encoded><![CDATA[
