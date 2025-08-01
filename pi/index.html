@@ -29,8 +29,8 @@
         <link rel='stylesheet' href='//stackpath.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css' type='text/css' media='all' />
         <link rel='stylesheet' href='//cdnjs.cloudflare.com/ajax/libs/weather-icons/2.0.9/css/weather-icons.min.css?ver=4.7.4' type='text/css' media='all' />
         <link rel='stylesheet' href='//stackpath.bootstrapcdn.com/bootstrap/3.4.1/css/bootstrap.min.css' type='text/css' media='all' />
-        <link rel='stylesheet' href='../style.css?ver=1754030738' type='text/css' media='all' id="belchertownStyle" />
-        <link rel='stylesheet' href='../belchertown-dark.min.css?ver=1754030738' type='text/css' media='all' id="belchertownStyle" />
+        <link rel='stylesheet' href='../style.css?ver=1754031343' type='text/css' media='all' id="belchertownStyle" />
+        <link rel='stylesheet' href='../belchertown-dark.min.css?ver=1754031343' type='text/css' media='all' id="belchertownStyle" />
 
         <link rel="manifest" href="../manifest.json" crossorigin="use-credentials">
         <link rel="apple-touch-icon" href="../images/station.png">
@@ -53,7 +53,7 @@
         <script type='text/javascript' src='//code.highcharts.com/10/modules/exporting.js'></script>
         <script type='text/javascript' src='//code.highcharts.com/10/modules/solid-gauge.js'></script>
         <script type='text/javascript' src='//stackpath.bootstrapcdn.com/bootstrap/3.4.1/js/bootstrap.min.js'></script>
-        <script type='text/javascript' src='../js/belchertown.js?1754030738'></script>
+        <script type='text/javascript' src='../js/belchertown.js?1754031343'></script>
         <script>
             // Set the session variables for the theme
             if ( sessionStorage.getItem('pi_theme') === null ) {
@@ -85,9 +85,9 @@
         ajaxforecast(); // Initial call to load forecast data like 8 day outlook, weather icon and observation text
         
         jQuery(document).ready(function() {
-            get_outTemp_color( "degree_C", "17.7" );
+            get_outTemp_color( "degree_C", "17.6" );
             
-            rotateThis( "48" );
+            rotateThis( "59" );
             
         });
         
@@ -120,13 +120,13 @@
                 <div class="col-xs-6 temp-observation">
                     <div class="obs-group">
                         <img id="wxicon" src="../images/mostly-clear-night.png"><!-- AJAX -->
-                        <div class="outtemp_outer"><span class="outtemp">17.7</span><sup class="outtempunitlabelsuper"> &#176;C</sup></div><!-- AJAX -->
+                        <div class="outtemp_outer"><span class="outtemp">17.6</span><sup class="outtempunitlabelsuper"> &#176;C</sup></div><!-- AJAX -->
                         <div class="current-obs-text">Poco nublado</div><!-- AJAX -->
                     </div>
                     <div class="clear"></div>
                 
                     <div class="tempstats">
-                        <div class="feelslike">Sens. term.: 16.9 &#176;C</div><!-- AJAX -->
+                        <div class="feelslike">Sens. term.: 16.8 &#176;C</div><!-- AJAX -->
                         <div class="highlow">
                             m&#225;x <span class="high">19.7 &#176;C</span> | m&#237;n <span class="low">17.6 &#176;C</span>
                         </div><!-- AJAX -->
@@ -144,7 +144,7 @@
                                 <tr>
                                     <td class='station-observations-label'>Punto de roc&#237;o</td>
                                     <td>
-                                        <span class="dewpoint">11.7 &#176;C</span><!-- AJAX -->
+                                        <span class="dewpoint">11.6 &#176;C</span><!-- AJAX -->
                                     </td>
                                 </tr>                            
                                 <tr>
@@ -158,7 +158,7 @@
                                 <tr>
                                     <td class='station-observations-label'>Bar&#243;metro</td>
                                     <td>
-                                        <span class="barometer">1009.2 mbar</span><!-- AJAX -->
+                                        <span class="barometer">1009.0 mbar</span><!-- AJAX -->
                                         <span class="pressure-trend">
                                             <i class="fa fa-arrow-down barometer-down"></i>
                                         </span>
@@ -183,10 +183,10 @@
                         <div class="compass">
                             <div class="direction">
                                 <span class="curwinddir">
-                                    NE
+                                    ENE
                                     </span>
                                     <span class="curwinddeg">
-                                    48&#176;
+                                    59&#176;
                                 </span>
                             </div>
                             <div class="arrow"></div>
