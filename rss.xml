@@ -10,52 +10,52 @@
     <link></link>
     <description>Current conditions, and daily, monthly, and yearly summaries</description>
     <language>"en"</language>
-    <pubDate>Thu, 31 Jul 2025 22:45:00 -03</pubDate>
+    <pubDate>Thu, 31 Jul 2025 22:55:00 -03</pubDate>
 
-    <lastBuildDate>Thu, 31 Jul 2025 22:45:00 -03</lastBuildDate>
+    <lastBuildDate>Thu, 31 Jul 2025 22:55:00 -03</lastBuildDate>
     <docs>http://blogs.law.harvard.edu/tech/rss</docs>
     <generator>weewx 5.0.2</generator>
     <ttl>5.0 minutes</ttl>
 
     <item>
-      <title>Weather Conditions at 07/31/2025 10:45:00 PM</title>
+      <title>Weather Conditions at 07/31/2025 10:55:00 PM</title>
       <link></link>
       <description>
         Outside Temperature: 18.1&#176;C;
         Inside Temperature: 15.7&#176;C;
-        Barometer: 1010.4 mbar;
-        Wind: 3 knots from 097&#176;;
+        Barometer: 1010.6 mbar;
+        Wind: 3 knots from 072&#176;;
         Rain: 0.0 mm;
         Rain Rate: 0.0 mm/h;
         Wind Chill: 18.1&#176;C;
-        Heat Index: 17.8&#176;C;
-        Dew Point: 12.1&#176;C;
-        Outside Humidity: 68%;
+        Heat Index: 17.7&#176;C;
+        Dew Point: 11.9&#176;C;
+        Outside Humidity: 67%;
         Inside Humidity: 70%;
       </description>
-      <pubDate>Thu, 31 Jul 2025 22:45:00 -03</pubDate>
+      <pubDate>Thu, 31 Jul 2025 22:55:00 -03</pubDate>
       <geo:lat>-34.68247396567271</geo:lat>
       <geo:long>-59.033162742123125</geo:long>
       <content:encoded><![CDATA[
       <p>
-      Time: 07/31/2025 10:45:00 PM<br/>
+      Time: 07/31/2025 10:55:00 PM<br/>
         Outside Temperature: 18.1&#176;C<br/>
         Inside Temperature: 15.7&#176;C<br/>
-        Barometer: 1010.4 mbar<br/>
-        Wind: 3 knots from 097&#176;;
+        Barometer: 1010.6 mbar<br/>
+        Wind: 3 knots from 072&#176;;
         Rain: 0.0 mm<br/>
         Rain Rate: 0.0 mm/h<br/>
         Wind Chill: 18.1&#176;C<br/>
-        Heat Index: 17.8&#176;C<br/>
-        Dew Point: 12.1&#176;C<br/>
-        Outside Humidity: 68%<br/>
+        Heat Index: 17.7&#176;C<br/>
+        Dew Point: 11.9&#176;C<br/>
+        Outside Humidity: 67%<br/>
         Inside Humidity: 70%<br/>
       </p>
       ]]></content:encoded>
     </item>
 
     <item>
-      <title>Daily summary as of 07/31/2025 10:45:00 PM</title>
+      <title>Daily summary as of 07/31/2025 10:55:00 PM</title>
       <link></link>
       <description>
         Min Outside Temperature: 11.0&#176;C at 06:58:32 AM;
@@ -78,7 +78,7 @@
         Min Inside Humidity: 63% at 12:00:25 AM;
         Max Inside Humidity: 70% at 09:18:35 PM;
       </description>
-      <pubDate>Thu, 31 Jul 2025 22:45:00 -03</pubDate>
+      <pubDate>Thu, 31 Jul 2025 22:55:00 -03</pubDate>
       <geo:lat>-34.68247396567271</geo:lat>
       <geo:long>-59.033162742123125</geo:long>
       <content:encoded><![CDATA[
@@ -107,7 +107,7 @@
       ]]></content:encoded>
     </item>
     <item>
-      <title>Monthly summary as of 07/31/2025 10:45:00 PM</title>
+      <title>Monthly summary as of 07/31/2025 10:55:00 PM</title>
       <link></link>
       <description>
         Min Outside Temperature: -5.7&#176;C at 07/02/2025 07:35:19 AM;
@@ -130,7 +130,7 @@
         Min Inside Humidity: 44% at 07/01/2025 04:16:32 PM;
         Max Inside Humidity: 85% at 07/16/2025 05:02:31 AM;
       </description>
-      <pubDate>Thu, 31 Jul 2025 22:45:00 -03</pubDate>
+      <pubDate>Thu, 31 Jul 2025 22:55:00 -03</pubDate>
       <geo:lat>-34.68247396567271</geo:lat>
       <geo:long>-59.033162742123125</geo:long>
       <content:encoded><![CDATA[
@@ -159,7 +159,7 @@
       ]]></content:encoded>
     </item>
     <item>
-      <title>Yearly summary as of 07/31/2025 10:45:00 PM</title>
+      <title>Yearly summary as of 07/31/2025 10:55:00 PM</title>
       <link></link>
       <description>
         Min Outside Temperature: -5.7&#176;C at 07/02/2025 07:35:19 AM;
@@ -182,7 +182,7 @@
         Min Inside Humidity: 25% at 01/07/2025 05:07:31 PM;
         Max Inside Humidity: 90% at 05/16/2025 04:33:46 AM;
       </description>
-      <pubDate>Thu, 31 Jul 2025 22:45:00 -03</pubDate>
+      <pubDate>Thu, 31 Jul 2025 22:55:00 -03</pubDate>
       <geo:lat>-34.68247396567271</geo:lat>
       <geo:long>-59.033162742123125</geo:long>
       <content:encoded><![CDATA[
