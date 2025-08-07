@@ -10,44 +10,44 @@
     <link></link>
     <description>Current conditions, and daily, monthly, and yearly summaries</description>
     <language>"en"</language>
-    <pubDate>Thu, 07 Aug 2025 05:25:00 -03</pubDate>
+    <pubDate>Thu, 07 Aug 2025 05:35:00 -03</pubDate>
 
-    <lastBuildDate>Thu, 07 Aug 2025 05:25:00 -03</lastBuildDate>
+    <lastBuildDate>Thu, 07 Aug 2025 05:35:00 -03</lastBuildDate>
     <docs>http://blogs.law.harvard.edu/tech/rss</docs>
     <generator>weewx 5.0.2</generator>
     <ttl>5.0 minutes</ttl>
 
     <item>
-      <title>Weather Conditions at 08/07/2025 05:25:00 AM</title>
+      <title>Weather Conditions at 08/07/2025 05:35:00 AM</title>
       <link></link>
       <description>
-        Outside Temperature: 5.3&#176;C;
+        Outside Temperature: 5.2&#176;C;
         Inside Temperature: 7.9&#176;C;
-        Barometer: 1025.1 mbar;
-        Wind: 3 knots from 232&#176;;
+        Barometer: 1025.2 mbar;
+        Wind: 3 knots from 219&#176;;
         Rain: 0.0 mm;
         Rain Rate: 0.0 mm/h;
-        Wind Chill: 4.2&#176;C;
-        Heat Index: 4.4&#176;C;
-        Dew Point: 4.7&#176;C;
+        Wind Chill: 4.1&#176;C;
+        Heat Index: 4.3&#176;C;
+        Dew Point: 4.6&#176;C;
         Outside Humidity: 96%;
         Inside Humidity: 73%;
       </description>
-      <pubDate>Thu, 07 Aug 2025 05:25:00 -03</pubDate>
+      <pubDate>Thu, 07 Aug 2025 05:35:00 -03</pubDate>
       <geo:lat>-34.68247396567271</geo:lat>
       <geo:long>-59.033162742123125</geo:long>
       <content:encoded><![CDATA[
       <p>
-      Time: 08/07/2025 05:25:00 AM<br/>
-        Outside Temperature: 5.3&#176;C<br/>
+      Time: 08/07/2025 05:35:00 AM<br/>
+        Outside Temperature: 5.2&#176;C<br/>
         Inside Temperature: 7.9&#176;C<br/>
-        Barometer: 1025.1 mbar<br/>
-        Wind: 3 knots from 232&#176;;
+        Barometer: 1025.2 mbar<br/>
+        Wind: 3 knots from 219&#176;;
         Rain: 0.0 mm<br/>
         Rain Rate: 0.0 mm/h<br/>
-        Wind Chill: 4.2&#176;C<br/>
-        Heat Index: 4.4&#176;C<br/>
-        Dew Point: 4.7&#176;C<br/>
+        Wind Chill: 4.1&#176;C<br/>
+        Heat Index: 4.3&#176;C<br/>
+        Dew Point: 4.6&#176;C<br/>
         Outside Humidity: 96%<br/>
         Inside Humidity: 73%<br/>
       </p>
@@ -55,49 +55,49 @@
     </item>
 
     <item>
-      <title>Daily summary as of 08/07/2025 05:25:00 AM</title>
+      <title>Daily summary as of 08/07/2025 05:35:00 AM</title>
       <link></link>
       <description>
-        Min Outside Temperature: 5.3&#176;C at 05:22:01 AM;
+        Min Outside Temperature: 5.1&#176;C at 05:33:29 AM;
         Max Outside Temperature: 9.4&#176;C at 12:01:13 AM;
-        Min Inside Temperature: 7.9&#176;C at 05:14:31 AM;
+        Min Inside Temperature: 7.8&#176;C at 05:31:32 AM;
         Max Inside Temperature: 10.6&#176;C at 12:00:25 AM;
         Min Barometer: 1023.6 mbar at 12:13:34 AM;
-        Max Barometer: 1025.2 mbar at 05:22:01 AM;
+        Max Barometer: 1025.2 mbar at 05:33:29 AM;
         Max Wind: 8 knots from 250&#176; at 03:48:25 AM;
         Rain: 0.0 mm;
         Max Rain Rate: 0.0 mm/h;
         Min Wind Chill: 3.1&#176;C at 04:59:32 AM;
         Max Wind Chill: 9.4&#176;C at 12:02:01 AM;
-        Min Heat Index: 4.4&#176;C at 05:22:01 AM;
+        Min Heat Index: 4.2&#176;C at 05:33:29 AM;
         Max Heat Index: 8.6&#176;C at 12:01:13 AM;
-        Min Dew Point: 4.5&#176;C at 02:31:05 AM;
+        Min Dew Point: 4.5&#176;C at 05:33:29 AM;
         Max Dew Point: 6.6&#176;C at 12:01:13 AM;
         Min Outside Humidity: 82% at 12:01:34 AM;
         Max Outside Humidity: 96% at 04:31:32 AM;
         Min Inside Humidity: 70% at 12:00:25 AM;
         Max Inside Humidity: 73% at 03:36:46 AM;
       </description>
-      <pubDate>Thu, 07 Aug 2025 05:25:00 -03</pubDate>
+      <pubDate>Thu, 07 Aug 2025 05:35:00 -03</pubDate>
       <geo:lat>-34.68247396567271</geo:lat>
       <geo:long>-59.033162742123125</geo:long>
       <content:encoded><![CDATA[
       <p>
       Daily summary as of 07 Aug 2025<br/>
-        Min Outside Temperature: 5.3&#176;C at 05:22:01 AM<br/>
+        Min Outside Temperature: 5.1&#176;C at 05:33:29 AM<br/>
         Max Outside Temperature: 9.4&#176;C at 12:01:13 AM<br/>
-        Min Inside Temperature: 7.9&#176;C at 05:14:31 AM<br/>
+        Min Inside Temperature: 7.8&#176;C at 05:31:32 AM<br/>
         Max Inside Temperature: 10.6&#176;C at 12:00:25 AM<br/>
         Min Barometer: 1023.6 mbar at 12:13:34 AM<br/>
-        Max Barometer: 1025.2 mbar at 05:22:01 AM<br/>
+        Max Barometer: 1025.2 mbar at 05:33:29 AM<br/>
         Max Wind: 8 knots from 250&#176; at 03:48:25 AM<br/>
         Rain: 0.0 mm<br/>
         Max Rain Rate: 0.0 mm/h<br/>
         Min Wind Chill: 3.1&#176;C at 04:59:32 AM<br/>
         Max Wind Chill: 9.4&#176;C at 12:02:01 AM<br/>
-        Min Heat Index: 4.4&#176;C at 05:22:01 AM<br/>
+        Min Heat Index: 4.2&#176;C at 05:33:29 AM<br/>
         Max Heat Index: 8.6&#176;C at 12:01:13 AM<br/>
-        Min Dew Point: 4.5&#176;C at 02:31:05 AM<br/>
+        Min Dew Point: 4.5&#176;C at 05:33:29 AM<br/>
         Max Dew Point: 6.6&#176;C at 12:01:13 AM<br/>
         Min Outside Humidity: 82% at 12:01:34 AM<br/>
         Max Outside Humidity: 96% at 04:31:32 AM<br/>
@@ -107,7 +107,7 @@
       ]]></content:encoded>
     </item>
     <item>
-      <title>Monthly summary as of 08/07/2025 05:25:00 AM</title>
+      <title>Monthly summary as of 08/07/2025 05:35:00 AM</title>
       <link></link>
       <description>
         Min Outside Temperature: 1.5&#176;C at 08/05/2025 04:40:13 AM;
@@ -130,7 +130,7 @@
         Min Inside Humidity: 41% at 08/04/2025 02:58:54 PM;
         Max Inside Humidity: 86% at 08/02/2025 03:36:03 AM;
       </description>
-      <pubDate>Thu, 07 Aug 2025 05:25:00 -03</pubDate>
+      <pubDate>Thu, 07 Aug 2025 05:35:00 -03</pubDate>
       <geo:lat>-34.68247396567271</geo:lat>
       <geo:long>-59.033162742123125</geo:long>
       <content:encoded><![CDATA[
@@ -159,7 +159,7 @@
       ]]></content:encoded>
     </item>
     <item>
-      <title>Yearly summary as of 08/07/2025 05:25:00 AM</title>
+      <title>Yearly summary as of 08/07/2025 05:35:00 AM</title>
       <link></link>
       <description>
         Min Outside Temperature: -5.7&#176;C at 07/02/2025 07:35:19 AM;
@@ -182,7 +182,7 @@
         Min Inside Humidity: 25% at 01/07/2025 05:07:31 PM;
         Max Inside Humidity: 90% at 05/16/2025 04:33:46 AM;
       </description>
-      <pubDate>Thu, 07 Aug 2025 05:25:00 -03</pubDate>
+      <pubDate>Thu, 07 Aug 2025 05:35:00 -03</pubDate>
       <geo:lat>-34.68247396567271</geo:lat>
       <geo:long>-59.033162742123125</geo:long>
       <content:encoded><![CDATA[
