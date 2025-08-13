@@ -10,52 +10,52 @@
     <link></link>
     <description>Current conditions, and daily, monthly, and yearly summaries</description>
     <language>"en"</language>
-    <pubDate>Wed, 13 Aug 2025 09:55:00 -03</pubDate>
+    <pubDate>Wed, 13 Aug 2025 10:05:00 -03</pubDate>
 
-    <lastBuildDate>Wed, 13 Aug 2025 09:55:00 -03</lastBuildDate>
+    <lastBuildDate>Wed, 13 Aug 2025 10:05:00 -03</lastBuildDate>
     <docs>http://blogs.law.harvard.edu/tech/rss</docs>
     <generator>weewx 5.0.2</generator>
     <ttl>5.0 minutes</ttl>
 
     <item>
-      <title>Weather Conditions at 08/13/2025 09:55:00 AM</title>
+      <title>Weather Conditions at 08/13/2025 10:05:00 AM</title>
       <link></link>
       <description>
-        Outside Temperature: 10.3&#176;C;
-        Inside Temperature: 10.9&#176;C;
-        Barometer: 1026.9 mbar;
-        Wind: 8 knots from 181&#176;;
+        Outside Temperature: 10.8&#176;C;
+        Inside Temperature: 11.1&#176;C;
+        Barometer: 1027.2 mbar;
+        Wind: 8 knots from 176&#176;;
         Rain: 0.0 mm;
         Rain Rate: 0.0 mm/h;
-        Wind Chill: 10.3&#176;C;
-        Heat Index: 9.4&#176;C;
-        Dew Point: 6.7&#176;C;
-        Outside Humidity: 78%;
-        Inside Humidity: 73%;
+        Wind Chill: 10.8&#176;C;
+        Heat Index: 9.8&#176;C;
+        Dew Point: 6.3&#176;C;
+        Outside Humidity: 74%;
+        Inside Humidity: 72%;
       </description>
-      <pubDate>Wed, 13 Aug 2025 09:55:00 -03</pubDate>
+      <pubDate>Wed, 13 Aug 2025 10:05:00 -03</pubDate>
       <geo:lat>-34.68247396567271</geo:lat>
       <geo:long>-59.033162742123125</geo:long>
       <content:encoded><![CDATA[
       <p>
-      Time: 08/13/2025 09:55:00 AM<br/>
-        Outside Temperature: 10.3&#176;C<br/>
-        Inside Temperature: 10.9&#176;C<br/>
-        Barometer: 1026.9 mbar<br/>
-        Wind: 8 knots from 181&#176;;
+      Time: 08/13/2025 10:05:00 AM<br/>
+        Outside Temperature: 10.8&#176;C<br/>
+        Inside Temperature: 11.1&#176;C<br/>
+        Barometer: 1027.2 mbar<br/>
+        Wind: 8 knots from 176&#176;;
         Rain: 0.0 mm<br/>
         Rain Rate: 0.0 mm/h<br/>
-        Wind Chill: 10.3&#176;C<br/>
-        Heat Index: 9.4&#176;C<br/>
-        Dew Point: 6.7&#176;C<br/>
-        Outside Humidity: 78%<br/>
-        Inside Humidity: 73%<br/>
+        Wind Chill: 10.8&#176;C<br/>
+        Heat Index: 9.8&#176;C<br/>
+        Dew Point: 6.3&#176;C<br/>
+        Outside Humidity: 74%<br/>
+        Inside Humidity: 72%<br/>
       </p>
       ]]></content:encoded>
     </item>
 
     <item>
-      <title>Daily summary as of 08/13/2025 09:55:00 AM</title>
+      <title>Daily summary as of 08/13/2025 10:05:00 AM</title>
       <link></link>
       <description>
         Min Outside Temperature: 6.3&#176;C at 06:58:53 AM;
@@ -63,7 +63,7 @@
         Min Inside Temperature: 9.7&#176;C at 06:57:32 AM;
         Max Inside Temperature: 13.1&#176;C at 01:49:32 AM;
         Min Barometer: 1017.5 mbar at 12:00:28 AM;
-        Max Barometer: 1027.0 mbar at 09:54:32 AM;
+        Max Barometer: 1027.3 mbar at 10:03:32 AM;
         Max Wind: 17 knots from 205&#176; at 03:25:37 AM;
         Rain: 0.0 mm;
         Max Rain Rate: 0.0 mm/h;
@@ -73,12 +73,12 @@
         Max Heat Index: 12.6&#176;C at 01:22:04 AM;
         Min Dew Point: 4.9&#176;C at 06:58:53 AM;
         Max Dew Point: 9.6&#176;C at 01:23:56 AM;
-        Min Outside Humidity: 75% at 03:25:37 AM;
+        Min Outside Humidity: 73% at 10:03:08 AM;
         Max Outside Humidity: 92% at 07:01:32 AM;
         Min Inside Humidity: 67% at 12:00:28 AM;
         Max Inside Humidity: 73% at 09:29:32 AM;
       </description>
-      <pubDate>Wed, 13 Aug 2025 09:55:00 -03</pubDate>
+      <pubDate>Wed, 13 Aug 2025 10:05:00 -03</pubDate>
       <geo:lat>-34.68247396567271</geo:lat>
       <geo:long>-59.033162742123125</geo:long>
       <content:encoded><![CDATA[
@@ -89,7 +89,7 @@
         Min Inside Temperature: 9.7&#176;C at 06:57:32 AM<br/>
         Max Inside Temperature: 13.1&#176;C at 01:49:32 AM<br/>
         Min Barometer: 1017.5 mbar at 12:00:28 AM<br/>
-        Max Barometer: 1027.0 mbar at 09:54:32 AM<br/>
+        Max Barometer: 1027.3 mbar at 10:03:32 AM<br/>
         Max Wind: 17 knots from 205&#176; at 03:25:37 AM<br/>
         Rain: 0.0 mm<br/>
         Max Rain Rate: 0.0 mm/h<br/>
@@ -99,7 +99,7 @@
         Max Heat Index: 12.6&#176;C at 01:22:04 AM<br/>
         Min Dew Point: 4.9&#176;C at 06:58:53 AM<br/>
         Max Dew Point: 9.6&#176;C at 01:23:56 AM<br/>
-        Min Outside Humidity: 75% at 03:25:37 AM<br/>
+        Min Outside Humidity: 73% at 10:03:08 AM<br/>
         Max Outside Humidity: 92% at 07:01:32 AM<br/>
         Min Inside Humidity: 67% at 12:00:28 AM<br/>
         Max Inside Humidity: 73% at 09:29:32 AM<br/>
@@ -107,7 +107,7 @@
       ]]></content:encoded>
     </item>
     <item>
-      <title>Monthly summary as of 08/13/2025 09:55:00 AM</title>
+      <title>Monthly summary as of 08/13/2025 10:05:00 AM</title>
       <link></link>
       <description>
         Min Outside Temperature: -0.4&#176;C at 08/10/2025 05:20:54 AM;
@@ -130,7 +130,7 @@
         Min Inside Humidity: 41% at 08/04/2025 02:58:54 PM;
         Max Inside Humidity: 86% at 08/02/2025 03:36:03 AM;
       </description>
-      <pubDate>Wed, 13 Aug 2025 09:55:00 -03</pubDate>
+      <pubDate>Wed, 13 Aug 2025 10:05:00 -03</pubDate>
       <geo:lat>-34.68247396567271</geo:lat>
       <geo:long>-59.033162742123125</geo:long>
       <content:encoded><![CDATA[
@@ -159,7 +159,7 @@
       ]]></content:encoded>
     </item>
     <item>
-      <title>Yearly summary as of 08/13/2025 09:55:00 AM</title>
+      <title>Yearly summary as of 08/13/2025 10:05:00 AM</title>
       <link></link>
       <description>
         Min Outside Temperature: -5.7&#176;C at 07/02/2025 07:35:19 AM;
@@ -182,7 +182,7 @@
         Min Inside Humidity: 25% at 01/07/2025 05:07:31 PM;
         Max Inside Humidity: 90% at 05/16/2025 04:33:46 AM;
       </description>
-      <pubDate>Wed, 13 Aug 2025 09:55:00 -03</pubDate>
+      <pubDate>Wed, 13 Aug 2025 10:05:00 -03</pubDate>
       <geo:lat>-34.68247396567271</geo:lat>
       <geo:long>-59.033162742123125</geo:long>
       <content:encoded><![CDATA[
