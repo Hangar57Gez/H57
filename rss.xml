@@ -10,21 +10,21 @@
     <link></link>
     <description>Current conditions, and daily, monthly, and yearly summaries</description>
     <language>"en"</language>
-    <pubDate>Fri, 05 Sep 2025 00:35:00 -03</pubDate>
+    <pubDate>Fri, 05 Sep 2025 00:55:00 -03</pubDate>
 
-    <lastBuildDate>Fri, 05 Sep 2025 00:35:00 -03</lastBuildDate>
+    <lastBuildDate>Fri, 05 Sep 2025 00:55:00 -03</lastBuildDate>
     <docs>http://blogs.law.harvard.edu/tech/rss</docs>
     <generator>weewx 5.0.2</generator>
     <ttl>5.0 minutes</ttl>
 
     <item>
-      <title>Weather Conditions at 09/05/2025 12:35:00 AM</title>
+      <title>Weather Conditions at 09/05/2025 12:55:00 AM</title>
       <link></link>
       <description>
         Outside Temperature: 1.8&#176;C;
-        Inside Temperature: 6.1&#176;C;
-        Barometer: 1033.0 mbar;
-        Wind: 0 knots from 040&#176;;
+        Inside Temperature: 5.9&#176;C;
+        Barometer: 1033.2 mbar;
+        Wind: 0 knots from 035&#176;;
         Rain: 0.0 mm;
         Rain Rate: 0.0 mm/h;
         Wind Chill: 1.8&#176;C;
@@ -33,16 +33,16 @@
         Outside Humidity: 91%;
         Inside Humidity: 62%;
       </description>
-      <pubDate>Fri, 05 Sep 2025 00:35:00 -03</pubDate>
+      <pubDate>Fri, 05 Sep 2025 00:55:00 -03</pubDate>
       <geo:lat>-34.68247396567271</geo:lat>
       <geo:long>-59.033162742123125</geo:long>
       <content:encoded><![CDATA[
       <p>
-      Time: 09/05/2025 12:35:00 AM<br/>
+      Time: 09/05/2025 12:55:00 AM<br/>
         Outside Temperature: 1.8&#176;C<br/>
-        Inside Temperature: 6.1&#176;C<br/>
-        Barometer: 1033.0 mbar<br/>
-        Wind: 0 knots from 040&#176;;
+        Inside Temperature: 5.9&#176;C<br/>
+        Barometer: 1033.2 mbar<br/>
+        Wind: 0 knots from 035&#176;;
         Rain: 0.0 mm<br/>
         Rain Rate: 0.0 mm/h<br/>
         Wind Chill: 1.8&#176;C<br/>
@@ -55,15 +55,15 @@
     </item>
 
     <item>
-      <title>Daily summary as of 09/05/2025 12:35:00 AM</title>
+      <title>Daily summary as of 09/05/2025 12:55:00 AM</title>
       <link></link>
       <description>
         Min Outside Temperature: 1.0&#176;C at 12:00:24 AM;
         Max Outside Temperature: 2.1&#176;C at 12:13:34 AM;
-        Min Inside Temperature: 6.0&#176;C at 12:33:33 AM;
+        Min Inside Temperature: 5.9&#176;C at 12:48:45 AM;
         Max Inside Temperature: 6.4&#176;C at 12:00:24 AM;
         Min Barometer: 1032.7 mbar at 12:03:31 AM;
-        Max Barometer: 1033.1 mbar at 12:34:31 AM;
+        Max Barometer: 1033.4 mbar at 12:52:45 AM;
         Max Wind: 2 knots from 320&#176; at 12:12:46 AM;
         Rain: 0.0 mm;
         Max Rain Rate: 0.0 mm/h;
@@ -78,7 +78,7 @@
         Min Inside Humidity: 61% at 12:00:24 AM;
         Max Inside Humidity: 62% at 12:28:45 AM;
       </description>
-      <pubDate>Fri, 05 Sep 2025 00:35:00 -03</pubDate>
+      <pubDate>Fri, 05 Sep 2025 00:55:00 -03</pubDate>
       <geo:lat>-34.68247396567271</geo:lat>
       <geo:long>-59.033162742123125</geo:long>
       <content:encoded><![CDATA[
@@ -86,10 +86,10 @@
       Daily summary as of 05 Sep 2025<br/>
         Min Outside Temperature: 1.0&#176;C at 12:00:24 AM<br/>
         Max Outside Temperature: 2.1&#176;C at 12:13:34 AM<br/>
-        Min Inside Temperature: 6.0&#176;C at 12:33:33 AM<br/>
+        Min Inside Temperature: 5.9&#176;C at 12:48:45 AM<br/>
         Max Inside Temperature: 6.4&#176;C at 12:00:24 AM<br/>
         Min Barometer: 1032.7 mbar at 12:03:31 AM<br/>
-        Max Barometer: 1033.1 mbar at 12:34:31 AM<br/>
+        Max Barometer: 1033.4 mbar at 12:52:45 AM<br/>
         Max Wind: 2 knots from 320&#176; at 12:12:46 AM<br/>
         Rain: 0.0 mm<br/>
         Max Rain Rate: 0.0 mm/h<br/>
@@ -107,7 +107,7 @@
       ]]></content:encoded>
     </item>
     <item>
-      <title>Monthly summary as of 09/05/2025 12:35:00 AM</title>
+      <title>Monthly summary as of 09/05/2025 12:55:00 AM</title>
       <link></link>
       <description>
         Min Outside Temperature: 0.9&#176;C at 09/04/2025 11:58:31 PM;
@@ -115,7 +115,7 @@
         Min Inside Temperature: 5.7&#176;C at 09/04/2025 07:43:32 AM;
         Max Inside Temperature: 18.6&#176;C at 09/03/2025 04:36:32 PM;
         Min Barometer: 1008.2 mbar at 09/01/2025 04:04:00 AM;
-        Max Barometer: 1033.1 mbar at 09/05/2025 12:34:31 AM;
+        Max Barometer: 1033.4 mbar at 09/05/2025 12:52:45 AM;
         Max Wind: 23 knots from 351&#176; at 09/01/2025 04:41:53 AM;
         Rain: 38.9 mm;
         Max Rain Rate: 38.4 mm/h;
@@ -130,7 +130,7 @@
         Min Inside Humidity: 47% at 09/04/2025 03:01:33 PM;
         Max Inside Humidity: 87% at 09/01/2025 02:38:57 AM;
       </description>
-      <pubDate>Fri, 05 Sep 2025 00:35:00 -03</pubDate>
+      <pubDate>Fri, 05 Sep 2025 00:55:00 -03</pubDate>
       <geo:lat>-34.68247396567271</geo:lat>
       <geo:long>-59.033162742123125</geo:long>
       <content:encoded><![CDATA[
@@ -141,7 +141,7 @@
         Min Inside Temperature: 5.7&#176;C at 09/04/2025 07:43:32 AM<br/>
         Max Inside Temperature: 18.6&#176;C at 09/03/2025 04:36:32 PM<br/>
         Min Barometer: 1008.2 mbar at 09/01/2025 04:04:00 AM<br/>
-        Max Barometer: 1033.1 mbar at 09/05/2025 12:34:31 AM<br/>
+        Max Barometer: 1033.4 mbar at 09/05/2025 12:52:45 AM<br/>
         Max Wind: 23 knots from 351&#176; at 09/01/2025 04:41:53 AM<br/>
         Rain: 38.9 mm<br/>
         Max Rain Rate: 38.4 mm/h<br/>
@@ -159,7 +159,7 @@
       ]]></content:encoded>
     </item>
     <item>
-      <title>Yearly summary as of 09/05/2025 12:35:00 AM</title>
+      <title>Yearly summary as of 09/05/2025 12:55:00 AM</title>
       <link></link>
       <description>
         Min Outside Temperature: -5.7&#176;C at 07/02/2025 07:35:19 AM;
@@ -182,7 +182,7 @@
         Min Inside Humidity: 25% at 01/07/2025 05:07:31 PM;
         Max Inside Humidity: 91% at 08/20/2025 06:05:32 AM;
       </description>
-      <pubDate>Fri, 05 Sep 2025 00:35:00 -03</pubDate>
+      <pubDate>Fri, 05 Sep 2025 00:55:00 -03</pubDate>
       <geo:lat>-34.68247396567271</geo:lat>
       <geo:long>-59.033162742123125</geo:long>
       <content:encoded><![CDATA[
