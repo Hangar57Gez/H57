@@ -3,8 +3,8 @@
     "station_url": "",
     "version": "5.0.2",
     "belchertown_version": "1.3.1",
-    "weewxuptime": "11704 Segundos",
-    "serveruptime": "10944 Segundos",
+    "weewxuptime": "12904 Segundos",
+    "serveruptime": "12144 Segundos",
     "serverLocale": "en_US",
     "serverLocaleJS": "en-US",
     "localeEncoding": "UTF-8",
@@ -47,61 +47,61 @@
         "bearing_raw": ""
     },
     "station_observations": {
-        "current": {"barometer": "1018.0 mbar", "dewpoint": "12.5 \u00b0C", "outHumidity": "54%", "rainWithRainRate": ""}
+        "current": {"barometer": "1017.3 mbar", "dewpoint": "13.0 \u00b0C", "outHumidity": "54%", "rainWithRainRate": ""}
     },
     "unit_rounding": {"ET": "1", "visibility": "2", "THSW": "1", "UV": "1", "altimeter": "1", "altimeterRate": "4", "altitude": "0", "appTemp": "1", "appTemp1": "1", "barometer": "1", "barometerRate": "4", "beaufort": "%d", "cloudbase": "0", "cloudcover": "0", "co": "0", "co2": "0", "consBatteryVoltage": "1", "cooldeg": "1", "dateTime": "0", "dayRain": "1", "daySunshineDur": "0", "dewpoint": "1", "dewpoint1": "1", "extraHumid1": "0", "extraHumid2": "0", "extraHumid3": "0", "extraHumid4": "0", "extraHumid5": "0", "extraHumid6": "0", "extraHumid7": "0", "extraHumid8": "0", "extraTemp1": "1", "extraTemp2": "1", "extraTemp3": "1", "extraTemp4": "1", "extraTemp5": "1", "extraTemp6": "1", "extraTemp7": "1", "extraTemp8": "1", "growdeg": "1", "gustdir": "0", "hail": "1", "hailRate": "1", "heatdeg": "1", "heatindex": "1", "heatindex1": "1", "heatingTemp": "1", "heatingVoltage": "1", "highOutTemp": "1", "hourRain": "1", "humidex": "1", "humidex1": "1", "illuminance": "0", "inDewpoint": "1", "inHumidity": "0", "inTemp": "1", "interval": "1", "leafTemp1": "1", "leafTemp2": "1", "leafTemp3": "1", "leafTemp4": "1", "leafWet1": "%d", "leafWet2": "%d", "lightning_distance": "2", "lightning_disturber_count": "%d", "lightning_noise_count": "%d", "lightning_strike_count": "%d", "lowOutTemp": "1", "maxSolarRad": "0", "monthRain": "1", "nh3": "0", "no2": "0", "noise": "0", "o3": "0", "outHumidity": "0", "outTemp": "1", "outWetbulb": "1", "pb": "0", "pm10_0": "0", "pm1_0": "0", "pm2_5": "0", "pop": "0", "pressure": "1", "pressureRate": "4", "radiation": "0", "rain": "1", "rain24": "1", "rainDur": "0", "rainRate": "1", "referenceVoltage": "1", "rms": "1", "rxCheckPercent": "0", "snow": "1", "snowDepth": "1", "snowMoisture": "0", "snowRate": "1", "so2": "0", "soilMoist1": "0", "soilMoist2": "0", "soilMoist3": "0", "soilMoist4": "0", "soilTemp1": "1", "soilTemp2": "1", "soilTemp3": "1", "soilTemp4": "1", "stormRain": "1", "stormStart": "0", "sunshineDur": "0", "supplyVoltage": "1", "totalRain": "1", "vecavg": "1", "vecdir": "0", "wind": "0", "windDir": "0", "windDir10": "0", "windGust": "0", "windGustDir": "0", "windSpeed": "0", "windSpeed10": "0", "windchill": "1", "windgustvec": "0", "windrun": "2", "windvec": "0", "yearRain": "1"},
-    "unit_label": {"ET": " mm", "visibility": "km", "THSW": " \u00b0C", "UV": "", "altimeter": " mbar", "altimeterRate": " mbar/h", "altitude": " meters", "appTemp": " \u00b0C", "appTemp1": " \u00b0C", "barometer": " mbar", "barometerRate": " mbar/h", "beaufort": "", "cloudbase": " meters", "cloudcover": "%", "co": " ppm", "co2": " ppm", "consBatteryVoltage": " V", "cooldeg": "\u00b0C-day", "dateTime": "", "dayRain": " mm", "daySunshineDur": " Segundos", "dewpoint": " \u00b0C", "dewpoint1": " \u00b0C", "extraHumid1": "%", "extraHumid2": "%", "extraHumid3": "%", "extraHumid4": "%", "extraHumid5": "%", "extraHumid6": "%", "extraHumid7": "%", "extraHumid8": "%", "extraTemp1": " \u00b0C", "extraTemp2": " \u00b0C", "extraTemp3": " \u00b0C", "extraTemp4": " \u00b0C", "extraTemp5": " \u00b0C", "extraTemp6": " \u00b0C", "extraTemp7": " \u00b0C", "extraTemp8": " \u00b0C", "growdeg": "\u00b0C-day", "gustdir": "\u00b0", "hail": " mm", "hailRate": " mm/hr", "heatdeg": "\u00b0C-day", "heatindex": " \u00b0C", "heatindex1": " \u00b0C", "heatingTemp": " \u00b0C", "heatingVoltage": " V", "highOutTemp": " \u00b0C", "hourRain": " mm", "humidex": " \u00b0C", "humidex1": " \u00b0C", "illuminance": " lx", "inDewpoint": " \u00b0C", "inHumidity": "%", "inTemp": " \u00b0C", "interval": " Minutos", "leafTemp1": " \u00b0C", "leafTemp2": " \u00b0C", "leafTemp3": " \u00b0C", "leafTemp4": " \u00b0C", "leafWet1": "", "leafWet2": "", "lightning_distance": " km", "lightning_disturber_count": "", "lightning_noise_count": "", "lightning_strike_count": "", "lowOutTemp": " \u00b0C", "maxSolarRad": " W/m\u00b2", "monthRain": " mm", "nh3": " ppm", "no2": " \u00b5g/m\u00b3", "noise": " dB", "o3": " ppm", "outHumidity": "%", "outTemp": " \u00b0C", "outWetbulb": " \u00b0C", "pb": " ppm", "pm10_0": " \u00b5g/m\u00b3", "pm1_0": " \u00b5g/m\u00b3", "pm2_5": " \u00b5g/m\u00b3", "pop": "%", "pressure": " mbar", "pressureRate": " mbar/h", "radiation": " W/m\u00b2", "rain": " mm", "rain24": " mm", "rainDur": " Segundos", "rainRate": " mm/hr", "referenceVoltage": " V", "rms": " knots", "rxCheckPercent": "%", "snow": " mm", "snowDepth": " mm", "snowMoisture": "%", "snowRate": " mm/hr", "so2": " ppm", "soilMoist1": " cb", "soilMoist2": " cb", "soilMoist3": " cb", "soilMoist4": " cb", "soilTemp1": " \u00b0C", "soilTemp2": " \u00b0C", "soilTemp3": " \u00b0C", "soilTemp4": " \u00b0C", "stormRain": " mm", "stormStart": "", "sunshineDur": " Segundos", "supplyVoltage": " V", "totalRain": " mm", "vecavg": " knots", "vecdir": "\u00b0", "wind": " knots", "windDir": "\u00b0", "windDir10": "\u00b0", "windGust": " knots", "windGustDir": "\u00b0", "windSpeed": " knots", "windSpeed10": " knots", "windchill": " \u00b0C", "windgustvec": " knots", "windrun": " km", "windvec": " knots", "yearRain": " mm"},
+    "unit_label": {"ET": " mm", "visibility": "", "THSW": " \u00b0C", "UV": "", "altimeter": " mbar", "altimeterRate": " mbar/h", "altitude": " meters", "appTemp": " \u00b0C", "appTemp1": " \u00b0C", "barometer": " mbar", "barometerRate": " mbar/h", "beaufort": "", "cloudbase": " meters", "cloudcover": "%", "co": " ppm", "co2": " ppm", "consBatteryVoltage": " V", "cooldeg": "\u00b0C-day", "dateTime": "", "dayRain": " mm", "daySunshineDur": " Segundos", "dewpoint": " \u00b0C", "dewpoint1": " \u00b0C", "extraHumid1": "%", "extraHumid2": "%", "extraHumid3": "%", "extraHumid4": "%", "extraHumid5": "%", "extraHumid6": "%", "extraHumid7": "%", "extraHumid8": "%", "extraTemp1": " \u00b0C", "extraTemp2": " \u00b0C", "extraTemp3": " \u00b0C", "extraTemp4": " \u00b0C", "extraTemp5": " \u00b0C", "extraTemp6": " \u00b0C", "extraTemp7": " \u00b0C", "extraTemp8": " \u00b0C", "growdeg": "\u00b0C-day", "gustdir": "\u00b0", "hail": " mm", "hailRate": " mm/hr", "heatdeg": "\u00b0C-day", "heatindex": " \u00b0C", "heatindex1": " \u00b0C", "heatingTemp": " \u00b0C", "heatingVoltage": " V", "highOutTemp": " \u00b0C", "hourRain": " mm", "humidex": " \u00b0C", "humidex1": " \u00b0C", "illuminance": " lx", "inDewpoint": " \u00b0C", "inHumidity": "%", "inTemp": " \u00b0C", "interval": " Minutos", "leafTemp1": " \u00b0C", "leafTemp2": " \u00b0C", "leafTemp3": " \u00b0C", "leafTemp4": " \u00b0C", "leafWet1": "", "leafWet2": "", "lightning_distance": " km", "lightning_disturber_count": "", "lightning_noise_count": "", "lightning_strike_count": "", "lowOutTemp": " \u00b0C", "maxSolarRad": " W/m\u00b2", "monthRain": " mm", "nh3": " ppm", "no2": " \u00b5g/m\u00b3", "noise": " dB", "o3": " ppm", "outHumidity": "%", "outTemp": " \u00b0C", "outWetbulb": " \u00b0C", "pb": " ppm", "pm10_0": " \u00b5g/m\u00b3", "pm1_0": " \u00b5g/m\u00b3", "pm2_5": " \u00b5g/m\u00b3", "pop": "%", "pressure": " mbar", "pressureRate": " mbar/h", "radiation": " W/m\u00b2", "rain": " mm", "rain24": " mm", "rainDur": " Segundos", "rainRate": " mm/hr", "referenceVoltage": " V", "rms": " knots", "rxCheckPercent": "%", "snow": " mm", "snowDepth": " mm", "snowMoisture": "%", "snowRate": " mm/hr", "so2": " ppm", "soilMoist1": " cb", "soilMoist2": " cb", "soilMoist3": " cb", "soilMoist4": " cb", "soilTemp1": " \u00b0C", "soilTemp2": " \u00b0C", "soilTemp3": " \u00b0C", "soilTemp4": " \u00b0C", "stormRain": " mm", "stormStart": "", "sunshineDur": " Segundos", "supplyVoltage": " V", "totalRain": " mm", "vecavg": " knots", "vecdir": "\u00b0", "wind": " knots", "windDir": "\u00b0", "windDir10": "\u00b0", "windGust": " knots", "windGustDir": "\u00b0", "windSpeed": " knots", "windSpeed10": " knots", "windchill": " \u00b0C", "windgustvec": " knots", "windrun": " km", "windvec": " knots", "yearRain": " mm"},
     "current": {
-        "datetime": "09/26/2025 12:55:00 PM",
-        "datetime_raw": "1758902100",
-        "epoch": "1758902140",
-        "outTemp": "22.3 &#176;C",
-        "outTemp_formatted": "22.3",
+        "datetime": "09/26/2025 01:15:00 PM",
+        "datetime_raw": "1758903300",
+        "epoch": "1758903340",
+        "outTemp": "22.8 &#176;C",
+        "outTemp_formatted": "22.8",
         "outHumidity": "54%",
-        "inTemp": "19.6 &#176;C",
-        "inTemp_formatted": "19.6",
-        "inHumidity": "62%",
-        "inHumidity_formatted": "62",
-        "appTemp": "20.3 &#176;C",
-        "windchill": "22.3 &#176;C",
-        "heatindex": "22.0 &#176;C",
-        "dewpoint": "12.5 &#176;C",
-        "barometer": "1018.0 mbar",
-        "barometer_formatted": "1018.0",
-        "barometer_trend": "-4.0 mbar",
-        "barometer_trend_formatted": "-4.0",
+        "inTemp": "20.2 &#176;C",
+        "inTemp_formatted": "20.2",
+        "inHumidity": "61%",
+        "inHumidity_formatted": "61",
+        "appTemp": "21.0 &#176;C",
+        "windchill": "22.8 &#176;C",
+        "heatindex": "22.6 &#176;C",
+        "dewpoint": "13.0 &#176;C",
+        "barometer": "1017.3 mbar",
+        "barometer_formatted": "1017.3",
+        "barometer_trend": "-4.2 mbar",
+        "barometer_trend_formatted": "-4.2",
         "windspeed": "8 knots",
-        "winddir": "92&#176;",
-        "winddir_formatted": "92",
-        "windGust": "13 knots",
-        "windGust_formatted": "13",
-        "windGustDir": "93&#176;",
-        "windcompass": "E",
-        "windrun": "1.19 km",
+        "winddir": "104&#176;",
+        "winddir_formatted": "104",
+        "windGust": "12 knots",
+        "windGust_formatted": "12",
+        "windGustDir": "119&#176;",
+        "windcompass": "ESE",
+        "windrun": "1.16 km",
         "uv": "6.0",
-        "solar_radiation": "649 W/m&#178;",
+        "solar_radiation": "644 W/m&#178;",
         "et": "0.0 mm",
         "rainRate": "0.0 mm/hr",
         "rain": "0.0 mm"
     },
     "day": {
         "outTemp": {
-            "max": "22.6 &#176;C",
-            "max_formatted": "22.6",
-            "maxtime": "12:46:34 PM",
+            "max": "23.0 &#176;C",
+            "max_formatted": "23.0",
+            "maxtime": "12:58:34 PM",
             "min": "9.6 &#176;C",
             "min_formatted": "9.6",
             "mintime": "06:24:05 AM"
         },
         "appTemp": {
-            "max": "21.9 &#176;C",
-            "maxtime": "12:46:34 PM",
+            "max": "22.2 &#176;C",
+            "maxtime": "01:03:01 PM",
             "min": "6.1 &#176;C",
             "mintime": "06:55:32 AM"
         },
         "heatindex": {
-            "max": "22.4 &#176;C",
-            "maxtime": "12:46:34 PM"
+            "max": "22.8 &#176;C",
+            "maxtime": "12:58:34 PM"
         },
         "windchill": {
             "max": "7.5 &#176;C",
@@ -110,20 +110,20 @@
         "humidity": {
             "max": "85%",
             "maxtime": "06:13:46 AM",
-            "min": "53%",
-            "mintime": "12:47:01 PM"
+            "min": "52%",
+            "mintime": "01:07:01 PM"
         },
         "dewpoint": {
-            "max": "13.2 &#176;C",
-            "maxtime": "12:36:05 PM",
+            "max": "13.5 &#176;C",
+            "maxtime": "12:58:34 PM",
             "min": "6.9 &#176;C",
             "mintime": "05:29:46 AM"
         },
         "barometer": {
             "max": "1026.7 mbar",
             "maxtime": "12:00:22 AM",
-            "min": "1017.8 mbar",
-            "mintime": "12:53:46 PM"
+            "min": "1017.2 mbar",
+            "mintime": "01:12:32 PM"
         },
         "wind": {
             "max": "16 knots",
@@ -137,7 +137,7 @@
             "windrun_maxtime": "12:15:00 AM",
             "windrun_min": "0.48 km",
             "windrun_mintime": "04:00:00 AM",
-            "windrun": "149.15 km",
+            "windrun": "153.71 km",
             "rms": "6 knots"
         },
         "uv": {
@@ -148,7 +148,7 @@
         },
         "solar_radiation": {
             "max": "651 W/m&#178;",
-            "maxtime": "12:46:13 PM",
+            "maxtime": "12:55:53 PM",
             "min": "0 W/m&#178;",
             "mintime": "12:00:22 AM"
         },
@@ -161,20 +161,20 @@
     
     "week": {
         "outTemp": {
-            "max": "22.6 &#176;C",
-            "maxtime": "12:46:34 PM (Friday)",
+            "max": "23.0 &#176;C",
+            "maxtime": "12:58:34 PM (Friday)",
             "min": "4.5 &#176;C",
             "mintime": "07:01:01 AM (Tuesday)"
         },
         "appTemp": {
-            "max": "21.9 &#176;C",
-            "maxtime": "12:46:34 PM (Friday)",
+            "max": "22.2 &#176;C",
+            "maxtime": "01:03:01 PM (Friday)",
             "min": "1.8 &#176;C",
             "mintime": "06:51:54 AM (Wednesday)"
         },
         "heatindex": {
-            "max": "22.4 &#176;C",
-            "maxtime": "12:46:34 PM (Friday)"
+            "max": "22.8 &#176;C",
+            "maxtime": "12:58:34 PM (Friday)"
         },
         "windchill": {
             "max": "3.1 &#176;C",
@@ -187,8 +187,8 @@
             "mintime": "12:10:07 PM (Tuesday)"
         },
         "dewpoint": {
-            "max": "13.2 &#176;C",
-            "maxtime": "12:36:05 PM (Friday)",
+            "max": "13.5 &#176;C",
+            "maxtime": "12:58:34 PM (Friday)",
             "min": "2.9 &#176;C",
             "mintime": "07:03:32 AM (Wednesday)"
         },
@@ -203,7 +203,7 @@
             "maxtime": "10:59:29 AM (Sunday)",
             "gustdir": "261&#176;",
             "average": "4 knots",
-            "vectordir": "216&#176;",
+            "vectordir": "210&#176;",
             "vectoravg": "0 knots",
             "windrun_max": "2.12 km",
             "windrun_maxtime": "03:05:00 PM (Sunday)",
@@ -372,23 +372,23 @@
         }
     },
     "almanac": {
-        "sunrise": "06:39:14 AM",
-        "sunrise_epoch": "1758879554.5990005",
+        "sunrise": "06:39:15 AM",
+        "sunrise_epoch": "1758879555.0231867",
         "sunrise_hour": "06",
         "sunrise_minute": "39",
-        "sunset": "06:55:58 PM",
-        "sunset_epoch": "1758923758.2399993",
+        "sunset": "06:55:57 PM",
+        "sunset_epoch": "1758923757.8151047",
         "sunset_hour": "18",
         "sunset_minute": "55",
-        "almanac_extras_modal_html": "<div id='celestial_widget' class='widget'> <div class='widget_contents'> <div id='celestial_details'> <div class='celestial_body'> <table class='celestial'> <tr><th>&#9728; Sol</th><th></th></tr> <tr> <td class='label'>Amanecer</td> <td class='data'>06:13:33 AM</td> </tr> <tr> <td class='label'>Salida</td> <td class='data'>06:39:14 AM</td> </tr> <tr> <td class='label'>Tr&#225;nsito</td> <td class='data'>12:47:19 PM</td> </tr> <tr> <td class='label'>Puesta</td> <td class='data'>06:55:58 PM</td> </tr> <tr> <td class='label'>Anochecer</td> <td class='data'>07:21:41 PM</td> </tr> <tr> <td class='label'>Azimut</td> <td class='data'>356.5&deg;</td> </tr> <tr> <td class='label'>Altitud</td> <td class='data'>56.8&deg;</td> </tr> <tr> <td class='label'>Ascensi&#243;n recta</td> <td class='data'>183.5&deg;</td> </tr> <tr> <td class='label'>Declinaci&#243;n</td> <td class='data'>-1.5&deg;</td> </tr>        <tr><td class='label'>Solsticio</td><td class='data'>12/21/2025 12:02:48 PM</td></tr><tr><td class='label'>Equinoccio</td><td class='data'>03/20/2026 11:45:50 AM</td></tr>        <tr> <td class='label'>Luz del d&#237;a</td> <td class='data'>12 Horas, 16 Minutos, 43 Segundos<br/>2 Minutos, 9 Segundos m&#225;s que ayer</td> </tr> </table> </div> <div class='celestial_body'> <table class='celestial'> <tr><th>&#9789; Luna</th><th></th></tr> <tr><td class='label'>&nbsp;</td><td class='data'>&nbsp;</td></tr> <tr> <td class='label'>Salida</td> <td class='data'>08:49:34 AM</td> </tr> <tr> <td class='label'>Tr&#225;nsito</td> <td class='data'>04:14:22 PM</td> </tr> <tr> <td class='label'>Puesta</td> <td class='data'>11:46:17 PM</td> </tr> <tr><td class='label'>&nbsp;</td><td class='data'>&nbsp;</td></tr> <tr> <td class='label'>Azimut</td> <td class='data'>89.4&deg;</td> </tr> <tr> <td class='label'>Altitud</td> <td class='data'>46.6&deg;</td> </tr> <tr> <td class='label'>Ascensi&#243;n recta</td> <td class='data'>234.3&deg;</td> </tr> <tr> <td class='label'>Declinaci&#243;n</td> <td class='data'>-24.0&deg;</td> </tr>        <tr> <td class='label'>Luna llena</td> <td class='data'>10/07/2025 12:47:30 AM</td> </tr> <tr> <td class='label'>Luna nueva</td> <td class='data'>10/21/2025 09:25:05 AM</td> </tr>        <tr> <td class='label'>Fase</td> <td class='data'>Creciente<br/> 20% lleno</td> </tr> </table> </div> </div> </div> </div> <div class='clear'></div><div class='almanac_last_updated'></div>",
+        "almanac_extras_modal_html": "<div id='celestial_widget' class='widget'> <div class='widget_contents'> <div id='celestial_details'> <div class='celestial_body'> <table class='celestial'> <tr><th>&#9728; Sol</th><th></th></tr> <tr> <td class='label'>Amanecer</td> <td class='data'>06:13:34 AM</td> </tr> <tr> <td class='label'>Salida</td> <td class='data'>06:39:15 AM</td> </tr> <tr> <td class='label'>Tr&#225;nsito</td> <td class='data'>12:47:19 PM</td> </tr> <tr> <td class='label'>Puesta</td> <td class='data'>06:55:57 PM</td> </tr> <tr> <td class='label'>Anochecer</td> <td class='data'>07:21:41 PM</td> </tr> <tr> <td class='label'>Azimut</td> <td class='data'>347.5&deg;</td> </tr> <tr> <td class='label'>Altitud</td> <td class='data'>56.2&deg;</td> </tr> <tr> <td class='label'>Ascensi&#243;n recta</td> <td class='data'>183.5&deg;</td> </tr> <tr> <td class='label'>Declinaci&#243;n</td> <td class='data'>-1.5&deg;</td> </tr>        <tr><td class='label'>Solsticio</td><td class='data'>12/21/2025 12:02:48 PM</td></tr><tr><td class='label'>Equinoccio</td><td class='data'>03/20/2026 11:45:50 AM</td></tr>        <tr> <td class='label'>Luz del d&#237;a</td> <td class='data'>12 Horas, 16 Minutos, 42 Segundos<br/>2 Minutos, 9 Segundos m&#225;s que ayer</td> </tr> </table> </div> <div class='celestial_body'> <table class='celestial'> <tr><th>&#9789; Luna</th><th></th></tr> <tr><td class='label'>&nbsp;</td><td class='data'>&nbsp;</td></tr> <tr> <td class='label'>Salida</td> <td class='data'>08:49:34 AM</td> </tr> <tr> <td class='label'>Tr&#225;nsito</td> <td class='data'>04:14:22 PM</td> </tr> <tr> <td class='label'>Puesta</td> <td class='data'>11:46:17 PM</td> </tr> <tr><td class='label'>&nbsp;</td><td class='data'>&nbsp;</td></tr> <tr> <td class='label'>Azimut</td> <td class='data'>86.6&deg;</td> </tr> <tr> <td class='label'>Altitud</td> <td class='data'>50.6&deg;</td> </tr> <tr> <td class='label'>Ascensi&#243;n recta</td> <td class='data'>234.4&deg;</td> </tr> <tr> <td class='label'>Declinaci&#243;n</td> <td class='data'>-24.1&deg;</td> </tr>        <tr> <td class='label'>Luna llena</td> <td class='data'>10/07/2025 12:47:30 AM</td> </tr> <tr> <td class='label'>Luna nueva</td> <td class='data'>10/21/2025 09:25:05 AM</td> </tr>        <tr> <td class='label'>Fase</td> <td class='data'>Creciente<br/> 21% lleno</td> </tr> </table> </div> </div> </div> </div> <div class='clear'></div><div class='almanac_last_updated'></div>",
         "moon": {
-            "moon_fullness": "20",
+            "moon_fullness": "21",
             "moon_phase": "Creciente",
             "moon_index": "1",
             "moon_rise": "08:49:34 AM",
-            "moon_rise_epoch": "1758887374.1775193",
+            "moon_rise_epoch": "1758887374.6717935",
             "moon_set": "11:46:17 PM",
-            "moon_set_epoch": "1758941177.884892"
+            "moon_set_epoch": "1758941177.3698564"
         }
     }
 }
