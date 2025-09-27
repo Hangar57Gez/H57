@@ -10,104 +10,104 @@
     <link></link>
     <description>Current conditions, and daily, monthly, and yearly summaries</description>
     <language>"en"</language>
-    <pubDate>Sat, 27 Sep 2025 06:15:00 -03</pubDate>
+    <pubDate>Sat, 27 Sep 2025 06:35:00 -03</pubDate>
 
-    <lastBuildDate>Sat, 27 Sep 2025 06:15:00 -03</lastBuildDate>
+    <lastBuildDate>Sat, 27 Sep 2025 06:35:00 -03</lastBuildDate>
     <docs>http://blogs.law.harvard.edu/tech/rss</docs>
     <generator>weewx 5.0.2</generator>
     <ttl>5.0 minutes</ttl>
 
     <item>
-      <title>Weather Conditions at 09/27/2025 06:15:00 AM</title>
+      <title>Weather Conditions at 09/27/2025 06:35:00 AM</title>
       <link></link>
       <description>
-        Outside Temperature: 13.8&#176;C;
-        Inside Temperature: 16.1&#176;C;
-        Barometer: 1011.5 mbar;
-        Wind: 5 knots from 104&#176;;
-        Rain: 1.0 mm;
-        Rain Rate: 8.5 mm/h;
-        Wind Chill: 13.8&#176;C;
+        Outside Temperature: 13.7&#176;C;
+        Inside Temperature: 16.0&#176;C;
+        Barometer: 1010.8 mbar;
+        Wind: 7 knots from 118&#176;;
+        Rain: 0.7 mm;
+        Rain Rate: 10.4 mm/h;
+        Wind Chill: 13.7&#176;C;
         Heat Index: 13.7&#176;C;
-        Dew Point: 13.3&#176;C;
-        Outside Humidity: 97%;
-        Inside Humidity: 75%;
+        Dew Point: 13.4&#176;C;
+        Outside Humidity: 98%;
+        Inside Humidity: 76%;
       </description>
-      <pubDate>Sat, 27 Sep 2025 06:15:00 -03</pubDate>
+      <pubDate>Sat, 27 Sep 2025 06:35:00 -03</pubDate>
       <geo:lat>-34.68247396567271</geo:lat>
       <geo:long>-59.033162742123125</geo:long>
       <content:encoded><![CDATA[
       <p>
-      Time: 09/27/2025 06:15:00 AM<br/>
-        Outside Temperature: 13.8&#176;C<br/>
-        Inside Temperature: 16.1&#176;C<br/>
-        Barometer: 1011.5 mbar<br/>
-        Wind: 5 knots from 104&#176;;
-        Rain: 1.0 mm<br/>
-        Rain Rate: 8.5 mm/h<br/>
-        Wind Chill: 13.8&#176;C<br/>
+      Time: 09/27/2025 06:35:00 AM<br/>
+        Outside Temperature: 13.7&#176;C<br/>
+        Inside Temperature: 16.0&#176;C<br/>
+        Barometer: 1010.8 mbar<br/>
+        Wind: 7 knots from 118&#176;;
+        Rain: 0.7 mm<br/>
+        Rain Rate: 10.4 mm/h<br/>
+        Wind Chill: 13.7&#176;C<br/>
         Heat Index: 13.7&#176;C<br/>
-        Dew Point: 13.3&#176;C<br/>
-        Outside Humidity: 97%<br/>
-        Inside Humidity: 75%<br/>
+        Dew Point: 13.4&#176;C<br/>
+        Outside Humidity: 98%<br/>
+        Inside Humidity: 76%<br/>
       </p>
       ]]></content:encoded>
     </item>
 
     <item>
-      <title>Daily summary as of 09/27/2025 06:15:00 AM</title>
+      <title>Daily summary as of 09/27/2025 06:35:00 AM</title>
       <link></link>
       <description>
-        Min Outside Temperature: 13.8&#176;C at 06:05:00 AM;
+        Min Outside Temperature: 13.7&#176;C at 06:30:47 AM;
         Max Outside Temperature: 18.1&#176;C at 12:00:03 AM;
-        Min Inside Temperature: 16.1&#176;C at 06:06:58 AM;
+        Min Inside Temperature: 16.0&#176;C at 06:20:02 AM;
         Max Inside Temperature: 18.2&#176;C at 12:00:03 AM;
         Min Barometer: 1010.1 mbar at 03:49:07 AM;
         Max Barometer: 1016.0 mbar at 12:14:32 AM;
         Max Wind: 17 knots from 111&#176; at 01:47:36 AM;
-        Rain: 11.2 mm;
+        Rain: 14.2 mm;
         Max Rain Rate: 10.8 mm/h;
-        Min Wind Chill: 13.8&#176;C at 06:05:00 AM;
+        Min Wind Chill: 13.7&#176;C at 06:30:47 AM;
         Max Wind Chill: 18.1&#176;C at 12:00:03 AM;
-        Min Heat Index: 13.7&#176;C at 06:00:00 AM;
+        Min Heat Index: 13.7&#176;C at 06:30:47 AM;
         Max Heat Index: 17.8&#176;C at 12:00:03 AM;
         Min Dew Point: 12.0&#176;C at 12:32:03 AM;
-        Max Dew Point: 13.4&#176;C at 05:48:52 AM;
+        Max Dew Point: 13.5&#176;C at 06:15:35 AM;
         Min Outside Humidity: 70% at 12:00:03 AM;
-        Max Outside Humidity: 97% at 05:48:52 AM;
+        Max Outside Humidity: 98% at 06:15:35 AM;
         Min Inside Humidity: 65% at 12:00:03 AM;
-        Max Inside Humidity: 75% at 05:55:35 AM;
+        Max Inside Humidity: 76% at 06:24:31 AM;
       </description>
-      <pubDate>Sat, 27 Sep 2025 06:15:00 -03</pubDate>
+      <pubDate>Sat, 27 Sep 2025 06:35:00 -03</pubDate>
       <geo:lat>-34.68247396567271</geo:lat>
       <geo:long>-59.033162742123125</geo:long>
       <content:encoded><![CDATA[
       <p>
       Daily summary as of 27 Sep 2025<br/>
-        Min Outside Temperature: 13.8&#176;C at 06:05:00 AM<br/>
+        Min Outside Temperature: 13.7&#176;C at 06:30:47 AM<br/>
         Max Outside Temperature: 18.1&#176;C at 12:00:03 AM<br/>
-        Min Inside Temperature: 16.1&#176;C at 06:06:58 AM<br/>
+        Min Inside Temperature: 16.0&#176;C at 06:20:02 AM<br/>
         Max Inside Temperature: 18.2&#176;C at 12:00:03 AM<br/>
         Min Barometer: 1010.1 mbar at 03:49:07 AM<br/>
         Max Barometer: 1016.0 mbar at 12:14:32 AM<br/>
         Max Wind: 17 knots from 111&#176; at 01:47:36 AM<br/>
-        Rain: 11.2 mm<br/>
+        Rain: 14.2 mm<br/>
         Max Rain Rate: 10.8 mm/h<br/>
-        Min Wind Chill: 13.8&#176;C at 06:05:00 AM<br/>
+        Min Wind Chill: 13.7&#176;C at 06:30:47 AM<br/>
         Max Wind Chill: 18.1&#176;C at 12:00:03 AM<br/>
-        Min Heat Index: 13.7&#176;C at 06:00:00 AM<br/>
+        Min Heat Index: 13.7&#176;C at 06:30:47 AM<br/>
         Max Heat Index: 17.8&#176;C at 12:00:03 AM<br/>
         Min Dew Point: 12.0&#176;C at 12:32:03 AM<br/>
-        Max Dew Point: 13.4&#176;C at 05:48:52 AM<br/>
+        Max Dew Point: 13.5&#176;C at 06:15:35 AM<br/>
         Min Outside Humidity: 70% at 12:00:03 AM<br/>
-        Max Outside Humidity: 97% at 05:48:52 AM<br/>
+        Max Outside Humidity: 98% at 06:15:35 AM<br/>
         Min Inside Humidity: 65% at 12:00:03 AM<br/>
-        Max Inside Humidity: 75% at 05:55:35 AM<br/>
+        Max Inside Humidity: 76% at 06:24:31 AM<br/>
       </p>
       ]]></content:encoded>
     </item>
     <item>
-      <title>Monthly summary as of 09/27/2025 06:15:00 AM</title>
+      <title>Monthly summary as of 09/27/2025 06:35:00 AM</title>
       <link></link>
       <description>
         Min Outside Temperature: -1.2&#176;C at 09/05/2025 06:15:32 AM;
@@ -117,7 +117,7 @@
         Min Barometer: 1003.0 mbar at 09/21/2025 03:33:32 AM;
         Max Barometer: 1037.1 mbar at 09/24/2025 09:58:32 AM;
         Max Wind: 40 knots from 249&#176; at 09/20/2025 07:48:52 PM;
-        Rain: 85.8 mm;
+        Rain: 88.8 mm;
         Max Rain Rate: 38.4 mm/h;
         Min Wind Chill: -1.8&#176;C at 09/05/2025 07:03:32 AM;
         Max Wind Chill: 28.6&#176;C at 09/18/2025 01:51:04 PM;
@@ -130,7 +130,7 @@
         Min Inside Humidity: 37% at 09/11/2025 04:41:35 PM;
         Max Inside Humidity: 87% at 09/01/2025 02:38:57 AM;
       </description>
-      <pubDate>Sat, 27 Sep 2025 06:15:00 -03</pubDate>
+      <pubDate>Sat, 27 Sep 2025 06:35:00 -03</pubDate>
       <geo:lat>-34.68247396567271</geo:lat>
       <geo:long>-59.033162742123125</geo:long>
       <content:encoded><![CDATA[
@@ -143,7 +143,7 @@
         Min Barometer: 1003.0 mbar at 09/21/2025 03:33:32 AM<br/>
         Max Barometer: 1037.1 mbar at 09/24/2025 09:58:32 AM<br/>
         Max Wind: 40 knots from 249&#176; at 09/20/2025 07:48:52 PM<br/>
-        Rain: 85.8 mm<br/>
+        Rain: 88.8 mm<br/>
         Max Rain Rate: 38.4 mm/h<br/>
         Min Wind Chill: -1.8&#176;C at 09/05/2025 07:03:32 AM<br/>
         Max Wind Chill: 28.6&#176;C at 09/18/2025 01:51:04 PM<br/>
@@ -159,7 +159,7 @@
       ]]></content:encoded>
     </item>
     <item>
-      <title>Yearly summary as of 09/27/2025 06:15:00 AM</title>
+      <title>Yearly summary as of 09/27/2025 06:35:00 AM</title>
       <link></link>
       <description>
         Min Outside Temperature: -5.7&#176;C at 07/02/2025 07:35:19 AM;
@@ -169,7 +169,7 @@
         Min Barometer: 998.3 mbar at 08/19/2025 11:02:31 PM;
         Max Barometer: 1039.7 mbar at 07/02/2025 10:44:31 AM;
         Max Wind: 42 knots from 310&#176; at 05/15/2025 11:36:53 PM;
-        Rain: 1195.2 mm;
+        Rain: 1198.2 mm;
         Max Rain Rate: 87.0 mm/h;
         Min Wind Chill: -6.2&#176;C at 07/01/2025 09:11:32 AM;
         Max Wind Chill: 41.5&#176;C at 01/16/2025 04:28:32 PM;
@@ -182,7 +182,7 @@
         Min Inside Humidity: 25% at 01/07/2025 05:07:31 PM;
         Max Inside Humidity: 91% at 08/20/2025 06:05:32 AM;
       </description>
-      <pubDate>Sat, 27 Sep 2025 06:15:00 -03</pubDate>
+      <pubDate>Sat, 27 Sep 2025 06:35:00 -03</pubDate>
       <geo:lat>-34.68247396567271</geo:lat>
       <geo:long>-59.033162742123125</geo:long>
       <content:encoded><![CDATA[
@@ -195,7 +195,7 @@
         Min Barometer: 998.3 mbar at 08/19/2025 11:02:31 PM<br/>
         Max Barometer: 1039.7 mbar at 07/02/2025 10:44:31 AM<br/>
         Max Wind: 42 knots from 310&#176; at 05/15/2025 11:36:53 PM<br/>
-        Rain: 1195.2 mm<br/>
+        Rain: 1198.2 mm<br/>
         Max Rain Rate: 87.0 mm/h<br/>
         Min Wind Chill: -6.2&#176;C at 07/01/2025 09:11:32 AM<br/>
         Max Wind Chill: 41.5&#176;C at 01/16/2025 04:28:32 PM<br/>
