@@ -1,6 +1,6 @@
 {
     "belchertown_version": "1.3.1",
-    "generated_timestamp": "10/10/2025 18:15:39",
+    "generated_timestamp": "10/10/2025 18:35:45",
     "colors": "#7cb5ec, #b2df8a, #f7a35c, #8c6bb1, #dd3497, #e4d354, #268bd2, #f45b5b, #6a3d9a, #33a02c",
     "chartgroup_title": "This Year",
     "tooltip_date_format": "dddd LL",
@@ -4124,7 +4124,7 @@
                     ],
                     [
                         1760108400000.0,
-                        60.0
+                        61.0
                     ],
                     [
                         1760151600000.0,
@@ -11516,7 +11516,7 @@
                     ],
                     [
                         1760108400000.0,
-                        1014.8
+                        1014.7
                     ],
                     [
                         1760151600000.0,
