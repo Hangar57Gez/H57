@@ -10,104 +10,104 @@
     <link></link>
     <description>Current conditions, and daily, monthly, and yearly summaries</description>
     <language>"en"</language>
-    <pubDate>Sun, 12 Oct 2025 23:55:00 -03</pubDate>
+    <pubDate>Mon, 13 Oct 2025 00:15:00 -03</pubDate>
 
-    <lastBuildDate>Sun, 12 Oct 2025 23:55:00 -03</lastBuildDate>
+    <lastBuildDate>Mon, 13 Oct 2025 00:15:00 -03</lastBuildDate>
     <docs>http://blogs.law.harvard.edu/tech/rss</docs>
     <generator>weewx 5.0.2</generator>
     <ttl>5.0 minutes</ttl>
 
     <item>
-      <title>Weather Conditions at 10/12/2025 11:55:00 PM</title>
+      <title>Weather Conditions at 10/13/2025 12:15:00 AM</title>
       <link></link>
       <description>
-        Outside Temperature: 14.1&#176;C;
-        Inside Temperature: 14.6&#176;C;
-        Barometer: 1006.1 mbar;
-        Wind: 10 knots from 256&#176;;
+        Outside Temperature: 14.0&#176;C;
+        Inside Temperature: 14.5&#176;C;
+        Barometer: 1006.2 mbar;
+        Wind: 9 knots from 253&#176;;
         Rain: 0.0 mm;
         Rain Rate: 0.0 mm/h;
-        Wind Chill: 14.1&#176;C;
-        Heat Index: 13.9&#176;C;
-        Dew Point: 12.3&#176;C;
-        Outside Humidity: 89%;
+        Wind Chill: 14.0&#176;C;
+        Heat Index: 13.7&#176;C;
+        Dew Point: 12.0&#176;C;
+        Outside Humidity: 88%;
         Inside Humidity: 82%;
       </description>
-      <pubDate>Sun, 12 Oct 2025 23:55:00 -03</pubDate>
+      <pubDate>Mon, 13 Oct 2025 00:15:00 -03</pubDate>
       <geo:lat>-34.68247396567271</geo:lat>
       <geo:long>-59.033162742123125</geo:long>
       <content:encoded><![CDATA[
       <p>
-      Time: 10/12/2025 11:55:00 PM<br/>
-        Outside Temperature: 14.1&#176;C<br/>
-        Inside Temperature: 14.6&#176;C<br/>
-        Barometer: 1006.1 mbar<br/>
-        Wind: 10 knots from 256&#176;;
+      Time: 10/13/2025 12:15:00 AM<br/>
+        Outside Temperature: 14.0&#176;C<br/>
+        Inside Temperature: 14.5&#176;C<br/>
+        Barometer: 1006.2 mbar<br/>
+        Wind: 9 knots from 253&#176;;
         Rain: 0.0 mm<br/>
         Rain Rate: 0.0 mm/h<br/>
-        Wind Chill: 14.1&#176;C<br/>
-        Heat Index: 13.9&#176;C<br/>
-        Dew Point: 12.3&#176;C<br/>
-        Outside Humidity: 89%<br/>
+        Wind Chill: 14.0&#176;C<br/>
+        Heat Index: 13.7&#176;C<br/>
+        Dew Point: 12.0&#176;C<br/>
+        Outside Humidity: 88%<br/>
         Inside Humidity: 82%<br/>
       </p>
       ]]></content:encoded>
     </item>
 
     <item>
-      <title>Daily summary as of 10/12/2025 11:55:00 PM</title>
+      <title>Daily summary as of 10/13/2025 12:15:00 AM</title>
       <link></link>
       <description>
-        Min Outside Temperature: 12.9&#176;C at 04:56:32 AM;
-        Max Outside Temperature: 18.2&#176;C at 04:54:18 PM;
-        Min Inside Temperature: 14.6&#176;C at 11:00:00 PM;
-        Max Inside Temperature: 19.0&#176;C at 12:05:00 AM;
-        Min Barometer: 1003.7 mbar at 04:54:39 PM;
-        Max Barometer: 1007.4 mbar at 02:59:44 AM;
-        Max Wind: 24 knots from 244&#176; at 11:24:26 PM;
-        Rain: 1.5 mm;
-        Max Rain Rate: 3.6 mm/h;
-        Min Wind Chill: 12.9&#176;C at 04:56:32 AM;
-        Max Wind Chill: 18.2&#176;C at 04:54:18 PM;
-        Min Heat Index: 12.6&#176;C at 07:05:30 AM;
-        Max Heat Index: 18.0&#176;C at 04:54:18 PM;
-        Min Dew Point: 9.4&#176;C at 10:35:55 AM;
-        Max Dew Point: 16.0&#176;C at 12:00:28 AM;
-        Min Outside Humidity: 70% at 03:55:23 PM;
-        Max Outside Humidity: 93% at 12:00:28 AM;
-        Min Inside Humidity: 65% at 04:37:46 PM;
-        Max Inside Humidity: 84% at 10:26:02 PM;
+        Min Outside Temperature: 14.0&#176;C at 12:10:00 AM;
+        Max Outside Temperature: 14.0&#176;C at 12:15:00 AM;
+        Min Inside Temperature: 14.5&#176;C at 12:02:01 AM;
+        Max Inside Temperature: 14.6&#176;C at 12:00:30 AM;
+        Min Barometer: 1006.0 mbar at 12:00:30 AM;
+        Max Barometer: 1006.3 mbar at 12:10:30 AM;
+        Max Wind: 16 knots from 252&#176; at 12:06:51 AM;
+        Rain: 0.0 mm;
+        Max Rain Rate: 0.0 mm/h;
+        Min Wind Chill: 14.0&#176;C at 12:10:00 AM;
+        Max Wind Chill: 14.0&#176;C at 12:15:00 AM;
+        Min Heat Index: 13.7&#176;C at 12:14:01 AM;
+        Max Heat Index: 13.8&#176;C at 12:00:30 AM;
+        Min Dew Point: 11.9&#176;C at 12:14:01 AM;
+        Max Dew Point: 12.2&#176;C at 12:05:00 AM;
+        Min Outside Humidity: 87% at 12:14:01 AM;
+        Max Outside Humidity: 89% at 12:00:30 AM;
+        Min Inside Humidity: 82% at 12:00:30 AM;
+        Max Inside Humidity: 82% at 12:00:30 AM;
       </description>
-      <pubDate>Sun, 12 Oct 2025 23:55:00 -03</pubDate>
+      <pubDate>Mon, 13 Oct 2025 00:15:00 -03</pubDate>
       <geo:lat>-34.68247396567271</geo:lat>
       <geo:long>-59.033162742123125</geo:long>
       <content:encoded><![CDATA[
       <p>
-      Daily summary as of 12 Oct 2025<br/>
-        Min Outside Temperature: 12.9&#176;C at 04:56:32 AM<br/>
-        Max Outside Temperature: 18.2&#176;C at 04:54:18 PM<br/>
-        Min Inside Temperature: 14.6&#176;C at 11:00:00 PM<br/>
-        Max Inside Temperature: 19.0&#176;C at 12:05:00 AM<br/>
-        Min Barometer: 1003.7 mbar at 04:54:39 PM<br/>
-        Max Barometer: 1007.4 mbar at 02:59:44 AM<br/>
-        Max Wind: 24 knots from 244&#176; at 11:24:26 PM<br/>
-        Rain: 1.5 mm<br/>
-        Max Rain Rate: 3.6 mm/h<br/>
-        Min Wind Chill: 12.9&#176;C at 04:56:32 AM<br/>
-        Max Wind Chill: 18.2&#176;C at 04:54:18 PM<br/>
-        Min Heat Index: 12.6&#176;C at 07:05:30 AM<br/>
-        Max Heat Index: 18.0&#176;C at 04:54:18 PM<br/>
-        Min Dew Point: 9.4&#176;C at 10:35:55 AM<br/>
-        Max Dew Point: 16.0&#176;C at 12:00:28 AM<br/>
-        Min Outside Humidity: 70% at 03:55:23 PM<br/>
-        Max Outside Humidity: 93% at 12:00:28 AM<br/>
-        Min Inside Humidity: 65% at 04:37:46 PM<br/>
-        Max Inside Humidity: 84% at 10:26:02 PM<br/>
+      Daily summary as of 13 Oct 2025<br/>
+        Min Outside Temperature: 14.0&#176;C at 12:10:00 AM<br/>
+        Max Outside Temperature: 14.0&#176;C at 12:15:00 AM<br/>
+        Min Inside Temperature: 14.5&#176;C at 12:02:01 AM<br/>
+        Max Inside Temperature: 14.6&#176;C at 12:00:30 AM<br/>
+        Min Barometer: 1006.0 mbar at 12:00:30 AM<br/>
+        Max Barometer: 1006.3 mbar at 12:10:30 AM<br/>
+        Max Wind: 16 knots from 252&#176; at 12:06:51 AM<br/>
+        Rain: 0.0 mm<br/>
+        Max Rain Rate: 0.0 mm/h<br/>
+        Min Wind Chill: 14.0&#176;C at 12:10:00 AM<br/>
+        Max Wind Chill: 14.0&#176;C at 12:15:00 AM<br/>
+        Min Heat Index: 13.7&#176;C at 12:14:01 AM<br/>
+        Max Heat Index: 13.8&#176;C at 12:00:30 AM<br/>
+        Min Dew Point: 11.9&#176;C at 12:14:01 AM<br/>
+        Max Dew Point: 12.2&#176;C at 12:05:00 AM<br/>
+        Min Outside Humidity: 87% at 12:14:01 AM<br/>
+        Max Outside Humidity: 89% at 12:00:30 AM<br/>
+        Min Inside Humidity: 82% at 12:00:30 AM<br/>
+        Max Inside Humidity: 82% at 12:00:30 AM<br/>
       </p>
       ]]></content:encoded>
     </item>
     <item>
-      <title>Monthly summary as of 10/12/2025 11:55:00 PM</title>
+      <title>Monthly summary as of 10/13/2025 12:15:00 AM</title>
       <link></link>
       <description>
         Min Outside Temperature: 5.4&#176;C at 10/01/2025 06:30:00 AM;
@@ -130,7 +130,7 @@
         Min Inside Humidity: 37% at 10/01/2025 04:37:59 PM;
         Max Inside Humidity: 84% at 10/12/2025 10:26:02 PM;
       </description>
-      <pubDate>Sun, 12 Oct 2025 23:55:00 -03</pubDate>
+      <pubDate>Mon, 13 Oct 2025 00:15:00 -03</pubDate>
       <geo:lat>-34.68247396567271</geo:lat>
       <geo:long>-59.033162742123125</geo:long>
       <content:encoded><![CDATA[
@@ -159,7 +159,7 @@
       ]]></content:encoded>
     </item>
     <item>
-      <title>Yearly summary as of 10/12/2025 11:55:00 PM</title>
+      <title>Yearly summary as of 10/13/2025 12:15:00 AM</title>
       <link></link>
       <description>
         Min Outside Temperature: -5.7&#176;C at 07/02/2025 07:35:19 AM;
@@ -182,7 +182,7 @@
         Min Inside Humidity: 25% at 01/07/2025 05:07:31 PM;
         Max Inside Humidity: 91% at 08/20/2025 06:05:32 AM;
       </description>
-      <pubDate>Sun, 12 Oct 2025 23:55:00 -03</pubDate>
+      <pubDate>Mon, 13 Oct 2025 00:15:00 -03</pubDate>
       <geo:lat>-34.68247396567271</geo:lat>
       <geo:long>-59.033162742123125</geo:long>
       <content:encoded><![CDATA[
