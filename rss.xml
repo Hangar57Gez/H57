@@ -10,57 +10,57 @@
     <link></link>
     <description>Current conditions, and daily, monthly, and yearly summaries</description>
     <language>"en"</language>
-    <pubDate>Sat, 25 Oct 2025 22:55:00 -03</pubDate>
+    <pubDate>Sat, 25 Oct 2025 23:15:00 -03</pubDate>
 
-    <lastBuildDate>Sat, 25 Oct 2025 22:55:00 -03</lastBuildDate>
+    <lastBuildDate>Sat, 25 Oct 2025 23:15:00 -03</lastBuildDate>
     <docs>http://blogs.law.harvard.edu/tech/rss</docs>
     <generator>weewx 5.0.2</generator>
     <ttl>5.0 minutes</ttl>
 
     <item>
-      <title>Weather Conditions at 10/25/2025 10:55:00 PM</title>
+      <title>Weather Conditions at 10/25/2025 11:15:00 PM</title>
       <link></link>
       <description>
         Outside Temperature: 9.5&#176;C;
-        Inside Temperature: 13.6&#176;C;
-        Barometer: 1019.1 mbar;
-        Wind: 0 knots from 054&#176;;
+        Inside Temperature: 13.4&#176;C;
+        Barometer: 1018.8 mbar;
+        Wind: 0 knots from    N/A;
         Rain: 0.0 mm;
         Rain Rate: 0.0 mm/h;
         Wind Chill: 9.5&#176;C;
         Heat Index: 9.0&#176;C;
         Dew Point: 8.6&#176;C;
         Outside Humidity: 94%;
-        Inside Humidity: 67%;
+        Inside Humidity: 68%;
       </description>
-      <pubDate>Sat, 25 Oct 2025 22:55:00 -03</pubDate>
+      <pubDate>Sat, 25 Oct 2025 23:15:00 -03</pubDate>
       <geo:lat>-34.68247396567271</geo:lat>
       <geo:long>-59.033162742123125</geo:long>
       <content:encoded><![CDATA[
       <p>
-      Time: 10/25/2025 10:55:00 PM<br/>
+      Time: 10/25/2025 11:15:00 PM<br/>
         Outside Temperature: 9.5&#176;C<br/>
-        Inside Temperature: 13.6&#176;C<br/>
-        Barometer: 1019.1 mbar<br/>
-        Wind: 0 knots from 054&#176;;
+        Inside Temperature: 13.4&#176;C<br/>
+        Barometer: 1018.8 mbar<br/>
+        Wind: 0 knots from    N/A;
         Rain: 0.0 mm<br/>
         Rain Rate: 0.0 mm/h<br/>
         Wind Chill: 9.5&#176;C<br/>
         Heat Index: 9.0&#176;C<br/>
         Dew Point: 8.6&#176;C<br/>
         Outside Humidity: 94%<br/>
-        Inside Humidity: 67%<br/>
+        Inside Humidity: 68%<br/>
       </p>
       ]]></content:encoded>
     </item>
 
     <item>
-      <title>Daily summary as of 10/25/2025 10:55:00 PM</title>
+      <title>Daily summary as of 10/25/2025 11:15:00 PM</title>
       <link></link>
       <description>
         Min Outside Temperature: 9.3&#176;C at 10:25:25 PM;
         Max Outside Temperature: 18.8&#176;C at 12:00:24 AM;
-        Min Inside Temperature: 13.6&#176;C at 10:43:31 PM;
+        Min Inside Temperature: 13.4&#176;C at 11:05:31 PM;
         Max Inside Temperature: 20.2&#176;C at 12:00:24 AM;
         Min Barometer: 1004.0 mbar at 03:51:32 AM;
         Max Barometer: 1019.2 mbar at 10:25:25 PM;
@@ -78,7 +78,7 @@
         Min Inside Humidity: 61% at 05:28:43 PM;
         Max Inside Humidity: 84% at 04:24:45 AM;
       </description>
-      <pubDate>Sat, 25 Oct 2025 22:55:00 -03</pubDate>
+      <pubDate>Sat, 25 Oct 2025 23:15:00 -03</pubDate>
       <geo:lat>-34.68247396567271</geo:lat>
       <geo:long>-59.033162742123125</geo:long>
       <content:encoded><![CDATA[
@@ -86,7 +86,7 @@
       Daily summary as of 25 Oct 2025<br/>
         Min Outside Temperature: 9.3&#176;C at 10:25:25 PM<br/>
         Max Outside Temperature: 18.8&#176;C at 12:00:24 AM<br/>
-        Min Inside Temperature: 13.6&#176;C at 10:43:31 PM<br/>
+        Min Inside Temperature: 13.4&#176;C at 11:05:31 PM<br/>
         Max Inside Temperature: 20.2&#176;C at 12:00:24 AM<br/>
         Min Barometer: 1004.0 mbar at 03:51:32 AM<br/>
         Max Barometer: 1019.2 mbar at 10:25:25 PM<br/>
@@ -107,7 +107,7 @@
       ]]></content:encoded>
     </item>
     <item>
-      <title>Monthly summary as of 10/25/2025 10:55:00 PM</title>
+      <title>Monthly summary as of 10/25/2025 11:15:00 PM</title>
       <link></link>
       <description>
         Min Outside Temperature: 5.3&#176;C at 10/19/2025 04:37:28 AM;
@@ -130,7 +130,7 @@
         Min Inside Humidity: 37% at 10/01/2025 04:37:59 PM;
         Max Inside Humidity: 84% at 10/12/2025 10:26:02 PM;
       </description>
-      <pubDate>Sat, 25 Oct 2025 22:55:00 -03</pubDate>
+      <pubDate>Sat, 25 Oct 2025 23:15:00 -03</pubDate>
       <geo:lat>-34.68247396567271</geo:lat>
       <geo:long>-59.033162742123125</geo:long>
       <content:encoded><![CDATA[
@@ -159,7 +159,7 @@
       ]]></content:encoded>
     </item>
     <item>
-      <title>Yearly summary as of 10/25/2025 10:55:00 PM</title>
+      <title>Yearly summary as of 10/25/2025 11:15:00 PM</title>
       <link></link>
       <description>
         Min Outside Temperature: -5.7&#176;C at 07/02/2025 07:35:19 AM;
@@ -182,7 +182,7 @@
         Min Inside Humidity: 25% at 01/07/2025 05:07:31 PM;
         Max Inside Humidity: 91% at 08/20/2025 06:05:32 AM;
       </description>
-      <pubDate>Sat, 25 Oct 2025 22:55:00 -03</pubDate>
+      <pubDate>Sat, 25 Oct 2025 23:15:00 -03</pubDate>
       <geo:lat>-34.68247396567271</geo:lat>
       <geo:long>-59.033162742123125</geo:long>
       <content:encoded><![CDATA[
