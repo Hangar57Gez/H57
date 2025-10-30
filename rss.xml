@@ -10,40 +10,40 @@
     <link></link>
     <description>Current conditions, and daily, monthly, and yearly summaries</description>
     <language>"en"</language>
-    <pubDate>Thu, 30 Oct 2025 00:55:00 -03</pubDate>
+    <pubDate>Thu, 30 Oct 2025 01:15:00 -03</pubDate>
 
-    <lastBuildDate>Thu, 30 Oct 2025 00:55:00 -03</lastBuildDate>
+    <lastBuildDate>Thu, 30 Oct 2025 01:15:00 -03</lastBuildDate>
     <docs>http://blogs.law.harvard.edu/tech/rss</docs>
     <generator>weewx 5.0.2</generator>
     <ttl>5.0 minutes</ttl>
 
     <item>
-      <title>Weather Conditions at 10/30/2025 12:55:00 AM</title>
+      <title>Weather Conditions at 10/30/2025 01:15:00 AM</title>
       <link></link>
       <description>
-        Inside Temperature: 13.6&#176;C;
-        Wind: 0 knots from 108&#176;;
+        Inside Temperature: 13.5&#176;C;
+        Wind: 0 knots from    N/A;
         Rain: 0.0 mm;
         Rain Rate: 0.0 mm/h;
-        Inside Humidity: 67%;
+        Inside Humidity: 68%;
       </description>
-      <pubDate>Thu, 30 Oct 2025 00:55:00 -03</pubDate>
+      <pubDate>Thu, 30 Oct 2025 01:15:00 -03</pubDate>
       <geo:lat>-34.68247396567271</geo:lat>
       <geo:long>-59.033162742123125</geo:long>
       <content:encoded><![CDATA[
       <p>
-      Time: 10/30/2025 12:55:00 AM<br/>
-        Inside Temperature: 13.6&#176;C<br/>
-        Wind: 0 knots from 108&#176;;
+      Time: 10/30/2025 01:15:00 AM<br/>
+        Inside Temperature: 13.5&#176;C<br/>
+        Wind: 0 knots from    N/A;
         Rain: 0.0 mm<br/>
         Rain Rate: 0.0 mm/h<br/>
-        Inside Humidity: 67%<br/>
+        Inside Humidity: 68%<br/>
       </p>
       ]]></content:encoded>
     </item>
 
     <item>
-      <title>Daily summary as of 10/30/2025 12:55:00 AM</title>
+      <title>Daily summary as of 10/30/2025 01:15:00 AM</title>
       <link></link>
       <description>
         Min Outside Temperature: 9.9&#176;C at 12:01:47 AM;
@@ -64,9 +64,9 @@
         Min Outside Humidity: 88% at 12:01:47 AM;
         Max Outside Humidity: 88% at 12:01:47 AM;
         Min Inside Humidity: 66% at 12:00:11 AM;
-        Max Inside Humidity: 67% at 12:31:52 AM;
+        Max Inside Humidity: 68% at 01:01:26 AM;
       </description>
-      <pubDate>Thu, 30 Oct 2025 00:55:00 -03</pubDate>
+      <pubDate>Thu, 30 Oct 2025 01:15:00 -03</pubDate>
       <geo:lat>-34.68247396567271</geo:lat>
       <geo:long>-59.033162742123125</geo:long>
       <content:encoded><![CDATA[
@@ -90,12 +90,12 @@
         Min Outside Humidity: 88% at 12:01:47 AM<br/>
         Max Outside Humidity: 88% at 12:01:47 AM<br/>
         Min Inside Humidity: 66% at 12:00:11 AM<br/>
-        Max Inside Humidity: 67% at 12:31:52 AM<br/>
+        Max Inside Humidity: 68% at 01:01:26 AM<br/>
       </p>
       ]]></content:encoded>
     </item>
     <item>
-      <title>Monthly summary as of 10/30/2025 12:55:00 AM</title>
+      <title>Monthly summary as of 10/30/2025 01:15:00 AM</title>
       <link></link>
       <description>
         Min Outside Temperature: 5.2&#176;C at 10/29/2025 01:30:54 AM;
@@ -118,7 +118,7 @@
         Min Inside Humidity: 37% at 10/01/2025 04:37:59 PM;
         Max Inside Humidity: 84% at 10/12/2025 10:26:02 PM;
       </description>
-      <pubDate>Thu, 30 Oct 2025 00:55:00 -03</pubDate>
+      <pubDate>Thu, 30 Oct 2025 01:15:00 -03</pubDate>
       <geo:lat>-34.68247396567271</geo:lat>
       <geo:long>-59.033162742123125</geo:long>
       <content:encoded><![CDATA[
@@ -147,7 +147,7 @@
       ]]></content:encoded>
     </item>
     <item>
-      <title>Yearly summary as of 10/30/2025 12:55:00 AM</title>
+      <title>Yearly summary as of 10/30/2025 01:15:00 AM</title>
       <link></link>
       <description>
         Min Outside Temperature: -5.7&#176;C at 07/02/2025 07:35:19 AM;
@@ -170,7 +170,7 @@
         Min Inside Humidity: 25% at 01/07/2025 05:07:31 PM;
         Max Inside Humidity: 91% at 08/20/2025 06:05:32 AM;
       </description>
-      <pubDate>Thu, 30 Oct 2025 00:55:00 -03</pubDate>
+      <pubDate>Thu, 30 Oct 2025 01:15:00 -03</pubDate>
       <geo:lat>-34.68247396567271</geo:lat>
       <geo:long>-59.033162742123125</geo:long>
       <content:encoded><![CDATA[
