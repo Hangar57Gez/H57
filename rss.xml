@@ -10,68 +10,68 @@
     <link></link>
     <description>Current conditions, and daily, monthly, and yearly summaries</description>
     <language>"en"</language>
-    <pubDate>Tue, 11 Nov 2025 11:15:00 -03</pubDate>
+    <pubDate>Tue, 11 Nov 2025 11:35:00 -03</pubDate>
 
-    <lastBuildDate>Tue, 11 Nov 2025 11:15:00 -03</lastBuildDate>
+    <lastBuildDate>Tue, 11 Nov 2025 11:35:00 -03</lastBuildDate>
     <docs>http://blogs.law.harvard.edu/tech/rss</docs>
     <generator>weewx 5.0.2</generator>
     <ttl>5.0 minutes</ttl>
 
     <item>
-      <title>Weather Conditions at 11/11/2025 11:15:00 AM</title>
+      <title>Weather Conditions at 11/11/2025 11:35:00 AM</title>
       <link></link>
       <description>
-        Inside Temperature: 22.7&#176;C;
-        Wind: 5 knots from 071&#176;;
+        Inside Temperature: 23.7&#176;C;
+        Wind: 7 knots from 063&#176;;
         Rain: 0.0 mm;
         Rain Rate: 0.0 mm/h;
-        Inside Humidity: 61%;
+        Inside Humidity: 59%;
       </description>
-      <pubDate>Tue, 11 Nov 2025 11:15:00 -03</pubDate>
+      <pubDate>Tue, 11 Nov 2025 11:35:00 -03</pubDate>
       <geo:lat>-34.68247396567271</geo:lat>
       <geo:long>-59.033162742123125</geo:long>
       <content:encoded><![CDATA[
       <p>
-      Time: 11/11/2025 11:15:00 AM<br/>
-        Inside Temperature: 22.7&#176;C<br/>
-        Wind: 5 knots from 071&#176;;
+      Time: 11/11/2025 11:35:00 AM<br/>
+        Inside Temperature: 23.7&#176;C<br/>
+        Wind: 7 knots from 063&#176;;
         Rain: 0.0 mm<br/>
         Rain Rate: 0.0 mm/h<br/>
-        Inside Humidity: 61%<br/>
+        Inside Humidity: 59%<br/>
       </p>
       ]]></content:encoded>
     </item>
 
     <item>
-      <title>Daily summary as of 11/11/2025 11:15:00 AM</title>
+      <title>Daily summary as of 11/11/2025 11:35:00 AM</title>
       <link></link>
       <description>
         Min Inside Temperature: 16.2&#176;C at 05:29:31 AM;
-        Max Inside Temperature: 22.8&#176;C at 11:13:30 AM;
-        Max Wind: 14 knots from 034&#176; at 10:42:52 AM;
+        Max Inside Temperature: 23.8&#176;C at 11:33:31 AM;
+        Max Wind: 16 knots from 062&#176; at 11:34:31 AM;
         Rain: 0.0 mm;
         Max Rain Rate: 0.0 mm/h;
-        Min Inside Humidity: 60% at 12:00:13 AM;
+        Min Inside Humidity: 59% at 11:30:31 AM;
         Max Inside Humidity: 69% at 06:24:34 AM;
       </description>
-      <pubDate>Tue, 11 Nov 2025 11:15:00 -03</pubDate>
+      <pubDate>Tue, 11 Nov 2025 11:35:00 -03</pubDate>
       <geo:lat>-34.68247396567271</geo:lat>
       <geo:long>-59.033162742123125</geo:long>
       <content:encoded><![CDATA[
       <p>
       Daily summary as of 11 Nov 2025<br/>
         Min Inside Temperature: 16.2&#176;C at 05:29:31 AM<br/>
-        Max Inside Temperature: 22.8&#176;C at 11:13:30 AM<br/>
-        Max Wind: 14 knots from 034&#176; at 10:42:52 AM<br/>
+        Max Inside Temperature: 23.8&#176;C at 11:33:31 AM<br/>
+        Max Wind: 16 knots from 062&#176; at 11:34:31 AM<br/>
         Rain: 0.0 mm<br/>
         Max Rain Rate: 0.0 mm/h<br/>
-        Min Inside Humidity: 60% at 12:00:13 AM<br/>
+        Min Inside Humidity: 59% at 11:30:31 AM<br/>
         Max Inside Humidity: 69% at 06:24:34 AM<br/>
       </p>
       ]]></content:encoded>
     </item>
     <item>
-      <title>Monthly summary as of 11/11/2025 11:15:00 AM</title>
+      <title>Monthly summary as of 11/11/2025 11:35:00 AM</title>
       <link></link>
       <description>
         Min Outside Temperature: 9.7&#176;C at 11/01/2025 05:44:07 AM;
@@ -94,7 +94,7 @@
         Min Inside Humidity: 44% at 11/05/2025 05:22:02 PM;
         Max Inside Humidity: 83% at 11/04/2025 08:44:35 AM;
       </description>
-      <pubDate>Tue, 11 Nov 2025 11:15:00 -03</pubDate>
+      <pubDate>Tue, 11 Nov 2025 11:35:00 -03</pubDate>
       <geo:lat>-34.68247396567271</geo:lat>
       <geo:long>-59.033162742123125</geo:long>
       <content:encoded><![CDATA[
@@ -123,7 +123,7 @@
       ]]></content:encoded>
     </item>
     <item>
-      <title>Yearly summary as of 11/11/2025 11:15:00 AM</title>
+      <title>Yearly summary as of 11/11/2025 11:35:00 AM</title>
       <link></link>
       <description>
         Min Outside Temperature: -5.7&#176;C at 07/02/2025 07:35:19 AM;
@@ -146,7 +146,7 @@
         Min Inside Humidity: 25% at 01/07/2025 05:07:31 PM;
         Max Inside Humidity: 91% at 08/20/2025 06:05:32 AM;
       </description>
-      <pubDate>Tue, 11 Nov 2025 11:15:00 -03</pubDate>
+      <pubDate>Tue, 11 Nov 2025 11:35:00 -03</pubDate>
       <geo:lat>-34.68247396567271</geo:lat>
       <geo:long>-59.033162742123125</geo:long>
       <content:encoded><![CDATA[
