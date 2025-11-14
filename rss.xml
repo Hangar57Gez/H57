@@ -10,92 +10,68 @@
     <link></link>
     <description>Current conditions, and daily, monthly, and yearly summaries</description>
     <language>"en"</language>
-    <pubDate>Thu, 13 Nov 2025 23:55:00 -03</pubDate>
+    <pubDate>Fri, 14 Nov 2025 00:15:00 -03</pubDate>
 
-    <lastBuildDate>Thu, 13 Nov 2025 23:55:00 -03</lastBuildDate>
+    <lastBuildDate>Fri, 14 Nov 2025 00:15:00 -03</lastBuildDate>
     <docs>http://blogs.law.harvard.edu/tech/rss</docs>
     <generator>weewx 5.0.2</generator>
     <ttl>5.0 minutes</ttl>
 
     <item>
-      <title>Weather Conditions at 11/13/2025 11:55:00 PM</title>
+      <title>Weather Conditions at 11/14/2025 12:15:00 AM</title>
       <link></link>
       <description>
-        Inside Temperature: 19.8&#176;C;
-        Wind: 0 knots from    N/A;
+        Inside Temperature: 19.4&#176;C;
+        Wind: 1 knots from 091&#176;;
         Rain: 0.0 mm;
         Rain Rate: 0.0 mm/h;
-        Inside Humidity: 57%;
+        Inside Humidity: 58%;
       </description>
-      <pubDate>Thu, 13 Nov 2025 23:55:00 -03</pubDate>
+      <pubDate>Fri, 14 Nov 2025 00:15:00 -03</pubDate>
       <geo:lat>-34.68247396567271</geo:lat>
       <geo:long>-59.033162742123125</geo:long>
       <content:encoded><![CDATA[
       <p>
-      Time: 11/13/2025 11:55:00 PM<br/>
-        Inside Temperature: 19.8&#176;C<br/>
-        Wind: 0 knots from    N/A;
+      Time: 11/14/2025 12:15:00 AM<br/>
+        Inside Temperature: 19.4&#176;C<br/>
+        Wind: 1 knots from 091&#176;;
         Rain: 0.0 mm<br/>
         Rain Rate: 0.0 mm/h<br/>
-        Inside Humidity: 57%<br/>
+        Inside Humidity: 58%<br/>
       </p>
       ]]></content:encoded>
     </item>
 
     <item>
-      <title>Daily summary as of 11/13/2025 11:55:00 PM</title>
+      <title>Daily summary as of 11/14/2025 12:15:00 AM</title>
       <link></link>
       <description>
-        Min Outside Temperature: 8.8&#176;C at 05:35:03 AM;
-        Max Outside Temperature: 27.7&#176;C at 10:52:23 AM;
-        Min Inside Temperature: 12.7&#176;C at 06:08:32 AM;
-        Max Inside Temperature: 30.2&#176;C at 05:00:32 PM;
-        Min Barometer: 1018.9 mbar at 12:00:23 AM;
-        Max Barometer: 1020.5 mbar at 06:40:08 AM;
-        Max Wind: 14 knots from 072&#176; at 04:26:30 PM;
+        Min Inside Temperature: 19.4&#176;C at 12:12:31 AM;
+        Max Inside Temperature: 19.7&#176;C at 12:00:06 AM;
+        Max Wind: 2 knots from 086&#176; at 12:10:46 AM;
         Rain: 0.0 mm;
         Max Rain Rate: 0.0 mm/h;
-        Min Wind Chill: 8.8&#176;C at 05:35:03 AM;
-        Max Wind Chill: 27.7&#176;C at 10:52:23 AM;
-        Min Heat Index: 8.2&#176;C at 05:35:03 AM;
-        Max Heat Index: 27.3&#176;C at 09:59:19 AM;
-        Min Dew Point: 7.9&#176;C at 05:35:03 AM;
-        Max Dew Point: 15.7&#176;C at 07:51:31 AM;
-        Min Outside Humidity: 35% at 11:00:23 AM;
-        Max Outside Humidity: 96% at 06:12:23 AM;
-        Min Inside Humidity: 34% at 05:00:32 PM;
-        Max Inside Humidity: 68% at 07:46:36 AM;
+        Min Inside Humidity: 57% at 12:00:06 AM;
+        Max Inside Humidity: 58% at 12:03:02 AM;
       </description>
-      <pubDate>Thu, 13 Nov 2025 23:55:00 -03</pubDate>
+      <pubDate>Fri, 14 Nov 2025 00:15:00 -03</pubDate>
       <geo:lat>-34.68247396567271</geo:lat>
       <geo:long>-59.033162742123125</geo:long>
       <content:encoded><![CDATA[
       <p>
-      Daily summary as of 13 Nov 2025<br/>
-        Min Outside Temperature: 8.8&#176;C at 05:35:03 AM<br/>
-        Max Outside Temperature: 27.7&#176;C at 10:52:23 AM<br/>
-        Min Inside Temperature: 12.7&#176;C at 06:08:32 AM<br/>
-        Max Inside Temperature: 30.2&#176;C at 05:00:32 PM<br/>
-        Min Barometer: 1018.9 mbar at 12:00:23 AM<br/>
-        Max Barometer: 1020.5 mbar at 06:40:08 AM<br/>
-        Max Wind: 14 knots from 072&#176; at 04:26:30 PM<br/>
+      Daily summary as of 14 Nov 2025<br/>
+        Min Inside Temperature: 19.4&#176;C at 12:12:31 AM<br/>
+        Max Inside Temperature: 19.7&#176;C at 12:00:06 AM<br/>
+        Max Wind: 2 knots from 086&#176; at 12:10:46 AM<br/>
         Rain: 0.0 mm<br/>
         Max Rain Rate: 0.0 mm/h<br/>
-        Min Wind Chill: 8.8&#176;C at 05:35:03 AM<br/>
-        Max Wind Chill: 27.7&#176;C at 10:52:23 AM<br/>
-        Min Heat Index: 8.2&#176;C at 05:35:03 AM<br/>
-        Max Heat Index: 27.3&#176;C at 09:59:19 AM<br/>
-        Min Dew Point: 7.9&#176;C at 05:35:03 AM<br/>
-        Max Dew Point: 15.7&#176;C at 07:51:31 AM<br/>
-        Min Outside Humidity: 35% at 11:00:23 AM<br/>
-        Max Outside Humidity: 96% at 06:12:23 AM<br/>
-        Min Inside Humidity: 34% at 05:00:32 PM<br/>
-        Max Inside Humidity: 68% at 07:46:36 AM<br/>
+        Min Inside Humidity: 57% at 12:00:06 AM<br/>
+        Max Inside Humidity: 58% at 12:03:02 AM<br/>
       </p>
       ]]></content:encoded>
     </item>
     <item>
-      <title>Monthly summary as of 11/13/2025 11:55:00 PM</title>
+      <title>Monthly summary as of 11/14/2025 12:15:00 AM</title>
       <link></link>
       <description>
         Min Outside Temperature: 8.8&#176;C at 11/13/2025 05:35:03 AM;
@@ -118,7 +94,7 @@
         Min Inside Humidity: 34% at 11/13/2025 05:00:32 PM;
         Max Inside Humidity: 83% at 11/04/2025 08:44:35 AM;
       </description>
-      <pubDate>Thu, 13 Nov 2025 23:55:00 -03</pubDate>
+      <pubDate>Fri, 14 Nov 2025 00:15:00 -03</pubDate>
       <geo:lat>-34.68247396567271</geo:lat>
       <geo:long>-59.033162742123125</geo:long>
       <content:encoded><![CDATA[
@@ -147,7 +123,7 @@
       ]]></content:encoded>
     </item>
     <item>
-      <title>Yearly summary as of 11/13/2025 11:55:00 PM</title>
+      <title>Yearly summary as of 11/14/2025 12:15:00 AM</title>
       <link></link>
       <description>
         Min Outside Temperature: -5.7&#176;C at 07/02/2025 07:35:19 AM;
@@ -170,7 +146,7 @@
         Min Inside Humidity: 25% at 01/07/2025 05:07:31 PM;
         Max Inside Humidity: 91% at 08/20/2025 06:05:32 AM;
       </description>
-      <pubDate>Thu, 13 Nov 2025 23:55:00 -03</pubDate>
+      <pubDate>Fri, 14 Nov 2025 00:15:00 -03</pubDate>
       <geo:lat>-34.68247396567271</geo:lat>
       <geo:long>-59.033162742123125</geo:long>
       <content:encoded><![CDATA[
