@@ -10,71 +10,71 @@
     <link></link>
     <description>Current conditions, and daily, monthly, and yearly summaries</description>
     <language>"en"</language>
-    <pubDate>Sun, 28 Dec 2025 02:35:00 -03</pubDate>
+    <pubDate>Sun, 28 Dec 2025 02:55:00 -03</pubDate>
 
-    <lastBuildDate>Sun, 28 Dec 2025 02:35:00 -03</lastBuildDate>
+    <lastBuildDate>Sun, 28 Dec 2025 02:55:00 -03</lastBuildDate>
     <docs>http://blogs.law.harvard.edu/tech/rss</docs>
     <generator>weewx 5.2.0</generator>
     <ttl>5.0 minutes</ttl>
 
     <item>
-      <title>Weather Conditions at 12/28/2025 02:35:00 AM</title>
+      <title>Weather Conditions at 12/28/2025 02:55:00 AM</title>
       <link></link>
       <description>
-        Inside Temperature: 24.2&#176;C;
-        Wind: 1 knots from 167&#176;;
+        Inside Temperature: 24.0&#176;C;
+        Wind: 1 knots from 165&#176;;
         Rain: 0.0 mm;
         Rain Rate: 0.0 mm/h;
-        Inside Humidity: 52%;
+        Inside Humidity: 53%;
       </description>
-      <pubDate>Sun, 28 Dec 2025 02:35:00 -03</pubDate>
+      <pubDate>Sun, 28 Dec 2025 02:55:00 -03</pubDate>
       <geo:lat>-34.68247396567271</geo:lat>
       <geo:long>-59.033162742123125</geo:long>
       <content:encoded><![CDATA[
       <p>
-      Time: 12/28/2025 02:35:00 AM<br/>
-        Inside Temperature: 24.2&#176;C<br/>
-        Wind: 1 knots from 167&#176;;
+      Time: 12/28/2025 02:55:00 AM<br/>
+        Inside Temperature: 24.0&#176;C<br/>
+        Wind: 1 knots from 165&#176;;
         Rain: 0.0 mm<br/>
         Rain Rate: 0.0 mm/h<br/>
-        Inside Humidity: 52%<br/>
+        Inside Humidity: 53%<br/>
       </p>
       ]]></content:encoded>
     </item>
 
     <item>
-      <title>Daily summary as of 12/28/2025 02:35:00 AM</title>
+      <title>Daily summary as of 12/28/2025 02:55:00 AM</title>
       <link></link>
       <description>
-        Min Inside Temperature: 24.2&#176;C at 02:27:54 AM;
+        Min Inside Temperature: 23.9&#176;C at 02:53:49 AM;
         Max Inside Temperature: 26.6&#176;C at 12:00:25 AM;
         Max Wind: 3 knots from 189&#176; at 12:00:46 AM;
         Rain: 0.0 mm;
         Max Rain Rate: 0.0 mm/h;
         Min Inside Humidity: 47% at 12:00:25 AM;
-        Max Inside Humidity: 52% at 02:21:38 AM;
+        Max Inside Humidity: 53% at 02:48:45 AM;
       </description>
-      <pubDate>Sun, 28 Dec 2025 02:35:00 -03</pubDate>
+      <pubDate>Sun, 28 Dec 2025 02:55:00 -03</pubDate>
       <geo:lat>-34.68247396567271</geo:lat>
       <geo:long>-59.033162742123125</geo:long>
       <content:encoded><![CDATA[
       <p>
       Daily summary as of 28 Dec 2025<br/>
-        Min Inside Temperature: 24.2&#176;C at 02:27:54 AM<br/>
+        Min Inside Temperature: 23.9&#176;C at 02:53:49 AM<br/>
         Max Inside Temperature: 26.6&#176;C at 12:00:25 AM<br/>
         Max Wind: 3 knots from 189&#176; at 12:00:46 AM<br/>
         Rain: 0.0 mm<br/>
         Max Rain Rate: 0.0 mm/h<br/>
         Min Inside Humidity: 47% at 12:00:25 AM<br/>
-        Max Inside Humidity: 52% at 02:21:38 AM<br/>
+        Max Inside Humidity: 53% at 02:48:45 AM<br/>
       </p>
       ]]></content:encoded>
     </item>
     <item>
-      <title>Monthly summary as of 12/28/2025 02:35:00 AM</title>
+      <title>Monthly summary as of 12/28/2025 02:55:00 AM</title>
       <link></link>
       <description>
-        Min Inside Temperature: 24.2&#176;C at 12/28/2025 02:27:54 AM;
+        Min Inside Temperature: 23.9&#176;C at 12/28/2025 02:53:49 AM;
         Max Inside Temperature: 36.0&#176;C at 12/26/2025 03:42:31 PM;
         Max Wind: 18 knots from 285&#176; at 12/12/2025 03:51:11 PM;
         Rain: 0.0 mm;
@@ -82,13 +82,13 @@
         Min Inside Humidity: 26% at 12/12/2025 04:42:30 PM;
         Max Inside Humidity: 64% at 12/01/2025 03:55:18 PM;
       </description>
-      <pubDate>Sun, 28 Dec 2025 02:35:00 -03</pubDate>
+      <pubDate>Sun, 28 Dec 2025 02:55:00 -03</pubDate>
       <geo:lat>-34.68247396567271</geo:lat>
       <geo:long>-59.033162742123125</geo:long>
       <content:encoded><![CDATA[
       <p>
       Monthly summary as of 01 Dec 2025<br/>
-        Min Inside Temperature: 24.2&#176;C at 12/28/2025 02:27:54 AM<br/>
+        Min Inside Temperature: 23.9&#176;C at 12/28/2025 02:53:49 AM<br/>
         Max Inside Temperature: 36.0&#176;C at 12/26/2025 03:42:31 PM<br/>
         Max Wind: 18 knots from 285&#176; at 12/12/2025 03:51:11 PM<br/>
         Rain: 0.0 mm<br/>
@@ -99,7 +99,7 @@
       ]]></content:encoded>
     </item>
     <item>
-      <title>Yearly summary as of 12/28/2025 02:35:00 AM</title>
+      <title>Yearly summary as of 12/28/2025 02:55:00 AM</title>
       <link></link>
       <description>
         Min Outside Temperature: -5.7&#176;C at 07/02/2025 07:35:19 AM;
@@ -122,7 +122,7 @@
         Min Inside Humidity: 25% at 01/07/2025 05:07:31 PM;
         Max Inside Humidity: 91% at 08/20/2025 06:05:32 AM;
       </description>
-      <pubDate>Sun, 28 Dec 2025 02:35:00 -03</pubDate>
+      <pubDate>Sun, 28 Dec 2025 02:55:00 -03</pubDate>
       <geo:lat>-34.68247396567271</geo:lat>
       <geo:long>-59.033162742123125</geo:long>
       <content:encoded><![CDATA[
