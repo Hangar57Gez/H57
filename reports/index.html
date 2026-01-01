@@ -28,8 +28,8 @@
         <link rel='stylesheet' href='//stackpath.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css' type='text/css' media='all' />
         <link rel='stylesheet' href='//cdnjs.cloudflare.com/ajax/libs/weather-icons/2.0.9/css/weather-icons.min.css?ver=4.7.4' type='text/css' media='all' />
         <link rel='stylesheet' href='//stackpath.bootstrapcdn.com/bootstrap/3.4.1/css/bootstrap.min.css' type='text/css' media='all' />
-        <link rel='stylesheet' href='../style.css?ver=1767222937' type='text/css' media='all' id="belchertownStyle" />
-        <link rel='stylesheet' href='../belchertown-dark.min.css?ver=1767222937' type='text/css' media='all' id="belchertownStyle" />
+        <link rel='stylesheet' href='../style.css?ver=1767285337' type='text/css' media='all' id="belchertownStyle" />
+        <link rel='stylesheet' href='../belchertown-dark.min.css?ver=1767285337' type='text/css' media='all' id="belchertownStyle" />
 
         <link rel="manifest" href="../manifest.json" crossorigin="use-credentials">
         <link rel="apple-touch-icon" href="../images/station.png">
@@ -51,14 +51,14 @@
         <script type='text/javascript' src='//code.highcharts.com/10/modules/exporting.js'></script>
         <script type='text/javascript' src='//code.highcharts.com/10/modules/solid-gauge.js'></script>
         <script type='text/javascript' src='//stackpath.bootstrapcdn.com/bootstrap/3.4.1/js/bootstrap.min.js'></script>
-        <script type='text/javascript' src='../js/belchertown.js?1767222937'></script>
+        <script type='text/javascript' src='../js/belchertown.js?1767285337'></script>
         <script>
             // Set the session variables for the theme
             if ( sessionStorage.getItem('theme') === null ) {
                 sessionStorage.setItem('theme', 'auto');
             }
             if ( sessionStorage.getItem('currentTheme') === null ) {
-                sessionStorage.setItem('currentTheme', 'dark');
+                sessionStorage.setItem('currentTheme', 'light');
             }
         </script>
         
@@ -69,7 +69,7 @@
 
     </head>
     
-    <body class="page-template-default page full-width-content dark" itemscope itemtype="https://schema.org/WebPage">
+    <body class="page-template-default page full-width-content light" itemscope itemtype="https://schema.org/WebPage">
         <div class="site-container">
             <header class="site-header">
                 <div class="wrap">
@@ -92,7 +92,7 @@
                                         <li class="menu-item menu-item-3"><a href="../reports/" itemprop="url"><span itemprop="name">Tablas clim&#225;ticas</span></a></li>
                                         <li class="menu-item menu-item-4"><a href="../about/" itemprop="url"><span itemprop="name">Estaci&#243;n</span></a></li>
                                         <label class="themeSwitchLabel">
-                                            <input type="checkbox" id="themeSwitch" checked>
+                                            <input type="checkbox" id="themeSwitch" >
                                             <span class="slider round"></span>
                                         </label>
                                     </ul>
@@ -112,7 +112,7 @@
             } else if ( year !== undefined ) {
                 url = '../NOAA/NOAA-'+year+'.txt';
             } else {
-                url = '../NOAA/NOAA-2025-12.txt';
+                url = '../NOAA/NOAA-2026-01.txt';
             }
             
             // Load the file into the pre
@@ -146,7 +146,6 @@
     <div class="row">
         <div class="col-sm-1 wx-stn-info-current-obs">
             <span class="obs-header-icon">
-                <img id="wxicon" src="../images/mostly-clear-day.png">
             </span>
             <span class="obs-header-outtemp">N/A</span>
         </div>
@@ -168,7 +167,7 @@
                     <H1>Informe NOAA</H1>
                     <div class="row">
                         <div class="col-sm-12 wx-year-row">
-                            <a href="?yr=2025" class="noaa_rep_nav"><b>2025</b></a>: <a href="?yr=2025&amp;mo=01" class="noaa_rep_nav"><b>Jan</b></a> <a href="?yr=2025&amp;mo=02" class="noaa_rep_nav"><b>Feb</b></a> <a href="?yr=2025&amp;mo=03" class="noaa_rep_nav"><b>Mar</b></a> <a href="?yr=2025&amp;mo=04" class="noaa_rep_nav"><b>Apr</b></a> <a href="?yr=2025&amp;mo=05" class="noaa_rep_nav"><b>May</b></a> <a href="?yr=2025&amp;mo=06" class="noaa_rep_nav"><b>Jun</b></a> <a href="?yr=2025&amp;mo=07" class="noaa_rep_nav"><b>Jul</b></a> <a href="?yr=2025&amp;mo=08" class="noaa_rep_nav"><b>Aug</b></a> <a href="?yr=2025&amp;mo=09" class="noaa_rep_nav"><b>Sep</b></a> <a href="?yr=2025&amp;mo=10" class="noaa_rep_nav"><b>Oct</b></a> <a href="?yr=2025&amp;mo=11" class="noaa_rep_nav"><b>Nov</b></a> <a href="?yr=2025&amp;mo=12" class="noaa_rep_nav"><b>Dec</b></a><br><a href="?yr=2024" class="noaa_rep_nav"><b>2024</b></a>: <a href="?yr=2024&amp;mo=01" class="noaa_rep_nav"><b>Jan</b></a> <a href="?yr=2024&amp;mo=02" class="noaa_rep_nav"><b>Feb</b></a> <a href="?yr=2024&amp;mo=03" class="noaa_rep_nav"><b>Mar</b></a> <a href="?yr=2024&amp;mo=04" class="noaa_rep_nav"><b>Apr</b></a> <a href="?yr=2024&amp;mo=05" class="noaa_rep_nav"><b>May</b></a> <a href="?yr=2024&amp;mo=06" class="noaa_rep_nav"><b>Jun</b></a> <a href="?yr=2024&amp;mo=07" class="noaa_rep_nav"><b>Jul</b></a> <a href="?yr=2024&amp;mo=08" class="noaa_rep_nav"><b>Aug</b></a> <a href="?yr=2024&amp;mo=09" class="noaa_rep_nav"><b>Sep</b></a> <a href="?yr=2024&amp;mo=10" class="noaa_rep_nav"><b>Oct</b></a> <a href="?yr=2024&amp;mo=11" class="noaa_rep_nav"><b>Nov</b></a> <a href="?yr=2024&amp;mo=12" class="noaa_rep_nav"><b>Dec</b></a><br><a href="?yr=2023" class="noaa_rep_nav"><b>2023</b></a>: <a href="?yr=2023&amp;mo=01" class="noaa_rep_nav"><b>Jan</b></a> <a href="?yr=2023&amp;mo=02" class="noaa_rep_nav"><b>Feb</b></a> <a href="?yr=2023&amp;mo=03" class="noaa_rep_nav"><b>Mar</b></a> <a href="?yr=2023&amp;mo=04" class="noaa_rep_nav"><b>Apr</b></a> <a href="?yr=2023&amp;mo=05" class="noaa_rep_nav"><b>May</b></a> <a href="?yr=2023&amp;mo=06" class="noaa_rep_nav"><b>Jun</b></a> <a href="?yr=2023&amp;mo=07" class="noaa_rep_nav"><b>Jul</b></a> <a href="?yr=2023&amp;mo=08" class="noaa_rep_nav"><b>Aug</b></a> <a href="?yr=2023&amp;mo=09" class="noaa_rep_nav"><b>Sep</b></a> <a href="?yr=2023&amp;mo=10" class="noaa_rep_nav"><b>Oct</b></a> <a href="?yr=2023&amp;mo=11" class="noaa_rep_nav"><b>Nov</b></a> <a href="?yr=2023&amp;mo=12" class="noaa_rep_nav"><b>Dec</b></a><br><a href="?yr=2022" class="noaa_rep_nav"><b>2022</b></a>: <span class="noaa_rep_nav"><b>Jan</b></span> <span class="noaa_rep_nav"><b>Feb</b></span> <span class="noaa_rep_nav"><b>Mar</b></span> <span class="noaa_rep_nav"><b>Apr</b></span> <a href="?yr=2022&amp;mo=05" class="noaa_rep_nav"><b>May</b></a> <a href="?yr=2022&amp;mo=06" class="noaa_rep_nav"><b>Jun</b></a> <a href="?yr=2022&amp;mo=07" class="noaa_rep_nav"><b>Jul</b></a> <a href="?yr=2022&amp;mo=08" class="noaa_rep_nav"><b>Aug</b></a> <a href="?yr=2022&amp;mo=09" class="noaa_rep_nav"><b>Sep</b></a> <a href="?yr=2022&amp;mo=10" class="noaa_rep_nav"><b>Oct</b></a> <a href="?yr=2022&amp;mo=11" class="noaa_rep_nav"><b>Nov</b></a> <a href="?yr=2022&amp;mo=12" class="noaa_rep_nav"><b>Dec</b></a><br>
+                            <a href="?yr=2026" class="noaa_rep_nav"><b>2026</b></a>: <a href="?yr=2026&amp;mo=01" class="noaa_rep_nav"><b>Jan</b></a> <span class="noaa_rep_nav"><b>Feb</b></span> <span class="noaa_rep_nav"><b>Mar</b></span> <span class="noaa_rep_nav"><b>Apr</b></span> <span class="noaa_rep_nav"><b>May</b></span> <span class="noaa_rep_nav"><b>Jun</b></span> <span class="noaa_rep_nav"><b>Jul</b></span> <span class="noaa_rep_nav"><b>Aug</b></span> <span class="noaa_rep_nav"><b>Sep</b></span> <span class="noaa_rep_nav"><b>Oct</b></span> <span class="noaa_rep_nav"><b>Nov</b></span> <span class="noaa_rep_nav"><b>Dec</b></span><br><a href="?yr=2025" class="noaa_rep_nav"><b>2025</b></a>: <a href="?yr=2025&amp;mo=01" class="noaa_rep_nav"><b>Jan</b></a> <a href="?yr=2025&amp;mo=02" class="noaa_rep_nav"><b>Feb</b></a> <a href="?yr=2025&amp;mo=03" class="noaa_rep_nav"><b>Mar</b></a> <a href="?yr=2025&amp;mo=04" class="noaa_rep_nav"><b>Apr</b></a> <a href="?yr=2025&amp;mo=05" class="noaa_rep_nav"><b>May</b></a> <a href="?yr=2025&amp;mo=06" class="noaa_rep_nav"><b>Jun</b></a> <a href="?yr=2025&amp;mo=07" class="noaa_rep_nav"><b>Jul</b></a> <a href="?yr=2025&amp;mo=08" class="noaa_rep_nav"><b>Aug</b></a> <a href="?yr=2025&amp;mo=09" class="noaa_rep_nav"><b>Sep</b></a> <a href="?yr=2025&amp;mo=10" class="noaa_rep_nav"><b>Oct</b></a> <a href="?yr=2025&amp;mo=11" class="noaa_rep_nav"><b>Nov</b></a> <a href="?yr=2025&amp;mo=12" class="noaa_rep_nav"><b>Dec</b></a><br><a href="?yr=2024" class="noaa_rep_nav"><b>2024</b></a>: <a href="?yr=2024&amp;mo=01" class="noaa_rep_nav"><b>Jan</b></a> <a href="?yr=2024&amp;mo=02" class="noaa_rep_nav"><b>Feb</b></a> <a href="?yr=2024&amp;mo=03" class="noaa_rep_nav"><b>Mar</b></a> <a href="?yr=2024&amp;mo=04" class="noaa_rep_nav"><b>Apr</b></a> <a href="?yr=2024&amp;mo=05" class="noaa_rep_nav"><b>May</b></a> <a href="?yr=2024&amp;mo=06" class="noaa_rep_nav"><b>Jun</b></a> <a href="?yr=2024&amp;mo=07" class="noaa_rep_nav"><b>Jul</b></a> <a href="?yr=2024&amp;mo=08" class="noaa_rep_nav"><b>Aug</b></a> <a href="?yr=2024&amp;mo=09" class="noaa_rep_nav"><b>Sep</b></a> <a href="?yr=2024&amp;mo=10" class="noaa_rep_nav"><b>Oct</b></a> <a href="?yr=2024&amp;mo=11" class="noaa_rep_nav"><b>Nov</b></a> <a href="?yr=2024&amp;mo=12" class="noaa_rep_nav"><b>Dec</b></a><br><a href="?yr=2023" class="noaa_rep_nav"><b>2023</b></a>: <a href="?yr=2023&amp;mo=01" class="noaa_rep_nav"><b>Jan</b></a> <a href="?yr=2023&amp;mo=02" class="noaa_rep_nav"><b>Feb</b></a> <a href="?yr=2023&amp;mo=03" class="noaa_rep_nav"><b>Mar</b></a> <a href="?yr=2023&amp;mo=04" class="noaa_rep_nav"><b>Apr</b></a> <a href="?yr=2023&amp;mo=05" class="noaa_rep_nav"><b>May</b></a> <a href="?yr=2023&amp;mo=06" class="noaa_rep_nav"><b>Jun</b></a> <a href="?yr=2023&amp;mo=07" class="noaa_rep_nav"><b>Jul</b></a> <a href="?yr=2023&amp;mo=08" class="noaa_rep_nav"><b>Aug</b></a> <a href="?yr=2023&amp;mo=09" class="noaa_rep_nav"><b>Sep</b></a> <a href="?yr=2023&amp;mo=10" class="noaa_rep_nav"><b>Oct</b></a> <a href="?yr=2023&amp;mo=11" class="noaa_rep_nav"><b>Nov</b></a> <a href="?yr=2023&amp;mo=12" class="noaa_rep_nav"><b>Dec</b></a><br><a href="?yr=2022" class="noaa_rep_nav"><b>2022</b></a>: <span class="noaa_rep_nav"><b>Jan</b></span> <span class="noaa_rep_nav"><b>Feb</b></span> <span class="noaa_rep_nav"><b>Mar</b></span> <span class="noaa_rep_nav"><b>Apr</b></span> <a href="?yr=2022&amp;mo=05" class="noaa_rep_nav"><b>May</b></a> <a href="?yr=2022&amp;mo=06" class="noaa_rep_nav"><b>Jun</b></a> <a href="?yr=2022&amp;mo=07" class="noaa_rep_nav"><b>Jul</b></a> <a href="?yr=2022&amp;mo=08" class="noaa_rep_nav"><b>Aug</b></a> <a href="?yr=2022&amp;mo=09" class="noaa_rep_nav"><b>Sep</b></a> <a href="?yr=2022&amp;mo=10" class="noaa_rep_nav"><b>Oct</b></a> <a href="?yr=2022&amp;mo=11" class="noaa_rep_nav"><b>Nov</b></a> <a href="?yr=2022&amp;mo=12" class="noaa_rep_nav"><b>Dec</b></a><br>
                         </div>
                     </div>
                     <a href="#" class="noaa_direct_link">Haga clic aqu&#237;,</a> para ver el informe como texto, o haga clic en un a&#241;o o mes para cambiar al per&#237;odo correspondiente
@@ -189,7 +188,7 @@
 			<div class="wrap">
                 <div class="row">
                     <div class="col-sm-4 footerLeft">
-                        Copyright &copy; 2025 Hangar 57
+                        Copyright &copy; 2026 Hangar 57
                     </div>
                     <div class="col-sm-5 footerCenter">
                         <strong>Nunca tome decisiones en base a la informaci&#243;n de este sitio, los datos son meramente informativos.</strong>
@@ -204,7 +203,7 @@
 		<script type='text/javascript' src='../js/responsive-menu.js'></script>
 		
 		<!-- Belchertown Skin Version: 1.3.1 -->
-        <!-- Page Generated: 12/31/2025 08:15:00 PM -->
+        <!-- Page Generated: 01/01/2026 01:35:00 PM -->
 
     </body>
 </html>
