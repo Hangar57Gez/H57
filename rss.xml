@@ -10,71 +10,71 @@
     <link></link>
     <description>Current conditions, and daily, monthly, and yearly summaries</description>
     <language>"en"</language>
-    <pubDate>Sat, 10 Jan 2026 23:55:00 -03</pubDate>
+    <pubDate>Sun, 11 Jan 2026 00:15:00 -03</pubDate>
 
-    <lastBuildDate>Sat, 10 Jan 2026 23:55:00 -03</lastBuildDate>
+    <lastBuildDate>Sun, 11 Jan 2026 00:15:00 -03</lastBuildDate>
     <docs>http://blogs.law.harvard.edu/tech/rss</docs>
     <generator>weewx 5.2.0</generator>
     <ttl>5.0 minutes</ttl>
 
     <item>
-      <title>Weather Conditions at 01/10/2026 11:55:00 PM</title>
+      <title>Weather Conditions at 01/11/2026 12:15:00 AM</title>
       <link></link>
       <description>
-        Inside Temperature: 22.1&#176;C;
-        Wind: 0 knots from 065&#176;;
+        Inside Temperature: 21.8&#176;C;
+        Wind: 1 knots from 018&#176;;
         Rain: 0.0 mm;
         Rain Rate: 0.0 mm/h;
-        Inside Humidity: 56%;
+        Inside Humidity: 57%;
       </description>
-      <pubDate>Sat, 10 Jan 2026 23:55:00 -03</pubDate>
+      <pubDate>Sun, 11 Jan 2026 00:15:00 -03</pubDate>
       <geo:lat>-34.68247396567271</geo:lat>
       <geo:long>-59.033162742123125</geo:long>
       <content:encoded><![CDATA[
       <p>
-      Time: 01/10/2026 11:55:00 PM<br/>
-        Inside Temperature: 22.1&#176;C<br/>
-        Wind: 0 knots from 065&#176;;
+      Time: 01/11/2026 12:15:00 AM<br/>
+        Inside Temperature: 21.8&#176;C<br/>
+        Wind: 1 knots from 018&#176;;
         Rain: 0.0 mm<br/>
         Rain Rate: 0.0 mm/h<br/>
-        Inside Humidity: 56%<br/>
+        Inside Humidity: 57%<br/>
       </p>
       ]]></content:encoded>
     </item>
 
     <item>
-      <title>Daily summary as of 01/10/2026 11:55:00 PM</title>
+      <title>Daily summary as of 01/11/2026 12:15:00 AM</title>
       <link></link>
       <description>
-        Min Inside Temperature: 22.0&#176;C at 11:53:32 PM;
-        Max Inside Temperature: 28.0&#176;C at 02:19:32 PM;
-        Max Wind: 16 knots from 146&#176; at 02:15:53 PM;
+        Min Inside Temperature: 21.8&#176;C at 12:05:32 AM;
+        Max Inside Temperature: 21.9&#176;C at 12:00:06 AM;
+        Max Wind: 2 knots from 088&#176; at 12:09:26 AM;
         Rain: 0.0 mm;
         Max Rain Rate: 0.0 mm/h;
-        Min Inside Humidity: 39% at 04:43:32 PM;
-        Max Inside Humidity: 57% at 12:54:15 PM;
+        Min Inside Humidity: 57% at 12:00:06 AM;
+        Max Inside Humidity: 57% at 12:00:06 AM;
       </description>
-      <pubDate>Sat, 10 Jan 2026 23:55:00 -03</pubDate>
+      <pubDate>Sun, 11 Jan 2026 00:15:00 -03</pubDate>
       <geo:lat>-34.68247396567271</geo:lat>
       <geo:long>-59.033162742123125</geo:long>
       <content:encoded><![CDATA[
       <p>
-      Daily summary as of 10 Jan 2026<br/>
-        Min Inside Temperature: 22.0&#176;C at 11:53:32 PM<br/>
-        Max Inside Temperature: 28.0&#176;C at 02:19:32 PM<br/>
-        Max Wind: 16 knots from 146&#176; at 02:15:53 PM<br/>
+      Daily summary as of 11 Jan 2026<br/>
+        Min Inside Temperature: 21.8&#176;C at 12:05:32 AM<br/>
+        Max Inside Temperature: 21.9&#176;C at 12:00:06 AM<br/>
+        Max Wind: 2 knots from 088&#176; at 12:09:26 AM<br/>
         Rain: 0.0 mm<br/>
         Max Rain Rate: 0.0 mm/h<br/>
-        Min Inside Humidity: 39% at 04:43:32 PM<br/>
-        Max Inside Humidity: 57% at 12:54:15 PM<br/>
+        Min Inside Humidity: 57% at 12:00:06 AM<br/>
+        Max Inside Humidity: 57% at 12:00:06 AM<br/>
       </p>
       ]]></content:encoded>
     </item>
     <item>
-      <title>Monthly summary as of 01/10/2026 11:55:00 PM</title>
+      <title>Monthly summary as of 01/11/2026 12:15:00 AM</title>
       <link></link>
       <description>
-        Min Inside Temperature: 22.0&#176;C at 01/10/2026 11:53:32 PM;
+        Min Inside Temperature: 21.8&#176;C at 01/11/2026 12:05:32 AM;
         Max Inside Temperature: 35.8&#176;C at 01/01/2026 04:29:32 PM;
         Max Wind: 16 knots from 146&#176; at 01/10/2026 02:15:53 PM;
         Rain: 0.0 mm;
@@ -82,13 +82,13 @@
         Min Inside Humidity: 32% at 01/01/2026 04:18:32 PM;
         Max Inside Humidity: 57% at 01/10/2026 12:54:15 PM;
       </description>
-      <pubDate>Sat, 10 Jan 2026 23:55:00 -03</pubDate>
+      <pubDate>Sun, 11 Jan 2026 00:15:00 -03</pubDate>
       <geo:lat>-34.68247396567271</geo:lat>
       <geo:long>-59.033162742123125</geo:long>
       <content:encoded><![CDATA[
       <p>
       Monthly summary as of 01 Jan 2026<br/>
-        Min Inside Temperature: 22.0&#176;C at 01/10/2026 11:53:32 PM<br/>
+        Min Inside Temperature: 21.8&#176;C at 01/11/2026 12:05:32 AM<br/>
         Max Inside Temperature: 35.8&#176;C at 01/01/2026 04:29:32 PM<br/>
         Max Wind: 16 knots from 146&#176; at 01/10/2026 02:15:53 PM<br/>
         Rain: 0.0 mm<br/>
@@ -99,10 +99,10 @@
       ]]></content:encoded>
     </item>
     <item>
-      <title>Yearly summary as of 01/10/2026 11:55:00 PM</title>
+      <title>Yearly summary as of 01/11/2026 12:15:00 AM</title>
       <link></link>
       <description>
-        Min Inside Temperature: 22.0&#176;C at 01/10/2026 11:53:32 PM;
+        Min Inside Temperature: 21.8&#176;C at 01/11/2026 12:05:32 AM;
         Max Inside Temperature: 35.8&#176;C at 01/01/2026 04:29:32 PM;
         Max Wind: 16 knots from 146&#176; at 01/10/2026 02:15:53 PM;
         Rain: 0.0 mm;
@@ -110,13 +110,13 @@
         Min Inside Humidity: 32% at 01/01/2026 04:18:32 PM;
         Max Inside Humidity: 57% at 01/10/2026 12:54:15 PM;
       </description>
-      <pubDate>Sat, 10 Jan 2026 23:55:00 -03</pubDate>
+      <pubDate>Sun, 11 Jan 2026 00:15:00 -03</pubDate>
       <geo:lat>-34.68247396567271</geo:lat>
       <geo:long>-59.033162742123125</geo:long>
       <content:encoded><![CDATA[
       <p>
       Yearly summary as of 01 Jan 2026<br/>
-        Min Inside Temperature: 22.0&#176;C at 01/10/2026 11:53:32 PM<br/>
+        Min Inside Temperature: 21.8&#176;C at 01/11/2026 12:05:32 AM<br/>
         Max Inside Temperature: 35.8&#176;C at 01/01/2026 04:29:32 PM<br/>
         Max Wind: 16 knots from 146&#176; at 01/10/2026 02:15:53 PM<br/>
         Rain: 0.0 mm<br/>
