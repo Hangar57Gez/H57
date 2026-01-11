@@ -10,119 +10,119 @@
     <link></link>
     <description>Current conditions, and daily, monthly, and yearly summaries</description>
     <language>"en"</language>
-    <pubDate>Sun, 11 Jan 2026 04:55:00 -03</pubDate>
+    <pubDate>Sun, 11 Jan 2026 05:15:00 -03</pubDate>
 
-    <lastBuildDate>Sun, 11 Jan 2026 04:55:00 -03</lastBuildDate>
+    <lastBuildDate>Sun, 11 Jan 2026 05:15:00 -03</lastBuildDate>
     <docs>http://blogs.law.harvard.edu/tech/rss</docs>
     <generator>weewx 5.2.0</generator>
     <ttl>5.0 minutes</ttl>
 
     <item>
-      <title>Weather Conditions at 01/11/2026 04:55:00 AM</title>
+      <title>Weather Conditions at 01/11/2026 05:15:00 AM</title>
       <link></link>
       <description>
-        Inside Temperature: 17.9&#176;C;
+        Inside Temperature: 17.7&#176;C;
         Wind: 0 knots from    N/A;
         Rain: 0.0 mm;
         Rain Rate: 0.0 mm/h;
-        Inside Humidity: 62%;
+        Inside Humidity: 63%;
       </description>
-      <pubDate>Sun, 11 Jan 2026 04:55:00 -03</pubDate>
+      <pubDate>Sun, 11 Jan 2026 05:15:00 -03</pubDate>
       <geo:lat>-34.68247396567271</geo:lat>
       <geo:long>-59.033162742123125</geo:long>
       <content:encoded><![CDATA[
       <p>
-      Time: 01/11/2026 04:55:00 AM<br/>
-        Inside Temperature: 17.9&#176;C<br/>
+      Time: 01/11/2026 05:15:00 AM<br/>
+        Inside Temperature: 17.7&#176;C<br/>
         Wind: 0 knots from    N/A;
         Rain: 0.0 mm<br/>
         Rain Rate: 0.0 mm/h<br/>
-        Inside Humidity: 62%<br/>
+        Inside Humidity: 63%<br/>
       </p>
       ]]></content:encoded>
     </item>
 
     <item>
-      <title>Daily summary as of 01/11/2026 04:55:00 AM</title>
+      <title>Daily summary as of 01/11/2026 05:15:00 AM</title>
       <link></link>
       <description>
-        Min Inside Temperature: 17.9&#176;C at 04:40:31 AM;
+        Min Inside Temperature: 17.6&#176;C at 05:10:35 AM;
         Max Inside Temperature: 21.9&#176;C at 12:00:06 AM;
         Max Wind: 4 knots from 351&#176; at 01:53:25 AM;
         Rain: 0.0 mm;
         Max Rain Rate: 0.0 mm/h;
         Min Inside Humidity: 57% at 12:00:06 AM;
-        Max Inside Humidity: 62% at 03:43:31 AM;
+        Max Inside Humidity: 63% at 05:01:57 AM;
       </description>
-      <pubDate>Sun, 11 Jan 2026 04:55:00 -03</pubDate>
+      <pubDate>Sun, 11 Jan 2026 05:15:00 -03</pubDate>
       <geo:lat>-34.68247396567271</geo:lat>
       <geo:long>-59.033162742123125</geo:long>
       <content:encoded><![CDATA[
       <p>
       Daily summary as of 11 Jan 2026<br/>
-        Min Inside Temperature: 17.9&#176;C at 04:40:31 AM<br/>
+        Min Inside Temperature: 17.6&#176;C at 05:10:35 AM<br/>
         Max Inside Temperature: 21.9&#176;C at 12:00:06 AM<br/>
         Max Wind: 4 knots from 351&#176; at 01:53:25 AM<br/>
         Rain: 0.0 mm<br/>
         Max Rain Rate: 0.0 mm/h<br/>
         Min Inside Humidity: 57% at 12:00:06 AM<br/>
-        Max Inside Humidity: 62% at 03:43:31 AM<br/>
+        Max Inside Humidity: 63% at 05:01:57 AM<br/>
       </p>
       ]]></content:encoded>
     </item>
     <item>
-      <title>Monthly summary as of 01/11/2026 04:55:00 AM</title>
+      <title>Monthly summary as of 01/11/2026 05:15:00 AM</title>
       <link></link>
       <description>
-        Min Inside Temperature: 17.9&#176;C at 01/11/2026 04:40:31 AM;
+        Min Inside Temperature: 17.6&#176;C at 01/11/2026 05:10:35 AM;
         Max Inside Temperature: 35.8&#176;C at 01/01/2026 04:29:32 PM;
         Max Wind: 16 knots from 146&#176; at 01/10/2026 02:15:53 PM;
         Rain: 0.0 mm;
         Max Rain Rate: 0.0 mm/h;
         Min Inside Humidity: 32% at 01/01/2026 04:18:32 PM;
-        Max Inside Humidity: 62% at 01/11/2026 03:43:31 AM;
+        Max Inside Humidity: 63% at 01/11/2026 05:01:57 AM;
       </description>
-      <pubDate>Sun, 11 Jan 2026 04:55:00 -03</pubDate>
+      <pubDate>Sun, 11 Jan 2026 05:15:00 -03</pubDate>
       <geo:lat>-34.68247396567271</geo:lat>
       <geo:long>-59.033162742123125</geo:long>
       <content:encoded><![CDATA[
       <p>
       Monthly summary as of 01 Jan 2026<br/>
-        Min Inside Temperature: 17.9&#176;C at 01/11/2026 04:40:31 AM<br/>
+        Min Inside Temperature: 17.6&#176;C at 01/11/2026 05:10:35 AM<br/>
         Max Inside Temperature: 35.8&#176;C at 01/01/2026 04:29:32 PM<br/>
         Max Wind: 16 knots from 146&#176; at 01/10/2026 02:15:53 PM<br/>
         Rain: 0.0 mm<br/>
         Max Rain Rate: 0.0 mm/h<br/>
         Min Inside Humidity: 32% at 01/01/2026 04:18:32 PM<br/>
-        Max Inside Humidity: 62% at 01/11/2026 03:43:31 AM<br/>
+        Max Inside Humidity: 63% at 01/11/2026 05:01:57 AM<br/>
       </p>
       ]]></content:encoded>
     </item>
     <item>
-      <title>Yearly summary as of 01/11/2026 04:55:00 AM</title>
+      <title>Yearly summary as of 01/11/2026 05:15:00 AM</title>
       <link></link>
       <description>
-        Min Inside Temperature: 17.9&#176;C at 01/11/2026 04:40:31 AM;
+        Min Inside Temperature: 17.6&#176;C at 01/11/2026 05:10:35 AM;
         Max Inside Temperature: 35.8&#176;C at 01/01/2026 04:29:32 PM;
         Max Wind: 16 knots from 146&#176; at 01/10/2026 02:15:53 PM;
         Rain: 0.0 mm;
         Max Rain Rate: 0.0 mm/h;
         Min Inside Humidity: 32% at 01/01/2026 04:18:32 PM;
-        Max Inside Humidity: 62% at 01/11/2026 03:43:31 AM;
+        Max Inside Humidity: 63% at 01/11/2026 05:01:57 AM;
       </description>
-      <pubDate>Sun, 11 Jan 2026 04:55:00 -03</pubDate>
+      <pubDate>Sun, 11 Jan 2026 05:15:00 -03</pubDate>
       <geo:lat>-34.68247396567271</geo:lat>
       <geo:long>-59.033162742123125</geo:long>
       <content:encoded><![CDATA[
       <p>
       Yearly summary as of 01 Jan 2026<br/>
-        Min Inside Temperature: 17.9&#176;C at 01/11/2026 04:40:31 AM<br/>
+        Min Inside Temperature: 17.6&#176;C at 01/11/2026 05:10:35 AM<br/>
         Max Inside Temperature: 35.8&#176;C at 01/01/2026 04:29:32 PM<br/>
         Max Wind: 16 knots from 146&#176; at 01/10/2026 02:15:53 PM<br/>
         Rain: 0.0 mm<br/>
         Max Rain Rate: 0.0 mm/h<br/>
         Min Inside Humidity: 32% at 01/01/2026 04:18:32 PM<br/>
-        Max Inside Humidity: 62% at 01/11/2026 03:43:31 AM<br/>
+        Max Inside Humidity: 63% at 01/11/2026 05:01:57 AM<br/>
       </p>
       ]]></content:encoded>
     </item>
