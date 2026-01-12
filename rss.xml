@@ -10,51 +10,51 @@
     <link></link>
     <description>Current conditions, and daily, monthly, and yearly summaries</description>
     <language>"en"</language>
-    <pubDate>Mon, 12 Jan 2026 06:55:00 -03</pubDate>
+    <pubDate>Mon, 12 Jan 2026 07:15:00 -03</pubDate>
 
-    <lastBuildDate>Mon, 12 Jan 2026 06:55:00 -03</lastBuildDate>
+    <lastBuildDate>Mon, 12 Jan 2026 07:15:00 -03</lastBuildDate>
     <docs>http://blogs.law.harvard.edu/tech/rss</docs>
     <generator>weewx 5.2.0</generator>
     <ttl>5.0 minutes</ttl>
 
     <item>
-      <title>Weather Conditions at 01/12/2026 06:55:00 AM</title>
+      <title>Weather Conditions at 01/12/2026 07:15:00 AM</title>
       <link></link>
       <description>
-        Inside Temperature: 22.9&#176;C;
-        Wind: 1 knots from 093&#176;;
+        Inside Temperature: 23.3&#176;C;
+        Wind: 2 knots from 064&#176;;
         Rain: 0.0 mm;
         Rain Rate: 0.0 mm/h;
-        Inside Humidity: 65%;
+        Inside Humidity: 64%;
       </description>
-      <pubDate>Mon, 12 Jan 2026 06:55:00 -03</pubDate>
+      <pubDate>Mon, 12 Jan 2026 07:15:00 -03</pubDate>
       <geo:lat>-34.68247396567271</geo:lat>
       <geo:long>-59.033162742123125</geo:long>
       <content:encoded><![CDATA[
       <p>
-      Time: 01/12/2026 06:55:00 AM<br/>
-        Inside Temperature: 22.9&#176;C<br/>
-        Wind: 1 knots from 093&#176;;
+      Time: 01/12/2026 07:15:00 AM<br/>
+        Inside Temperature: 23.3&#176;C<br/>
+        Wind: 2 knots from 064&#176;;
         Rain: 0.0 mm<br/>
         Rain Rate: 0.0 mm/h<br/>
-        Inside Humidity: 65%<br/>
+        Inside Humidity: 64%<br/>
       </p>
       ]]></content:encoded>
     </item>
 
     <item>
-      <title>Daily summary as of 01/12/2026 06:55:00 AM</title>
+      <title>Daily summary as of 01/12/2026 07:15:00 AM</title>
       <link></link>
       <description>
         Min Inside Temperature: 22.7&#176;C at 06:20:32 AM;
         Max Inside Temperature: 27.0&#176;C at 12:00:04 AM;
-        Max Wind: 5 knots from 089&#176; at 01:25:56 AM;
+        Max Wind: 6 knots from 079&#176; at 07:06:11 AM;
         Rain: 0.0 mm;
         Max Rain Rate: 0.0 mm/h;
         Min Inside Humidity: 53% at 12:00:04 AM;
         Max Inside Humidity: 65% at 05:59:35 AM;
       </description>
-      <pubDate>Mon, 12 Jan 2026 06:55:00 -03</pubDate>
+      <pubDate>Mon, 12 Jan 2026 07:15:00 -03</pubDate>
       <geo:lat>-34.68247396567271</geo:lat>
       <geo:long>-59.033162742123125</geo:long>
       <content:encoded><![CDATA[
@@ -62,7 +62,7 @@
       Daily summary as of 12 Jan 2026<br/>
         Min Inside Temperature: 22.7&#176;C at 06:20:32 AM<br/>
         Max Inside Temperature: 27.0&#176;C at 12:00:04 AM<br/>
-        Max Wind: 5 knots from 089&#176; at 01:25:56 AM<br/>
+        Max Wind: 6 knots from 079&#176; at 07:06:11 AM<br/>
         Rain: 0.0 mm<br/>
         Max Rain Rate: 0.0 mm/h<br/>
         Min Inside Humidity: 53% at 12:00:04 AM<br/>
@@ -71,7 +71,7 @@
       ]]></content:encoded>
     </item>
     <item>
-      <title>Monthly summary as of 01/12/2026 06:55:00 AM</title>
+      <title>Monthly summary as of 01/12/2026 07:15:00 AM</title>
       <link></link>
       <description>
         Min Inside Temperature: 17.3&#176;C at 01/11/2026 06:04:31 AM;
@@ -82,7 +82,7 @@
         Min Inside Humidity: 32% at 01/01/2026 04:18:32 PM;
         Max Inside Humidity: 65% at 01/12/2026 05:59:35 AM;
       </description>
-      <pubDate>Mon, 12 Jan 2026 06:55:00 -03</pubDate>
+      <pubDate>Mon, 12 Jan 2026 07:15:00 -03</pubDate>
       <geo:lat>-34.68247396567271</geo:lat>
       <geo:long>-59.033162742123125</geo:long>
       <content:encoded><![CDATA[
@@ -99,7 +99,7 @@
       ]]></content:encoded>
     </item>
     <item>
-      <title>Yearly summary as of 01/12/2026 06:55:00 AM</title>
+      <title>Yearly summary as of 01/12/2026 07:15:00 AM</title>
       <link></link>
       <description>
         Min Inside Temperature: 17.3&#176;C at 01/11/2026 06:04:31 AM;
@@ -110,7 +110,7 @@
         Min Inside Humidity: 32% at 01/01/2026 04:18:32 PM;
         Max Inside Humidity: 65% at 01/12/2026 05:59:35 AM;
       </description>
-      <pubDate>Mon, 12 Jan 2026 06:55:00 -03</pubDate>
+      <pubDate>Mon, 12 Jan 2026 07:15:00 -03</pubDate>
       <geo:lat>-34.68247396567271</geo:lat>
       <geo:long>-59.033162742123125</geo:long>
       <content:encoded><![CDATA[
