@@ -10,31 +10,31 @@
     <link></link>
     <description>Current conditions, and daily, monthly, and yearly summaries</description>
     <language>"en"</language>
-    <pubDate>Thu, 15 Jan 2026 11:15:00 -03</pubDate>
+    <pubDate>Thu, 15 Jan 2026 11:35:00 -03</pubDate>
 
-    <lastBuildDate>Thu, 15 Jan 2026 11:15:00 -03</lastBuildDate>
+    <lastBuildDate>Thu, 15 Jan 2026 11:35:00 -03</lastBuildDate>
     <docs>http://blogs.law.harvard.edu/tech/rss</docs>
     <generator>weewx 5.2.0</generator>
     <ttl>5.0 minutes</ttl>
 
     <item>
-      <title>Weather Conditions at 01/15/2026 11:15:00 AM</title>
+      <title>Weather Conditions at 01/15/2026 11:35:00 AM</title>
       <link></link>
       <description>
-        Inside Temperature: 30.2&#176;C;
-        Wind: 7 knots from 017&#176;;
+        Inside Temperature: 30.1&#176;C;
+        Wind: 8 knots from 017&#176;;
         Rain: 0.0 mm;
         Rain Rate: 0.0 mm/h;
         Inside Humidity: 55%;
       </description>
-      <pubDate>Thu, 15 Jan 2026 11:15:00 -03</pubDate>
+      <pubDate>Thu, 15 Jan 2026 11:35:00 -03</pubDate>
       <geo:lat>-34.68247396567271</geo:lat>
       <geo:long>-59.033162742123125</geo:long>
       <content:encoded><![CDATA[
       <p>
-      Time: 01/15/2026 11:15:00 AM<br/>
-        Inside Temperature: 30.2&#176;C<br/>
-        Wind: 7 knots from 017&#176;;
+      Time: 01/15/2026 11:35:00 AM<br/>
+        Inside Temperature: 30.1&#176;C<br/>
+        Wind: 8 knots from 017&#176;;
         Rain: 0.0 mm<br/>
         Rain Rate: 0.0 mm/h<br/>
         Inside Humidity: 55%<br/>
@@ -43,18 +43,18 @@
     </item>
 
     <item>
-      <title>Daily summary as of 01/15/2026 11:15:00 AM</title>
+      <title>Daily summary as of 01/15/2026 11:35:00 AM</title>
       <link></link>
       <description>
         Min Inside Temperature: 26.2&#176;C at 06:24:49 AM;
         Max Inside Temperature: 30.4&#176;C at 11:00:00 AM;
-        Max Wind: 18 knots from 003&#176; at 10:06:31 AM;
+        Max Wind: 19 knots from 000&#176; at 11:15:56 AM;
         Rain: 0.0 mm;
         Max Rain Rate: 0.0 mm/h;
         Min Inside Humidity: 55% at 10:29:00 AM;
         Max Inside Humidity: 67% at 06:15:32 AM;
       </description>
-      <pubDate>Thu, 15 Jan 2026 11:15:00 -03</pubDate>
+      <pubDate>Thu, 15 Jan 2026 11:35:00 -03</pubDate>
       <geo:lat>-34.68247396567271</geo:lat>
       <geo:long>-59.033162742123125</geo:long>
       <content:encoded><![CDATA[
@@ -62,7 +62,7 @@
       Daily summary as of 15 Jan 2026<br/>
         Min Inside Temperature: 26.2&#176;C at 06:24:49 AM<br/>
         Max Inside Temperature: 30.4&#176;C at 11:00:00 AM<br/>
-        Max Wind: 18 knots from 003&#176; at 10:06:31 AM<br/>
+        Max Wind: 19 knots from 000&#176; at 11:15:56 AM<br/>
         Rain: 0.0 mm<br/>
         Max Rain Rate: 0.0 mm/h<br/>
         Min Inside Humidity: 55% at 10:29:00 AM<br/>
@@ -71,7 +71,7 @@
       ]]></content:encoded>
     </item>
     <item>
-      <title>Monthly summary as of 01/15/2026 11:15:00 AM</title>
+      <title>Monthly summary as of 01/15/2026 11:35:00 AM</title>
       <link></link>
       <description>
         Min Inside Temperature: 17.3&#176;C at 01/11/2026 06:04:31 AM;
@@ -82,7 +82,7 @@
         Min Inside Humidity: 31% at 01/12/2026 05:45:30 PM;
         Max Inside Humidity: 69% at 01/14/2026 07:09:30 AM;
       </description>
-      <pubDate>Thu, 15 Jan 2026 11:15:00 -03</pubDate>
+      <pubDate>Thu, 15 Jan 2026 11:35:00 -03</pubDate>
       <geo:lat>-34.68247396567271</geo:lat>
       <geo:long>-59.033162742123125</geo:long>
       <content:encoded><![CDATA[
@@ -99,7 +99,7 @@
       ]]></content:encoded>
     </item>
     <item>
-      <title>Yearly summary as of 01/15/2026 11:15:00 AM</title>
+      <title>Yearly summary as of 01/15/2026 11:35:00 AM</title>
       <link></link>
       <description>
         Min Inside Temperature: 17.3&#176;C at 01/11/2026 06:04:31 AM;
@@ -110,7 +110,7 @@
         Min Inside Humidity: 31% at 01/12/2026 05:45:30 PM;
         Max Inside Humidity: 69% at 01/14/2026 07:09:30 AM;
       </description>
-      <pubDate>Thu, 15 Jan 2026 11:15:00 -03</pubDate>
+      <pubDate>Thu, 15 Jan 2026 11:35:00 -03</pubDate>
       <geo:lat>-34.68247396567271</geo:lat>
       <geo:long>-59.033162742123125</geo:long>
       <content:encoded><![CDATA[
