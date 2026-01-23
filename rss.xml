@@ -10,31 +10,31 @@
     <link></link>
     <description>Current conditions, and daily, monthly, and yearly summaries</description>
     <language>"en"</language>
-    <pubDate>Fri, 23 Jan 2026 08:35:00 -03</pubDate>
+    <pubDate>Fri, 23 Jan 2026 08:55:00 -03</pubDate>
 
-    <lastBuildDate>Fri, 23 Jan 2026 08:35:00 -03</lastBuildDate>
+    <lastBuildDate>Fri, 23 Jan 2026 08:55:00 -03</lastBuildDate>
     <docs>http://blogs.law.harvard.edu/tech/rss</docs>
     <generator>weewx 5.2.0</generator>
     <ttl>5.0 minutes</ttl>
 
     <item>
-      <title>Weather Conditions at 01/23/2026 08:35:00 AM</title>
+      <title>Weather Conditions at 01/23/2026 08:55:00 AM</title>
       <link></link>
       <description>
-        Inside Temperature: 24.2&#176;C;
-        Wind: 4 knots from 095&#176;;
+        Inside Temperature: 24.4&#176;C;
+        Wind: 4 knots from 106&#176;;
         Rain: 0.0 mm;
         Rain Rate: 0.0 mm/h;
         Inside Humidity: 64%;
       </description>
-      <pubDate>Fri, 23 Jan 2026 08:35:00 -03</pubDate>
+      <pubDate>Fri, 23 Jan 2026 08:55:00 -03</pubDate>
       <geo:lat>-34.68247396567271</geo:lat>
       <geo:long>-59.033162742123125</geo:long>
       <content:encoded><![CDATA[
       <p>
-      Time: 01/23/2026 08:35:00 AM<br/>
-        Inside Temperature: 24.2&#176;C<br/>
-        Wind: 4 knots from 095&#176;;
+      Time: 01/23/2026 08:55:00 AM<br/>
+        Inside Temperature: 24.4&#176;C<br/>
+        Wind: 4 knots from 106&#176;;
         Rain: 0.0 mm<br/>
         Rain Rate: 0.0 mm/h<br/>
         Inside Humidity: 64%<br/>
@@ -43,18 +43,18 @@
     </item>
 
     <item>
-      <title>Daily summary as of 01/23/2026 08:35:00 AM</title>
+      <title>Daily summary as of 01/23/2026 08:55:00 AM</title>
       <link></link>
       <description>
         Min Inside Temperature: 22.1&#176;C at 05:10:00 AM;
         Max Inside Temperature: 25.8&#176;C at 12:00:25 AM;
-        Max Wind: 9 knots from 093&#176; at 05:56:56 AM;
+        Max Wind: 10 knots from 117&#176; at 08:38:00 AM;
         Rain: 0.0 mm;
         Max Rain Rate: 0.0 mm/h;
         Min Inside Humidity: 51% at 12:00:25 AM;
         Max Inside Humidity: 66% at 06:16:56 AM;
       </description>
-      <pubDate>Fri, 23 Jan 2026 08:35:00 -03</pubDate>
+      <pubDate>Fri, 23 Jan 2026 08:55:00 -03</pubDate>
       <geo:lat>-34.68247396567271</geo:lat>
       <geo:long>-59.033162742123125</geo:long>
       <content:encoded><![CDATA[
@@ -62,7 +62,7 @@
       Daily summary as of 23 Jan 2026<br/>
         Min Inside Temperature: 22.1&#176;C at 05:10:00 AM<br/>
         Max Inside Temperature: 25.8&#176;C at 12:00:25 AM<br/>
-        Max Wind: 9 knots from 093&#176; at 05:56:56 AM<br/>
+        Max Wind: 10 knots from 117&#176; at 08:38:00 AM<br/>
         Rain: 0.0 mm<br/>
         Max Rain Rate: 0.0 mm/h<br/>
         Min Inside Humidity: 51% at 12:00:25 AM<br/>
@@ -71,7 +71,7 @@
       ]]></content:encoded>
     </item>
     <item>
-      <title>Monthly summary as of 01/23/2026 08:35:00 AM</title>
+      <title>Monthly summary as of 01/23/2026 08:55:00 AM</title>
       <link></link>
       <description>
         Min Inside Temperature: 17.3&#176;C at 01/11/2026 06:04:31 AM;
@@ -82,7 +82,7 @@
         Min Inside Humidity: 30% at 01/18/2026 04:32:31 PM;
         Max Inside Humidity: 75% at 01/16/2026 02:36:30 AM;
       </description>
-      <pubDate>Fri, 23 Jan 2026 08:35:00 -03</pubDate>
+      <pubDate>Fri, 23 Jan 2026 08:55:00 -03</pubDate>
       <geo:lat>-34.68247396567271</geo:lat>
       <geo:long>-59.033162742123125</geo:long>
       <content:encoded><![CDATA[
@@ -99,7 +99,7 @@
       ]]></content:encoded>
     </item>
     <item>
-      <title>Yearly summary as of 01/23/2026 08:35:00 AM</title>
+      <title>Yearly summary as of 01/23/2026 08:55:00 AM</title>
       <link></link>
       <description>
         Min Inside Temperature: 17.3&#176;C at 01/11/2026 06:04:31 AM;
@@ -110,7 +110,7 @@
         Min Inside Humidity: 30% at 01/18/2026 04:32:31 PM;
         Max Inside Humidity: 75% at 01/16/2026 02:36:30 AM;
       </description>
-      <pubDate>Fri, 23 Jan 2026 08:35:00 -03</pubDate>
+      <pubDate>Fri, 23 Jan 2026 08:55:00 -03</pubDate>
       <geo:lat>-34.68247396567271</geo:lat>
       <geo:long>-59.033162742123125</geo:long>
       <content:encoded><![CDATA[
