@@ -10,40 +10,40 @@
     <link></link>
     <description>Current conditions, and daily, monthly, and yearly summaries</description>
     <language>"en"</language>
-    <pubDate>Wed, 28 Jan 2026 11:15:00 -03</pubDate>
+    <pubDate>Wed, 28 Jan 2026 11:35:00 -03</pubDate>
 
-    <lastBuildDate>Wed, 28 Jan 2026 11:15:00 -03</lastBuildDate>
+    <lastBuildDate>Wed, 28 Jan 2026 11:35:00 -03</lastBuildDate>
     <docs>http://blogs.law.harvard.edu/tech/rss</docs>
     <generator>weewx 5.2.0</generator>
     <ttl>5.0 minutes</ttl>
 
     <item>
-      <title>Weather Conditions at 01/28/2026 11:15:00 AM</title>
+      <title>Weather Conditions at 01/28/2026 11:35:00 AM</title>
       <link></link>
       <description>
-        Inside Temperature: 26.7&#176;C;
-        Wind: 6 knots from 237&#176;;
+        Inside Temperature: 26.9&#176;C;
+        Wind: 7 knots from 238&#176;;
         Rain: 0.0 mm;
         Rain Rate: 0.0 mm/h;
-        Inside Humidity: 59%;
+        Inside Humidity: 57%;
       </description>
-      <pubDate>Wed, 28 Jan 2026 11:15:00 -03</pubDate>
+      <pubDate>Wed, 28 Jan 2026 11:35:00 -03</pubDate>
       <geo:lat>-34.68247396567271</geo:lat>
       <geo:long>-59.033162742123125</geo:long>
       <content:encoded><![CDATA[
       <p>
-      Time: 01/28/2026 11:15:00 AM<br/>
-        Inside Temperature: 26.7&#176;C<br/>
-        Wind: 6 knots from 237&#176;;
+      Time: 01/28/2026 11:35:00 AM<br/>
+        Inside Temperature: 26.9&#176;C<br/>
+        Wind: 7 knots from 238&#176;;
         Rain: 0.0 mm<br/>
         Rain Rate: 0.0 mm/h<br/>
-        Inside Humidity: 59%<br/>
+        Inside Humidity: 57%<br/>
       </p>
       ]]></content:encoded>
     </item>
 
     <item>
-      <title>Daily summary as of 01/28/2026 11:15:00 AM</title>
+      <title>Daily summary as of 01/28/2026 11:35:00 AM</title>
       <link></link>
       <description>
         Min Inside Temperature: 22.3&#176;C at 06:28:32 AM;
@@ -51,10 +51,10 @@
         Max Wind: 13 knots from 233&#176; at 10:38:19 AM;
         Rain: 0.0 mm;
         Max Rain Rate: 0.0 mm/h;
-        Min Inside Humidity: 59% at 11:07:32 AM;
+        Min Inside Humidity: 56% at 11:32:59 AM;
         Max Inside Humidity: 68% at 07:27:45 AM;
       </description>
-      <pubDate>Wed, 28 Jan 2026 11:15:00 -03</pubDate>
+      <pubDate>Wed, 28 Jan 2026 11:35:00 -03</pubDate>
       <geo:lat>-34.68247396567271</geo:lat>
       <geo:long>-59.033162742123125</geo:long>
       <content:encoded><![CDATA[
@@ -65,13 +65,13 @@
         Max Wind: 13 knots from 233&#176; at 10:38:19 AM<br/>
         Rain: 0.0 mm<br/>
         Max Rain Rate: 0.0 mm/h<br/>
-        Min Inside Humidity: 59% at 11:07:32 AM<br/>
+        Min Inside Humidity: 56% at 11:32:59 AM<br/>
         Max Inside Humidity: 68% at 07:27:45 AM<br/>
       </p>
       ]]></content:encoded>
     </item>
     <item>
-      <title>Monthly summary as of 01/28/2026 11:15:00 AM</title>
+      <title>Monthly summary as of 01/28/2026 11:35:00 AM</title>
       <link></link>
       <description>
         Min Inside Temperature: 17.3&#176;C at 01/11/2026 06:04:31 AM;
@@ -82,7 +82,7 @@
         Min Inside Humidity: 30% at 01/18/2026 04:32:31 PM;
         Max Inside Humidity: 82% at 01/27/2026 08:33:31 AM;
       </description>
-      <pubDate>Wed, 28 Jan 2026 11:15:00 -03</pubDate>
+      <pubDate>Wed, 28 Jan 2026 11:35:00 -03</pubDate>
       <geo:lat>-34.68247396567271</geo:lat>
       <geo:long>-59.033162742123125</geo:long>
       <content:encoded><![CDATA[
@@ -99,7 +99,7 @@
       ]]></content:encoded>
     </item>
     <item>
-      <title>Yearly summary as of 01/28/2026 11:15:00 AM</title>
+      <title>Yearly summary as of 01/28/2026 11:35:00 AM</title>
       <link></link>
       <description>
         Min Inside Temperature: 17.3&#176;C at 01/11/2026 06:04:31 AM;
@@ -110,7 +110,7 @@
         Min Inside Humidity: 30% at 01/18/2026 04:32:31 PM;
         Max Inside Humidity: 82% at 01/27/2026 08:33:31 AM;
       </description>
-      <pubDate>Wed, 28 Jan 2026 11:15:00 -03</pubDate>
+      <pubDate>Wed, 28 Jan 2026 11:35:00 -03</pubDate>
       <geo:lat>-34.68247396567271</geo:lat>
       <geo:long>-59.033162742123125</geo:long>
       <content:encoded><![CDATA[
