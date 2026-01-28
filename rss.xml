@@ -10,31 +10,31 @@
     <link></link>
     <description>Current conditions, and daily, monthly, and yearly summaries</description>
     <language>"en"</language>
-    <pubDate>Wed, 28 Jan 2026 16:15:00 -03</pubDate>
+    <pubDate>Wed, 28 Jan 2026 16:35:00 -03</pubDate>
 
-    <lastBuildDate>Wed, 28 Jan 2026 16:15:00 -03</lastBuildDate>
+    <lastBuildDate>Wed, 28 Jan 2026 16:35:00 -03</lastBuildDate>
     <docs>http://blogs.law.harvard.edu/tech/rss</docs>
     <generator>weewx 5.2.0</generator>
     <ttl>5.0 minutes</ttl>
 
     <item>
-      <title>Weather Conditions at 01/28/2026 04:15:00 PM</title>
+      <title>Weather Conditions at 01/28/2026 04:35:00 PM</title>
       <link></link>
       <description>
-        Inside Temperature: 33.0&#176;C;
-        Wind: 6 knots from 198&#176;;
+        Inside Temperature: 32.0&#176;C;
+        Wind: 6 knots from 196&#176;;
         Rain: 0.0 mm;
         Rain Rate: 0.0 mm/h;
         Inside Humidity: 35%;
       </description>
-      <pubDate>Wed, 28 Jan 2026 16:15:00 -03</pubDate>
+      <pubDate>Wed, 28 Jan 2026 16:35:00 -03</pubDate>
       <geo:lat>-34.68247396567271</geo:lat>
       <geo:long>-59.033162742123125</geo:long>
       <content:encoded><![CDATA[
       <p>
-      Time: 01/28/2026 04:15:00 PM<br/>
-        Inside Temperature: 33.0&#176;C<br/>
-        Wind: 6 knots from 198&#176;;
+      Time: 01/28/2026 04:35:00 PM<br/>
+        Inside Temperature: 32.0&#176;C<br/>
+        Wind: 6 knots from 196&#176;;
         Rain: 0.0 mm<br/>
         Rain Rate: 0.0 mm/h<br/>
         Inside Humidity: 35%<br/>
@@ -43,7 +43,7 @@
     </item>
 
     <item>
-      <title>Daily summary as of 01/28/2026 04:15:00 PM</title>
+      <title>Daily summary as of 01/28/2026 04:35:00 PM</title>
       <link></link>
       <description>
         Min Inside Temperature: 22.3&#176;C at 06:28:32 AM;
@@ -51,10 +51,10 @@
         Max Wind: 15 knots from 236&#176; at 01:14:03 PM;
         Rain: 0.0 mm;
         Max Rain Rate: 0.0 mm/h;
-        Min Inside Humidity: 35% at 02:58:03 PM;
+        Min Inside Humidity: 34% at 04:15:44 PM;
         Max Inside Humidity: 68% at 07:27:45 AM;
       </description>
-      <pubDate>Wed, 28 Jan 2026 16:15:00 -03</pubDate>
+      <pubDate>Wed, 28 Jan 2026 16:35:00 -03</pubDate>
       <geo:lat>-34.68247396567271</geo:lat>
       <geo:long>-59.033162742123125</geo:long>
       <content:encoded><![CDATA[
@@ -65,13 +65,13 @@
         Max Wind: 15 knots from 236&#176; at 01:14:03 PM<br/>
         Rain: 0.0 mm<br/>
         Max Rain Rate: 0.0 mm/h<br/>
-        Min Inside Humidity: 35% at 02:58:03 PM<br/>
+        Min Inside Humidity: 34% at 04:15:44 PM<br/>
         Max Inside Humidity: 68% at 07:27:45 AM<br/>
       </p>
       ]]></content:encoded>
     </item>
     <item>
-      <title>Monthly summary as of 01/28/2026 04:15:00 PM</title>
+      <title>Monthly summary as of 01/28/2026 04:35:00 PM</title>
       <link></link>
       <description>
         Min Inside Temperature: 17.3&#176;C at 01/11/2026 06:04:31 AM;
@@ -82,7 +82,7 @@
         Min Inside Humidity: 30% at 01/18/2026 04:32:31 PM;
         Max Inside Humidity: 82% at 01/27/2026 08:33:31 AM;
       </description>
-      <pubDate>Wed, 28 Jan 2026 16:15:00 -03</pubDate>
+      <pubDate>Wed, 28 Jan 2026 16:35:00 -03</pubDate>
       <geo:lat>-34.68247396567271</geo:lat>
       <geo:long>-59.033162742123125</geo:long>
       <content:encoded><![CDATA[
@@ -99,7 +99,7 @@
       ]]></content:encoded>
     </item>
     <item>
-      <title>Yearly summary as of 01/28/2026 04:15:00 PM</title>
+      <title>Yearly summary as of 01/28/2026 04:35:00 PM</title>
       <link></link>
       <description>
         Min Inside Temperature: 17.3&#176;C at 01/11/2026 06:04:31 AM;
@@ -110,7 +110,7 @@
         Min Inside Humidity: 30% at 01/18/2026 04:32:31 PM;
         Max Inside Humidity: 82% at 01/27/2026 08:33:31 AM;
       </description>
-      <pubDate>Wed, 28 Jan 2026 16:15:00 -03</pubDate>
+      <pubDate>Wed, 28 Jan 2026 16:35:00 -03</pubDate>
       <geo:lat>-34.68247396567271</geo:lat>
       <geo:long>-59.033162742123125</geo:long>
       <content:encoded><![CDATA[
