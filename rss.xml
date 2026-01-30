@@ -10,31 +10,31 @@
     <link></link>
     <description>Current conditions, and daily, monthly, and yearly summaries</description>
     <language>"en"</language>
-    <pubDate>Thu, 29 Jan 2026 23:15:00 -03</pubDate>
+    <pubDate>Thu, 29 Jan 2026 23:35:00 -03</pubDate>
 
-    <lastBuildDate>Thu, 29 Jan 2026 23:15:00 -03</lastBuildDate>
+    <lastBuildDate>Thu, 29 Jan 2026 23:35:00 -03</lastBuildDate>
     <docs>http://blogs.law.harvard.edu/tech/rss</docs>
     <generator>weewx 5.2.0</generator>
     <ttl>5.0 minutes</ttl>
 
     <item>
-      <title>Weather Conditions at 01/29/2026 11:15:00 PM</title>
+      <title>Weather Conditions at 01/29/2026 11:35:00 PM</title>
       <link></link>
       <description>
-        Inside Temperature: 27.5&#176;C;
-        Wind: 2 knots from 139&#176;;
+        Inside Temperature: 27.2&#176;C;
+        Wind: 2 knots from 155&#176;;
         Rain: 0.0 mm;
         Rain Rate: 0.0 mm/h;
         Inside Humidity: 56%;
       </description>
-      <pubDate>Thu, 29 Jan 2026 23:15:00 -03</pubDate>
+      <pubDate>Thu, 29 Jan 2026 23:35:00 -03</pubDate>
       <geo:lat>-34.68247396567271</geo:lat>
       <geo:long>-59.033162742123125</geo:long>
       <content:encoded><![CDATA[
       <p>
-      Time: 01/29/2026 11:15:00 PM<br/>
-        Inside Temperature: 27.5&#176;C<br/>
-        Wind: 2 knots from 139&#176;;
+      Time: 01/29/2026 11:35:00 PM<br/>
+        Inside Temperature: 27.2&#176;C<br/>
+        Wind: 2 knots from 155&#176;;
         Rain: 0.0 mm<br/>
         Rain Rate: 0.0 mm/h<br/>
         Inside Humidity: 56%<br/>
@@ -43,7 +43,7 @@
     </item>
 
     <item>
-      <title>Daily summary as of 01/29/2026 11:15:00 PM</title>
+      <title>Daily summary as of 01/29/2026 11:35:00 PM</title>
       <link></link>
       <description>
         Min Inside Temperature: 20.3&#176;C at 06:29:34 AM;
@@ -54,7 +54,7 @@
         Min Inside Humidity: 39% at 04:14:31 PM;
         Max Inside Humidity: 69% at 08:46:01 AM;
       </description>
-      <pubDate>Thu, 29 Jan 2026 23:15:00 -03</pubDate>
+      <pubDate>Thu, 29 Jan 2026 23:35:00 -03</pubDate>
       <geo:lat>-34.68247396567271</geo:lat>
       <geo:long>-59.033162742123125</geo:long>
       <content:encoded><![CDATA[
@@ -71,7 +71,7 @@
       ]]></content:encoded>
     </item>
     <item>
-      <title>Monthly summary as of 01/29/2026 11:15:00 PM</title>
+      <title>Monthly summary as of 01/29/2026 11:35:00 PM</title>
       <link></link>
       <description>
         Min Inside Temperature: 17.3&#176;C at 01/11/2026 06:04:31 AM;
@@ -82,7 +82,7 @@
         Min Inside Humidity: 30% at 01/18/2026 04:32:31 PM;
         Max Inside Humidity: 82% at 01/27/2026 08:33:31 AM;
       </description>
-      <pubDate>Thu, 29 Jan 2026 23:15:00 -03</pubDate>
+      <pubDate>Thu, 29 Jan 2026 23:35:00 -03</pubDate>
       <geo:lat>-34.68247396567271</geo:lat>
       <geo:long>-59.033162742123125</geo:long>
       <content:encoded><![CDATA[
@@ -99,7 +99,7 @@
       ]]></content:encoded>
     </item>
     <item>
-      <title>Yearly summary as of 01/29/2026 11:15:00 PM</title>
+      <title>Yearly summary as of 01/29/2026 11:35:00 PM</title>
       <link></link>
       <description>
         Min Inside Temperature: 17.3&#176;C at 01/11/2026 06:04:31 AM;
@@ -110,7 +110,7 @@
         Min Inside Humidity: 30% at 01/18/2026 04:32:31 PM;
         Max Inside Humidity: 82% at 01/27/2026 08:33:31 AM;
       </description>
-      <pubDate>Thu, 29 Jan 2026 23:15:00 -03</pubDate>
+      <pubDate>Thu, 29 Jan 2026 23:35:00 -03</pubDate>
       <geo:lat>-34.68247396567271</geo:lat>
       <geo:long>-59.033162742123125</geo:long>
       <content:encoded><![CDATA[
