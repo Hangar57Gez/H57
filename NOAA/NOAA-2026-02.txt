@@ -12,7 +12,7 @@ ELEV: 17 meters    LAT: 34-40.95 S    LONG: 059-01.99 W
 DAY   TEMP   HIGH   TIME    LOW   TIME   DAYS   DAYS   RAIN  SPEED   HIGH   TIME    DIR
 ---------------------------------------------------------------------------------------
  01    N/A    N/A N/A    N/A N/A    0.0    0.0    0.0    1.8   15.9  14:01    165
- 02    N/A    N/A N/A    N/A N/A    0.0    0.0    0.0    1.0    6.0  05:46     82
+ 02    N/A    N/A N/A    N/A N/A    0.0    0.0    0.0    1.0    6.0  05:46     81
  03
  04
  05
@@ -40,5 +40,5 @@ DAY   TEMP   HIGH   TIME    LOW   TIME   DAYS   DAYS   RAIN  SPEED   HIGH   TIME
  27
  28
 ---------------------------------------------------------------------------------------
-       N/A    N/A    N/A    N/A    N/A    0.0    0.0    0.0    1.6   15.9     01    153
+       N/A    N/A    N/A    N/A    N/A    0.0    0.0    0.0    1.6   15.9     01    151
     
