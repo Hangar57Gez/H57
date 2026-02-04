@@ -10,31 +10,31 @@
     <link></link>
     <description>Current conditions, and daily, monthly, and yearly summaries</description>
     <language>"en"</language>
-    <pubDate>Tue, 03 Feb 2026 23:55:00 -03</pubDate>
+    <pubDate>Wed, 04 Feb 2026 00:15:00 -03</pubDate>
 
-    <lastBuildDate>Tue, 03 Feb 2026 23:55:00 -03</lastBuildDate>
+    <lastBuildDate>Wed, 04 Feb 2026 00:15:00 -03</lastBuildDate>
     <docs>http://blogs.law.harvard.edu/tech/rss</docs>
     <generator>weewx 5.2.0</generator>
     <ttl>5.0 minutes</ttl>
 
     <item>
-      <title>Weather Conditions at 02/03/2026 11:55:00 PM</title>
+      <title>Weather Conditions at 02/04/2026 12:15:00 AM</title>
       <link></link>
       <description>
-        Inside Temperature: 26.3&#176;C;
-        Wind: 0 knots from 154&#176;;
+        Inside Temperature: 26.2&#176;C;
+        Wind: 1 knots from 268&#176;;
         Rain: 0.0 mm;
         Rain Rate: 0.0 mm/h;
         Inside Humidity: 58%;
       </description>
-      <pubDate>Tue, 03 Feb 2026 23:55:00 -03</pubDate>
+      <pubDate>Wed, 04 Feb 2026 00:15:00 -03</pubDate>
       <geo:lat>-34.68247396567271</geo:lat>
       <geo:long>-59.033162742123125</geo:long>
       <content:encoded><![CDATA[
       <p>
-      Time: 02/03/2026 11:55:00 PM<br/>
-        Inside Temperature: 26.3&#176;C<br/>
-        Wind: 0 knots from 154&#176;;
+      Time: 02/04/2026 12:15:00 AM<br/>
+        Inside Temperature: 26.2&#176;C<br/>
+        Wind: 1 knots from 268&#176;;
         Rain: 0.0 mm<br/>
         Rain Rate: 0.0 mm/h<br/>
         Inside Humidity: 58%<br/>
@@ -43,35 +43,35 @@
     </item>
 
     <item>
-      <title>Daily summary as of 02/03/2026 11:55:00 PM</title>
+      <title>Daily summary as of 02/04/2026 12:15:00 AM</title>
       <link></link>
       <description>
-        Min Inside Temperature: 24.5&#176;C at 06:18:32 AM;
-        Max Inside Temperature: 34.0&#176;C at 01:18:32 PM;
-        Max Wind: 23 knots from 343&#176; at 02:39:56 PM;
-        Rain: 3.3 mm;
-        Max Rain Rate: 19.8 mm/h;
-        Min Inside Humidity: 41% at 06:14:31 PM;
-        Max Inside Humidity: 60% at 06:03:56 AM;
+        Min Inside Temperature: 26.2&#176;C at 12:00:59 AM;
+        Max Inside Temperature: 26.3&#176;C at 12:00:27 AM;
+        Max Wind: 3 knots from 130&#176; at 12:04:59 AM;
+        Rain: 0.0 mm;
+        Max Rain Rate: 0.0 mm/h;
+        Min Inside Humidity: 58% at 12:00:27 AM;
+        Max Inside Humidity: 58% at 12:00:27 AM;
       </description>
-      <pubDate>Tue, 03 Feb 2026 23:55:00 -03</pubDate>
+      <pubDate>Wed, 04 Feb 2026 00:15:00 -03</pubDate>
       <geo:lat>-34.68247396567271</geo:lat>
       <geo:long>-59.033162742123125</geo:long>
       <content:encoded><![CDATA[
       <p>
-      Daily summary as of 03 Feb 2026<br/>
-        Min Inside Temperature: 24.5&#176;C at 06:18:32 AM<br/>
-        Max Inside Temperature: 34.0&#176;C at 01:18:32 PM<br/>
-        Max Wind: 23 knots from 343&#176; at 02:39:56 PM<br/>
-        Rain: 3.3 mm<br/>
-        Max Rain Rate: 19.8 mm/h<br/>
-        Min Inside Humidity: 41% at 06:14:31 PM<br/>
-        Max Inside Humidity: 60% at 06:03:56 AM<br/>
+      Daily summary as of 04 Feb 2026<br/>
+        Min Inside Temperature: 26.2&#176;C at 12:00:59 AM<br/>
+        Max Inside Temperature: 26.3&#176;C at 12:00:27 AM<br/>
+        Max Wind: 3 knots from 130&#176; at 12:04:59 AM<br/>
+        Rain: 0.0 mm<br/>
+        Max Rain Rate: 0.0 mm/h<br/>
+        Min Inside Humidity: 58% at 12:00:27 AM<br/>
+        Max Inside Humidity: 58% at 12:00:27 AM<br/>
       </p>
       ]]></content:encoded>
     </item>
     <item>
-      <title>Monthly summary as of 02/03/2026 11:55:00 PM</title>
+      <title>Monthly summary as of 02/04/2026 12:15:00 AM</title>
       <link></link>
       <description>
         Min Inside Temperature: 21.2&#176;C at 02/01/2026 06:26:31 AM;
@@ -82,7 +82,7 @@
         Min Inside Humidity: 37% at 02/01/2026 05:54:57 PM;
         Max Inside Humidity: 67% at 02/01/2026 07:39:34 AM;
       </description>
-      <pubDate>Tue, 03 Feb 2026 23:55:00 -03</pubDate>
+      <pubDate>Wed, 04 Feb 2026 00:15:00 -03</pubDate>
       <geo:lat>-34.68247396567271</geo:lat>
       <geo:long>-59.033162742123125</geo:long>
       <content:encoded><![CDATA[
@@ -99,7 +99,7 @@
       ]]></content:encoded>
     </item>
     <item>
-      <title>Yearly summary as of 02/03/2026 11:55:00 PM</title>
+      <title>Yearly summary as of 02/04/2026 12:15:00 AM</title>
       <link></link>
       <description>
         Min Inside Temperature: 17.3&#176;C at 01/11/2026 06:04:31 AM;
@@ -110,7 +110,7 @@
         Min Inside Humidity: 30% at 01/18/2026 04:32:31 PM;
         Max Inside Humidity: 82% at 01/27/2026 08:33:31 AM;
       </description>
-      <pubDate>Tue, 03 Feb 2026 23:55:00 -03</pubDate>
+      <pubDate>Wed, 04 Feb 2026 00:15:00 -03</pubDate>
       <geo:lat>-34.68247396567271</geo:lat>
       <geo:long>-59.033162742123125</geo:long>
       <content:encoded><![CDATA[
