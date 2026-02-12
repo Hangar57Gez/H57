@@ -10,43 +10,43 @@
     <link></link>
     <description>Current conditions, and daily, monthly, and yearly summaries</description>
     <language>"en"</language>
-    <pubDate>Thu, 12 Feb 2026 01:35:00 -03</pubDate>
+    <pubDate>Thu, 12 Feb 2026 01:55:00 -03</pubDate>
 
-    <lastBuildDate>Thu, 12 Feb 2026 01:35:00 -03</lastBuildDate>
+    <lastBuildDate>Thu, 12 Feb 2026 01:55:00 -03</lastBuildDate>
     <docs>http://blogs.law.harvard.edu/tech/rss</docs>
     <generator>weewx 5.2.0</generator>
     <ttl>5.0 minutes</ttl>
 
     <item>
-      <title>Weather Conditions at 02/12/2026 01:35:00 AM</title>
+      <title>Weather Conditions at 02/12/2026 01:55:00 AM</title>
       <link></link>
       <description>
         Inside Temperature: 24.4&#176;C;
-        Wind: 3 knots from 184&#176;;
+        Wind: 1 knots from 240&#176;;
         Rain: 0.0 mm;
         Rain Rate: 0.0 mm/h;
-        Inside Humidity: 33%;
+        Inside Humidity: 32%;
       </description>
-      <pubDate>Thu, 12 Feb 2026 01:35:00 -03</pubDate>
+      <pubDate>Thu, 12 Feb 2026 01:55:00 -03</pubDate>
       <geo:lat>-34.68247396567271</geo:lat>
       <geo:long>-59.033162742123125</geo:long>
       <content:encoded><![CDATA[
       <p>
-      Time: 02/12/2026 01:35:00 AM<br/>
+      Time: 02/12/2026 01:55:00 AM<br/>
         Inside Temperature: 24.4&#176;C<br/>
-        Wind: 3 knots from 184&#176;;
+        Wind: 1 knots from 240&#176;;
         Rain: 0.0 mm<br/>
         Rain Rate: 0.0 mm/h<br/>
-        Inside Humidity: 33%<br/>
+        Inside Humidity: 32%<br/>
       </p>
       ]]></content:encoded>
     </item>
 
     <item>
-      <title>Daily summary as of 02/12/2026 01:35:00 AM</title>
+      <title>Daily summary as of 02/12/2026 01:55:00 AM</title>
       <link></link>
       <description>
-        Min Inside Temperature: 24.4&#176;C at 01:13:48 AM;
+        Min Inside Temperature: 24.4&#176;C at 01:55:00 AM;
         Max Inside Temperature: 25.1&#176;C at 12:05:00 AM;
         Max Wind: 7 knots from 157&#176; at 01:16:44 AM;
         Rain: 0.0 mm;
@@ -54,13 +54,13 @@
         Min Inside Humidity: 32% at 12:00:24 AM;
         Max Inside Humidity: 33% at 12:58:36 AM;
       </description>
-      <pubDate>Thu, 12 Feb 2026 01:35:00 -03</pubDate>
+      <pubDate>Thu, 12 Feb 2026 01:55:00 -03</pubDate>
       <geo:lat>-34.68247396567271</geo:lat>
       <geo:long>-59.033162742123125</geo:long>
       <content:encoded><![CDATA[
       <p>
       Daily summary as of 12 Feb 2026<br/>
-        Min Inside Temperature: 24.4&#176;C at 01:13:48 AM<br/>
+        Min Inside Temperature: 24.4&#176;C at 01:55:00 AM<br/>
         Max Inside Temperature: 25.1&#176;C at 12:05:00 AM<br/>
         Max Wind: 7 knots from 157&#176; at 01:16:44 AM<br/>
         Rain: 0.0 mm<br/>
@@ -71,7 +71,7 @@
       ]]></content:encoded>
     </item>
     <item>
-      <title>Monthly summary as of 02/12/2026 01:35:00 AM</title>
+      <title>Monthly summary as of 02/12/2026 01:55:00 AM</title>
       <link></link>
       <description>
         Min Inside Temperature: 17.6&#176;C at 02/07/2026 06:37:43 AM;
@@ -82,7 +82,7 @@
         Min Inside Humidity: 23% at 02/11/2026 04:46:15 PM;
         Max Inside Humidity: 77% at 02/05/2026 05:59:31 AM;
       </description>
-      <pubDate>Thu, 12 Feb 2026 01:35:00 -03</pubDate>
+      <pubDate>Thu, 12 Feb 2026 01:55:00 -03</pubDate>
       <geo:lat>-34.68247396567271</geo:lat>
       <geo:long>-59.033162742123125</geo:long>
       <content:encoded><![CDATA[
@@ -99,7 +99,7 @@
       ]]></content:encoded>
     </item>
     <item>
-      <title>Yearly summary as of 02/12/2026 01:35:00 AM</title>
+      <title>Yearly summary as of 02/12/2026 01:55:00 AM</title>
       <link></link>
       <description>
         Min Inside Temperature: 17.3&#176;C at 01/11/2026 06:04:31 AM;
@@ -110,7 +110,7 @@
         Min Inside Humidity: 23% at 02/11/2026 04:46:15 PM;
         Max Inside Humidity: 82% at 01/27/2026 08:33:31 AM;
       </description>
-      <pubDate>Thu, 12 Feb 2026 01:35:00 -03</pubDate>
+      <pubDate>Thu, 12 Feb 2026 01:55:00 -03</pubDate>
       <geo:lat>-34.68247396567271</geo:lat>
       <geo:long>-59.033162742123125</geo:long>
       <content:encoded><![CDATA[
