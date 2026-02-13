@@ -10,31 +10,31 @@
     <link></link>
     <description>Current conditions, and daily, monthly, and yearly summaries</description>
     <language>"en"</language>
-    <pubDate>Fri, 13 Feb 2026 09:55:00 -03</pubDate>
+    <pubDate>Fri, 13 Feb 2026 10:15:00 -03</pubDate>
 
-    <lastBuildDate>Fri, 13 Feb 2026 09:55:00 -03</lastBuildDate>
+    <lastBuildDate>Fri, 13 Feb 2026 10:15:00 -03</lastBuildDate>
     <docs>http://blogs.law.harvard.edu/tech/rss</docs>
     <generator>weewx 5.2.0</generator>
     <ttl>5.0 minutes</ttl>
 
     <item>
-      <title>Weather Conditions at 02/13/2026 09:55:00 AM</title>
+      <title>Weather Conditions at 02/13/2026 10:15:00 AM</title>
       <link></link>
       <description>
-        Inside Temperature: 22.8&#176;C;
-        Wind: 7 knots from 164&#176;;
+        Inside Temperature: 23.1&#176;C;
+        Wind: 6 knots from 146&#176;;
         Rain: 0.0 mm;
         Rain Rate: 0.0 mm/h;
         Inside Humidity: 48%;
       </description>
-      <pubDate>Fri, 13 Feb 2026 09:55:00 -03</pubDate>
+      <pubDate>Fri, 13 Feb 2026 10:15:00 -03</pubDate>
       <geo:lat>-34.68247396567271</geo:lat>
       <geo:long>-59.033162742123125</geo:long>
       <content:encoded><![CDATA[
       <p>
-      Time: 02/13/2026 09:55:00 AM<br/>
-        Inside Temperature: 22.8&#176;C<br/>
-        Wind: 7 knots from 164&#176;;
+      Time: 02/13/2026 10:15:00 AM<br/>
+        Inside Temperature: 23.1&#176;C<br/>
+        Wind: 6 knots from 146&#176;;
         Rain: 0.0 mm<br/>
         Rain Rate: 0.0 mm/h<br/>
         Inside Humidity: 48%<br/>
@@ -43,7 +43,7 @@
     </item>
 
     <item>
-      <title>Daily summary as of 02/13/2026 09:55:00 AM</title>
+      <title>Daily summary as of 02/13/2026 10:15:00 AM</title>
       <link></link>
       <description>
         Min Inside Temperature: 19.1&#176;C at 07:01:45 AM;
@@ -54,7 +54,7 @@
         Min Inside Humidity: 39% at 12:00:04 AM;
         Max Inside Humidity: 52% at 06:59:32 AM;
       </description>
-      <pubDate>Fri, 13 Feb 2026 09:55:00 -03</pubDate>
+      <pubDate>Fri, 13 Feb 2026 10:15:00 -03</pubDate>
       <geo:lat>-34.68247396567271</geo:lat>
       <geo:long>-59.033162742123125</geo:long>
       <content:encoded><![CDATA[
@@ -71,7 +71,7 @@
       ]]></content:encoded>
     </item>
     <item>
-      <title>Monthly summary as of 02/13/2026 09:55:00 AM</title>
+      <title>Monthly summary as of 02/13/2026 10:15:00 AM</title>
       <link></link>
       <description>
         Min Inside Temperature: 17.6&#176;C at 02/07/2026 06:37:43 AM;
@@ -82,7 +82,7 @@
         Min Inside Humidity: 23% at 02/11/2026 04:46:15 PM;
         Max Inside Humidity: 77% at 02/05/2026 05:59:31 AM;
       </description>
-      <pubDate>Fri, 13 Feb 2026 09:55:00 -03</pubDate>
+      <pubDate>Fri, 13 Feb 2026 10:15:00 -03</pubDate>
       <geo:lat>-34.68247396567271</geo:lat>
       <geo:long>-59.033162742123125</geo:long>
       <content:encoded><![CDATA[
@@ -99,7 +99,7 @@
       ]]></content:encoded>
     </item>
     <item>
-      <title>Yearly summary as of 02/13/2026 09:55:00 AM</title>
+      <title>Yearly summary as of 02/13/2026 10:15:00 AM</title>
       <link></link>
       <description>
         Min Inside Temperature: 17.3&#176;C at 01/11/2026 06:04:31 AM;
@@ -110,7 +110,7 @@
         Min Inside Humidity: 23% at 02/11/2026 04:46:15 PM;
         Max Inside Humidity: 82% at 01/27/2026 08:33:31 AM;
       </description>
-      <pubDate>Fri, 13 Feb 2026 09:55:00 -03</pubDate>
+      <pubDate>Fri, 13 Feb 2026 10:15:00 -03</pubDate>
       <geo:lat>-34.68247396567271</geo:lat>
       <geo:long>-59.033162742123125</geo:long>
       <content:encoded><![CDATA[
