@@ -10,58 +10,58 @@
     <link></link>
     <description>Current conditions, and daily, monthly, and yearly summaries</description>
     <language>"en"</language>
-    <pubDate>Mon, 02 Mar 2026 10:35:00 -03</pubDate>
+    <pubDate>Mon, 02 Mar 2026 10:55:00 -03</pubDate>
 
-    <lastBuildDate>Mon, 02 Mar 2026 10:35:00 -03</lastBuildDate>
+    <lastBuildDate>Mon, 02 Mar 2026 10:55:00 -03</lastBuildDate>
     <docs>http://blogs.law.harvard.edu/tech/rss</docs>
     <generator>weewx 5.2.0</generator>
     <ttl>5.0 minutes</ttl>
 
     <item>
-      <title>Weather Conditions at 03/02/2026 10:35:00 AM</title>
+      <title>Weather Conditions at 03/02/2026 10:55:00 AM</title>
       <link></link>
       <description>
-        Inside Temperature: 25.4&#176;C;
-        Wind: 5 knots from 100&#176;;
+        Inside Temperature: 25.9&#176;C;
+        Wind: 8 knots from 098&#176;;
         Rain: 0.0 mm;
         Rain Rate: 0.0 mm/h;
-        Inside Humidity: 56%;
+        Inside Humidity: 55%;
       </description>
-      <pubDate>Mon, 02 Mar 2026 10:35:00 -03</pubDate>
+      <pubDate>Mon, 02 Mar 2026 10:55:00 -03</pubDate>
       <geo:lat>-34.68247396567271</geo:lat>
       <geo:long>-59.033162742123125</geo:long>
       <content:encoded><![CDATA[
       <p>
-      Time: 03/02/2026 10:35:00 AM<br/>
-        Inside Temperature: 25.4&#176;C<br/>
-        Wind: 5 knots from 100&#176;;
+      Time: 03/02/2026 10:55:00 AM<br/>
+        Inside Temperature: 25.9&#176;C<br/>
+        Wind: 8 knots from 098&#176;;
         Rain: 0.0 mm<br/>
         Rain Rate: 0.0 mm/h<br/>
-        Inside Humidity: 56%<br/>
+        Inside Humidity: 55%<br/>
       </p>
       ]]></content:encoded>
     </item>
 
     <item>
-      <title>Daily summary as of 03/02/2026 10:35:00 AM</title>
+      <title>Daily summary as of 03/02/2026 10:55:00 AM</title>
       <link></link>
       <description>
         Min Inside Temperature: 21.9&#176;C at 07:08:46 AM;
-        Max Inside Temperature: 25.5&#176;C at 10:34:01 AM;
+        Max Inside Temperature: 26.0&#176;C at 10:52:47 AM;
         Max Wind: 16 knots from 123&#176; at 08:31:31 AM;
         Rain: 0.0 mm;
         Max Rain Rate: 0.0 mm/h;
         Min Inside Humidity: 54% at 12:00:26 AM;
         Max Inside Humidity: 61% at 07:04:46 AM;
       </description>
-      <pubDate>Mon, 02 Mar 2026 10:35:00 -03</pubDate>
+      <pubDate>Mon, 02 Mar 2026 10:55:00 -03</pubDate>
       <geo:lat>-34.68247396567271</geo:lat>
       <geo:long>-59.033162742123125</geo:long>
       <content:encoded><![CDATA[
       <p>
       Daily summary as of 02 Mar 2026<br/>
         Min Inside Temperature: 21.9&#176;C at 07:08:46 AM<br/>
-        Max Inside Temperature: 25.5&#176;C at 10:34:01 AM<br/>
+        Max Inside Temperature: 26.0&#176;C at 10:52:47 AM<br/>
         Max Wind: 16 knots from 123&#176; at 08:31:31 AM<br/>
         Rain: 0.0 mm<br/>
         Max Rain Rate: 0.0 mm/h<br/>
@@ -71,7 +71,7 @@
       ]]></content:encoded>
     </item>
     <item>
-      <title>Monthly summary as of 03/02/2026 10:35:00 AM</title>
+      <title>Monthly summary as of 03/02/2026 10:55:00 AM</title>
       <link></link>
       <description>
         Min Inside Temperature: 21.2&#176;C at 03/01/2026 06:34:31 AM;
@@ -82,7 +82,7 @@
         Min Inside Humidity: 36% at 03/01/2026 03:34:31 PM;
         Max Inside Humidity: 62% at 03/01/2026 04:37:31 AM;
       </description>
-      <pubDate>Mon, 02 Mar 2026 10:35:00 -03</pubDate>
+      <pubDate>Mon, 02 Mar 2026 10:55:00 -03</pubDate>
       <geo:lat>-34.68247396567271</geo:lat>
       <geo:long>-59.033162742123125</geo:long>
       <content:encoded><![CDATA[
@@ -99,7 +99,7 @@
       ]]></content:encoded>
     </item>
     <item>
-      <title>Yearly summary as of 03/02/2026 10:35:00 AM</title>
+      <title>Yearly summary as of 03/02/2026 10:55:00 AM</title>
       <link></link>
       <description>
         Min Inside Temperature: 15.4&#176;C at 02/26/2026 07:01:44 AM;
@@ -110,7 +110,7 @@
         Min Inside Humidity: 23% at 02/11/2026 04:46:15 PM;
         Max Inside Humidity: 82% at 01/27/2026 08:33:31 AM;
       </description>
-      <pubDate>Mon, 02 Mar 2026 10:35:00 -03</pubDate>
+      <pubDate>Mon, 02 Mar 2026 10:55:00 -03</pubDate>
       <geo:lat>-34.68247396567271</geo:lat>
       <geo:long>-59.033162742123125</geo:long>
       <content:encoded><![CDATA[
