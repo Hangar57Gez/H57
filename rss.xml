@@ -10,79 +10,79 @@
     <link></link>
     <description>Current conditions, and daily, monthly, and yearly summaries</description>
     <language>"en"</language>
-    <pubDate>Tue, 03 Mar 2026 02:15:00 -03</pubDate>
+    <pubDate>Tue, 03 Mar 2026 02:35:00 -03</pubDate>
 
-    <lastBuildDate>Tue, 03 Mar 2026 02:15:00 -03</lastBuildDate>
+    <lastBuildDate>Tue, 03 Mar 2026 02:35:00 -03</lastBuildDate>
     <docs>http://blogs.law.harvard.edu/tech/rss</docs>
     <generator>weewx 5.2.0</generator>
     <ttl>5.0 minutes</ttl>
 
     <item>
-      <title>Weather Conditions at 03/03/2026 02:15:00 AM</title>
+      <title>Weather Conditions at 03/03/2026 02:35:00 AM</title>
       <link></link>
       <description>
-        Inside Temperature: 23.3&#176;C;
-        Wind: 16 knots from 244&#176;;
-        Rain: 0.3 mm;
-        Rain Rate: 1.8 mm/h;
-        Inside Humidity: 63%;
+        Inside Temperature: 23.0&#176;C;
+        Wind: 15 knots from 239&#176;;
+        Rain: 0.0 mm;
+        Rain Rate: 0.0 mm/h;
+        Inside Humidity: 64%;
       </description>
-      <pubDate>Tue, 03 Mar 2026 02:15:00 -03</pubDate>
+      <pubDate>Tue, 03 Mar 2026 02:35:00 -03</pubDate>
       <geo:lat>-34.68247396567271</geo:lat>
       <geo:long>-59.033162742123125</geo:long>
       <content:encoded><![CDATA[
       <p>
-      Time: 03/03/2026 02:15:00 AM<br/>
-        Inside Temperature: 23.3&#176;C<br/>
-        Wind: 16 knots from 244&#176;;
-        Rain: 0.3 mm<br/>
-        Rain Rate: 1.8 mm/h<br/>
-        Inside Humidity: 63%<br/>
+      Time: 03/03/2026 02:35:00 AM<br/>
+        Inside Temperature: 23.0&#176;C<br/>
+        Wind: 15 knots from 239&#176;;
+        Rain: 0.0 mm<br/>
+        Rain Rate: 0.0 mm/h<br/>
+        Inside Humidity: 64%<br/>
       </p>
       ]]></content:encoded>
     </item>
 
     <item>
-      <title>Daily summary as of 03/03/2026 02:15:00 AM</title>
+      <title>Daily summary as of 03/03/2026 02:35:00 AM</title>
       <link></link>
       <description>
-        Min Inside Temperature: 23.2&#176;C at 02:13:46 AM;
+        Min Inside Temperature: 22.9&#176;C at 02:23:31 AM;
         Max Inside Temperature: 25.7&#176;C at 12:00:24 AM;
-        Max Wind: 23 knots from 338&#176; at 01:09:32 AM;
+        Max Wind: 25 knots from 239&#176; at 02:23:03 AM;
         Rain: 0.5 mm;
         Max Rain Rate: 1.8 mm/h;
         Min Inside Humidity: 50% at 12:00:24 AM;
-        Max Inside Humidity: 63% at 02:11:37 AM;
+        Max Inside Humidity: 64% at 02:16:55 AM;
       </description>
-      <pubDate>Tue, 03 Mar 2026 02:15:00 -03</pubDate>
+      <pubDate>Tue, 03 Mar 2026 02:35:00 -03</pubDate>
       <geo:lat>-34.68247396567271</geo:lat>
       <geo:long>-59.033162742123125</geo:long>
       <content:encoded><![CDATA[
       <p>
       Daily summary as of 03 Mar 2026<br/>
-        Min Inside Temperature: 23.2&#176;C at 02:13:46 AM<br/>
+        Min Inside Temperature: 22.9&#176;C at 02:23:31 AM<br/>
         Max Inside Temperature: 25.7&#176;C at 12:00:24 AM<br/>
-        Max Wind: 23 knots from 338&#176; at 01:09:32 AM<br/>
+        Max Wind: 25 knots from 239&#176; at 02:23:03 AM<br/>
         Rain: 0.5 mm<br/>
         Max Rain Rate: 1.8 mm/h<br/>
         Min Inside Humidity: 50% at 12:00:24 AM<br/>
-        Max Inside Humidity: 63% at 02:11:37 AM<br/>
+        Max Inside Humidity: 64% at 02:16:55 AM<br/>
       </p>
       ]]></content:encoded>
     </item>
     <item>
-      <title>Monthly summary as of 03/03/2026 02:15:00 AM</title>
+      <title>Monthly summary as of 03/03/2026 02:35:00 AM</title>
       <link></link>
       <description>
         Min Inside Temperature: 21.2&#176;C at 03/01/2026 06:34:31 AM;
         Max Inside Temperature: 33.7&#176;C at 03/01/2026 05:05:00 PM;
-        Max Wind: 23 knots from 338&#176; at 03/03/2026 01:09:32 AM;
+        Max Wind: 25 knots from 239&#176; at 03/03/2026 02:23:03 AM;
         Rain: 0.5 mm;
         Max Rain Rate: 1.8 mm/h;
         Min Inside Humidity: 35% at 03/02/2026 05:56:45 PM;
-        Max Inside Humidity: 63% at 03/03/2026 02:11:37 AM;
+        Max Inside Humidity: 64% at 03/03/2026 02:16:55 AM;
       </description>
-      <pubDate>Tue, 03 Mar 2026 02:15:00 -03</pubDate>
+      <pubDate>Tue, 03 Mar 2026 02:35:00 -03</pubDate>
       <geo:lat>-34.68247396567271</geo:lat>
       <geo:long>-59.033162742123125</geo:long>
       <content:encoded><![CDATA[
@@ -90,16 +90,16 @@
       Monthly summary as of 01 Mar 2026<br/>
         Min Inside Temperature: 21.2&#176;C at 03/01/2026 06:34:31 AM<br/>
         Max Inside Temperature: 33.7&#176;C at 03/01/2026 05:05:00 PM<br/>
-        Max Wind: 23 knots from 338&#176; at 03/03/2026 01:09:32 AM<br/>
+        Max Wind: 25 knots from 239&#176; at 03/03/2026 02:23:03 AM<br/>
         Rain: 0.5 mm<br/>
         Max Rain Rate: 1.8 mm/h<br/>
         Min Inside Humidity: 35% at 03/02/2026 05:56:45 PM<br/>
-        Max Inside Humidity: 63% at 03/03/2026 02:11:37 AM<br/>
+        Max Inside Humidity: 64% at 03/03/2026 02:16:55 AM<br/>
       </p>
       ]]></content:encoded>
     </item>
     <item>
-      <title>Yearly summary as of 03/03/2026 02:15:00 AM</title>
+      <title>Yearly summary as of 03/03/2026 02:35:00 AM</title>
       <link></link>
       <description>
         Min Inside Temperature: 15.4&#176;C at 02/26/2026 07:01:44 AM;
@@ -110,7 +110,7 @@
         Min Inside Humidity: 23% at 02/11/2026 04:46:15 PM;
         Max Inside Humidity: 82% at 01/27/2026 08:33:31 AM;
       </description>
-      <pubDate>Tue, 03 Mar 2026 02:15:00 -03</pubDate>
+      <pubDate>Tue, 03 Mar 2026 02:35:00 -03</pubDate>
       <geo:lat>-34.68247396567271</geo:lat>
       <geo:long>-59.033162742123125</geo:long>
       <content:encoded><![CDATA[
