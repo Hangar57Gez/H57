@@ -22,7 +22,7 @@ DAY   TEMP   HIGH   TIME    LOW   TIME   DAYS   DAYS   RAIN  SPEED   HIGH   TIME
  09    N/A    N/A N/A    N/A N/A    0.0    0.0    0.0    4.4   16.9  09:31    121
  10    N/A    N/A N/A    N/A N/A    0.0    0.0    0.0    2.4   11.9  14:32    121
  11    N/A    N/A N/A    N/A N/A    0.0    0.0    0.0    2.0   13.8  17:04    131
- 12    N/A    N/A N/A    N/A N/A    0.0    0.0    0.0    2.3   12.8  16:13    134
+ 12    N/A    N/A N/A    N/A N/A    0.0    0.0    0.0    2.4   12.8  16:13    134
  13
  14
  15
