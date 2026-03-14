@@ -10,55 +10,55 @@
     <link></link>
     <description>Current conditions, and daily, monthly, and yearly summaries</description>
     <language>"en"</language>
-    <pubDate>Sat, 14 Mar 2026 19:55:00 -03</pubDate>
+    <pubDate>Sat, 14 Mar 2026 20:15:00 -03</pubDate>
 
-    <lastBuildDate>Sat, 14 Mar 2026 19:55:00 -03</lastBuildDate>
+    <lastBuildDate>Sat, 14 Mar 2026 20:15:00 -03</lastBuildDate>
     <docs>http://blogs.law.harvard.edu/tech/rss</docs>
     <generator>weewx 5.2.0</generator>
     <ttl>5.0 minutes</ttl>
 
     <item>
-      <title>Weather Conditions at 03/14/2026 07:55:00 PM</title>
+      <title>Weather Conditions at 03/14/2026 08:15:00 PM</title>
       <link></link>
       <description>
-        Outside Temperature: 23.3&#176;C;
-        Inside Temperature: 26.0&#176;C;
-        Barometer: 1007.3 mbar;
-        Wind: 0 knots from 093&#176;;
+        Outside Temperature: 22.8&#176;C;
+        Inside Temperature: 25.6&#176;C;
+        Barometer: 1007.4 mbar;
+        Wind: 1 knots from 113&#176;;
         Rain: 0.0 mm;
         Rain Rate: 0.0 mm/h;
-        Wind Chill: 23.3&#176;C;
-        Heat Index: 23.2&#176;C;
-        Dew Point: 14.5&#176;C;
-        Outside Humidity: 58%;
-        Inside Humidity: 51%;
+        Wind Chill: 22.8&#176;C;
+        Heat Index: 22.7&#176;C;
+        Dew Point: 14.4&#176;C;
+        Outside Humidity: 59%;
+        Inside Humidity: 52%;
       </description>
-      <pubDate>Sat, 14 Mar 2026 19:55:00 -03</pubDate>
+      <pubDate>Sat, 14 Mar 2026 20:15:00 -03</pubDate>
       <geo:lat>-34.68247396567271</geo:lat>
       <geo:long>-59.033162742123125</geo:long>
       <content:encoded><![CDATA[
       <p>
-      Time: 03/14/2026 07:55:00 PM<br/>
-        Outside Temperature: 23.3&#176;C<br/>
-        Inside Temperature: 26.0&#176;C<br/>
-        Barometer: 1007.3 mbar<br/>
-        Wind: 0 knots from 093&#176;;
+      Time: 03/14/2026 08:15:00 PM<br/>
+        Outside Temperature: 22.8&#176;C<br/>
+        Inside Temperature: 25.6&#176;C<br/>
+        Barometer: 1007.4 mbar<br/>
+        Wind: 1 knots from 113&#176;;
         Rain: 0.0 mm<br/>
         Rain Rate: 0.0 mm/h<br/>
-        Wind Chill: 23.3&#176;C<br/>
-        Heat Index: 23.2&#176;C<br/>
-        Dew Point: 14.5&#176;C<br/>
-        Outside Humidity: 58%<br/>
-        Inside Humidity: 51%<br/>
+        Wind Chill: 22.8&#176;C<br/>
+        Heat Index: 22.7&#176;C<br/>
+        Dew Point: 14.4&#176;C<br/>
+        Outside Humidity: 59%<br/>
+        Inside Humidity: 52%<br/>
       </p>
       ]]></content:encoded>
     </item>
 
     <item>
-      <title>Daily summary as of 03/14/2026 07:55:00 PM</title>
+      <title>Daily summary as of 03/14/2026 08:15:00 PM</title>
       <link></link>
       <description>
-        Min Outside Temperature: 23.3&#176;C at 07:51:53 PM;
+        Min Outside Temperature: 22.8&#176;C at 08:08:47 PM;
         Max Outside Temperature: 32.1&#176;C at 03:40:25 PM;
         Min Inside Temperature: 19.5&#176;C at 06:26:03 AM;
         Max Inside Temperature: 30.0&#176;C at 03:23:54 PM;
@@ -67,24 +67,24 @@
         Max Wind: 7 knots from 131&#176; at 12:25:14 PM;
         Rain: 0.0 mm;
         Max Rain Rate: 0.0 mm/h;
-        Min Wind Chill: 23.3&#176;C at 07:51:53 PM;
+        Min Wind Chill: 22.8&#176;C at 08:08:47 PM;
         Max Wind Chill: 32.1&#176;C at 03:40:25 PM;
-        Min Heat Index: 23.1&#176;C at 07:52:46 PM;
+        Min Heat Index: 22.7&#176;C at 08:08:47 PM;
         Max Heat Index: 34.1&#176;C at 03:41:34 PM;
         Min Dew Point: 14.0&#176;C at 03:53:13 PM;
         Max Dew Point: 19.7&#176;C at 03:41:34 PM;
         Min Outside Humidity: 37% at 03:39:31 PM;
-        Max Outside Humidity: 58% at 07:48:25 PM;
+        Max Outside Humidity: 60% at 08:11:22 PM;
         Min Inside Humidity: 42% at 04:46:02 PM;
         Max Inside Humidity: 72% at 09:16:32 AM;
       </description>
-      <pubDate>Sat, 14 Mar 2026 19:55:00 -03</pubDate>
+      <pubDate>Sat, 14 Mar 2026 20:15:00 -03</pubDate>
       <geo:lat>-34.68247396567271</geo:lat>
       <geo:long>-59.033162742123125</geo:long>
       <content:encoded><![CDATA[
       <p>
       Daily summary as of 14 Mar 2026<br/>
-        Min Outside Temperature: 23.3&#176;C at 07:51:53 PM<br/>
+        Min Outside Temperature: 22.8&#176;C at 08:08:47 PM<br/>
         Max Outside Temperature: 32.1&#176;C at 03:40:25 PM<br/>
         Min Inside Temperature: 19.5&#176;C at 06:26:03 AM<br/>
         Max Inside Temperature: 30.0&#176;C at 03:23:54 PM<br/>
@@ -93,24 +93,24 @@
         Max Wind: 7 knots from 131&#176; at 12:25:14 PM<br/>
         Rain: 0.0 mm<br/>
         Max Rain Rate: 0.0 mm/h<br/>
-        Min Wind Chill: 23.3&#176;C at 07:51:53 PM<br/>
+        Min Wind Chill: 22.8&#176;C at 08:08:47 PM<br/>
         Max Wind Chill: 32.1&#176;C at 03:40:25 PM<br/>
-        Min Heat Index: 23.1&#176;C at 07:52:46 PM<br/>
+        Min Heat Index: 22.7&#176;C at 08:08:47 PM<br/>
         Max Heat Index: 34.1&#176;C at 03:41:34 PM<br/>
         Min Dew Point: 14.0&#176;C at 03:53:13 PM<br/>
         Max Dew Point: 19.7&#176;C at 03:41:34 PM<br/>
         Min Outside Humidity: 37% at 03:39:31 PM<br/>
-        Max Outside Humidity: 58% at 07:48:25 PM<br/>
+        Max Outside Humidity: 60% at 08:11:22 PM<br/>
         Min Inside Humidity: 42% at 04:46:02 PM<br/>
         Max Inside Humidity: 72% at 09:16:32 AM<br/>
       </p>
       ]]></content:encoded>
     </item>
     <item>
-      <title>Monthly summary as of 03/14/2026 07:55:00 PM</title>
+      <title>Monthly summary as of 03/14/2026 08:15:00 PM</title>
       <link></link>
       <description>
-        Min Outside Temperature: 23.3&#176;C at 03/14/2026 07:51:53 PM;
+        Min Outside Temperature: 22.8&#176;C at 03/14/2026 08:08:47 PM;
         Max Outside Temperature: 32.1&#176;C at 03/14/2026 03:40:25 PM;
         Min Inside Temperature: 17.4&#176;C at 03/08/2026 06:49:35 AM;
         Max Inside Temperature: 33.7&#176;C at 03/01/2026 05:05:00 PM;
@@ -119,24 +119,24 @@
         Max Wind: 25 knots from 239&#176; at 03/03/2026 02:23:03 AM;
         Rain: 2.0 mm;
         Max Rain Rate: 4.8 mm/h;
-        Min Wind Chill: 23.3&#176;C at 03/14/2026 07:51:53 PM;
+        Min Wind Chill: 22.8&#176;C at 03/14/2026 08:08:47 PM;
         Max Wind Chill: 32.1&#176;C at 03/14/2026 03:40:25 PM;
-        Min Heat Index: 23.1&#176;C at 03/14/2026 07:52:46 PM;
+        Min Heat Index: 22.7&#176;C at 03/14/2026 08:08:47 PM;
         Max Heat Index: 34.1&#176;C at 03/14/2026 03:41:34 PM;
         Min Dew Point: 14.0&#176;C at 03/14/2026 03:53:13 PM;
         Max Dew Point: 19.7&#176;C at 03/14/2026 03:41:34 PM;
         Min Outside Humidity: 37% at 03/14/2026 03:39:31 PM;
-        Max Outside Humidity: 58% at 03/14/2026 07:48:25 PM;
+        Max Outside Humidity: 60% at 03/14/2026 08:11:22 PM;
         Min Inside Humidity: 35% at 03/02/2026 05:56:45 PM;
         Max Inside Humidity: 79% at 03/06/2026 08:05:31 PM;
       </description>
-      <pubDate>Sat, 14 Mar 2026 19:55:00 -03</pubDate>
+      <pubDate>Sat, 14 Mar 2026 20:15:00 -03</pubDate>
       <geo:lat>-34.68247396567271</geo:lat>
       <geo:long>-59.033162742123125</geo:long>
       <content:encoded><![CDATA[
       <p>
       Monthly summary as of 01 Mar 2026<br/>
-        Min Outside Temperature: 23.3&#176;C at 03/14/2026 07:51:53 PM<br/>
+        Min Outside Temperature: 22.8&#176;C at 03/14/2026 08:08:47 PM<br/>
         Max Outside Temperature: 32.1&#176;C at 03/14/2026 03:40:25 PM<br/>
         Min Inside Temperature: 17.4&#176;C at 03/08/2026 06:49:35 AM<br/>
         Max Inside Temperature: 33.7&#176;C at 03/01/2026 05:05:00 PM<br/>
@@ -145,24 +145,24 @@
         Max Wind: 25 knots from 239&#176; at 03/03/2026 02:23:03 AM<br/>
         Rain: 2.0 mm<br/>
         Max Rain Rate: 4.8 mm/h<br/>
-        Min Wind Chill: 23.3&#176;C at 03/14/2026 07:51:53 PM<br/>
+        Min Wind Chill: 22.8&#176;C at 03/14/2026 08:08:47 PM<br/>
         Max Wind Chill: 32.1&#176;C at 03/14/2026 03:40:25 PM<br/>
-        Min Heat Index: 23.1&#176;C at 03/14/2026 07:52:46 PM<br/>
+        Min Heat Index: 22.7&#176;C at 03/14/2026 08:08:47 PM<br/>
         Max Heat Index: 34.1&#176;C at 03/14/2026 03:41:34 PM<br/>
         Min Dew Point: 14.0&#176;C at 03/14/2026 03:53:13 PM<br/>
         Max Dew Point: 19.7&#176;C at 03/14/2026 03:41:34 PM<br/>
         Min Outside Humidity: 37% at 03/14/2026 03:39:31 PM<br/>
-        Max Outside Humidity: 58% at 03/14/2026 07:48:25 PM<br/>
+        Max Outside Humidity: 60% at 03/14/2026 08:11:22 PM<br/>
         Min Inside Humidity: 35% at 03/02/2026 05:56:45 PM<br/>
         Max Inside Humidity: 79% at 03/06/2026 08:05:31 PM<br/>
       </p>
       ]]></content:encoded>
     </item>
     <item>
-      <title>Yearly summary as of 03/14/2026 07:55:00 PM</title>
+      <title>Yearly summary as of 03/14/2026 08:15:00 PM</title>
       <link></link>
       <description>
-        Min Outside Temperature: 23.3&#176;C at 03/14/2026 07:51:53 PM;
+        Min Outside Temperature: 22.8&#176;C at 03/14/2026 08:08:47 PM;
         Max Outside Temperature: 32.1&#176;C at 03/14/2026 03:40:25 PM;
         Min Inside Temperature: 15.4&#176;C at 02/26/2026 07:01:44 AM;
         Max Inside Temperature: 37.5&#176;C at 01/12/2026 05:31:35 PM;
@@ -171,24 +171,24 @@
         Max Wind: 26 knots from 226&#176; at 01/13/2026 01:20:00 PM;
         Rain: 92.2 mm;
         Max Rain Rate: 41.4 mm/h;
-        Min Wind Chill: 23.3&#176;C at 03/14/2026 07:51:53 PM;
+        Min Wind Chill: 22.8&#176;C at 03/14/2026 08:08:47 PM;
         Max Wind Chill: 32.1&#176;C at 03/14/2026 03:40:25 PM;
-        Min Heat Index: 23.1&#176;C at 03/14/2026 07:52:46 PM;
+        Min Heat Index: 22.7&#176;C at 03/14/2026 08:08:47 PM;
         Max Heat Index: 34.1&#176;C at 03/14/2026 03:41:34 PM;
         Min Dew Point: 14.0&#176;C at 03/14/2026 03:53:13 PM;
         Max Dew Point: 19.7&#176;C at 03/14/2026 03:41:34 PM;
         Min Outside Humidity: 37% at 03/14/2026 03:39:31 PM;
-        Max Outside Humidity: 58% at 03/14/2026 07:48:25 PM;
+        Max Outside Humidity: 60% at 03/14/2026 08:11:22 PM;
         Min Inside Humidity: 23% at 02/11/2026 04:46:15 PM;
         Max Inside Humidity: 82% at 01/27/2026 08:33:31 AM;
       </description>
-      <pubDate>Sat, 14 Mar 2026 19:55:00 -03</pubDate>
+      <pubDate>Sat, 14 Mar 2026 20:15:00 -03</pubDate>
       <geo:lat>-34.68247396567271</geo:lat>
       <geo:long>-59.033162742123125</geo:long>
       <content:encoded><![CDATA[
       <p>
       Yearly summary as of 01 Jan 2026<br/>
-        Min Outside Temperature: 23.3&#176;C at 03/14/2026 07:51:53 PM<br/>
+        Min Outside Temperature: 22.8&#176;C at 03/14/2026 08:08:47 PM<br/>
         Max Outside Temperature: 32.1&#176;C at 03/14/2026 03:40:25 PM<br/>
         Min Inside Temperature: 15.4&#176;C at 02/26/2026 07:01:44 AM<br/>
         Max Inside Temperature: 37.5&#176;C at 01/12/2026 05:31:35 PM<br/>
@@ -197,14 +197,14 @@
         Max Wind: 26 knots from 226&#176; at 01/13/2026 01:20:00 PM<br/>
         Rain: 92.2 mm<br/>
         Max Rain Rate: 41.4 mm/h<br/>
-        Min Wind Chill: 23.3&#176;C at 03/14/2026 07:51:53 PM<br/>
+        Min Wind Chill: 22.8&#176;C at 03/14/2026 08:08:47 PM<br/>
         Max Wind Chill: 32.1&#176;C at 03/14/2026 03:40:25 PM<br/>
-        Min Heat Index: 23.1&#176;C at 03/14/2026 07:52:46 PM<br/>
+        Min Heat Index: 22.7&#176;C at 03/14/2026 08:08:47 PM<br/>
         Max Heat Index: 34.1&#176;C at 03/14/2026 03:41:34 PM<br/>
         Min Dew Point: 14.0&#176;C at 03/14/2026 03:53:13 PM<br/>
         Max Dew Point: 19.7&#176;C at 03/14/2026 03:41:34 PM<br/>
         Min Outside Humidity: 37% at 03/14/2026 03:39:31 PM<br/>
-        Max Outside Humidity: 58% at 03/14/2026 07:48:25 PM<br/>
+        Max Outside Humidity: 60% at 03/14/2026 08:11:22 PM<br/>
         Min Inside Humidity: 23% at 02/11/2026 04:46:15 PM<br/>
         Max Inside Humidity: 82% at 01/27/2026 08:33:31 AM<br/>
       </p>
