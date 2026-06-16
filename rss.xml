@@ -10,64 +10,64 @@
     <link></link>
     <description>Current conditions, and daily, monthly, and yearly summaries</description>
     <language>"en"</language>
-    <pubDate>Tue, 16 Jun 2026 05:15:00 -03</pubDate>
+    <pubDate>Tue, 16 Jun 2026 05:35:00 -03</pubDate>
 
-    <lastBuildDate>Tue, 16 Jun 2026 05:15:00 -03</lastBuildDate>
+    <lastBuildDate>Tue, 16 Jun 2026 05:35:00 -03</lastBuildDate>
     <docs>http://blogs.law.harvard.edu/tech/rss</docs>
     <generator>weewx 5.2.0</generator>
     <ttl>5.0 minutes</ttl>
 
     <item>
-      <title>Weather Conditions at 06/16/2026 05:15:00 AM</title>
+      <title>Weather Conditions at 06/16/2026 05:35:00 AM</title>
       <link></link>
       <description>
-        Outside Temperature: 7.1&#176;C;
+        Outside Temperature: 7.2&#176;C;
         Inside Temperature: 7.9&#176;C;
-        Barometer: 1019.2 mbar;
-        Wind: 5 knots from 029&#176;;
+        Barometer: 1019.0 mbar;
+        Wind: 5 knots from 031&#176;;
         Rain: 0.0 mm;
         Rain Rate: 0.0 mm/h;
-        Wind Chill: 5.3&#176;C;
-        Heat Index: 6.1&#176;C;
+        Wind Chill: 5.5&#176;C;
+        Heat Index: 6.2&#176;C;
         Dew Point: 5.1&#176;C;
-        Outside Humidity: 87%;
+        Outside Humidity: 86%;
         Inside Humidity: 76%;
       </description>
-      <pubDate>Tue, 16 Jun 2026 05:15:00 -03</pubDate>
+      <pubDate>Tue, 16 Jun 2026 05:35:00 -03</pubDate>
       <geo:lat>-34.68247396567271</geo:lat>
       <geo:long>-59.033162742123125</geo:long>
       <content:encoded><![CDATA[
       <p>
-      Time: 06/16/2026 05:15:00 AM<br/>
-        Outside Temperature: 7.1&#176;C<br/>
+      Time: 06/16/2026 05:35:00 AM<br/>
+        Outside Temperature: 7.2&#176;C<br/>
         Inside Temperature: 7.9&#176;C<br/>
-        Barometer: 1019.2 mbar<br/>
-        Wind: 5 knots from 029&#176;;
+        Barometer: 1019.0 mbar<br/>
+        Wind: 5 knots from 031&#176;;
         Rain: 0.0 mm<br/>
         Rain Rate: 0.0 mm/h<br/>
-        Wind Chill: 5.3&#176;C<br/>
-        Heat Index: 6.1&#176;C<br/>
+        Wind Chill: 5.5&#176;C<br/>
+        Heat Index: 6.2&#176;C<br/>
         Dew Point: 5.1&#176;C<br/>
-        Outside Humidity: 87%<br/>
+        Outside Humidity: 86%<br/>
         Inside Humidity: 76%<br/>
       </p>
       ]]></content:encoded>
     </item>
 
     <item>
-      <title>Daily summary as of 06/16/2026 05:15:00 AM</title>
+      <title>Daily summary as of 06/16/2026 05:35:00 AM</title>
       <link></link>
       <description>
         Min Outside Temperature: 7.0&#176;C at 04:35:29 AM;
         Max Outside Temperature: 8.3&#176;C at 12:00:02 AM;
         Min Inside Temperature: 7.9&#176;C at 05:10:00 AM;
         Max Inside Temperature: 9.4&#176;C at 12:00:02 AM;
-        Min Barometer: 1019.0 mbar at 05:13:32 AM;
+        Min Barometer: 1018.9 mbar at 05:26:32 AM;
         Max Barometer: 1021.1 mbar at 12:02:10 AM;
         Max Wind: 12 knots from 006&#176; at 03:40:39 AM;
         Rain: 0.0 mm;
         Max Rain Rate: 0.0 mm/h;
-        Min Wind Chill: 4.7&#176;C at 05:02:58 AM;
+        Min Wind Chill: 4.7&#176;C at 05:15:14 AM;
         Max Wind Chill: 7.6&#176;C at 01:12:01 AM;
         Min Heat Index: 6.0&#176;C at 04:35:29 AM;
         Max Heat Index: 7.3&#176;C at 12:00:52 AM;
@@ -78,7 +78,7 @@
         Min Inside Humidity: 72% at 12:00:02 AM;
         Max Inside Humidity: 76% at 04:41:33 AM;
       </description>
-      <pubDate>Tue, 16 Jun 2026 05:15:00 -03</pubDate>
+      <pubDate>Tue, 16 Jun 2026 05:35:00 -03</pubDate>
       <geo:lat>-34.68247396567271</geo:lat>
       <geo:long>-59.033162742123125</geo:long>
       <content:encoded><![CDATA[
@@ -88,12 +88,12 @@
         Max Outside Temperature: 8.3&#176;C at 12:00:02 AM<br/>
         Min Inside Temperature: 7.9&#176;C at 05:10:00 AM<br/>
         Max Inside Temperature: 9.4&#176;C at 12:00:02 AM<br/>
-        Min Barometer: 1019.0 mbar at 05:13:32 AM<br/>
+        Min Barometer: 1018.9 mbar at 05:26:32 AM<br/>
         Max Barometer: 1021.1 mbar at 12:02:10 AM<br/>
         Max Wind: 12 knots from 006&#176; at 03:40:39 AM<br/>
         Rain: 0.0 mm<br/>
         Max Rain Rate: 0.0 mm/h<br/>
-        Min Wind Chill: 4.7&#176;C at 05:02:58 AM<br/>
+        Min Wind Chill: 4.7&#176;C at 05:15:14 AM<br/>
         Max Wind Chill: 7.6&#176;C at 01:12:01 AM<br/>
         Min Heat Index: 6.0&#176;C at 04:35:29 AM<br/>
         Max Heat Index: 7.3&#176;C at 12:00:52 AM<br/>
@@ -107,7 +107,7 @@
       ]]></content:encoded>
     </item>
     <item>
-      <title>Monthly summary as of 06/16/2026 05:15:00 AM</title>
+      <title>Monthly summary as of 06/16/2026 05:35:00 AM</title>
       <link></link>
       <description>
         Min Outside Temperature: -1.2&#176;C at 06/14/2026 08:16:53 AM;
@@ -130,7 +130,7 @@
         Min Inside Humidity: 52% at 06/14/2026 03:56:32 PM;
         Max Inside Humidity: 87% at 06/07/2026 05:44:39 AM;
       </description>
-      <pubDate>Tue, 16 Jun 2026 05:15:00 -03</pubDate>
+      <pubDate>Tue, 16 Jun 2026 05:35:00 -03</pubDate>
       <geo:lat>-34.68247396567271</geo:lat>
       <geo:long>-59.033162742123125</geo:long>
       <content:encoded><![CDATA[
@@ -159,7 +159,7 @@
       ]]></content:encoded>
     </item>
     <item>
-      <title>Yearly summary as of 06/16/2026 05:15:00 AM</title>
+      <title>Yearly summary as of 06/16/2026 05:35:00 AM</title>
       <link></link>
       <description>
         Min Outside Temperature: -1.4&#176;C at 05/22/2026 04:05:53 AM;
@@ -182,7 +182,7 @@
         Min Inside Humidity: 23% at 02/11/2026 04:46:15 PM;
         Max Inside Humidity: 87% at 04/16/2026 07:06:32 AM;
       </description>
-      <pubDate>Tue, 16 Jun 2026 05:15:00 -03</pubDate>
+      <pubDate>Tue, 16 Jun 2026 05:35:00 -03</pubDate>
       <geo:lat>-34.68247396567271</geo:lat>
       <geo:long>-59.033162742123125</geo:long>
       <content:encoded><![CDATA[
