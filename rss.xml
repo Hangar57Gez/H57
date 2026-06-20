@@ -10,56 +10,56 @@
     <link></link>
     <description>Current conditions, and daily, monthly, and yearly summaries</description>
     <language>"en"</language>
-    <pubDate>Sat, 20 Jun 2026 05:15:00 -03</pubDate>
+    <pubDate>Sat, 20 Jun 2026 05:35:00 -03</pubDate>
 
-    <lastBuildDate>Sat, 20 Jun 2026 05:15:00 -03</lastBuildDate>
+    <lastBuildDate>Sat, 20 Jun 2026 05:35:00 -03</lastBuildDate>
     <docs>http://blogs.law.harvard.edu/tech/rss</docs>
     <generator>weewx 5.2.0</generator>
     <ttl>5.0 minutes</ttl>
 
     <item>
-      <title>Weather Conditions at 06/20/2026 05:15:00 AM</title>
+      <title>Weather Conditions at 06/20/2026 05:35:00 AM</title>
       <link></link>
       <description>
-        Outside Temperature: 3.4&#176;C;
+        Outside Temperature: 4.3&#176;C;
         Inside Temperature: 5.3&#176;C;
         Barometer: 1019.3 mbar;
-        Wind: 1 knots from 154&#176;;
+        Wind: 1 knots from 149&#176;;
         Rain: 0.0 mm;
         Rain Rate: 0.0 mm/h;
-        Wind Chill: 3.4&#176;C;
-        Heat Index: 3.4&#176;C;
-        Dew Point: 2.0&#176;C;
-        Outside Humidity: 91%;
+        Wind Chill: 4.3&#176;C;
+        Heat Index: 4.3&#176;C;
+        Dew Point: 2.3&#176;C;
+        Outside Humidity: 87%;
         Inside Humidity: 71%;
       </description>
-      <pubDate>Sat, 20 Jun 2026 05:15:00 -03</pubDate>
+      <pubDate>Sat, 20 Jun 2026 05:35:00 -03</pubDate>
       <geo:lat>-34.68247396567271</geo:lat>
       <geo:long>-59.033162742123125</geo:long>
       <content:encoded><![CDATA[
       <p>
-      Time: 06/20/2026 05:15:00 AM<br/>
-        Outside Temperature: 3.4&#176;C<br/>
+      Time: 06/20/2026 05:35:00 AM<br/>
+        Outside Temperature: 4.3&#176;C<br/>
         Inside Temperature: 5.3&#176;C<br/>
         Barometer: 1019.3 mbar<br/>
-        Wind: 1 knots from 154&#176;;
+        Wind: 1 knots from 149&#176;;
         Rain: 0.0 mm<br/>
         Rain Rate: 0.0 mm/h<br/>
-        Wind Chill: 3.4&#176;C<br/>
-        Heat Index: 3.4&#176;C<br/>
-        Dew Point: 2.0&#176;C<br/>
-        Outside Humidity: 91%<br/>
+        Wind Chill: 4.3&#176;C<br/>
+        Heat Index: 4.3&#176;C<br/>
+        Dew Point: 2.3&#176;C<br/>
+        Outside Humidity: 87%<br/>
         Inside Humidity: 71%<br/>
       </p>
       ]]></content:encoded>
     </item>
 
     <item>
-      <title>Daily summary as of 06/20/2026 05:15:00 AM</title>
+      <title>Daily summary as of 06/20/2026 05:35:00 AM</title>
       <link></link>
       <description>
         Min Outside Temperature: 2.2&#176;C at 01:15:06 AM;
-        Max Outside Temperature: 4.3&#176;C at 12:01:36 AM;
+        Max Outside Temperature: 4.4&#176;C at 05:33:30 AM;
         Min Inside Temperature: 5.3&#176;C at 05:04:48 AM;
         Max Inside Temperature: 7.0&#176;C at 12:00:48 AM;
         Min Barometer: 1019.0 mbar at 04:46:33 AM;
@@ -68,9 +68,9 @@
         Rain: 0.0 mm;
         Max Rain Rate: 0.0 mm/h;
         Min Wind Chill: 2.2&#176;C at 01:15:06 AM;
-        Max Wind Chill: 4.3&#176;C at 12:01:36 AM;
+        Max Wind Chill: 4.4&#176;C at 05:33:30 AM;
         Min Heat Index: 2.2&#176;C at 01:15:06 AM;
-        Max Heat Index: 4.3&#176;C at 12:01:36 AM;
+        Max Heat Index: 4.4&#176;C at 05:33:30 AM;
         Min Dew Point: 1.1&#176;C at 01:15:06 AM;
         Max Dew Point: 2.7&#176;C at 12:00:27 AM;
         Min Outside Humidity: 87% at 12:30:02 AM;
@@ -78,14 +78,14 @@
         Min Inside Humidity: 67% at 12:00:27 AM;
         Max Inside Humidity: 71% at 04:54:33 AM;
       </description>
-      <pubDate>Sat, 20 Jun 2026 05:15:00 -03</pubDate>
+      <pubDate>Sat, 20 Jun 2026 05:35:00 -03</pubDate>
       <geo:lat>-34.68247396567271</geo:lat>
       <geo:long>-59.033162742123125</geo:long>
       <content:encoded><![CDATA[
       <p>
       Daily summary as of 20 Jun 2026<br/>
         Min Outside Temperature: 2.2&#176;C at 01:15:06 AM<br/>
-        Max Outside Temperature: 4.3&#176;C at 12:01:36 AM<br/>
+        Max Outside Temperature: 4.4&#176;C at 05:33:30 AM<br/>
         Min Inside Temperature: 5.3&#176;C at 05:04:48 AM<br/>
         Max Inside Temperature: 7.0&#176;C at 12:00:48 AM<br/>
         Min Barometer: 1019.0 mbar at 04:46:33 AM<br/>
@@ -94,9 +94,9 @@
         Rain: 0.0 mm<br/>
         Max Rain Rate: 0.0 mm/h<br/>
         Min Wind Chill: 2.2&#176;C at 01:15:06 AM<br/>
-        Max Wind Chill: 4.3&#176;C at 12:01:36 AM<br/>
+        Max Wind Chill: 4.4&#176;C at 05:33:30 AM<br/>
         Min Heat Index: 2.2&#176;C at 01:15:06 AM<br/>
-        Max Heat Index: 4.3&#176;C at 12:01:36 AM<br/>
+        Max Heat Index: 4.4&#176;C at 05:33:30 AM<br/>
         Min Dew Point: 1.1&#176;C at 01:15:06 AM<br/>
         Max Dew Point: 2.7&#176;C at 12:00:27 AM<br/>
         Min Outside Humidity: 87% at 12:30:02 AM<br/>
@@ -107,7 +107,7 @@
       ]]></content:encoded>
     </item>
     <item>
-      <title>Monthly summary as of 06/20/2026 05:15:00 AM</title>
+      <title>Monthly summary as of 06/20/2026 05:35:00 AM</title>
       <link></link>
       <description>
         Min Outside Temperature: -1.2&#176;C at 06/14/2026 08:16:53 AM;
@@ -130,7 +130,7 @@
         Min Inside Humidity: 52% at 06/14/2026 03:56:32 PM;
         Max Inside Humidity: 87% at 06/07/2026 05:44:39 AM;
       </description>
-      <pubDate>Sat, 20 Jun 2026 05:15:00 -03</pubDate>
+      <pubDate>Sat, 20 Jun 2026 05:35:00 -03</pubDate>
       <geo:lat>-34.68247396567271</geo:lat>
       <geo:long>-59.033162742123125</geo:long>
       <content:encoded><![CDATA[
@@ -159,7 +159,7 @@
       ]]></content:encoded>
     </item>
     <item>
-      <title>Yearly summary as of 06/20/2026 05:15:00 AM</title>
+      <title>Yearly summary as of 06/20/2026 05:35:00 AM</title>
       <link></link>
       <description>
         Min Outside Temperature: -1.4&#176;C at 05/22/2026 04:05:53 AM;
@@ -182,7 +182,7 @@
         Min Inside Humidity: 23% at 02/11/2026 04:46:15 PM;
         Max Inside Humidity: 87% at 04/16/2026 07:06:32 AM;
       </description>
-      <pubDate>Sat, 20 Jun 2026 05:15:00 -03</pubDate>
+      <pubDate>Sat, 20 Jun 2026 05:35:00 -03</pubDate>
       <geo:lat>-34.68247396567271</geo:lat>
       <geo:long>-59.033162742123125</geo:long>
       <content:encoded><![CDATA[
