@@ -10,59 +10,59 @@
     <link></link>
     <description>Current conditions, and daily, monthly, and yearly summaries</description>
     <language>"en"</language>
-    <pubDate>Mon, 22 Jun 2026 15:15:00 -03</pubDate>
+    <pubDate>Mon, 22 Jun 2026 15:35:00 -03</pubDate>
 
-    <lastBuildDate>Mon, 22 Jun 2026 15:15:00 -03</lastBuildDate>
+    <lastBuildDate>Mon, 22 Jun 2026 15:35:00 -03</lastBuildDate>
     <docs>http://blogs.law.harvard.edu/tech/rss</docs>
     <generator>weewx 5.2.0</generator>
     <ttl>5.0 minutes</ttl>
 
     <item>
-      <title>Weather Conditions at 06/22/2026 03:15:00 PM</title>
+      <title>Weather Conditions at 06/22/2026 03:35:00 PM</title>
       <link></link>
       <description>
-        Outside Temperature: 11.6&#176;C;
-        Inside Temperature: 11.4&#176;C;
+        Outside Temperature: 10.3&#176;C;
+        Inside Temperature: 10.9&#176;C;
         Barometer: 1018.4 mbar;
-        Wind: 9 knots from 343&#176;;
+        Wind: 9 knots from 309&#176;;
         Rain: 0.0 mm;
         Rain Rate: 0.0 mm/h;
-        Wind Chill: 11.6&#176;C;
-        Heat Index: 10.5&#176;C;
-        Dew Point: 4.5&#176;C;
-        Outside Humidity: 62%;
+        Wind Chill: 10.3&#176;C;
+        Heat Index: 9.1&#176;C;
+        Dew Point: 4.2&#176;C;
+        Outside Humidity: 66%;
         Inside Humidity: 64%;
       </description>
-      <pubDate>Mon, 22 Jun 2026 15:15:00 -03</pubDate>
+      <pubDate>Mon, 22 Jun 2026 15:35:00 -03</pubDate>
       <geo:lat>-34.68247396567271</geo:lat>
       <geo:long>-59.033162742123125</geo:long>
       <content:encoded><![CDATA[
       <p>
-      Time: 06/22/2026 03:15:00 PM<br/>
-        Outside Temperature: 11.6&#176;C<br/>
-        Inside Temperature: 11.4&#176;C<br/>
+      Time: 06/22/2026 03:35:00 PM<br/>
+        Outside Temperature: 10.3&#176;C<br/>
+        Inside Temperature: 10.9&#176;C<br/>
         Barometer: 1018.4 mbar<br/>
-        Wind: 9 knots from 343&#176;;
+        Wind: 9 knots from 309&#176;;
         Rain: 0.0 mm<br/>
         Rain Rate: 0.0 mm/h<br/>
-        Wind Chill: 11.6&#176;C<br/>
-        Heat Index: 10.5&#176;C<br/>
-        Dew Point: 4.5&#176;C<br/>
-        Outside Humidity: 62%<br/>
+        Wind Chill: 10.3&#176;C<br/>
+        Heat Index: 9.1&#176;C<br/>
+        Dew Point: 4.2&#176;C<br/>
+        Outside Humidity: 66%<br/>
         Inside Humidity: 64%<br/>
       </p>
       ]]></content:encoded>
     </item>
 
     <item>
-      <title>Daily summary as of 06/22/2026 03:15:00 PM</title>
+      <title>Daily summary as of 06/22/2026 03:35:00 PM</title>
       <link></link>
       <description>
         Min Outside Temperature: 4.5&#176;C at 08:41:32 AM;
         Max Outside Temperature: 12.1&#176;C at 02:45:26 PM;
         Min Inside Temperature: 6.5&#176;C at 08:55:00 AM;
         Max Inside Temperature: 11.4&#176;C at 02:57:31 PM;
-        Min Barometer: 1018.4 mbar at 02:52:54 PM;
+        Min Barometer: 1018.3 mbar at 03:17:47 PM;
         Max Barometer: 1021.0 mbar at 10:37:32 AM;
         Max Wind: 18 knots from 290&#176; at 12:34:24 PM;
         Rain: 0.0 mm;
@@ -78,7 +78,7 @@
         Min Inside Humidity: 64% at 02:52:54 PM;
         Max Inside Humidity: 74% at 02:44:45 AM;
       </description>
-      <pubDate>Mon, 22 Jun 2026 15:15:00 -03</pubDate>
+      <pubDate>Mon, 22 Jun 2026 15:35:00 -03</pubDate>
       <geo:lat>-34.68247396567271</geo:lat>
       <geo:long>-59.033162742123125</geo:long>
       <content:encoded><![CDATA[
@@ -88,7 +88,7 @@
         Max Outside Temperature: 12.1&#176;C at 02:45:26 PM<br/>
         Min Inside Temperature: 6.5&#176;C at 08:55:00 AM<br/>
         Max Inside Temperature: 11.4&#176;C at 02:57:31 PM<br/>
-        Min Barometer: 1018.4 mbar at 02:52:54 PM<br/>
+        Min Barometer: 1018.3 mbar at 03:17:47 PM<br/>
         Max Barometer: 1021.0 mbar at 10:37:32 AM<br/>
         Max Wind: 18 knots from 290&#176; at 12:34:24 PM<br/>
         Rain: 0.0 mm<br/>
@@ -107,7 +107,7 @@
       ]]></content:encoded>
     </item>
     <item>
-      <title>Monthly summary as of 06/22/2026 03:15:00 PM</title>
+      <title>Monthly summary as of 06/22/2026 03:35:00 PM</title>
       <link></link>
       <description>
         Min Outside Temperature: -1.2&#176;C at 06/14/2026 08:16:53 AM;
@@ -130,7 +130,7 @@
         Min Inside Humidity: 52% at 06/14/2026 03:56:32 PM;
         Max Inside Humidity: 87% at 06/07/2026 05:44:39 AM;
       </description>
-      <pubDate>Mon, 22 Jun 2026 15:15:00 -03</pubDate>
+      <pubDate>Mon, 22 Jun 2026 15:35:00 -03</pubDate>
       <geo:lat>-34.68247396567271</geo:lat>
       <geo:long>-59.033162742123125</geo:long>
       <content:encoded><![CDATA[
@@ -159,7 +159,7 @@
       ]]></content:encoded>
     </item>
     <item>
-      <title>Yearly summary as of 06/22/2026 03:15:00 PM</title>
+      <title>Yearly summary as of 06/22/2026 03:35:00 PM</title>
       <link></link>
       <description>
         Min Outside Temperature: -1.4&#176;C at 05/22/2026 04:05:53 AM;
@@ -182,7 +182,7 @@
         Min Inside Humidity: 23% at 02/11/2026 04:46:15 PM;
         Max Inside Humidity: 87% at 04/16/2026 07:06:32 AM;
       </description>
-      <pubDate>Mon, 22 Jun 2026 15:15:00 -03</pubDate>
+      <pubDate>Mon, 22 Jun 2026 15:35:00 -03</pubDate>
       <geo:lat>-34.68247396567271</geo:lat>
       <geo:long>-59.033162742123125</geo:long>
       <content:encoded><![CDATA[
