@@ -10,44 +10,44 @@
     <link></link>
     <description>Current conditions, and daily, monthly, and yearly summaries</description>
     <language>"en"</language>
-    <pubDate>Mon, 06 Jul 2026 20:35:00 -03</pubDate>
+    <pubDate>Mon, 06 Jul 2026 20:55:00 -03</pubDate>
 
-    <lastBuildDate>Mon, 06 Jul 2026 20:35:00 -03</lastBuildDate>
+    <lastBuildDate>Mon, 06 Jul 2026 20:55:00 -03</lastBuildDate>
     <docs>http://blogs.law.harvard.edu/tech/rss</docs>
     <generator>weewx 5.2.0</generator>
     <ttl>5.0 minutes</ttl>
 
     <item>
-      <title>Weather Conditions at 07/06/2026 08:35:00 PM</title>
+      <title>Weather Conditions at 07/06/2026 08:55:00 PM</title>
       <link></link>
       <description>
-        Outside Temperature: 4.8&#176;C;
-        Inside Temperature: 6.7&#176;C;
-        Barometer: 1022.2 mbar;
-        Wind: 1 knots from 012&#176;;
+        Outside Temperature: 4.5&#176;C;
+        Inside Temperature: 6.4&#176;C;
+        Barometer: 1022.3 mbar;
+        Wind: 1 knots from 349&#176;;
         Rain: 0.0 mm;
         Rain Rate: 0.0 mm/h;
-        Wind Chill: 4.8&#176;C;
-        Heat Index: 3.3&#176;C;
-        Dew Point: 1.2&#176;C;
+        Wind Chill: 4.5&#176;C;
+        Heat Index: 3.4&#176;C;
+        Dew Point: 0.9&#176;C;
         Outside Humidity: 77%;
         Inside Humidity: 70%;
       </description>
-      <pubDate>Mon, 06 Jul 2026 20:35:00 -03</pubDate>
+      <pubDate>Mon, 06 Jul 2026 20:55:00 -03</pubDate>
       <geo:lat>-34.68247396567271</geo:lat>
       <geo:long>-59.033162742123125</geo:long>
       <content:encoded><![CDATA[
       <p>
-      Time: 07/06/2026 08:35:00 PM<br/>
-        Outside Temperature: 4.8&#176;C<br/>
-        Inside Temperature: 6.7&#176;C<br/>
-        Barometer: 1022.2 mbar<br/>
-        Wind: 1 knots from 012&#176;;
+      Time: 07/06/2026 08:55:00 PM<br/>
+        Outside Temperature: 4.5&#176;C<br/>
+        Inside Temperature: 6.4&#176;C<br/>
+        Barometer: 1022.3 mbar<br/>
+        Wind: 1 knots from 349&#176;;
         Rain: 0.0 mm<br/>
         Rain Rate: 0.0 mm/h<br/>
-        Wind Chill: 4.8&#176;C<br/>
-        Heat Index: 3.3&#176;C<br/>
-        Dew Point: 1.2&#176;C<br/>
+        Wind Chill: 4.5&#176;C<br/>
+        Heat Index: 3.4&#176;C<br/>
+        Dew Point: 0.9&#176;C<br/>
         Outside Humidity: 77%<br/>
         Inside Humidity: 70%<br/>
       </p>
@@ -55,7 +55,7 @@
     </item>
 
     <item>
-      <title>Daily summary as of 07/06/2026 08:35:00 PM</title>
+      <title>Daily summary as of 07/06/2026 08:55:00 PM</title>
       <link></link>
       <description>
         Min Outside Temperature: 1.9&#176;C at 09:05:00 AM;
@@ -71,14 +71,14 @@
         Max Wind Chill: 11.5&#176;C at 03:02:59 PM;
         Min Heat Index: 1.9&#176;C at 09:05:00 AM;
         Max Heat Index: 10.3&#176;C at 03:02:59 PM;
-        Min Dew Point: 0.8&#176;C at 07:49:32 PM;
+        Min Dew Point: 0.7&#176;C at 08:53:54 PM;
         Max Dew Point: 5.6&#176;C at 04:37:07 PM;
         Min Outside Humidity: 58% at 04:41:23 PM;
         Max Outside Humidity: 97% at 09:24:32 AM;
         Min Inside Humidity: 69% at 04:59:36 PM;
         Max Inside Humidity: 84% at 12:00:04 AM;
       </description>
-      <pubDate>Mon, 06 Jul 2026 20:35:00 -03</pubDate>
+      <pubDate>Mon, 06 Jul 2026 20:55:00 -03</pubDate>
       <geo:lat>-34.68247396567271</geo:lat>
       <geo:long>-59.033162742123125</geo:long>
       <content:encoded><![CDATA[
@@ -97,7 +97,7 @@
         Max Wind Chill: 11.5&#176;C at 03:02:59 PM<br/>
         Min Heat Index: 1.9&#176;C at 09:05:00 AM<br/>
         Max Heat Index: 10.3&#176;C at 03:02:59 PM<br/>
-        Min Dew Point: 0.8&#176;C at 07:49:32 PM<br/>
+        Min Dew Point: 0.7&#176;C at 08:53:54 PM<br/>
         Max Dew Point: 5.6&#176;C at 04:37:07 PM<br/>
         Min Outside Humidity: 58% at 04:41:23 PM<br/>
         Max Outside Humidity: 97% at 09:24:32 AM<br/>
@@ -107,7 +107,7 @@
       ]]></content:encoded>
     </item>
     <item>
-      <title>Monthly summary as of 07/06/2026 08:35:00 PM</title>
+      <title>Monthly summary as of 07/06/2026 08:55:00 PM</title>
       <link></link>
       <description>
         Min Outside Temperature: -5.0&#176;C at 07/03/2026 07:36:55 AM;
@@ -130,7 +130,7 @@
         Min Inside Humidity: 52% at 07/03/2026 04:08:32 PM;
         Max Inside Humidity: 85% at 07/05/2026 04:40:32 PM;
       </description>
-      <pubDate>Mon, 06 Jul 2026 20:35:00 -03</pubDate>
+      <pubDate>Mon, 06 Jul 2026 20:55:00 -03</pubDate>
       <geo:lat>-34.68247396567271</geo:lat>
       <geo:long>-59.033162742123125</geo:long>
       <content:encoded><![CDATA[
@@ -159,7 +159,7 @@
       ]]></content:encoded>
     </item>
     <item>
-      <title>Yearly summary as of 07/06/2026 08:35:00 PM</title>
+      <title>Yearly summary as of 07/06/2026 08:55:00 PM</title>
       <link></link>
       <description>
         Min Outside Temperature: -5.0&#176;C at 07/03/2026 07:36:55 AM;
@@ -182,7 +182,7 @@
         Min Inside Humidity: 23% at 02/11/2026 04:46:15 PM;
         Max Inside Humidity: 87% at 04/16/2026 07:06:32 AM;
       </description>
-      <pubDate>Mon, 06 Jul 2026 20:35:00 -03</pubDate>
+      <pubDate>Mon, 06 Jul 2026 20:55:00 -03</pubDate>
       <geo:lat>-34.68247396567271</geo:lat>
       <geo:long>-59.033162742123125</geo:long>
       <content:encoded><![CDATA[
