@@ -10,21 +10,21 @@
     <link></link>
     <description>Current conditions, and daily, monthly, and yearly summaries</description>
     <language>"en"</language>
-    <pubDate>Fri, 17 Jul 2026 13:15:00 -03</pubDate>
+    <pubDate>Fri, 17 Jul 2026 13:35:00 -03</pubDate>
 
-    <lastBuildDate>Fri, 17 Jul 2026 13:15:00 -03</lastBuildDate>
+    <lastBuildDate>Fri, 17 Jul 2026 13:35:00 -03</lastBuildDate>
     <docs>http://blogs.law.harvard.edu/tech/rss</docs>
     <generator>weewx 5.2.0</generator>
     <ttl>5.0 minutes</ttl>
 
     <item>
-      <title>Weather Conditions at 07/17/2026 01:15:00 PM</title>
+      <title>Weather Conditions at 07/17/2026 01:35:00 PM</title>
       <link></link>
       <description>
         Outside Temperature: 23.1&#176;C;
-        Inside Temperature: 19.1&#176;C;
-        Barometer: 994.4 mbar;
-        Wind: 3 knots from 024&#176;;
+        Inside Temperature: 19.3&#176;C;
+        Barometer: 994.0 mbar;
+        Wind: 5 knots from 018&#176;;
         Rain: 0.0 mm;
         Rain Rate: 0.0 mm/h;
         Wind Chill: 23.1&#176;C;
@@ -33,16 +33,16 @@
         Outside Humidity: 79%;
         Inside Humidity: 85%;
       </description>
-      <pubDate>Fri, 17 Jul 2026 13:15:00 -03</pubDate>
+      <pubDate>Fri, 17 Jul 2026 13:35:00 -03</pubDate>
       <geo:lat>-34.68247396567271</geo:lat>
       <geo:long>-59.033162742123125</geo:long>
       <content:encoded><![CDATA[
       <p>
-      Time: 07/17/2026 01:15:00 PM<br/>
+      Time: 07/17/2026 01:35:00 PM<br/>
         Outside Temperature: 23.1&#176;C<br/>
-        Inside Temperature: 19.1&#176;C<br/>
-        Barometer: 994.4 mbar<br/>
-        Wind: 3 knots from 024&#176;;
+        Inside Temperature: 19.3&#176;C<br/>
+        Barometer: 994.0 mbar<br/>
+        Wind: 5 knots from 018&#176;;
         Rain: 0.0 mm<br/>
         Rain Rate: 0.0 mm/h<br/>
         Wind Chill: 23.1&#176;C<br/>
@@ -55,22 +55,22 @@
     </item>
 
     <item>
-      <title>Daily summary as of 07/17/2026 01:15:00 PM</title>
+      <title>Daily summary as of 07/17/2026 01:35:00 PM</title>
       <link></link>
       <description>
         Min Outside Temperature: 16.3&#176;C at 08:10:00 AM;
-        Max Outside Temperature: 23.1&#176;C at 01:15:00 PM;
+        Max Outside Temperature: 23.2&#176;C at 01:28:14 PM;
         Min Inside Temperature: 17.0&#176;C at 07:59:32 AM;
-        Max Inside Temperature: 19.1&#176;C at 01:11:47 PM;
+        Max Inside Temperature: 19.3&#176;C at 01:31:47 PM;
         Min Barometer: 992.3 mbar at 07:19:49 AM;
         Max Barometer: 998.3 mbar at 12:05:31 AM;
         Max Wind: 23 knots from 003&#176; at 07:44:47 AM;
         Rain: 29.2 mm;
         Max Rain Rate: 81.0 mm/h;
         Min Wind Chill: 16.3&#176;C at 08:10:00 AM;
-        Max Wind Chill: 23.1&#176;C at 01:15:00 PM;
+        Max Wind Chill: 23.2&#176;C at 01:28:14 PM;
         Min Heat Index: 16.4&#176;C at 08:02:07 AM;
-        Max Heat Index: 23.6&#176;C at 01:11:26 PM;
+        Max Heat Index: 23.7&#176;C at 01:28:14 PM;
         Min Dew Point: 14.9&#176;C at 07:40:47 AM;
         Max Dew Point: 19.5&#176;C at 01:11:26 PM;
         Min Outside Humidity: 72% at 07:34:07 AM;
@@ -78,25 +78,25 @@
         Min Inside Humidity: 79% at 12:00:31 AM;
         Max Inside Humidity: 85% at 12:08:35 PM;
       </description>
-      <pubDate>Fri, 17 Jul 2026 13:15:00 -03</pubDate>
+      <pubDate>Fri, 17 Jul 2026 13:35:00 -03</pubDate>
       <geo:lat>-34.68247396567271</geo:lat>
       <geo:long>-59.033162742123125</geo:long>
       <content:encoded><![CDATA[
       <p>
       Daily summary as of 17 Jul 2026<br/>
         Min Outside Temperature: 16.3&#176;C at 08:10:00 AM<br/>
-        Max Outside Temperature: 23.1&#176;C at 01:15:00 PM<br/>
+        Max Outside Temperature: 23.2&#176;C at 01:28:14 PM<br/>
         Min Inside Temperature: 17.0&#176;C at 07:59:32 AM<br/>
-        Max Inside Temperature: 19.1&#176;C at 01:11:47 PM<br/>
+        Max Inside Temperature: 19.3&#176;C at 01:31:47 PM<br/>
         Min Barometer: 992.3 mbar at 07:19:49 AM<br/>
         Max Barometer: 998.3 mbar at 12:05:31 AM<br/>
         Max Wind: 23 knots from 003&#176; at 07:44:47 AM<br/>
         Rain: 29.2 mm<br/>
         Max Rain Rate: 81.0 mm/h<br/>
         Min Wind Chill: 16.3&#176;C at 08:10:00 AM<br/>
-        Max Wind Chill: 23.1&#176;C at 01:15:00 PM<br/>
+        Max Wind Chill: 23.2&#176;C at 01:28:14 PM<br/>
         Min Heat Index: 16.4&#176;C at 08:02:07 AM<br/>
-        Max Heat Index: 23.6&#176;C at 01:11:26 PM<br/>
+        Max Heat Index: 23.7&#176;C at 01:28:14 PM<br/>
         Min Dew Point: 14.9&#176;C at 07:40:47 AM<br/>
         Max Dew Point: 19.5&#176;C at 01:11:26 PM<br/>
         Min Outside Humidity: 72% at 07:34:07 AM<br/>
@@ -107,7 +107,7 @@
       ]]></content:encoded>
     </item>
     <item>
-      <title>Monthly summary as of 07/17/2026 01:15:00 PM</title>
+      <title>Monthly summary as of 07/17/2026 01:35:00 PM</title>
       <link></link>
       <description>
         Min Outside Temperature: -5.0&#176;C at 07/03/2026 07:36:55 AM;
@@ -130,7 +130,7 @@
         Min Inside Humidity: 52% at 07/03/2026 04:08:32 PM;
         Max Inside Humidity: 85% at 07/05/2026 04:40:32 PM;
       </description>
-      <pubDate>Fri, 17 Jul 2026 13:15:00 -03</pubDate>
+      <pubDate>Fri, 17 Jul 2026 13:35:00 -03</pubDate>
       <geo:lat>-34.68247396567271</geo:lat>
       <geo:long>-59.033162742123125</geo:long>
       <content:encoded><![CDATA[
@@ -159,7 +159,7 @@
       ]]></content:encoded>
     </item>
     <item>
-      <title>Yearly summary as of 07/17/2026 01:15:00 PM</title>
+      <title>Yearly summary as of 07/17/2026 01:35:00 PM</title>
       <link></link>
       <description>
         Min Outside Temperature: -5.0&#176;C at 07/03/2026 07:36:55 AM;
@@ -182,7 +182,7 @@
         Min Inside Humidity: 23% at 02/11/2026 04:46:15 PM;
         Max Inside Humidity: 87% at 04/16/2026 07:06:32 AM;
       </description>
-      <pubDate>Fri, 17 Jul 2026 13:15:00 -03</pubDate>
+      <pubDate>Fri, 17 Jul 2026 13:35:00 -03</pubDate>
       <geo:lat>-34.68247396567271</geo:lat>
       <geo:long>-59.033162742123125</geo:long>
       <content:encoded><![CDATA[
