@@ -10,52 +10,52 @@
     <link></link>
     <description>Current conditions, and daily, monthly, and yearly summaries</description>
     <language>"en"</language>
-    <pubDate>Mon, 20 Jul 2026 06:35:00 -03</pubDate>
+    <pubDate>Mon, 20 Jul 2026 06:55:00 -03</pubDate>
 
-    <lastBuildDate>Mon, 20 Jul 2026 06:35:00 -03</lastBuildDate>
+    <lastBuildDate>Mon, 20 Jul 2026 06:55:00 -03</lastBuildDate>
     <docs>http://blogs.law.harvard.edu/tech/rss</docs>
     <generator>weewx 5.2.0</generator>
     <ttl>5.0 minutes</ttl>
 
     <item>
-      <title>Weather Conditions at 07/20/2026 06:35:00 AM</title>
+      <title>Weather Conditions at 07/20/2026 06:55:00 AM</title>
       <link></link>
       <description>
         Outside Temperature: 9.0&#176;C;
         Inside Temperature: 10.6&#176;C;
-        Barometer: 1013.2 mbar;
-        Wind: 2 knots from 199&#176;;
+        Barometer: 1013.1 mbar;
+        Wind: 4 knots from 199&#176;;
         Rain: 0.0 mm;
         Rain Rate: 0.0 mm/h;
-        Wind Chill: 8.7&#176;C;
+        Wind Chill: 8.0&#176;C;
         Heat Index: 8.3&#176;C;
-        Dew Point: 7.3&#176;C;
-        Outside Humidity: 89%;
+        Dew Point: 7.4&#176;C;
+        Outside Humidity: 90%;
         Inside Humidity: 79%;
       </description>
-      <pubDate>Mon, 20 Jul 2026 06:35:00 -03</pubDate>
+      <pubDate>Mon, 20 Jul 2026 06:55:00 -03</pubDate>
       <geo:lat>-34.68247396567271</geo:lat>
       <geo:long>-59.033162742123125</geo:long>
       <content:encoded><![CDATA[
       <p>
-      Time: 07/20/2026 06:35:00 AM<br/>
+      Time: 07/20/2026 06:55:00 AM<br/>
         Outside Temperature: 9.0&#176;C<br/>
         Inside Temperature: 10.6&#176;C<br/>
-        Barometer: 1013.2 mbar<br/>
-        Wind: 2 knots from 199&#176;;
+        Barometer: 1013.1 mbar<br/>
+        Wind: 4 knots from 199&#176;;
         Rain: 0.0 mm<br/>
         Rain Rate: 0.0 mm/h<br/>
-        Wind Chill: 8.7&#176;C<br/>
+        Wind Chill: 8.0&#176;C<br/>
         Heat Index: 8.3&#176;C<br/>
-        Dew Point: 7.3&#176;C<br/>
-        Outside Humidity: 89%<br/>
+        Dew Point: 7.4&#176;C<br/>
+        Outside Humidity: 90%<br/>
         Inside Humidity: 79%<br/>
       </p>
       ]]></content:encoded>
     </item>
 
     <item>
-      <title>Daily summary as of 07/20/2026 06:35:00 AM</title>
+      <title>Daily summary as of 07/20/2026 06:55:00 AM</title>
       <link></link>
       <description>
         Min Outside Temperature: 8.7&#176;C at 04:20:00 AM;
@@ -78,7 +78,7 @@
         Min Inside Humidity: 79% at 02:24:46 AM;
         Max Inside Humidity: 81% at 12:00:25 AM;
       </description>
-      <pubDate>Mon, 20 Jul 2026 06:35:00 -03</pubDate>
+      <pubDate>Mon, 20 Jul 2026 06:55:00 -03</pubDate>
       <geo:lat>-34.68247396567271</geo:lat>
       <geo:long>-59.033162742123125</geo:long>
       <content:encoded><![CDATA[
@@ -107,7 +107,7 @@
       ]]></content:encoded>
     </item>
     <item>
-      <title>Monthly summary as of 07/20/2026 06:35:00 AM</title>
+      <title>Monthly summary as of 07/20/2026 06:55:00 AM</title>
       <link></link>
       <description>
         Min Outside Temperature: -5.0&#176;C at 07/03/2026 07:36:55 AM;
@@ -130,7 +130,7 @@
         Min Inside Humidity: 52% at 07/03/2026 04:08:32 PM;
         Max Inside Humidity: 90% at 07/17/2026 08:41:31 PM;
       </description>
-      <pubDate>Mon, 20 Jul 2026 06:35:00 -03</pubDate>
+      <pubDate>Mon, 20 Jul 2026 06:55:00 -03</pubDate>
       <geo:lat>-34.68247396567271</geo:lat>
       <geo:long>-59.033162742123125</geo:long>
       <content:encoded><![CDATA[
@@ -159,7 +159,7 @@
       ]]></content:encoded>
     </item>
     <item>
-      <title>Yearly summary as of 07/20/2026 06:35:00 AM</title>
+      <title>Yearly summary as of 07/20/2026 06:55:00 AM</title>
       <link></link>
       <description>
         Min Outside Temperature: -5.0&#176;C at 07/03/2026 07:36:55 AM;
@@ -182,7 +182,7 @@
         Min Inside Humidity: 23% at 02/11/2026 04:46:15 PM;
         Max Inside Humidity: 90% at 07/17/2026 08:41:31 PM;
       </description>
-      <pubDate>Mon, 20 Jul 2026 06:35:00 -03</pubDate>
+      <pubDate>Mon, 20 Jul 2026 06:55:00 -03</pubDate>
       <geo:lat>-34.68247396567271</geo:lat>
       <geo:long>-59.033162742123125</geo:long>
       <content:encoded><![CDATA[
