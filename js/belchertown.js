@@ -65,7 +65,7 @@ jQuery(document).ready(function() {
         } else if (window.location.search.indexOf('?theme=auto') === 0) {
             belchertown_debug("Theme: Setting auto theme because of URL override");
             sessionStorage.setItem('theme', 'auto')
-            autoTheme(18, 24, 07, 37)
+            autoTheme(18, 25, 07, 36)
         }
     }
 
