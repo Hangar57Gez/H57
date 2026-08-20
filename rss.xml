@@ -10,64 +10,64 @@
     <link></link>
     <description>Current conditions, and daily, monthly, and yearly summaries</description>
     <language>"en"</language>
-    <pubDate>Thu, 20 Aug 2026 05:55:00 -03</pubDate>
+    <pubDate>Thu, 20 Aug 2026 06:15:00 -03</pubDate>
 
-    <lastBuildDate>Thu, 20 Aug 2026 05:55:00 -03</lastBuildDate>
+    <lastBuildDate>Thu, 20 Aug 2026 06:15:00 -03</lastBuildDate>
     <docs>http://blogs.law.harvard.edu/tech/rss</docs>
     <generator>weewx 5.2.0</generator>
     <ttl>5.0 minutes</ttl>
 
     <item>
-      <title>Weather Conditions at 08/20/2026 05:55:00 AM</title>
+      <title>Weather Conditions at 08/20/2026 06:15:00 AM</title>
       <link></link>
       <description>
-        Outside Temperature: 3.1&#176;C;
+        Outside Temperature: 3.5&#176;C;
         Inside Temperature: 6.8&#176;C;
-        Barometer: 1017.0 mbar;
-        Wind: 1 knots from 234&#176;;
+        Barometer: 1017.4 mbar;
+        Wind: 0 knots from 244&#176;;
         Rain: 0.0 mm;
         Rain Rate: 0.0 mm/h;
-        Wind Chill: 3.1&#176;C;
-        Heat Index: 3.1&#176;C;
-        Dew Point: 2.4&#176;C;
+        Wind Chill: 3.5&#176;C;
+        Heat Index: 3.5&#176;C;
+        Dew Point: 2.8&#176;C;
         Outside Humidity: 95%;
-        Inside Humidity: 70%;
+        Inside Humidity: 71%;
       </description>
-      <pubDate>Thu, 20 Aug 2026 05:55:00 -03</pubDate>
+      <pubDate>Thu, 20 Aug 2026 06:15:00 -03</pubDate>
       <geo:lat>-34.68247396567271</geo:lat>
       <geo:long>-59.033162742123125</geo:long>
       <content:encoded><![CDATA[
       <p>
-      Time: 08/20/2026 05:55:00 AM<br/>
-        Outside Temperature: 3.1&#176;C<br/>
+      Time: 08/20/2026 06:15:00 AM<br/>
+        Outside Temperature: 3.5&#176;C<br/>
         Inside Temperature: 6.8&#176;C<br/>
-        Barometer: 1017.0 mbar<br/>
-        Wind: 1 knots from 234&#176;;
+        Barometer: 1017.4 mbar<br/>
+        Wind: 0 knots from 244&#176;;
         Rain: 0.0 mm<br/>
         Rain Rate: 0.0 mm/h<br/>
-        Wind Chill: 3.1&#176;C<br/>
-        Heat Index: 3.1&#176;C<br/>
-        Dew Point: 2.4&#176;C<br/>
+        Wind Chill: 3.5&#176;C<br/>
+        Heat Index: 3.5&#176;C<br/>
+        Dew Point: 2.8&#176;C<br/>
         Outside Humidity: 95%<br/>
-        Inside Humidity: 70%<br/>
+        Inside Humidity: 71%<br/>
       </p>
       ]]></content:encoded>
     </item>
 
     <item>
-      <title>Daily summary as of 08/20/2026 05:55:00 AM</title>
+      <title>Daily summary as of 08/20/2026 06:15:00 AM</title>
       <link></link>
       <description>
         Min Outside Temperature: 3.0&#176;C at 05:50:04 AM;
         Max Outside Temperature: 6.1&#176;C at 12:00:12 AM;
-        Min Inside Temperature: 6.8&#176;C at 05:55:00 AM;
+        Min Inside Temperature: 6.7&#176;C at 06:04:32 AM;
         Max Inside Temperature: 9.5&#176;C at 12:00:12 AM;
         Min Barometer: 1016.9 mbar at 05:46:32 AM;
         Max Barometer: 1021.2 mbar at 12:07:56 AM;
-        Max Wind: 2 knots from 179&#176; at 12:05:31 AM;
+        Max Wind: 4 knots from 273&#176; at 06:02:53 AM;
         Rain: 0.0 mm;
         Max Rain Rate: 0.0 mm/h;
-        Min Wind Chill: 3.0&#176;C at 05:50:04 AM;
+        Min Wind Chill: 2.1&#176;C at 06:02:53 AM;
         Max Wind Chill: 6.1&#176;C at 12:00:12 AM;
         Min Heat Index: 3.0&#176;C at 05:50:04 AM;
         Max Heat Index: 5.0&#176;C at 12:05:00 AM;
@@ -76,9 +76,9 @@
         Min Outside Humidity: 86% at 12:00:12 AM;
         Max Outside Humidity: 95% at 05:10:03 AM;
         Min Inside Humidity: 65% at 12:00:12 AM;
-        Max Inside Humidity: 70% at 04:03:32 AM;
+        Max Inside Humidity: 71% at 06:00:48 AM;
       </description>
-      <pubDate>Thu, 20 Aug 2026 05:55:00 -03</pubDate>
+      <pubDate>Thu, 20 Aug 2026 06:15:00 -03</pubDate>
       <geo:lat>-34.68247396567271</geo:lat>
       <geo:long>-59.033162742123125</geo:long>
       <content:encoded><![CDATA[
@@ -86,14 +86,14 @@
       Daily summary as of 20 Aug 2026<br/>
         Min Outside Temperature: 3.0&#176;C at 05:50:04 AM<br/>
         Max Outside Temperature: 6.1&#176;C at 12:00:12 AM<br/>
-        Min Inside Temperature: 6.8&#176;C at 05:55:00 AM<br/>
+        Min Inside Temperature: 6.7&#176;C at 06:04:32 AM<br/>
         Max Inside Temperature: 9.5&#176;C at 12:00:12 AM<br/>
         Min Barometer: 1016.9 mbar at 05:46:32 AM<br/>
         Max Barometer: 1021.2 mbar at 12:07:56 AM<br/>
-        Max Wind: 2 knots from 179&#176; at 12:05:31 AM<br/>
+        Max Wind: 4 knots from 273&#176; at 06:02:53 AM<br/>
         Rain: 0.0 mm<br/>
         Max Rain Rate: 0.0 mm/h<br/>
-        Min Wind Chill: 3.0&#176;C at 05:50:04 AM<br/>
+        Min Wind Chill: 2.1&#176;C at 06:02:53 AM<br/>
         Max Wind Chill: 6.1&#176;C at 12:00:12 AM<br/>
         Min Heat Index: 3.0&#176;C at 05:50:04 AM<br/>
         Max Heat Index: 5.0&#176;C at 12:05:00 AM<br/>
@@ -102,12 +102,12 @@
         Min Outside Humidity: 86% at 12:00:12 AM<br/>
         Max Outside Humidity: 95% at 05:10:03 AM<br/>
         Min Inside Humidity: 65% at 12:00:12 AM<br/>
-        Max Inside Humidity: 70% at 04:03:32 AM<br/>
+        Max Inside Humidity: 71% at 06:00:48 AM<br/>
       </p>
       ]]></content:encoded>
     </item>
     <item>
-      <title>Monthly summary as of 08/20/2026 05:55:00 AM</title>
+      <title>Monthly summary as of 08/20/2026 06:15:00 AM</title>
       <link></link>
       <description>
         Min Outside Temperature: -0.7&#176;C at 08/19/2026 07:51:25 AM;
@@ -130,7 +130,7 @@
         Min Inside Humidity: 51% at 08/10/2026 04:28:34 PM;
         Max Inside Humidity: 90% at 08/01/2026 12:00:30 AM;
       </description>
-      <pubDate>Thu, 20 Aug 2026 05:55:00 -03</pubDate>
+      <pubDate>Thu, 20 Aug 2026 06:15:00 -03</pubDate>
       <geo:lat>-34.68247396567271</geo:lat>
       <geo:long>-59.033162742123125</geo:long>
       <content:encoded><![CDATA[
@@ -159,7 +159,7 @@
       ]]></content:encoded>
     </item>
     <item>
-      <title>Yearly summary as of 08/20/2026 05:55:00 AM</title>
+      <title>Yearly summary as of 08/20/2026 06:15:00 AM</title>
       <link></link>
       <description>
         Min Outside Temperature: -5.0&#176;C at 07/03/2026 07:36:55 AM;
@@ -182,7 +182,7 @@
         Min Inside Humidity: 23% at 02/11/2026 04:46:15 PM;
         Max Inside Humidity: 91% at 07/31/2026 08:36:30 PM;
       </description>
-      <pubDate>Thu, 20 Aug 2026 05:55:00 -03</pubDate>
+      <pubDate>Thu, 20 Aug 2026 06:15:00 -03</pubDate>
       <geo:lat>-34.68247396567271</geo:lat>
       <geo:long>-59.033162742123125</geo:long>
       <content:encoded><![CDATA[
