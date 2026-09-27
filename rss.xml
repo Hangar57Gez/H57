@@ -10,61 +10,61 @@
     <link></link>
     <description>Current conditions, and daily, monthly, and yearly summaries</description>
     <language>"en"</language>
-    <pubDate>Sun, 27 Sep 2026 15:35:00 -03</pubDate>
+    <pubDate>Sun, 27 Sep 2026 15:55:00 -03</pubDate>
 
-    <lastBuildDate>Sun, 27 Sep 2026 15:35:00 -03</lastBuildDate>
+    <lastBuildDate>Sun, 27 Sep 2026 15:55:00 -03</lastBuildDate>
     <docs>http://blogs.law.harvard.edu/tech/rss</docs>
     <generator>weewx 5.2.0</generator>
     <ttl>5.0 minutes</ttl>
 
     <item>
-      <title>Weather Conditions at 09/27/2026 03:35:00 PM</title>
+      <title>Weather Conditions at 09/27/2026 03:55:00 PM</title>
       <link></link>
       <description>
-        Outside Temperature: 14.3&#176;C;
-        Inside Temperature: 15.7&#176;C;
-        Barometer: 1014.2 mbar;
-        Wind: 6 knots from 173&#176;;
-        Rain: 0.3 mm;
-        Rain Rate: 4.6 mm/h;
-        Wind Chill: 14.3&#176;C;
-        Heat Index: 14.2&#176;C;
-        Dew Point: 12.7&#176;C;
-        Outside Humidity: 90%;
+        Outside Temperature: 16.2&#176;C;
+        Inside Temperature: 16.6&#176;C;
+        Barometer: 1011.3 mbar;
+        Wind: 11 knots from 169&#176;;
+        Rain: 0.0 mm;
+        Rain Rate: 0.0 mm/h;
+        Wind Chill: 16.2&#176;C;
+        Heat Index: 16.1&#176;C;
+        Dew Point: 13.6&#176;C;
+        Outside Humidity: 84%;
         Inside Humidity: 71%;
       </description>
-      <pubDate>Sun, 27 Sep 2026 15:35:00 -03</pubDate>
+      <pubDate>Sun, 27 Sep 2026 15:55:00 -03</pubDate>
       <geo:lat>-34.68247396567271</geo:lat>
       <geo:long>-59.033162742123125</geo:long>
       <content:encoded><![CDATA[
       <p>
-      Time: 09/27/2026 03:35:00 PM<br/>
-        Outside Temperature: 14.3&#176;C<br/>
-        Inside Temperature: 15.7&#176;C<br/>
-        Barometer: 1014.2 mbar<br/>
-        Wind: 6 knots from 173&#176;;
-        Rain: 0.3 mm<br/>
-        Rain Rate: 4.6 mm/h<br/>
-        Wind Chill: 14.3&#176;C<br/>
-        Heat Index: 14.2&#176;C<br/>
-        Dew Point: 12.7&#176;C<br/>
-        Outside Humidity: 90%<br/>
+      Time: 09/27/2026 03:55:00 PM<br/>
+        Outside Temperature: 16.2&#176;C<br/>
+        Inside Temperature: 16.6&#176;C<br/>
+        Barometer: 1011.3 mbar<br/>
+        Wind: 11 knots from 169&#176;;
+        Rain: 0.0 mm<br/>
+        Rain Rate: 0.0 mm/h<br/>
+        Wind Chill: 16.2&#176;C<br/>
+        Heat Index: 16.1&#176;C<br/>
+        Dew Point: 13.6&#176;C<br/>
+        Outside Humidity: 84%<br/>
         Inside Humidity: 71%<br/>
       </p>
       ]]></content:encoded>
     </item>
 
     <item>
-      <title>Daily summary as of 09/27/2026 03:35:00 PM</title>
+      <title>Daily summary as of 09/27/2026 03:55:00 PM</title>
       <link></link>
       <description>
         Min Outside Temperature: 12.3&#176;C at 10:53:52 AM;
         Max Outside Temperature: 18.3&#176;C at 12:33:53 AM;
         Min Inside Temperature: 15.4&#176;C at 10:50:45 AM;
         Max Inside Temperature: 19.1&#176;C at 12:50:46 AM;
-        Min Barometer: 1011.8 mbar at 02:54:58 PM;
+        Min Barometer: 1010.8 mbar at 03:49:04 PM;
         Max Barometer: 1019.3 mbar at 10:35:33 AM;
-        Max Wind: 21 knots from 223&#176; at 02:55:47 PM;
+        Max Wind: 25 knots from 173&#176; at 03:50:32 PM;
         Rain: 18.6 mm;
         Max Rain Rate: 32.4 mm/h;
         Min Wind Chill: 12.3&#176;C at 10:53:52 AM;
@@ -72,13 +72,13 @@
         Min Heat Index: 11.8&#176;C at 10:54:24 AM;
         Max Heat Index: 17.5&#176;C at 12:37:31 AM;
         Min Dew Point: 7.5&#176;C at 02:49:05 AM;
-        Max Dew Point: 12.9&#176;C at 03:34:24 PM;
+        Max Dew Point: 13.9&#176;C at 03:54:56 PM;
         Min Outside Humidity: 52% at 12:30:56 AM;
-        Max Outside Humidity: 91% at 03:34:24 PM;
+        Max Outside Humidity: 92% at 03:39:33 PM;
         Min Inside Humidity: 51% at 01:02:56 AM;
         Max Inside Humidity: 71% at 02:55:47 PM;
       </description>
-      <pubDate>Sun, 27 Sep 2026 15:35:00 -03</pubDate>
+      <pubDate>Sun, 27 Sep 2026 15:55:00 -03</pubDate>
       <geo:lat>-34.68247396567271</geo:lat>
       <geo:long>-59.033162742123125</geo:long>
       <content:encoded><![CDATA[
@@ -88,9 +88,9 @@
         Max Outside Temperature: 18.3&#176;C at 12:33:53 AM<br/>
         Min Inside Temperature: 15.4&#176;C at 10:50:45 AM<br/>
         Max Inside Temperature: 19.1&#176;C at 12:50:46 AM<br/>
-        Min Barometer: 1011.8 mbar at 02:54:58 PM<br/>
+        Min Barometer: 1010.8 mbar at 03:49:04 PM<br/>
         Max Barometer: 1019.3 mbar at 10:35:33 AM<br/>
-        Max Wind: 21 knots from 223&#176; at 02:55:47 PM<br/>
+        Max Wind: 25 knots from 173&#176; at 03:50:32 PM<br/>
         Rain: 18.6 mm<br/>
         Max Rain Rate: 32.4 mm/h<br/>
         Min Wind Chill: 12.3&#176;C at 10:53:52 AM<br/>
@@ -98,16 +98,16 @@
         Min Heat Index: 11.8&#176;C at 10:54:24 AM<br/>
         Max Heat Index: 17.5&#176;C at 12:37:31 AM<br/>
         Min Dew Point: 7.5&#176;C at 02:49:05 AM<br/>
-        Max Dew Point: 12.9&#176;C at 03:34:24 PM<br/>
+        Max Dew Point: 13.9&#176;C at 03:54:56 PM<br/>
         Min Outside Humidity: 52% at 12:30:56 AM<br/>
-        Max Outside Humidity: 91% at 03:34:24 PM<br/>
+        Max Outside Humidity: 92% at 03:39:33 PM<br/>
         Min Inside Humidity: 51% at 01:02:56 AM<br/>
         Max Inside Humidity: 71% at 02:55:47 PM<br/>
       </p>
       ]]></content:encoded>
     </item>
     <item>
-      <title>Monthly summary as of 09/27/2026 03:35:00 PM</title>
+      <title>Monthly summary as of 09/27/2026 03:55:00 PM</title>
       <link></link>
       <description>
         Min Outside Temperature: -2.7&#176;C at 09/07/2026 07:09:14 AM;
@@ -130,7 +130,7 @@
         Min Inside Humidity: 33% at 09/26/2026 02:24:01 PM;
         Max Inside Humidity: 79% at 09/01/2026 06:39:31 AM;
       </description>
-      <pubDate>Sun, 27 Sep 2026 15:35:00 -03</pubDate>
+      <pubDate>Sun, 27 Sep 2026 15:55:00 -03</pubDate>
       <geo:lat>-34.68247396567271</geo:lat>
       <geo:long>-59.033162742123125</geo:long>
       <content:encoded><![CDATA[
@@ -159,7 +159,7 @@
       ]]></content:encoded>
     </item>
     <item>
-      <title>Yearly summary as of 09/27/2026 03:35:00 PM</title>
+      <title>Yearly summary as of 09/27/2026 03:55:00 PM</title>
       <link></link>
       <description>
         Min Outside Temperature: -5.0&#176;C at 07/03/2026 07:36:55 AM;
@@ -182,7 +182,7 @@
         Min Inside Humidity: 23% at 02/11/2026 04:46:15 PM;
         Max Inside Humidity: 91% at 07/31/2026 08:36:30 PM;
       </description>
-      <pubDate>Sun, 27 Sep 2026 15:35:00 -03</pubDate>
+      <pubDate>Sun, 27 Sep 2026 15:55:00 -03</pubDate>
       <geo:lat>-34.68247396567271</geo:lat>
       <geo:long>-59.033162742123125</geo:long>
       <content:encoded><![CDATA[
