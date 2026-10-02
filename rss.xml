@@ -10,96 +10,96 @@
     <link></link>
     <description>Current conditions, and daily, monthly, and yearly summaries</description>
     <language>"en"</language>
-    <pubDate>Fri, 02 Oct 2026 09:35:00 -03</pubDate>
+    <pubDate>Fri, 02 Oct 2026 09:55:00 -03</pubDate>
 
-    <lastBuildDate>Fri, 02 Oct 2026 09:35:00 -03</lastBuildDate>
+    <lastBuildDate>Fri, 02 Oct 2026 09:55:00 -03</lastBuildDate>
     <docs>http://blogs.law.harvard.edu/tech/rss</docs>
     <generator>weewx 5.2.0</generator>
     <ttl>5.0 minutes</ttl>
 
     <item>
-      <title>Weather Conditions at 10/02/2026 09:35:00 AM</title>
+      <title>Weather Conditions at 10/02/2026 09:55:00 AM</title>
       <link></link>
       <description>
-        Outside Temperature: 14.3&#176;C;
-        Inside Temperature: 10.9&#176;C;
+        Outside Temperature: 14.7&#176;C;
+        Inside Temperature: 11.4&#176;C;
         Barometer: 1021.0 mbar;
-        Wind: 5 knots from 121&#176;;
+        Wind: 5 knots from 108&#176;;
         Rain: 0.0 mm;
         Rain Rate: 0.0 mm/h;
-        Wind Chill: 14.3&#176;C;
-        Heat Index: 13.6&#176;C;
-        Dew Point: 8.3&#176;C;
-        Outside Humidity: 67%;
+        Wind Chill: 14.7&#176;C;
+        Heat Index: 13.8&#176;C;
+        Dew Point: 7.5&#176;C;
+        Outside Humidity: 62%;
         Inside Humidity: 72%;
       </description>
-      <pubDate>Fri, 02 Oct 2026 09:35:00 -03</pubDate>
+      <pubDate>Fri, 02 Oct 2026 09:55:00 -03</pubDate>
       <geo:lat>-34.68247396567271</geo:lat>
       <geo:long>-59.033162742123125</geo:long>
       <content:encoded><![CDATA[
       <p>
-      Time: 10/02/2026 09:35:00 AM<br/>
-        Outside Temperature: 14.3&#176;C<br/>
-        Inside Temperature: 10.9&#176;C<br/>
+      Time: 10/02/2026 09:55:00 AM<br/>
+        Outside Temperature: 14.7&#176;C<br/>
+        Inside Temperature: 11.4&#176;C<br/>
         Barometer: 1021.0 mbar<br/>
-        Wind: 5 knots from 121&#176;;
+        Wind: 5 knots from 108&#176;;
         Rain: 0.0 mm<br/>
         Rain Rate: 0.0 mm/h<br/>
-        Wind Chill: 14.3&#176;C<br/>
-        Heat Index: 13.6&#176;C<br/>
-        Dew Point: 8.3&#176;C<br/>
-        Outside Humidity: 67%<br/>
+        Wind Chill: 14.7&#176;C<br/>
+        Heat Index: 13.8&#176;C<br/>
+        Dew Point: 7.5&#176;C<br/>
+        Outside Humidity: 62%<br/>
         Inside Humidity: 72%<br/>
       </p>
       ]]></content:encoded>
     </item>
 
     <item>
-      <title>Daily summary as of 10/02/2026 09:35:00 AM</title>
+      <title>Daily summary as of 10/02/2026 09:55:00 AM</title>
       <link></link>
       <description>
         Min Outside Temperature: 2.1&#176;C at 05:26:34 AM;
-        Max Outside Temperature: 14.6&#176;C at 09:26:13 AM;
+        Max Outside Temperature: 14.8&#176;C at 09:52:31 AM;
         Min Inside Temperature: 6.1&#176;C at 06:24:31 AM;
-        Max Inside Temperature: 11.0&#176;C at 09:34:34 AM;
-        Min Barometer: 1020.9 mbar at 06:03:01 AM;
+        Max Inside Temperature: 11.5&#176;C at 09:52:31 AM;
+        Min Barometer: 1020.9 mbar at 09:44:05 AM;
         Max Barometer: 1023.4 mbar at 01:54:35 AM;
         Max Wind: 11 knots from 098&#176; at 09:34:13 AM;
         Rain: 0.0 mm;
         Max Rain Rate: 0.0 mm/h;
         Min Wind Chill: 2.1&#176;C at 05:26:34 AM;
-        Max Wind Chill: 14.6&#176;C at 09:26:13 AM;
+        Max Wind Chill: 14.8&#176;C at 09:52:31 AM;
         Min Heat Index: 2.1&#176;C at 05:26:34 AM;
-        Max Heat Index: 13.9&#176;C at 09:28:05 AM;
+        Max Heat Index: 14.0&#176;C at 09:52:53 AM;
         Min Dew Point: 1.5&#176;C at 05:55:00 AM;
         Max Dew Point: 9.2&#176;C at 09:17:10 AM;
-        Min Outside Humidity: 63% at 09:34:34 AM;
+        Min Outside Humidity: 61% at 09:44:53 AM;
         Max Outside Humidity: 97% at 06:16:53 AM;
         Min Inside Humidity: 66% at 12:00:53 AM;
         Max Inside Humidity: 72% at 08:58:35 AM;
       </description>
-      <pubDate>Fri, 02 Oct 2026 09:35:00 -03</pubDate>
+      <pubDate>Fri, 02 Oct 2026 09:55:00 -03</pubDate>
       <geo:lat>-34.68247396567271</geo:lat>
       <geo:long>-59.033162742123125</geo:long>
       <content:encoded><![CDATA[
       <p>
       Daily summary as of 02 Oct 2026<br/>
         Min Outside Temperature: 2.1&#176;C at 05:26:34 AM<br/>
-        Max Outside Temperature: 14.6&#176;C at 09:26:13 AM<br/>
+        Max Outside Temperature: 14.8&#176;C at 09:52:31 AM<br/>
         Min Inside Temperature: 6.1&#176;C at 06:24:31 AM<br/>
-        Max Inside Temperature: 11.0&#176;C at 09:34:34 AM<br/>
-        Min Barometer: 1020.9 mbar at 06:03:01 AM<br/>
+        Max Inside Temperature: 11.5&#176;C at 09:52:31 AM<br/>
+        Min Barometer: 1020.9 mbar at 09:44:05 AM<br/>
         Max Barometer: 1023.4 mbar at 01:54:35 AM<br/>
         Max Wind: 11 knots from 098&#176; at 09:34:13 AM<br/>
         Rain: 0.0 mm<br/>
         Max Rain Rate: 0.0 mm/h<br/>
         Min Wind Chill: 2.1&#176;C at 05:26:34 AM<br/>
-        Max Wind Chill: 14.6&#176;C at 09:26:13 AM<br/>
+        Max Wind Chill: 14.8&#176;C at 09:52:31 AM<br/>
         Min Heat Index: 2.1&#176;C at 05:26:34 AM<br/>
-        Max Heat Index: 13.9&#176;C at 09:28:05 AM<br/>
+        Max Heat Index: 14.0&#176;C at 09:52:53 AM<br/>
         Min Dew Point: 1.5&#176;C at 05:55:00 AM<br/>
         Max Dew Point: 9.2&#176;C at 09:17:10 AM<br/>
-        Min Outside Humidity: 63% at 09:34:34 AM<br/>
+        Min Outside Humidity: 61% at 09:44:53 AM<br/>
         Max Outside Humidity: 97% at 06:16:53 AM<br/>
         Min Inside Humidity: 66% at 12:00:53 AM<br/>
         Max Inside Humidity: 72% at 08:58:35 AM<br/>
@@ -107,7 +107,7 @@
       ]]></content:encoded>
     </item>
     <item>
-      <title>Monthly summary as of 10/02/2026 09:35:00 AM</title>
+      <title>Monthly summary as of 10/02/2026 09:55:00 AM</title>
       <link></link>
       <description>
         Min Outside Temperature: 2.1&#176;C at 10/02/2026 05:26:34 AM;
@@ -130,7 +130,7 @@
         Min Inside Humidity: 62% at 10/01/2026 02:57:47 PM;
         Max Inside Humidity: 74% at 10/01/2026 05:05:32 AM;
       </description>
-      <pubDate>Fri, 02 Oct 2026 09:35:00 -03</pubDate>
+      <pubDate>Fri, 02 Oct 2026 09:55:00 -03</pubDate>
       <geo:lat>-34.68247396567271</geo:lat>
       <geo:long>-59.033162742123125</geo:long>
       <content:encoded><![CDATA[
@@ -159,7 +159,7 @@
       ]]></content:encoded>
     </item>
     <item>
-      <title>Yearly summary as of 10/02/2026 09:35:00 AM</title>
+      <title>Yearly summary as of 10/02/2026 09:55:00 AM</title>
       <link></link>
       <description>
         Min Outside Temperature: -5.0&#176;C at 07/03/2026 07:36:55 AM;
@@ -182,7 +182,7 @@
         Min Inside Humidity: 23% at 02/11/2026 04:46:15 PM;
         Max Inside Humidity: 91% at 07/31/2026 08:36:30 PM;
       </description>
-      <pubDate>Fri, 02 Oct 2026 09:35:00 -03</pubDate>
+      <pubDate>Fri, 02 Oct 2026 09:55:00 -03</pubDate>
       <geo:lat>-34.68247396567271</geo:lat>
       <geo:long>-59.033162742123125</geo:long>
       <content:encoded><![CDATA[
