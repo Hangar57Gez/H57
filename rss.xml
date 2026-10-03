@@ -10,44 +10,44 @@
     <link></link>
     <description>Current conditions, and daily, monthly, and yearly summaries</description>
     <language>"en"</language>
-    <pubDate>Sat, 03 Oct 2026 10:15:00 -03</pubDate>
+    <pubDate>Sat, 03 Oct 2026 10:35:00 -03</pubDate>
 
-    <lastBuildDate>Sat, 03 Oct 2026 10:15:00 -03</lastBuildDate>
+    <lastBuildDate>Sat, 03 Oct 2026 10:35:00 -03</lastBuildDate>
     <docs>http://blogs.law.harvard.edu/tech/rss</docs>
     <generator>weewx 5.2.0</generator>
     <ttl>5.0 minutes</ttl>
 
     <item>
-      <title>Weather Conditions at 10/03/2026 10:15:00 AM</title>
+      <title>Weather Conditions at 10/03/2026 10:35:00 AM</title>
       <link></link>
       <description>
-        Outside Temperature: 11.7&#176;C;
-        Inside Temperature: 13.5&#176;C;
-        Barometer: 1011.4 mbar;
-        Wind: 6 knots from 148&#176;;
+        Outside Temperature: 11.8&#176;C;
+        Inside Temperature: 13.7&#176;C;
+        Barometer: 1011.2 mbar;
+        Wind: 6 knots from 130&#176;;
         Rain: 0.0 mm;
-        Rain Rate: 1.8 mm/h;
-        Wind Chill: 11.7&#176;C;
-        Heat Index: 11.4&#176;C;
-        Dew Point: 10.9&#176;C;
+        Rain Rate: 0.0 mm/h;
+        Wind Chill: 11.8&#176;C;
+        Heat Index: 11.5&#176;C;
+        Dew Point: 11.0&#176;C;
         Outside Humidity: 95%;
         Inside Humidity: 75%;
       </description>
-      <pubDate>Sat, 03 Oct 2026 10:15:00 -03</pubDate>
+      <pubDate>Sat, 03 Oct 2026 10:35:00 -03</pubDate>
       <geo:lat>-34.68247396567271</geo:lat>
       <geo:long>-59.033162742123125</geo:long>
       <content:encoded><![CDATA[
       <p>
-      Time: 10/03/2026 10:15:00 AM<br/>
-        Outside Temperature: 11.7&#176;C<br/>
-        Inside Temperature: 13.5&#176;C<br/>
-        Barometer: 1011.4 mbar<br/>
-        Wind: 6 knots from 148&#176;;
+      Time: 10/03/2026 10:35:00 AM<br/>
+        Outside Temperature: 11.8&#176;C<br/>
+        Inside Temperature: 13.7&#176;C<br/>
+        Barometer: 1011.2 mbar<br/>
+        Wind: 6 knots from 130&#176;;
         Rain: 0.0 mm<br/>
-        Rain Rate: 1.8 mm/h<br/>
-        Wind Chill: 11.7&#176;C<br/>
-        Heat Index: 11.4&#176;C<br/>
-        Dew Point: 10.9&#176;C<br/>
+        Rain Rate: 0.0 mm/h<br/>
+        Wind Chill: 11.8&#176;C<br/>
+        Heat Index: 11.5&#176;C<br/>
+        Dew Point: 11.0&#176;C<br/>
         Outside Humidity: 95%<br/>
         Inside Humidity: 75%<br/>
       </p>
@@ -55,7 +55,7 @@
     </item>
 
     <item>
-      <title>Daily summary as of 10/03/2026 10:15:00 AM</title>
+      <title>Daily summary as of 10/03/2026 10:35:00 AM</title>
       <link></link>
       <description>
         Min Outside Temperature: 11.2&#176;C at 09:20:00 AM;
@@ -65,20 +65,20 @@
         Min Barometer: 1008.2 mbar at 06:01:32 AM;
         Max Barometer: 1013.1 mbar at 07:36:32 AM;
         Max Wind: 14 knots from 285&#176; at 07:07:16 AM;
-        Rain: 24.4 mm;
+        Rain: 24.6 mm;
         Max Rain Rate: 12.6 mm/h;
         Min Wind Chill: 11.2&#176;C at 09:20:00 AM;
         Max Wind Chill: 14.9&#176;C at 12:20:00 AM;
         Min Heat Index: 10.9&#176;C at 08:55:15 AM;
         Max Heat Index: 14.2&#176;C at 12:05:40 AM;
         Min Dew Point: 8.5&#176;C at 01:01:23 AM;
-        Max Dew Point: 11.0&#176;C at 10:11:48 AM;
+        Max Dew Point: 11.1&#176;C at 10:34:59 AM;
         Min Outside Humidity: 66% at 12:08:31 AM;
         Max Outside Humidity: 96% at 10:11:48 AM;
         Min Inside Humidity: 63% at 12:05:40 AM;
         Max Inside Humidity: 75% at 09:40:32 AM;
       </description>
-      <pubDate>Sat, 03 Oct 2026 10:15:00 -03</pubDate>
+      <pubDate>Sat, 03 Oct 2026 10:35:00 -03</pubDate>
       <geo:lat>-34.68247396567271</geo:lat>
       <geo:long>-59.033162742123125</geo:long>
       <content:encoded><![CDATA[
@@ -91,14 +91,14 @@
         Min Barometer: 1008.2 mbar at 06:01:32 AM<br/>
         Max Barometer: 1013.1 mbar at 07:36:32 AM<br/>
         Max Wind: 14 knots from 285&#176; at 07:07:16 AM<br/>
-        Rain: 24.4 mm<br/>
+        Rain: 24.6 mm<br/>
         Max Rain Rate: 12.6 mm/h<br/>
         Min Wind Chill: 11.2&#176;C at 09:20:00 AM<br/>
         Max Wind Chill: 14.9&#176;C at 12:20:00 AM<br/>
         Min Heat Index: 10.9&#176;C at 08:55:15 AM<br/>
         Max Heat Index: 14.2&#176;C at 12:05:40 AM<br/>
         Min Dew Point: 8.5&#176;C at 01:01:23 AM<br/>
-        Max Dew Point: 11.0&#176;C at 10:11:48 AM<br/>
+        Max Dew Point: 11.1&#176;C at 10:34:59 AM<br/>
         Min Outside Humidity: 66% at 12:08:31 AM<br/>
         Max Outside Humidity: 96% at 10:11:48 AM<br/>
         Min Inside Humidity: 63% at 12:05:40 AM<br/>
@@ -107,7 +107,7 @@
       ]]></content:encoded>
     </item>
     <item>
-      <title>Monthly summary as of 10/03/2026 10:15:00 AM</title>
+      <title>Monthly summary as of 10/03/2026 10:35:00 AM</title>
       <link></link>
       <description>
         Min Outside Temperature: 2.1&#176;C at 10/02/2026 05:26:34 AM;
@@ -117,20 +117,20 @@
         Min Barometer: 1008.2 mbar at 10/03/2026 06:01:32 AM;
         Max Barometer: 1024.1 mbar at 10/01/2026 10:02:35 AM;
         Max Wind: 18 knots from 292&#176; at 10/01/2026 02:16:55 PM;
-        Rain: 24.6 mm;
+        Rain: 24.8 mm;
         Max Rain Rate: 12.6 mm/h;
         Min Wind Chill: 2.1&#176;C at 10/02/2026 05:26:34 AM;
         Max Wind Chill: 20.3&#176;C at 10/02/2026 03:50:33 PM;
         Min Heat Index: 2.1&#176;C at 10/02/2026 05:26:34 AM;
         Max Heat Index: 19.6&#176;C at 10/02/2026 03:51:00 PM;
         Min Dew Point: 1.5&#176;C at 10/02/2026 05:55:00 AM;
-        Max Dew Point: 11.0&#176;C at 10/03/2026 10:11:48 AM;
+        Max Dew Point: 11.1&#176;C at 10/03/2026 10:34:59 AM;
         Min Outside Humidity: 45% at 10/02/2026 03:53:56 PM;
         Max Outside Humidity: 97% at 10/02/2026 06:16:53 AM;
         Min Inside Humidity: 52% at 10/02/2026 04:45:56 PM;
         Max Inside Humidity: 75% at 10/03/2026 09:40:32 AM;
       </description>
-      <pubDate>Sat, 03 Oct 2026 10:15:00 -03</pubDate>
+      <pubDate>Sat, 03 Oct 2026 10:35:00 -03</pubDate>
       <geo:lat>-34.68247396567271</geo:lat>
       <geo:long>-59.033162742123125</geo:long>
       <content:encoded><![CDATA[
@@ -143,14 +143,14 @@
         Min Barometer: 1008.2 mbar at 10/03/2026 06:01:32 AM<br/>
         Max Barometer: 1024.1 mbar at 10/01/2026 10:02:35 AM<br/>
         Max Wind: 18 knots from 292&#176; at 10/01/2026 02:16:55 PM<br/>
-        Rain: 24.6 mm<br/>
+        Rain: 24.8 mm<br/>
         Max Rain Rate: 12.6 mm/h<br/>
         Min Wind Chill: 2.1&#176;C at 10/02/2026 05:26:34 AM<br/>
         Max Wind Chill: 20.3&#176;C at 10/02/2026 03:50:33 PM<br/>
         Min Heat Index: 2.1&#176;C at 10/02/2026 05:26:34 AM<br/>
         Max Heat Index: 19.6&#176;C at 10/02/2026 03:51:00 PM<br/>
         Min Dew Point: 1.5&#176;C at 10/02/2026 05:55:00 AM<br/>
-        Max Dew Point: 11.0&#176;C at 10/03/2026 10:11:48 AM<br/>
+        Max Dew Point: 11.1&#176;C at 10/03/2026 10:34:59 AM<br/>
         Min Outside Humidity: 45% at 10/02/2026 03:53:56 PM<br/>
         Max Outside Humidity: 97% at 10/02/2026 06:16:53 AM<br/>
         Min Inside Humidity: 52% at 10/02/2026 04:45:56 PM<br/>
@@ -159,7 +159,7 @@
       ]]></content:encoded>
     </item>
     <item>
-      <title>Yearly summary as of 10/03/2026 10:15:00 AM</title>
+      <title>Yearly summary as of 10/03/2026 10:35:00 AM</title>
       <link></link>
       <description>
         Min Outside Temperature: -5.0&#176;C at 07/03/2026 07:36:55 AM;
@@ -169,7 +169,7 @@
         Min Barometer: 992.3 mbar at 07/17/2026 07:19:49 AM;
         Max Barometer: 1038.3 mbar at 09/13/2026 01:25:31 AM;
         Max Wind: 38 knots from 255&#176; at 03/17/2026 12:55:35 PM;
-        Rain: 803.0 mm;
+        Rain: 803.2 mm;
         Max Rain Rate: 142.8 mm/h;
         Min Wind Chill: -7.4&#176;C at 07/03/2026 08:47:40 AM;
         Max Wind Chill: 36.3&#176;C at 03/16/2026 02:46:45 PM;
@@ -182,7 +182,7 @@
         Min Inside Humidity: 23% at 02/11/2026 04:46:15 PM;
         Max Inside Humidity: 91% at 07/31/2026 08:36:30 PM;
       </description>
-      <pubDate>Sat, 03 Oct 2026 10:15:00 -03</pubDate>
+      <pubDate>Sat, 03 Oct 2026 10:35:00 -03</pubDate>
       <geo:lat>-34.68247396567271</geo:lat>
       <geo:long>-59.033162742123125</geo:long>
       <content:encoded><![CDATA[
@@ -195,7 +195,7 @@
         Min Barometer: 992.3 mbar at 07/17/2026 07:19:49 AM<br/>
         Max Barometer: 1038.3 mbar at 09/13/2026 01:25:31 AM<br/>
         Max Wind: 38 knots from 255&#176; at 03/17/2026 12:55:35 PM<br/>
-        Rain: 803.0 mm<br/>
+        Rain: 803.2 mm<br/>
         Max Rain Rate: 142.8 mm/h<br/>
         Min Wind Chill: -7.4&#176;C at 07/03/2026 08:47:40 AM<br/>
         Max Wind Chill: 36.3&#176;C at 03/16/2026 02:46:45 PM<br/>
