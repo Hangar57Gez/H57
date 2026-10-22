@@ -10,44 +10,44 @@
     <link></link>
     <description>Current conditions, and daily, monthly, and yearly summaries</description>
     <language>"en"</language>
-    <pubDate>Wed, 21 Oct 2026 23:55:00 -03</pubDate>
+    <pubDate>Thu, 22 Oct 2026 00:15:00 -03</pubDate>
 
-    <lastBuildDate>Wed, 21 Oct 2026 23:55:00 -03</lastBuildDate>
+    <lastBuildDate>Thu, 22 Oct 2026 00:15:00 -03</lastBuildDate>
     <docs>http://blogs.law.harvard.edu/tech/rss</docs>
     <generator>weewx 5.2.0</generator>
     <ttl>5.0 minutes</ttl>
 
     <item>
-      <title>Weather Conditions at 10/21/2026 11:55:00 PM</title>
+      <title>Weather Conditions at 10/22/2026 12:15:00 AM</title>
       <link></link>
       <description>
         Outside Temperature: 14.0&#176;C;
-        Inside Temperature: 15.9&#176;C;
-        Barometer: 1018.2 mbar;
-        Wind: 3 knots from 205&#176;;
+        Inside Temperature: 15.8&#176;C;
+        Barometer: 1018.1 mbar;
+        Wind: 1 knots from 200&#176;;
         Rain: 0.0 mm;
         Rain Rate: 0.0 mm/h;
         Wind Chill: 14.0&#176;C;
         Heat Index: 13.8&#176;C;
-        Dew Point: 12.0&#176;C;
+        Dew Point: 12.1&#176;C;
         Outside Humidity: 88%;
         Inside Humidity: 72%;
       </description>
-      <pubDate>Wed, 21 Oct 2026 23:55:00 -03</pubDate>
+      <pubDate>Thu, 22 Oct 2026 00:15:00 -03</pubDate>
       <geo:lat>-34.68247396567271</geo:lat>
       <geo:long>-59.033162742123125</geo:long>
       <content:encoded><![CDATA[
       <p>
-      Time: 10/21/2026 11:55:00 PM<br/>
+      Time: 10/22/2026 12:15:00 AM<br/>
         Outside Temperature: 14.0&#176;C<br/>
-        Inside Temperature: 15.9&#176;C<br/>
-        Barometer: 1018.2 mbar<br/>
-        Wind: 3 knots from 205&#176;;
+        Inside Temperature: 15.8&#176;C<br/>
+        Barometer: 1018.1 mbar<br/>
+        Wind: 1 knots from 200&#176;;
         Rain: 0.0 mm<br/>
         Rain Rate: 0.0 mm/h<br/>
         Wind Chill: 14.0&#176;C<br/>
         Heat Index: 13.8&#176;C<br/>
-        Dew Point: 12.0&#176;C<br/>
+        Dew Point: 12.1&#176;C<br/>
         Outside Humidity: 88%<br/>
         Inside Humidity: 72%<br/>
       </p>
@@ -55,59 +55,59 @@
     </item>
 
     <item>
-      <title>Daily summary as of 10/21/2026 11:55:00 PM</title>
+      <title>Daily summary as of 10/22/2026 12:15:00 AM</title>
       <link></link>
       <description>
-        Min Outside Temperature: 13.1&#176;C at 06:31:23 AM;
-        Max Outside Temperature: 22.6&#176;C at 02:01:14 PM;
-        Min Inside Temperature: 14.9&#176;C at 06:35:00 AM;
-        Max Inside Temperature: 21.7&#176;C at 02:35:43 PM;
-        Min Barometer: 1017.0 mbar at 04:36:47 PM;
-        Max Barometer: 1021.5 mbar at 09:59:44 AM;
-        Max Wind: 16 knots from 195&#176; at 02:05:15 PM;
+        Min Outside Temperature: 14.0&#176;C at 12:00:10 AM;
+        Max Outside Temperature: 14.1&#176;C at 12:03:22 AM;
+        Min Inside Temperature: 15.8&#176;C at 12:00:31 AM;
+        Max Inside Temperature: 15.9&#176;C at 12:10:00 AM;
+        Min Barometer: 1018.0 mbar at 12:04:58 AM;
+        Max Barometer: 1018.4 mbar at 12:09:35 AM;
+        Max Wind: 6 knots from 206&#176; at 12:03:54 AM;
         Rain: 0.0 mm;
         Max Rain Rate: 0.0 mm/h;
-        Min Wind Chill: 13.1&#176;C at 06:31:23 AM;
-        Max Wind Chill: 22.6&#176;C at 02:01:14 PM;
-        Min Heat Index: 12.5&#176;C at 06:31:23 AM;
-        Max Heat Index: 22.4&#176;C at 02:01:14 PM;
-        Min Dew Point: 8.2&#176;C at 04:28:59 AM;
-        Max Dew Point: 13.8&#176;C at 02:17:15 PM;
-        Min Outside Humidity: 53% at 02:54:31 PM;
-        Max Outside Humidity: 89% at 11:48:26 PM;
-        Min Inside Humidity: 59% at 03:27:54 PM;
-        Max Inside Humidity: 72% at 11:36:47 PM;
+        Min Wind Chill: 14.0&#176;C at 12:00:10 AM;
+        Max Wind Chill: 14.1&#176;C at 12:03:22 AM;
+        Min Heat Index: 13.8&#176;C at 12:00:10 AM;
+        Max Heat Index: 13.9&#176;C at 12:10:00 AM;
+        Min Dew Point: 12.0&#176;C at 12:00:10 AM;
+        Max Dew Point: 12.2&#176;C at 12:03:22 AM;
+        Min Outside Humidity: 88% at 12:00:10 AM;
+        Max Outside Humidity: 88% at 12:00:10 AM;
+        Min Inside Humidity: 72% at 12:00:10 AM;
+        Max Inside Humidity: 72% at 12:00:10 AM;
       </description>
-      <pubDate>Wed, 21 Oct 2026 23:55:00 -03</pubDate>
+      <pubDate>Thu, 22 Oct 2026 00:15:00 -03</pubDate>
       <geo:lat>-34.68247396567271</geo:lat>
       <geo:long>-59.033162742123125</geo:long>
       <content:encoded><![CDATA[
       <p>
-      Daily summary as of 21 Oct 2026<br/>
-        Min Outside Temperature: 13.1&#176;C at 06:31:23 AM<br/>
-        Max Outside Temperature: 22.6&#176;C at 02:01:14 PM<br/>
-        Min Inside Temperature: 14.9&#176;C at 06:35:00 AM<br/>
-        Max Inside Temperature: 21.7&#176;C at 02:35:43 PM<br/>
-        Min Barometer: 1017.0 mbar at 04:36:47 PM<br/>
-        Max Barometer: 1021.5 mbar at 09:59:44 AM<br/>
-        Max Wind: 16 knots from 195&#176; at 02:05:15 PM<br/>
+      Daily summary as of 22 Oct 2026<br/>
+        Min Outside Temperature: 14.0&#176;C at 12:00:10 AM<br/>
+        Max Outside Temperature: 14.1&#176;C at 12:03:22 AM<br/>
+        Min Inside Temperature: 15.8&#176;C at 12:00:31 AM<br/>
+        Max Inside Temperature: 15.9&#176;C at 12:10:00 AM<br/>
+        Min Barometer: 1018.0 mbar at 12:04:58 AM<br/>
+        Max Barometer: 1018.4 mbar at 12:09:35 AM<br/>
+        Max Wind: 6 knots from 206&#176; at 12:03:54 AM<br/>
         Rain: 0.0 mm<br/>
         Max Rain Rate: 0.0 mm/h<br/>
-        Min Wind Chill: 13.1&#176;C at 06:31:23 AM<br/>
-        Max Wind Chill: 22.6&#176;C at 02:01:14 PM<br/>
-        Min Heat Index: 12.5&#176;C at 06:31:23 AM<br/>
-        Max Heat Index: 22.4&#176;C at 02:01:14 PM<br/>
-        Min Dew Point: 8.2&#176;C at 04:28:59 AM<br/>
-        Max Dew Point: 13.8&#176;C at 02:17:15 PM<br/>
-        Min Outside Humidity: 53% at 02:54:31 PM<br/>
-        Max Outside Humidity: 89% at 11:48:26 PM<br/>
-        Min Inside Humidity: 59% at 03:27:54 PM<br/>
-        Max Inside Humidity: 72% at 11:36:47 PM<br/>
+        Min Wind Chill: 14.0&#176;C at 12:00:10 AM<br/>
+        Max Wind Chill: 14.1&#176;C at 12:03:22 AM<br/>
+        Min Heat Index: 13.8&#176;C at 12:00:10 AM<br/>
+        Max Heat Index: 13.9&#176;C at 12:10:00 AM<br/>
+        Min Dew Point: 12.0&#176;C at 12:00:10 AM<br/>
+        Max Dew Point: 12.2&#176;C at 12:03:22 AM<br/>
+        Min Outside Humidity: 88% at 12:00:10 AM<br/>
+        Max Outside Humidity: 88% at 12:00:10 AM<br/>
+        Min Inside Humidity: 72% at 12:00:10 AM<br/>
+        Max Inside Humidity: 72% at 12:00:10 AM<br/>
       </p>
       ]]></content:encoded>
     </item>
     <item>
-      <title>Monthly summary as of 10/21/2026 11:55:00 PM</title>
+      <title>Monthly summary as of 10/22/2026 12:15:00 AM</title>
       <link></link>
       <description>
         Min Outside Temperature: 2.1&#176;C at 10/02/2026 05:26:34 AM;
@@ -130,7 +130,7 @@
         Min Inside Humidity: 44% at 10/05/2026 04:50:53 PM;
         Max Inside Humidity: 87% at 10/08/2026 05:51:31 AM;
       </description>
-      <pubDate>Wed, 21 Oct 2026 23:55:00 -03</pubDate>
+      <pubDate>Thu, 22 Oct 2026 00:15:00 -03</pubDate>
       <geo:lat>-34.68247396567271</geo:lat>
       <geo:long>-59.033162742123125</geo:long>
       <content:encoded><![CDATA[
@@ -159,7 +159,7 @@
       ]]></content:encoded>
     </item>
     <item>
-      <title>Yearly summary as of 10/21/2026 11:55:00 PM</title>
+      <title>Yearly summary as of 10/22/2026 12:15:00 AM</title>
       <link></link>
       <description>
         Min Outside Temperature: -5.0&#176;C at 07/03/2026 07:36:55 AM;
@@ -182,7 +182,7 @@
         Min Inside Humidity: 23% at 02/11/2026 04:46:15 PM;
         Max Inside Humidity: 91% at 07/31/2026 08:36:30 PM;
       </description>
-      <pubDate>Wed, 21 Oct 2026 23:55:00 -03</pubDate>
+      <pubDate>Thu, 22 Oct 2026 00:15:00 -03</pubDate>
       <geo:lat>-34.68247396567271</geo:lat>
       <geo:long>-59.033162742123125</geo:long>
       <content:encoded><![CDATA[
