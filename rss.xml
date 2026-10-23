@@ -10,61 +10,61 @@
     <link></link>
     <description>Current conditions, and daily, monthly, and yearly summaries</description>
     <language>"en"</language>
-    <pubDate>Fri, 23 Oct 2026 15:55:00 -03</pubDate>
+    <pubDate>Fri, 23 Oct 2026 16:15:00 -03</pubDate>
 
-    <lastBuildDate>Fri, 23 Oct 2026 15:55:00 -03</lastBuildDate>
+    <lastBuildDate>Fri, 23 Oct 2026 16:15:00 -03</lastBuildDate>
     <docs>http://blogs.law.harvard.edu/tech/rss</docs>
     <generator>weewx 5.2.0</generator>
     <ttl>5.0 minutes</ttl>
 
     <item>
-      <title>Weather Conditions at 10/23/2026 03:55:00 PM</title>
+      <title>Weather Conditions at 10/23/2026 04:15:00 PM</title>
       <link></link>
       <description>
-        Outside Temperature: 23.3&#176;C;
-        Inside Temperature: 22.8&#176;C;
+        Outside Temperature: 22.7&#176;C;
+        Inside Temperature: 23.0&#176;C;
         Barometer: 1009.4 mbar;
-        Wind: 8 knots from 309&#176;;
+        Wind: 8 knots from 295&#176;;
         Rain: 0.0 mm;
         Rain Rate: 0.0 mm/h;
-        Wind Chill: 23.3&#176;C;
-        Heat Index: 23.4&#176;C;
-        Dew Point: 15.9&#176;C;
-        Outside Humidity: 63%;
+        Wind Chill: 22.7&#176;C;
+        Heat Index: 22.7&#176;C;
+        Dew Point: 15.7&#176;C;
+        Outside Humidity: 65%;
         Inside Humidity: 67%;
       </description>
-      <pubDate>Fri, 23 Oct 2026 15:55:00 -03</pubDate>
+      <pubDate>Fri, 23 Oct 2026 16:15:00 -03</pubDate>
       <geo:lat>-34.68247396567271</geo:lat>
       <geo:long>-59.033162742123125</geo:long>
       <content:encoded><![CDATA[
       <p>
-      Time: 10/23/2026 03:55:00 PM<br/>
-        Outside Temperature: 23.3&#176;C<br/>
-        Inside Temperature: 22.8&#176;C<br/>
+      Time: 10/23/2026 04:15:00 PM<br/>
+        Outside Temperature: 22.7&#176;C<br/>
+        Inside Temperature: 23.0&#176;C<br/>
         Barometer: 1009.4 mbar<br/>
-        Wind: 8 knots from 309&#176;;
+        Wind: 8 knots from 295&#176;;
         Rain: 0.0 mm<br/>
         Rain Rate: 0.0 mm/h<br/>
-        Wind Chill: 23.3&#176;C<br/>
-        Heat Index: 23.4&#176;C<br/>
-        Dew Point: 15.9&#176;C<br/>
-        Outside Humidity: 63%<br/>
+        Wind Chill: 22.7&#176;C<br/>
+        Heat Index: 22.7&#176;C<br/>
+        Dew Point: 15.7&#176;C<br/>
+        Outside Humidity: 65%<br/>
         Inside Humidity: 67%<br/>
       </p>
       ]]></content:encoded>
     </item>
 
     <item>
-      <title>Daily summary as of 10/23/2026 03:55:00 PM</title>
+      <title>Daily summary as of 10/23/2026 04:15:00 PM</title>
       <link></link>
       <description>
         Min Outside Temperature: 16.3&#176;C at 08:36:31 AM;
         Max Outside Temperature: 24.2&#176;C at 01:16:43 PM;
         Min Inside Temperature: 17.1&#176;C at 06:27:32 AM;
-        Max Inside Temperature: 22.9&#176;C at 03:51:31 PM;
+        Max Inside Temperature: 23.1&#176;C at 04:14:34 PM;
         Min Barometer: 1009.3 mbar at 03:46:13 PM;
         Max Barometer: 1012.8 mbar at 12:04:07 AM;
-        Max Wind: 13 knots from 348&#176; at 02:24:22 PM;
+        Max Wind: 18 knots from 037&#176; at 03:57:46 PM;
         Rain: 4.3 mm;
         Max Rain Rate: 10.8 mm/h;
         Min Wind Chill: 16.3&#176;C at 08:36:31 AM;
@@ -75,10 +75,10 @@
         Max Dew Point: 18.1&#176;C at 01:14:14 PM;
         Min Outside Humidity: 61% at 02:05:47 PM;
         Max Outside Humidity: 97% at 05:13:47 AM;
-        Min Inside Humidity: 67% at 03:48:31 PM;
+        Min Inside Humidity: 66% at 03:58:34 PM;
         Max Inside Humidity: 86% at 08:11:32 AM;
       </description>
-      <pubDate>Fri, 23 Oct 2026 15:55:00 -03</pubDate>
+      <pubDate>Fri, 23 Oct 2026 16:15:00 -03</pubDate>
       <geo:lat>-34.68247396567271</geo:lat>
       <geo:long>-59.033162742123125</geo:long>
       <content:encoded><![CDATA[
@@ -87,10 +87,10 @@
         Min Outside Temperature: 16.3&#176;C at 08:36:31 AM<br/>
         Max Outside Temperature: 24.2&#176;C at 01:16:43 PM<br/>
         Min Inside Temperature: 17.1&#176;C at 06:27:32 AM<br/>
-        Max Inside Temperature: 22.9&#176;C at 03:51:31 PM<br/>
+        Max Inside Temperature: 23.1&#176;C at 04:14:34 PM<br/>
         Min Barometer: 1009.3 mbar at 03:46:13 PM<br/>
         Max Barometer: 1012.8 mbar at 12:04:07 AM<br/>
-        Max Wind: 13 knots from 348&#176; at 02:24:22 PM<br/>
+        Max Wind: 18 knots from 037&#176; at 03:57:46 PM<br/>
         Rain: 4.3 mm<br/>
         Max Rain Rate: 10.8 mm/h<br/>
         Min Wind Chill: 16.3&#176;C at 08:36:31 AM<br/>
@@ -101,13 +101,13 @@
         Max Dew Point: 18.1&#176;C at 01:14:14 PM<br/>
         Min Outside Humidity: 61% at 02:05:47 PM<br/>
         Max Outside Humidity: 97% at 05:13:47 AM<br/>
-        Min Inside Humidity: 67% at 03:48:31 PM<br/>
+        Min Inside Humidity: 66% at 03:58:34 PM<br/>
         Max Inside Humidity: 86% at 08:11:32 AM<br/>
       </p>
       ]]></content:encoded>
     </item>
     <item>
-      <title>Monthly summary as of 10/23/2026 03:55:00 PM</title>
+      <title>Monthly summary as of 10/23/2026 04:15:00 PM</title>
       <link></link>
       <description>
         Min Outside Temperature: 2.1&#176;C at 10/02/2026 05:26:34 AM;
@@ -130,7 +130,7 @@
         Min Inside Humidity: 44% at 10/05/2026 04:50:53 PM;
         Max Inside Humidity: 87% at 10/08/2026 05:51:31 AM;
       </description>
-      <pubDate>Fri, 23 Oct 2026 15:55:00 -03</pubDate>
+      <pubDate>Fri, 23 Oct 2026 16:15:00 -03</pubDate>
       <geo:lat>-34.68247396567271</geo:lat>
       <geo:long>-59.033162742123125</geo:long>
       <content:encoded><![CDATA[
@@ -159,7 +159,7 @@
       ]]></content:encoded>
     </item>
     <item>
-      <title>Yearly summary as of 10/23/2026 03:55:00 PM</title>
+      <title>Yearly summary as of 10/23/2026 04:15:00 PM</title>
       <link></link>
       <description>
         Min Outside Temperature: -5.0&#176;C at 07/03/2026 07:36:55 AM;
@@ -182,7 +182,7 @@
         Min Inside Humidity: 23% at 02/11/2026 04:46:15 PM;
         Max Inside Humidity: 91% at 07/31/2026 08:36:30 PM;
       </description>
-      <pubDate>Fri, 23 Oct 2026 15:55:00 -03</pubDate>
+      <pubDate>Fri, 23 Oct 2026 16:15:00 -03</pubDate>
       <geo:lat>-34.68247396567271</geo:lat>
       <geo:long>-59.033162742123125</geo:long>
       <content:encoded><![CDATA[
