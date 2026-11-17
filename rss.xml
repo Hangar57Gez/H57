@@ -10,62 +10,62 @@
     <link></link>
     <description>Current conditions, and daily, monthly, and yearly summaries</description>
     <language>"en"</language>
-    <pubDate>Tue, 17 Nov 2026 01:35:00 -03</pubDate>
+    <pubDate>Tue, 17 Nov 2026 01:55:00 -03</pubDate>
 
-    <lastBuildDate>Tue, 17 Nov 2026 01:35:00 -03</lastBuildDate>
+    <lastBuildDate>Tue, 17 Nov 2026 01:55:00 -03</lastBuildDate>
     <docs>http://blogs.law.harvard.edu/tech/rss</docs>
     <generator>weewx 5.2.0</generator>
     <ttl>5.0 minutes</ttl>
 
     <item>
-      <title>Weather Conditions at 11/17/2026 01:35:00 AM</title>
+      <title>Weather Conditions at 11/17/2026 01:55:00 AM</title>
       <link></link>
       <description>
-        Outside Temperature: 18.1&#176;C;
-        Inside Temperature: 21.6&#176;C;
+        Outside Temperature: 17.9&#176;C;
+        Inside Temperature: 21.5&#176;C;
         Barometer: 1005.4 mbar;
-        Wind: 6 knots from 325&#176;;
-        Rain: 1.1 mm;
-        Rain Rate: 28.9 mm/h;
-        Wind Chill: 18.1&#176;C;
-        Heat Index: 18.5&#176;C;
+        Wind: 6 knots from 009&#176;;
+        Rain: 0.3 mm;
+        Rain Rate: 4.6 mm/h;
+        Wind Chill: 17.9&#176;C;
+        Heat Index: 18.3&#176;C;
         Dew Point: 17.3&#176;C;
-        Outside Humidity: 95%;
+        Outside Humidity: 96%;
         Inside Humidity: 75%;
       </description>
-      <pubDate>Tue, 17 Nov 2026 01:35:00 -03</pubDate>
+      <pubDate>Tue, 17 Nov 2026 01:55:00 -03</pubDate>
       <geo:lat>-34.68247396567271</geo:lat>
       <geo:long>-59.033162742123125</geo:long>
       <content:encoded><![CDATA[
       <p>
-      Time: 11/17/2026 01:35:00 AM<br/>
-        Outside Temperature: 18.1&#176;C<br/>
-        Inside Temperature: 21.6&#176;C<br/>
+      Time: 11/17/2026 01:55:00 AM<br/>
+        Outside Temperature: 17.9&#176;C<br/>
+        Inside Temperature: 21.5&#176;C<br/>
         Barometer: 1005.4 mbar<br/>
-        Wind: 6 knots from 325&#176;;
-        Rain: 1.1 mm<br/>
-        Rain Rate: 28.9 mm/h<br/>
-        Wind Chill: 18.1&#176;C<br/>
-        Heat Index: 18.5&#176;C<br/>
+        Wind: 6 knots from 009&#176;;
+        Rain: 0.3 mm<br/>
+        Rain Rate: 4.6 mm/h<br/>
+        Wind Chill: 17.9&#176;C<br/>
+        Heat Index: 18.3&#176;C<br/>
         Dew Point: 17.3&#176;C<br/>
-        Outside Humidity: 95%<br/>
+        Outside Humidity: 96%<br/>
         Inside Humidity: 75%<br/>
       </p>
       ]]></content:encoded>
     </item>
 
     <item>
-      <title>Daily summary as of 11/17/2026 01:35:00 AM</title>
+      <title>Daily summary as of 11/17/2026 01:55:00 AM</title>
       <link></link>
       <description>
         Min Outside Temperature: 17.9&#176;C at 01:20:11 AM;
         Max Outside Temperature: 21.5&#176;C at 12:45:00 AM;
-        Min Inside Temperature: 21.6&#176;C at 01:30:00 AM;
+        Min Inside Temperature: 21.4&#176;C at 01:54:32 AM;
         Max Inside Temperature: 23.5&#176;C at 12:00:11 AM;
         Min Barometer: 1004.1 mbar at 12:38:03 AM;
         Max Barometer: 1005.8 mbar at 01:16:48 AM;
         Max Wind: 23 knots from 277&#176; at 01:06:03 AM;
-        Rain: 31.8 mm;
+        Rain: 33.3 mm;
         Max Rain Rate: 85.2 mm/h;
         Min Wind Chill: 17.9&#176;C at 01:20:11 AM;
         Max Wind Chill: 21.5&#176;C at 12:45:00 AM;
@@ -74,11 +74,11 @@
         Min Dew Point: 17.1&#176;C at 01:20:11 AM;
         Max Dew Point: 19.2&#176;C at 12:43:23 AM;
         Min Outside Humidity: 82% at 12:46:51 AM;
-        Max Outside Humidity: 95% at 01:16:27 AM;
+        Max Outside Humidity: 96% at 01:36:32 AM;
         Min Inside Humidity: 70% at 12:00:11 AM;
         Max Inside Humidity: 75% at 01:26:32 AM;
       </description>
-      <pubDate>Tue, 17 Nov 2026 01:35:00 -03</pubDate>
+      <pubDate>Tue, 17 Nov 2026 01:55:00 -03</pubDate>
       <geo:lat>-34.68247396567271</geo:lat>
       <geo:long>-59.033162742123125</geo:long>
       <content:encoded><![CDATA[
@@ -86,12 +86,12 @@
       Daily summary as of 17 Nov 2026<br/>
         Min Outside Temperature: 17.9&#176;C at 01:20:11 AM<br/>
         Max Outside Temperature: 21.5&#176;C at 12:45:00 AM<br/>
-        Min Inside Temperature: 21.6&#176;C at 01:30:00 AM<br/>
+        Min Inside Temperature: 21.4&#176;C at 01:54:32 AM<br/>
         Max Inside Temperature: 23.5&#176;C at 12:00:11 AM<br/>
         Min Barometer: 1004.1 mbar at 12:38:03 AM<br/>
         Max Barometer: 1005.8 mbar at 01:16:48 AM<br/>
         Max Wind: 23 knots from 277&#176; at 01:06:03 AM<br/>
-        Rain: 31.8 mm<br/>
+        Rain: 33.3 mm<br/>
         Max Rain Rate: 85.2 mm/h<br/>
         Min Wind Chill: 17.9&#176;C at 01:20:11 AM<br/>
         Max Wind Chill: 21.5&#176;C at 12:45:00 AM<br/>
@@ -100,14 +100,14 @@
         Min Dew Point: 17.1&#176;C at 01:20:11 AM<br/>
         Max Dew Point: 19.2&#176;C at 12:43:23 AM<br/>
         Min Outside Humidity: 82% at 12:46:51 AM<br/>
-        Max Outside Humidity: 95% at 01:16:27 AM<br/>
+        Max Outside Humidity: 96% at 01:36:32 AM<br/>
         Min Inside Humidity: 70% at 12:00:11 AM<br/>
         Max Inside Humidity: 75% at 01:26:32 AM<br/>
       </p>
       ]]></content:encoded>
     </item>
     <item>
-      <title>Monthly summary as of 11/17/2026 01:35:00 AM</title>
+      <title>Monthly summary as of 11/17/2026 01:55:00 AM</title>
       <link></link>
       <description>
         Min Outside Temperature: 2.9&#176;C at 11/08/2026 06:05:00 AM;
@@ -117,7 +117,7 @@
         Min Barometer: 1003.5 mbar at 11/16/2026 04:16:34 PM;
         Max Barometer: 1029.0 mbar at 11/08/2026 08:41:32 AM;
         Max Wind: 24 knots from 283&#176; at 11/07/2026 02:46:59 AM;
-        Rain: 55.3 mm;
+        Rain: 56.8 mm;
         Max Rain Rate: 85.2 mm/h;
         Min Wind Chill: 2.9&#176;C at 11/08/2026 06:05:00 AM;
         Max Wind Chill: 35.2&#176;C at 11/12/2026 03:01:26 PM;
@@ -130,7 +130,7 @@
         Min Inside Humidity: 40% at 11/08/2026 04:29:32 PM;
         Max Inside Humidity: 84% at 11/02/2026 03:33:32 AM;
       </description>
-      <pubDate>Tue, 17 Nov 2026 01:35:00 -03</pubDate>
+      <pubDate>Tue, 17 Nov 2026 01:55:00 -03</pubDate>
       <geo:lat>-34.68247396567271</geo:lat>
       <geo:long>-59.033162742123125</geo:long>
       <content:encoded><![CDATA[
@@ -143,7 +143,7 @@
         Min Barometer: 1003.5 mbar at 11/16/2026 04:16:34 PM<br/>
         Max Barometer: 1029.0 mbar at 11/08/2026 08:41:32 AM<br/>
         Max Wind: 24 knots from 283&#176; at 11/07/2026 02:46:59 AM<br/>
-        Rain: 55.3 mm<br/>
+        Rain: 56.8 mm<br/>
         Max Rain Rate: 85.2 mm/h<br/>
         Min Wind Chill: 2.9&#176;C at 11/08/2026 06:05:00 AM<br/>
         Max Wind Chill: 35.2&#176;C at 11/12/2026 03:01:26 PM<br/>
@@ -159,7 +159,7 @@
       ]]></content:encoded>
     </item>
     <item>
-      <title>Yearly summary as of 11/17/2026 01:35:00 AM</title>
+      <title>Yearly summary as of 11/17/2026 01:55:00 AM</title>
       <link></link>
       <description>
         Min Outside Temperature: -5.0&#176;C at 07/03/2026 07:36:55 AM;
@@ -169,7 +169,7 @@
         Min Barometer: 992.3 mbar at 07/17/2026 07:19:49 AM;
         Max Barometer: 1038.3 mbar at 09/13/2026 01:25:31 AM;
         Max Wind: 38 knots from 255&#176; at 03/17/2026 12:55:35 PM;
-        Rain: 917.4 mm;
+        Rain: 918.9 mm;
         Max Rain Rate: 142.8 mm/h;
         Min Wind Chill: -7.4&#176;C at 07/03/2026 08:47:40 AM;
         Max Wind Chill: 36.3&#176;C at 03/16/2026 02:46:45 PM;
@@ -182,7 +182,7 @@
         Min Inside Humidity: 23% at 02/11/2026 04:46:15 PM;
         Max Inside Humidity: 91% at 07/31/2026 08:36:30 PM;
       </description>
-      <pubDate>Tue, 17 Nov 2026 01:35:00 -03</pubDate>
+      <pubDate>Tue, 17 Nov 2026 01:55:00 -03</pubDate>
       <geo:lat>-34.68247396567271</geo:lat>
       <geo:long>-59.033162742123125</geo:long>
       <content:encoded><![CDATA[
@@ -195,7 +195,7 @@
         Min Barometer: 992.3 mbar at 07/17/2026 07:19:49 AM<br/>
         Max Barometer: 1038.3 mbar at 09/13/2026 01:25:31 AM<br/>
         Max Wind: 38 knots from 255&#176; at 03/17/2026 12:55:35 PM<br/>
-        Rain: 917.4 mm<br/>
+        Rain: 918.9 mm<br/>
         Max Rain Rate: 142.8 mm/h<br/>
         Min Wind Chill: -7.4&#176;C at 07/03/2026 08:47:40 AM<br/>
         Max Wind Chill: 36.3&#176;C at 03/16/2026 02:46:45 PM<br/>
